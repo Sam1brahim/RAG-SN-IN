@@ -1,7 +1,7 @@
-# src/rag_sn_in/ingestion/inspect_docling_tables.py
+# src/rag_sn_in/ingestion/inspect_docling_text.py
 """
-Extract and save every table Docling detects in a PDF, so we can manually
-judge extraction quality (real tables vs. false positives like ToC dot-leaders).
+Extract and save Docling's text output per page, so we can manually judge
+reading order, heading detection, header/footer bleed, and hyphenation issues.
 """
 
 import time
@@ -15,13 +15,15 @@ from docling.datamodel.pipeline_options import (
     AcceleratorOptions,
 )
 from docling.datamodel.base_models import InputFormat
+from docling_core.types.doc import DocItemLabel
 import logging
 
 RAW_DIR = Path("data/raw")
 PROCESSED_DIR = Path("data/processed")
-TABLES_DIR = PROCESSED_DIR / "tables"
+TEXT_DIR = PROCESSED_DIR / "text"
 
-logging.basicConfig(level=logging.INFO) 
+logging.basicConfig(level=logging.INFO)
+
 
 def get_device() -> AcceleratorDevice:
     if torch.cuda.is_available():
@@ -60,58 +62,75 @@ def main():
     print(f"Conversion time: {elapsed:.1f}s ({elapsed/60:.2f} min)")
 
     doc = result.document
-    tables = list(doc.tables) if hasattr(doc, "tables") else []
-    print(f"Tables detected: {len(tables)}")
 
-    if not tables:
-        print("No tables found — nothing to extract.")
-        return
-
-    out_dir = TABLES_DIR / test_pdf.stem
+    out_dir = TEXT_DIR / test_pdf.stem
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    index_lines = ["# Table extraction index", ""]
+    # --- 1) Full document markdown (reading-order as Docling sees it) ---
+    full_md = doc.export_to_markdown()
+    (out_dir / "_full_document.md").write_text(full_md, encoding="utf-8")
 
-    for i, table in enumerate(tables):
-        try:
-            md = table.export_to_markdown(doc)
-        except Exception as e:
-            md = f"(failed to export: {e})"
+    # --- 2) Per-page text, reconstructed from doc items + their provenance ---
+    # group text-like items by page number
+    pages: dict[int, list[tuple[str, str]]] = {}  # page_no -> [(label, text)]
 
-        # try to get page number / provenance info if available
+    for item, _level in doc.iterate_items():
+        text = getattr(item, "text", None)
+        if not text:
+            continue
+
+        label = str(getattr(item, "label", "text"))
+
         page_no = None
-        try:
-            if table.prov:
-                page_no = table.prov[0].page_no
-        except Exception:
-            pass
+        prov = getattr(item, "prov", None)
+        if prov:
+            try:
+                page_no = prov[0].page_no
+            except Exception:
+                pass
 
-        n_rows = md.count("\n") + 1
-        n_chars = len(md)
+        if page_no is None:
+            continue
 
-        fname = f"table_{i:03d}_page{page_no if page_no else 'NA'}.md"
-        (out_dir / fname).write_text(md, encoding="utf-8")
+        pages.setdefault(page_no, []).append((label, text))
 
-        # crude heuristic: flag likely-ToC tables (dot leaders, single real column)
-        is_suspect_toc = ".........." in md or "....." in md
+    print(f"Pages with text items: {len(pages)}")
 
-        flag = "⚠️ TOC-like" if is_suspect_toc else ""
+    # --- 3) Save each page as its own .md file, labels shown for inspection ---
+    index_lines = ["# Text extraction index", ""]
+
+    for page_no in sorted(pages.keys()):
+        items = pages[page_no]
+        lines = []
+        n_headings = 0
+        for label, text in items:
+            if label == str(DocItemLabel.SECTION_HEADER) or "heading" in label.lower() or "title" in label.lower():
+                n_headings += 1
+                lines.append(f"## [{label}] {text}")
+            else:
+                lines.append(f"[{label}] {text}")
+
+        page_text = "\n\n".join(lines)
+        n_chars = len(page_text)
+
+        fname = f"page_{page_no:04d}.md"
+        (out_dir / fname).write_text(page_text, encoding="utf-8")
+
         index_lines.append(
-            f"- **Table {i:03d}** | page {page_no} | {n_chars} chars | {n_rows} lines | {flag}"
+            f"- **Page {page_no:04d}** | {n_chars} chars | {len(items)} items | {n_headings} headings -> `{fname}`"
         )
-        index_lines.append(f"  -> `{fname}`")
 
     index_path = out_dir / "_index.md"
     index_path.write_text("\n".join(index_lines), encoding="utf-8")
 
-    print(f"\nSaved {len(tables)} tables to: {out_dir}")
+    print(f"\nSaved per-page text to: {out_dir}")
+    print(f"Full document markdown: {out_dir / '_full_document.md'}")
     print(f"Index file: {index_path}")
 
-    # print a quick console summary too
-    print("\n--- Quick summary ---")
-    for line in index_lines[2:]:
-        if line.startswith("- **"):
-            print(line)
+    # quick console summary
+    print("\n--- Quick summary (first 20 pages) ---")
+    for line in index_lines[2:22]:
+        print(line)
 
 
 if __name__ == "__main__":
