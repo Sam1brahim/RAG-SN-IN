@@ -41,5 +41,3 @@ htmlcov/
 .env.*
 !.env.example
 
-# secret pdf file
-data/raw/1.pdf
