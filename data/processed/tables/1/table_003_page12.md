@@ -1,0 +1,2 @@
+| vitesse   | Postes   | 6817 V140 4000 N678 360 t   | Numéro du train Indice de composition Série de référence Caractéristique Charge normale par la loc au départ de la première gare   |
+|-----------|----------|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|
