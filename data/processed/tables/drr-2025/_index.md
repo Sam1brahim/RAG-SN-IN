@@ -1,0 +1,106 @@
+# Table extraction index
+
+- **Table 000** | page 4 | 23734 chars | 47 lines | ⚠️ TOC-like
+  -> `table_000_page4.md`
+- **Table 001** | page 5 | 18949 chars | 50 lines | ⚠️ TOC-like
+  -> `table_001_page5.md`
+- **Table 002** | page 6 | 17419 chars | 52 lines | ⚠️ TOC-like
+  -> `table_002_page6.md`
+- **Table 003** | page 7 | 21093 chars | 53 lines | ⚠️ TOC-like
+  -> `table_003_page7.md`
+- **Table 004** | page 8 | 10601 chars | 38 lines | ⚠️ TOC-like
+  -> `table_004_page8.md`
+- **Table 005** | page 9 | 5103 chars | 29 lines | 
+  -> `table_005_page9.md`
+- **Table 006** | page 10 | 5935 chars | 28 lines | 
+  -> `table_006_page10.md`
+- **Table 007** | page 11 | 854 chars | 9 lines | 
+  -> `table_007_page11.md`
+- **Table 008** | page 12 | 15839 chars | 33 lines | 
+  -> `table_008_page12.md`
+- **Table 009** | page 13 | 19551 chars | 26 lines | 
+  -> `table_009_page13.md`
+- **Table 010** | page 14 | 17051 chars | 29 lines | 
+  -> `table_010_page14.md`
+- **Table 011** | page 23 | 1975 chars | 13 lines | 
+  -> `table_011_page23.md`
+- **Table 012** | page 24 | 2014 chars | 13 lines | 
+  -> `table_012_page24.md`
+- **Table 013** | page 25 | 1721 chars | 7 lines | 
+  -> `table_013_page25.md`
+- **Table 014** | page 26 | 563 chars | 6 lines | 
+  -> `table_014_page26.md`
+- **Table 015** | page 27 | 1211 chars | 6 lines | 
+  -> `table_015_page27.md`
+- **Table 016** | page 36 | 575 chars | 6 lines | 
+  -> `table_016_page36.md`
+- **Table 017** | page 36 | 575 chars | 6 lines | 
+  -> `table_017_page36.md`
+- **Table 018** | page 47 | 737 chars | 6 lines | 
+  -> `table_018_page47.md`
+- **Table 019** | page 51 | 2629 chars | 10 lines | 
+  -> `table_019_page51.md`
+- **Table 020** | page 91 | 536 chars | 3 lines | 
+  -> `table_020_page91.md`
+- **Table 021** | page 93 | 2645 chars | 6 lines | 
+  -> `table_021_page93.md`
+- **Table 022** | page 93 | 2087 chars | 4 lines | 
+  -> `table_022_page93.md`
+- **Table 023** | page 94 | 3071 chars | 4 lines | 
+  -> `table_023_page94.md`
+- **Table 024** | page 96 | 4164 chars | 7 lines | 
+  -> `table_024_page96.md`
+- **Table 025** | page 97 | 3119 chars | 4 lines | 
+  -> `table_025_page97.md`
+- **Table 026** | page 97 | 6061 chars | 7 lines | 
+  -> `table_026_page97.md`
+- **Table 027** | page 102 | 959 chars | 6 lines | 
+  -> `table_027_page102.md`
+- **Table 028** | page 105 | 2639 chars | 8 lines | 
+  -> `table_028_page105.md`
+- **Table 029** | page 108 | 9190 chars | 13 lines | 
+  -> `table_029_page108.md`
+- **Table 030** | page 109 | 5087 chars | 12 lines | 
+  -> `table_030_page109.md`
+- **Table 031** | page 110 | 1690 chars | 7 lines | 
+  -> `table_031_page110.md`
+- **Table 032** | page 120 | 5288 chars | 41 lines | 
+  -> `table_032_page120.md`
+- **Table 033** | page 121 | 1979 chars | 18 lines | 
+  -> `table_033_page121.md`
+- **Table 034** | page 133 | 3374 chars | 9 lines | 
+  -> `table_034_page133.md`
+- **Table 035** | page 139 | 7748 chars | 27 lines | 
+  -> `table_035_page139.md`
+- **Table 036** | page 141 | 1439 chars | 15 lines | 
+  -> `table_036_page141.md`
+- **Table 037** | page 147 | 3860 chars | 9 lines | 
+  -> `table_037_page147.md`
+- **Table 038** | page 150 | 248 chars | 3 lines | 
+  -> `table_038_page150.md`
+- **Table 039** | page 151 | 539 chars | 6 lines | 
+  -> `table_039_page151.md`
+- **Table 040** | page 151 | 539 chars | 6 lines | 
+  -> `table_040_page151.md`
+- **Table 041** | page 158 | 3288 chars | 11 lines | 
+  -> `table_041_page158.md`
+- **Table 042** | page 160 | 324 chars | 5 lines | 
+  -> `table_042_page160.md`
+- **Table 043** | page 161 | 3266 chars | 9 lines | 
+  -> `table_043_page161.md`
+- **Table 044** | page 162 | 4283 chars | 9 lines | 
+  -> `table_044_page162.md`
+- **Table 045** | page 163 | 7770 chars | 19 lines | 
+  -> `table_045_page163.md`
+- **Table 046** | page 171 | 6074 chars | 9 lines | 
+  -> `table_046_page171.md`
+- **Table 047** | page 178 | 2119 chars | 8 lines | 
+  -> `table_047_page178.md`
+- **Table 048** | page 201 | 2429 chars | 9 lines | 
+  -> `table_048_page201.md`
+- **Table 049** | page 202 | 536 chars | 3 lines | 
+  -> `table_049_page202.md`
+- **Table 050** | page 206 | 2647 chars | 8 lines | 
+  -> `table_050_page206.md`
+- **Table 051** | page 219 | 4108 chars | 7 lines | 
+  -> `table_051_page219.md`

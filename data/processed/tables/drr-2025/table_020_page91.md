@@ -1,0 +1,3 @@
+|              | Période A                                | Période B                              | Période C                           | Période D                             |
+|--------------|------------------------------------------|----------------------------------------|-------------------------------------|---------------------------------------|
+| Jalon limite | Deuxième vendredi du mois d' octobre A-1 | Deuxième vendredi du mois de janvier A | Deuxième vendredi du mois d'avril A | Premier vendredi du mois de juillet A |

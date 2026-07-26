@@ -1,0 +1,13 @@
+| Villes                                      | Adresse                                                                    | Site internet               |
+|---------------------------------------------|----------------------------------------------------------------------------|-----------------------------|
+| Grand port maritime de Bordeaux             | 152 Quai de Bacalan CS 41320 33 082 Bordeaux Cedex                         | www.bordeaux-port.fr        |
+| Grand port maritime de Dunkerque            | 2505 route de l'Ecluse Trystram BP 46534 59386 Dunkerque Cedex 1           | www.dunkerque-port.fr       |
+| Grand port maritime de La Rochelle          | 141 boulevard Emile Delmas BP 70394 17001 La Rochelle cedex 1              | www.larochelle.port.fr      |
+| Grand port maritime de Marseille            | 23 place de la Joliette CS 81965 13226 Marseille cedex 02                  | www.marseille-port.fr       |
+| Grand port maritime de Nantes Saint Nazaire | 18 quai Ernest Renaud BP 18609 44186 Nantes Cedex 4                        | www.nantes.port.fr          |
+| Grand port maritime de Rouen                | 34 boulevard Boisguilbert BP 4075 76022 Rouen Cedex 3                      | www.haropaport.com/fr       |
+| Grand port maritime du Havre                | Terre-Plein de la Barre 76067 Le Havre Cedex                               | www.haropaport.com/fr       |
+| Port autonome de Strasbourg                 | 1 rue du Port du Rhin CS 80407 67002 Strasbourg Cedex                      | www.strasbourg.port.fr      |
+| Port maritime de Bayonne                    | Service Exploitation du Port de Bayonne 850 Route de la Barre 40220 Tarnos | www.bayonne.port.fr         |
+| Port maritime de Sète                       | Direction Générale 1 quai Philippe Régy BP 10853 34201 Sète Cedex          | www.sete.port.fr            |
+| Ports de Paris                              | Direction Territoriale 2 quai de Grenelle 75015 Paris Cedex 15             | www.haropaport.com/fr/paris |

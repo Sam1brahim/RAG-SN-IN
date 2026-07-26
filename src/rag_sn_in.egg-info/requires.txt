@@ -1,0 +1,7 @@
+langchain-core
+langchain-openai
+qdrant-client
+pypdf
+python-dotenv
+pymupdf>=1.28.0
+docling>=2.115.0
