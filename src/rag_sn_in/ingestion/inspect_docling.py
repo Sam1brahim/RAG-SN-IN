@@ -1,7 +1,9 @@
-# src/rag_sn_in/ingestion/inspect_docling_text.py
 """
 Extract and save Docling's text output per page, so we can manually judge
 reading order, heading detection, header/footer bleed, and hyphenation issues.
+
+Now also captures tables per page (previously silently skipped, since
+TableItem doesn't expose plain `.text` like text-like items do).
 """
 
 import time
@@ -15,7 +17,7 @@ from docling.datamodel.pipeline_options import (
     AcceleratorOptions,
 )
 from docling.datamodel.base_models import InputFormat
-from docling_core.types.doc import DocItemLabel
+from docling_core.types.doc import DocItemLabel, TableItem
 import logging
 
 RAW_DIR = Path("data/raw")
@@ -24,7 +26,6 @@ TEXT_DIR = PROCESSED_DIR / "text"
 
 logging.basicConfig(level=logging.INFO)
 
-
 def get_device() -> AcceleratorDevice:
     if torch.cuda.is_available():
         print(f"CUDA available -> using GPU: {torch.cuda.get_device_name(0)}")
@@ -32,14 +33,13 @@ def get_device() -> AcceleratorDevice:
     print("CUDA NOT available -> falling back to CPU")
     return AcceleratorDevice.CPU
 
-
 def main():
     pdf_files = sorted(RAW_DIR.glob("*.pdf")) + sorted(RAW_DIR.glob("*.PDF"))
     if not pdf_files:
         print("No PDFs found in data/raw/")
         return
 
-    test_pdf = pdf_files[0]
+    test_pdf = pdf_files[1]
     print(f"Running Docling on: {test_pdf.name}\n")
 
     device = get_device()
@@ -70,11 +70,37 @@ def main():
     full_md = doc.export_to_markdown()
     (out_dir / "_full_document.md").write_text(full_md, encoding="utf-8")
 
-    # --- 2) Per-page text, reconstructed from doc items + their provenance ---
-    # group text-like items by page number
-    pages: dict[int, list[tuple[str, str]]] = {}  # page_no -> [(label, text)]
+    # --- 2) Per-page items, reconstructed from doc items + their provenance ---
+    # group items by page number; each entry is (label, text) where text is
+    # either plain text or a rendered markdown table
+    pages: dict[int, list[tuple[str, str]]] = {}
+
+    n_tables_total = 0
 
     for item, _level in doc.iterate_items():
+        # --- Handle tables explicitly, since they have no plain `.text` ---
+        if isinstance(item, TableItem):
+            prov = getattr(item, "prov", None)
+            page_no = None
+            if prov:
+                try:
+                    page_no = prov[0].page_no
+                except Exception:
+                    pass
+            if page_no is None:
+                continue
+
+            try:
+                table_md = item.export_to_markdown(doc=doc)
+            except Exception as e:
+                table_md = f"[TABLE EXPORT FAILED: {e}]"
+
+            n_tables_total += 1
+            label = str(DocItemLabel.TABLE)
+            pages.setdefault(page_no, []).append((label, table_md))
+            continue
+
+        # --- Handle everything else that has plain text ---
         text = getattr(item, "text", None)
         if not text:
             continue
@@ -94,7 +120,8 @@ def main():
 
         pages.setdefault(page_no, []).append((label, text))
 
-    print(f"Pages with text items: {len(pages)}")
+    print(f"Pages with items: {len(pages)}")
+    print(f"Tables captured: {n_tables_total}")
 
     # --- 3) Save each page as its own .md file, labels shown for inspection ---
     index_lines = ["# Text extraction index", ""]
@@ -103,8 +130,13 @@ def main():
         items = pages[page_no]
         lines = []
         n_headings = 0
+        n_tables = 0
+
         for label, text in items:
-            if label == str(DocItemLabel.SECTION_HEADER) or "heading" in label.lower() or "title" in label.lower():
+            if label == str(DocItemLabel.TABLE):
+                n_tables += 1
+                lines.append(f"### [TABLE]\n\n{text}")
+            elif label == str(DocItemLabel.SECTION_HEADER) or "heading" in label.lower() or "title" in label.lower():
                 n_headings += 1
                 lines.append(f"## [{label}] {text}")
             else:
@@ -117,7 +149,8 @@ def main():
         (out_dir / fname).write_text(page_text, encoding="utf-8")
 
         index_lines.append(
-            f"- **Page {page_no:04d}** | {n_chars} chars | {len(items)} items | {n_headings} headings -> `{fname}`"
+            f"- **Page {page_no:04d}** | {n_chars} chars | {len(items)} items | "
+            f"{n_headings} headings | {n_tables} tables -> `{fname}`"
         )
 
     index_path = out_dir / "_index.md"
@@ -131,7 +164,6 @@ def main():
     print("\n--- Quick summary (first 20 pages) ---")
     for line in index_lines[2:22]:
         print(line)
-
 
 if __name__ == "__main__":
     main()
