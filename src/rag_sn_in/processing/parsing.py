@@ -36,28 +36,26 @@ MODEL_ID = "google/embeddinggemma-300m"
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
 
 text = """
-CHAPITRE 1 INFORMATIONS GÉNÉRALES
-1.1 INTRODUCTION
-Conformément à l'article 2111-9 du code des transports, « La société SNCF Réseau a pour mission d'assurer, de façon transparente et non discriminatoire, directement ou par l'intermédiaire de filiales, conformément aux principes du service public et dans le but de promouvoir le transport ferroviaire en France dans un objectif de développement durable, d'aménagement du territoire et d'efficacité économique et sociale :
-
-1°) L'accès à l'infrastructure ferroviaire du réseau ferré national, comprenant la répartition des capacités et la tarification de cette infrastructure ;
-2°) La gestion opérationnelle des circulations sur le réseau ferré national ;
-3°) La maintenance, comprenant l'entretien et le renouvellement, de l'infrastructure du réseau ferré national ;
-4°) Le développement, l'aménagement, la cohérence et la mise en valeur du réseau ferré national ;
-5°) La gestion unifiée des gares de voyageurs, à travers une filiale dotée d'une autonomie organisationnelle, décisionnelle et financière ;
-6°) La gestion et la mise en valeur d'installations de service ;
-7°) Des missions transversales nécessaires au bon fonctionnement du système de transport ferroviaire national, au bénéfice de l'ensemble des acteurs de ce système, notamment en matière de gestion de crise et de coordination des acteurs pour la mise en accessibilité du système de transport ferroviaire national aux personnes handicapées ou à mobilité réduite ;
-
-8°) Des missions répondant aux besoins de la défense dans le cadre de la stratégie de sécurité nationale. »
-
-La transparence et la non-discrimination étant indispensables à la réalisation de l'objectif de développement du transport ferroviaire, SNCF Réseau a établi le présent document de référence du réseau (DRR) qui décrit les principes et procédures relatifs à l'utilisation de l'infrastructure ferroviaire, comme le prévoient le Code des transports et le décret n° 2003-194 du 7 mars 2003.
-
-Conformément au 7° de l'article L.2111-9 du code des transports modifié par l'article 1er de la loi n° 2018-515 du 27 juin 2018 pour un nouveau pacte ferroviaire et conformément à l'article 8.1 du décret n° 97-444 en vigueur, SNCF Réseau assure des missions de coordination des acteurs pour la mise en accessibilité du système de transport ferroviaire aux personnes en situation de handicap ou à mobilité réduite.
-
-La Direction Générale Clients et Territoires (DG C&T) est, depuis le 1er janvier 2020, dotée d'une Direction de l'accessibilité en charge de réaliser ces missions dans les conditions suivantes :
-
-1° Pour les parties prenantes du système de transport ferroviaire national, elle est l'interlocuteur de référence pour toutes questions relatives à l'accessibilité ; elle organise, en tant que de besoin, des concertations avec les associations nationales représentatives des personnes handicapées et à mobilité réduite ;
-
+1.2 OBJECTIF
+Le document de référence du réseau ferré national (DRR) contient les informations nécessaires aux entreprises ferroviaires et autres candidats qui souhaitent utiliser le réseau ferré national (RFN) pour y assurer des prestations de transport de voyageurs et de marchandises et plus généralement à toutes les parties intéressées par le transport ferroviaire.
+Tout contrat ou accord commercial conclu avec SNCF Réseau conformément auChapitre 3 - Modalités d'accès au réseau ferré national est établi selon les règles définies dans le présent document.
+1.3 ASPECTS LÉGAUX
+1.3.1 CADRE JURIDIQUE
+Le DRR est notamment basé sur les textes législatifs et réglementaires suivants :
+- Règlement n° 913/2010 du 22 septembre 2010 relatif au réseau ferroviaire européen pour un fret compétitif ;
+- Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire ;
+- Directive (UE) 2016/797 du Parlement européen et du Conseil du 11 mai 2016 relative à l'interopérabilité du système ferroviaire au sein de l'Union européenne ;
+- Directive 2012/34/UE du 21 novembre 2012 établissant un espace ferroviaire unique européen, et directive 2016/2370/UE du 14 décembre 2016 la modifiant ;
+- Code des transports, partie législative ;
+- Loi n° 2014-872 du 4 août 2014 portant réforme ferroviaire ;
+- Décret n° 97-444 du 5 mai 1997 modifié relatif aux missions et aux statuts de SNCF Réseau ;
+- Décret n° 97-446 du 5 mai 1997 modifié relatif aux redevances d’utilisation du réseau ferré national perçues au profit de SNCF Réseau ;
+- Décret n° 2003-194 du 7 mars 2003 modifié relatif à l'utilisation du réseau ferré national ;
+- Décret n° 2019-525 du 27 mai 2019 modifié relatif à la sécurité des circulations ferroviaires et à l’interopérabilité du système ferroviaire ;
+- Décret n° 2012-70 du 20 janvier 2012 relatif aux gares de voyageurs et autres infrastructures de services du réseau ferroviaire ;
+- Arrêté du 9 décembre 2021 fixant les objectifs, les méthodes, les indicateurs de sécurité et la réglementation technique de sécurité et d'interopérabilité applicables sur le réseau ferré national ;
+- Spécifications techniques d’interopérabilité (STI).
+L’ensemble des textes applicables sont consultables sur les sites www.eur-lex.europa.eu (droit européen) et www.legifrance.gouv.fr (droit français).
 """
 
 encoded = tokenizer(
