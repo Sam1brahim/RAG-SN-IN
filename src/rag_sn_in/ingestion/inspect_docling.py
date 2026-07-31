@@ -4,6 +4,8 @@ reading order, heading detection, header/footer bleed, and hyphenation issues.
 
 Now also captures tables per page (previously silently skipped, since
 TableItem doesn't expose plain `.text` like text-like items do).
+
+Runs over ALL PDFs found in data/raw/, one output subfolder per document.
 """
 
 import time
@@ -20,8 +22,10 @@ from docling.datamodel.base_models import InputFormat
 from docling_core.types.doc import DocItemLabel, TableItem
 import logging
 
-RAW_DIR = Path("data/raw")
-PROCESSED_DIR = Path("data/processed")
+# Anchor to project root regardless of current working directory
+PROJECT_ROOT = Path(__file__).resolve().parents[3]  # adjust depth as needed
+RAW_DIR = PROJECT_ROOT / "data" / "raw"
+PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 TEXT_DIR = PROCESSED_DIR / "text"
 
 logging.basicConfig(level=logging.INFO)
@@ -33,28 +37,11 @@ def get_device() -> AcceleratorDevice:
     print("CUDA NOT available -> falling back to CPU")
     return AcceleratorDevice.CPU
 
-def main():
-    pdf_files = sorted(RAW_DIR.glob("*.pdf")) + sorted(RAW_DIR.glob("*.PDF"))
-    if not pdf_files:
-        print("No PDFs found in data/raw/")
-        return
 
-    test_pdf = pdf_files[1]
-    print(f"Running Docling on: {test_pdf.name}\n")
-
-    device = get_device()
-
-    pipeline_options = PdfPipelineOptions()
-    pipeline_options.accelerator_options = AcceleratorOptions(
-        num_threads=8,
-        device=device,
-    )
-
-    converter = DocumentConverter(
-        format_options={
-            InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)
-        }
-    )
+def process_pdf(test_pdf: Path, converter: DocumentConverter) -> None:
+    print(f"\n{'='*80}")
+    print(f"Running Docling on: {test_pdf.name}")
+    print(f"{'='*80}\n")
 
     start = time.perf_counter()
     result = converter.convert(str(test_pdf))
@@ -68,11 +55,11 @@ def main():
 
     # --- 1) Full document markdown (reading-order as Docling sees it) ---
     full_md = doc.export_to_markdown()
-    (out_dir / "_full_document.md").write_text(full_md, encoding="utf-8")
+    full_md_filename = f"{test_pdf.stem}_full_document.md"
+    full_md_path = out_dir / full_md_filename
+    full_md_path.write_text(full_md, encoding="utf-8")
 
     # --- 2) Per-page items, reconstructed from doc items + their provenance ---
-    # group items by page number; each entry is (label, text) where text is
-    # either plain text or a rendered markdown table
     pages: dict[int, list[tuple[str, str]]] = {}
 
     n_tables_total = 0
@@ -156,14 +143,68 @@ def main():
     index_path = out_dir / "_index.md"
     index_path.write_text("\n".join(index_lines), encoding="utf-8")
 
-    print(f"\nSaved per-page text to: {out_dir}")
-    print(f"Full document markdown: {out_dir / '_full_document.md'}")
+    print(f"Saved per-page text to: {out_dir}")
+    print(f"Full document markdown: {full_md_path}")
     print(f"Index file: {index_path}")
 
     # quick console summary
     print("\n--- Quick summary (first 20 pages) ---")
     for line in index_lines[2:22]:
         print(line)
+
+
+def main():
+    seen = {}
+    for p in RAW_DIR.iterdir():
+        if p.is_file() and p.suffix.lower() == ".pdf":
+            seen[p.resolve()] = p
+    pdf_files = sorted(seen.values())
+
+    if not pdf_files:
+        print("No PDFs found in data/raw/")
+        return
+
+    print(f"Found {len(pdf_files)} PDF(s) in {RAW_DIR}")
+
+    device =  "cpu" #get_device()
+
+
+    pipeline_options = PdfPipelineOptions()
+    pipeline_options.accelerator_options = AcceleratorOptions(
+        num_threads=8,
+        device=device,
+    )
+
+    converter = DocumentConverter(
+        format_options={
+            InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)
+        }
+    )
+
+    n_ok = 0
+    n_failed = 0
+    failed_files: list[str] = []
+
+    overall_start = time.perf_counter()
+
+    for pdf_path in pdf_files:
+        try:
+            process_pdf(pdf_path, converter)
+            n_ok += 1
+        except Exception as e:
+            n_failed += 1
+            failed_files.append(pdf_path.name)
+            print(f"\n[FAILED] {pdf_path.name}: {e}\n")
+
+    overall_elapsed = time.perf_counter() - overall_start
+
+    print(f"\n{'='*80}")
+    print(f"DONE. {n_ok} succeeded, {n_failed} failed, "
+          f"total time {overall_elapsed:.1f}s ({overall_elapsed/60:.2f} min)")
+    if failed_files:
+        print(f"Failed files: {failed_files}")
+    print(f"{'='*80}")
+
 
 if __name__ == "__main__":
     main()
