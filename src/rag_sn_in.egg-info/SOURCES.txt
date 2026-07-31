@@ -5,4 +5,8 @@ src/rag_sn_in.egg-info/SOURCES.txt
 src/rag_sn_in.egg-info/dependency_links.txt
 src/rag_sn_in.egg-info/requires.txt
 src/rag_sn_in.egg-info/top_level.txt
+src/rag_sn_in/ingestion/inspect_docling.py
 src/rag_sn_in/ingestion/inspect_pdf.py
+src/rag_sn_in/processing/check_token_count.py
+src/rag_sn_in/processing/chunking.py
+src/rag_sn_in/processing/parsing.py

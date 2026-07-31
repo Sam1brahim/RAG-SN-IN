@@ -23,7 +23,41 @@ for separation.
 
 PSEUDO-CODE:
 
+MAX_TOKENS = 1024
+HARD_MAX_TOKENS = 1600
 
+for each document:
+    parse document into hierarchical sections
+
+    for each main_header:
+        context = [main_header]
+
+        for each subsection under main_header:
+
+            candidate = context + subsection
+            candidate_tokens = count_tokens(candidate)
+
+            if candidate_tokens <= MAX_TOKENS:
+                context.append(subsection)
+
+            else:
+                emit(context)
+
+                if tokens(subsection) <= HARD_MAX_TOKENS:
+                    context = [main_header, subsection]
+                else:
+                    smaller_parts = split_by_paragraphs_tables(subsection)
+
+                    for part in smaller_parts:
+                        if tokens(context + part) <= MAX_TOKENS:
+                            context.append(part)
+                        else:
+                            emit(context)
+                            context = [main_header, part]
+
+        if context contains content:
+            emit(context)
+            
 """
 
 MAX_TOKENS = 700 # respecting "embeddinggemma" limits

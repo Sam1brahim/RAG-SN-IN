@@ -6,7 +6,7 @@
 - **Page 0004** | 12279 chars | 3 items | 1 headings | 1 tables -> `page_0004.md`
 - **Page 0005** | 14972 chars | 1 items | 0 headings | 1 tables -> `page_0005.md`
 - **Page 0006** | 21600 chars | 1 items | 0 headings | 1 tables -> `page_0006.md`
-- **Page 0007** | 19492 chars | 1 items | 0 headings | 1 tables -> `page_0007.md`
+- **Page 0007** | 17732 chars | 1 items | 0 headings | 1 tables -> `page_0007.md`
 - **Page 0008** | 18995 chars | 1 items | 0 headings | 1 tables -> `page_0008.md`
 - **Page 0009** | 12271 chars | 1 items | 0 headings | 1 tables -> `page_0009.md`
 - **Page 0010** | 2760 chars | 2 items | 0 headings | 1 tables -> `page_0010.md`
