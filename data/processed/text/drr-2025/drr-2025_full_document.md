@@ -1,16 +1,16 @@
-## DOCUMENT DE RÉFERENCE
+<!-- page: 1 -->
 
-## DU RÉSEAU FERRÉ NATIONAL Horaire de service 2025
+## [section_header] DOCUMENT DE RÉFERENCE
+
+## [section_header] DU RÉSEAU FERRÉ NATIONAL Horaire de service 2025
 
 Version 5 du 13 décembre 2024
 
-<!-- image -->
-
 bic
 
-<!-- image -->
+<!-- page: 2 -->
 
-## GESTION DES MODIFICATIONS
+## [section_header] GESTION DES MODIFICATIONS
 
 Les différentes versions du présent document et leurs dates de publication sont indiquées ci-dessous :
 
@@ -28,11 +28,17 @@ Version 5 du 13 décembre 2024 (publication définitive contenant les redevances
 
 Les modifications sont recensées en annexe 1.1.
 
-## SOMMAIRE SIMPLIFIÉ
+<!-- page: 3 -->
+
+## [section_header] SOMMAIRE SIMPLIFIÉ
 
 CHAPITRE 1. INFORMATIONS GÉNÉRALES CHAPITRE 2. INFRASTRUCTURE CHAPITRE 3. MODALITÉS D'ACCÈS AU RÉSEAU FERRÉ NATIONAL CHAPITRE 4. ATTRIBUTION DE CAPACITÉ CHAPITRE 5. SERVICES ET TARIFICATION CHAPITRE 6. EXPLOITATION FERROVIAIRE CHAPITRE 7. INSTALLATIONS DE SERVICE
 
-## SOMMAIRE DETAILLE
+<!-- page: 4 -->
+
+## [section_header] SOMMAIRE DETAILLE
+
+### [TABLE]
 
 | LISTE DES ANNEXES DU DRR 2025 ............................................................................................ 9   | LISTE DES ANNEXES DU DRR 2025 ............................................................................................ 9                                                                                                                       | LISTE DES ANNEXES DU DRR 2025 ............................................................................................ 9   |
 |--------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -81,6 +87,10 @@ CHAPITRE 1. INFORMATIONS GÉNÉRALES CHAPITRE 2. INFRASTRUCTURE CHAPITRE 3. MODA
 | 2.4                                                                                                                            | Particularités d'exploitation .........................................................................................                                                                                                                            | 45                                                                                                                             |
 | 2.4.1                                                                                                                          | Infrastructures spécialisées ....................................................................................................                                                                                                                  | 45                                                                                                                             |
 | 2.4.2                                                                                                                          | Restrictions environnementales .............................................................................................                                                                                                                       | 45                                                                                                                             |
+
+<!-- page: 5 -->
+
+### [TABLE]
 
 | 2.4.4       | Restrictions pour les tunnels ..................................................................................................                                                                                                          | 46                                                                                                                           |
 |-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -132,6 +142,10 @@ CHAPITRE 1. INFORMATIONS GÉNÉRALES CHAPITRE 2. INFRASTRUCTURE CHAPITRE 3. MODA
 | 4.3.3       | Gestion des écarts ...............................................................................................................                                                                                                        | 106                                                                                                                          |
 | 4.3.4 4.3.5 | Critères de détournement de trafics ................................................................................... Confirmation de l'utilisation de la capacité travaux ............................................................ | 107 107                                                                                                                      |
 | 4.4         | Impacts des accords-cadres ......................................................................................                                                                                                                         | 108                                                                                                                          |
+
+<!-- page: 6 -->
+
+### [TABLE]
 
 | 4.5   | Processus d'allocation de capacités...........................................................................                                                                                                             | 108                                                                                                   |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -185,6 +199,10 @@ CHAPITRE 1. INFORMATIONS GÉNÉRALES CHAPITRE 2. INFRASTRUCTURE CHAPITRE 3. MODA
 | 5.5   | diverses…………………………………………………………………………………………..145                                                                                                                                                                            |                                                                                                       |
 | 5.5.1 | Redevances pour les prestations connexes sur voies principales ...........................................................................                                                                                 | ....................................... 145                                                           |
 | 5.5.2 | Redevances pour les prestations diverses                                                                                                                                                                                   | 146                                                                                                   |
+
+<!-- page: 7 -->
+
+### [TABLE]
 
 | 5.6                                                                                                    | Pénalités et dispositifs incitatifs .................................................................................                                                                   | 146                                                                                                    |
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
@@ -240,6 +258,10 @@ CHAPITRE 1. INFORMATIONS GÉNÉRALES CHAPITRE 2. INFRASTRUCTURE CHAPITRE 3. MODA
 | 6.6.2 6.6.3                                                                                            | Exigences de sûreté en lien avec le séjour temporaire de wagons MD sur certains sites Contributions des EF et du gestionnaire de gares (gares & connexions) ........................... | .. 195 195                                                                                             |
 | 6.7                                                                                                    | Enquêtes Trinôme Panto incidents catenaires ...........................................................                                                                                 | 195                                                                                                    |
 
+<!-- page: 8 -->
+
+### [TABLE]
+
 | 6.7.1   | La notion d'enquête ............................................................................................................          | 195                                                                                                                          |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | 6.7.2   | Constitution d'un Trinôme Panto territorial .........................................................................                     | 195                                                                                                                          |
@@ -279,9 +301,13 @@ CHAPITRE 1. INFORMATIONS GÉNÉRALES CHAPITRE 2. INFRASTRUCTURE CHAPITRE 3. MODA
 | 7.4.1   | Prestations connexes fournies sur installations de service ..................................................                             | 227                                                                                                                          |
 | 7.4.2   | Prestations diverses fournies sur installations de service ....................................................                           | 228                                                                                                                          |
 
-## LISTE DES ANNEXES DU DRR 2025
+<!-- page: 9 -->
 
-## Liste des annexes du DRR 2025
+## [section_header] LISTE DES ANNEXES DU DRR 2025
+
+## [section_header] Liste des annexes du DRR 2025
+
+### [TABLE]
 
 | Annexe   | 1     | Gestion documentaire                                                                                                                                     |
 |----------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -313,6 +339,10 @@ CHAPITRE 1. INFORMATIONS GÉNÉRALES CHAPITRE 2. INFRASTRUCTURE CHAPITRE 3. MODA
 | Annexe   | 3.6   | Convention relative aux ouvertures supplémentaires de lignes, gares et postes                                                                            |
 | Annexe   | 3.7   | Liste des horaires validés suite à la signature des conventions d'ouvertures supplémentaires de lignes, gares et postes                                  |
 
+<!-- page: 10 -->
+
+### [TABLE]
+
 | Annexe   | 4     | Attribution de capacité                                                                                                                                                                      |
 |----------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Annexe   | 4.1   | Référentiel technique de conception horaire                                                                                                                                                  |
@@ -342,7 +372,11 @@ CHAPITRE 1. INFORMATIONS GÉNÉRALES CHAPITRE 2. INFRASTRUCTURE CHAPITRE 3. MODA
 | Annexe   | 7.6   | Liste des cours de marchandises immédiatement accessibles (7.6.1) et accessibles après diagnostic et remise en état éventuelle (7.6.2) Liste des chantiers de transport combiné (7.6.3)      |
 | Annexe   | 7.7   | Sites comportant des voies de service commercialisables (7.7.1) et sites entièrement non revendiqués (7.7.2)                                                                                 |
 
-## Tarification des installations de service
+## [section_header] Tarification des installations de service
+
+<!-- page: 11 -->
+
+### [TABLE]
 
 | Annexe   |   7.8 | Principes de la tarification des installations de service               |
 |----------|-------|-------------------------------------------------------------------------|
@@ -354,9 +388,13 @@ CHAPITRE 1. INFORMATIONS GÉNÉRALES CHAPITRE 2. INFRASTRUCTURE CHAPITRE 3. MODA
 | Annexe   |   8.1 | Document de référence de la Ligne Tours Bordeaux                        |
 | Annexe   |   8.2 | Document de Référence du Réseau Régional Occitanie (DRR RO)             |
 
-## LISTE DES SIGLES ET DEFINITIONS
+<!-- page: 12 -->
+
+## [section_header] LISTE DES SIGLES ET DEFINITIONS
 
 Liste des sigles et définitions Il est également possible de consulter le glossaire de l'association RailNetEurope (point 1.7.2), établi en anglais et en ligne sur son site  http://www.rne.eu/organisation/network-statements/.
+
+### [TABLE]
 
 | SIGLE           | SIGNIFICATION                                                       | DEFINITION                                                                                                                                                                                                                                                                                                                                                                                          |
 |-----------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -392,6 +430,10 @@ Liste des sigles et définitions Il est également possible de consulter le glos
 | CUI             | Contrat d'utilisation de l'infrastructure                           | Contrat d'utilisation de l'infrastructure                                                                                                                                                                                                                                                                                                                                                           |
 | TEPE            | Transport exceptionnel particulièrement encombrant                  | Transport exceptionnel particulièrement encombrant                                                                                                                                                                                                                                                                                                                                                  |
 
+<!-- page: 13 -->
+
+### [TABLE]
+
 | SIGLE                   | SIGNIFICATION                                        | DEFINITION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |-------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | INFRASTRUCTURE          | INFRASTRUCTURE                                       | INFRASTRUCTURE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -418,6 +460,10 @@ Liste des sigles et définitions Il est également possible de consulter le glos
 | -                       | Ordonnancement                                       | L'ordonnancement consiste d'abord à positionner dans un calendrier annuel les travaux à réaliser en adéquation avec la capacité de production et ses moyens associés (budget, main d'  uvre, capacité d'infrastructure, engins, matières et achat). Dans un 2e temps, l'ordonnancement en termes de capacités d'infrastructure consiste à positionner sur un horaire de service donné les besoins d'interception et de LTV de l'ensemble des travaux sur un secteur géographique donné. Les travaux sont ordonnancés à la semaine ou à la journée sur la base d'un cadrage de fenêtres travaux, ce qui permet ensuite de dater les fenêtres travaux et d'éditer le PGF en fin d'année A-2 |
 | PGF                     | Programme Général des Fenêtres travaux               | Programme Général des Fenêtres travaux                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | -                       | Rectificatif                                         | Un rectificatif correspond à une date à laquelle une mise à jour des données horaires, pour une période calendaire de l'horaire de service en cours, est envoyée aux services en charge de la circulation, et une édition rectificative des tableaux horaires est réalisée. Ces données et                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+<!-- page: 14 -->
+
+### [TABLE]
 
 | SIGLE                               | SIGNIFICATION                                                                      | DEFINITION                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |-------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -451,18 +497,25 @@ Liste des sigles et définitions Il est également possible de consulter le glos
 
 RNE fournit ce glossaire à titre informatif, les définitions ne sont pas juridiquement contraignantes.
 
-## CHAPITRE 1 INFORMATIONS GÉNÉRALES
+<!-- page: 15 -->
 
-## 1.1 INTRODUCTION
+## [section_header] CHAPITRE 1 INFORMATIONS GÉNÉRALES
+
+## [section_header] 1.1 INTRODUCTION
 
 Conformément à l'article 2111-9 du code des transports, « La société SNCF Réseau a pour mission d'assurer, de façon transparente et non discriminatoire, directement ou par l'intermédiaire de filiales, conformément aux principes du service public et dans le but de promouvoir le transport ferroviaire en France  dans  un  objectif  de  développement  durable,  d'aménagement  du  territoire  et  d'efficacité économique et sociale :
 
-- 1°) L'accès  à  l'infrastructure  ferroviaire  du  réseau  ferré  national,  comprenant  la  répartition  des capacités et la tarification de cette infrastructure ;
-- 2°) La gestion opérationnelle des circulations sur le réseau ferré national ;
-- 3°) La maintenance, comprenant l'entretien et le renouvellement, de l'infrastructure du réseau ferré national ;
-- 4°) Le développement, l'aménagement, la cohérence et la mise en valeur du réseau ferré national ;
-- 5°) La  gestion  unifiée  des  gares  de  voyageurs,  à  travers  une  filiale  dotée  d'une  autonomie organisationnelle, décisionnelle et financière ;
-- 6°) La gestion et la mise en valeur d'installations de service ;
+1°) L'accès  à  l'infrastructure  ferroviaire  du  réseau  ferré  national,  comprenant  la  répartition  des capacités et la tarification de cette infrastructure ;
+
+2°) La gestion opérationnelle des circulations sur le réseau ferré national ;
+
+3°) La maintenance, comprenant l'entretien et le renouvellement, de l'infrastructure du réseau ferré national ;
+
+4°) Le développement, l'aménagement, la cohérence et la mise en valeur du réseau ferré national ;
+
+5°) La  gestion  unifiée  des  gares  de  voyageurs,  à  travers  une  filiale  dotée  d'une  autonomie organisationnelle, décisionnelle et financière ;
+
+6°) La gestion et la mise en valeur d'installations de service ;
 
 7°) Des missions transversales nécessaires au bon fonctionnement du système de transport ferroviaire national, au bénéfice de l'ensemble des acteurs de ce système, notamment en matière de gestion de crise et de coordination des acteurs pour la mise en accessibilité du système de transport ferroviaire national aux personnes handicapées ou à mobilité réduite ;
 
@@ -472,62 +525,87 @@ La  transparence  et  la  non-discrimination  étant  indispensables  à  la  r�
 
 Conformément au 7° de l'article L.2111-9 du code des transports modifié par l'article 1er de la loi n° 2018-515 du 27 juin 2018 pour un nouveau pacte ferroviaire et conformément à l'article 8.1 du décret n° 97-444 en vigueur, SNCF Réseau assure des missions de coordination des acteurs pour la mise en accessibilité du système de transport ferroviaire aux personnes en situation de handicap ou à mobilité réduite.
 
-La Direction Générale Clients et Territoires (DG C&amp;T) est, depuis le 1er janvier 2020, dotée d'une Direction de l'accessibilité en charge de réaliser ces missions dans les conditions suivantes :
+La Direction Générale Clients et Territoires (DG C&T) est, depuis le 1er janvier 2020, dotée d'une Direction de l'accessibilité en charge de réaliser ces missions dans les conditions suivantes :
 
 1° Pour les parties prenantes du système de transport ferroviaire national, elle est l'interlocuteur de référence pour toutes questions relatives à l'accessibilité ; elle organise, en tant que de besoin, des concertations avec les associations nationales représentatives des personnes handicapées et à mobilité réduite ;
 
-## CHAPITRE 1 - INFORMATIONS GENERALES
+<!-- page: 16 -->
+
+## [section_header] CHAPITRE 1 - INFORMATIONS GENERALES
 
 2° Elle contribue aux discussions relatives à l'accessibilité du système ferroviaire, notamment auprès des acteurs suivants, auxquels elle apporte son expertise :
 
-- a)  Les  instances  européennes,  notamment  pour  l'amélioration  de  la  réglementation  relative  aux personnes handicapées ou à mobilité réduite ;
-- b) L'Etat, notamment pour l'amélioration de la réglementation relative aux personnes handicapées ou à  mobilité  réduite  et  pour  le  pilotage  du  schéma  directeur  national  d'accessibilité  -  agenda d'accessibilité programmée (SDNA-Ad-AP) ;
-- c)  Les entreprises ferroviaires, notamment les entreprises de transport ferroviaire de voyageurs, les autres  candidats  mentionnés  à  l'article  L2122-11  du  code  des  transports  et  les  organisations professionnelles regroupant les entreprises de transport public ;
-- d)  Les  autorités  organisatrices  des  transports,  les  autorités  organisatrices  des  mobilités  et  leurs institutions représentatives ;
-- e)  Les  parties  prenantes  nationales  associatives  représentatives  des  personnes  handicapées  ou  à mobilité réduite.
+ Les  instances  européennes,  notamment  pour  l'amélioration  de  la  réglementation  relative  aux personnes handicapées ou à mobilité réduite ;
+
+L'Etat, notamment pour l'amélioration de la réglementation relative aux personnes handicapées ou à  mobilité  réduite  et  pour  le  pilotage  du  schéma  directeur  national  d'accessibilité  -  agenda d'accessibilité programmée (SDNA-Ad-AP) ;
+
+ Les entreprises ferroviaires, notamment les entreprises de transport ferroviaire de voyageurs, les autres  candidats  mentionnés  à  l'article  L2122-11  du  code  des  transports  et  les  organisations professionnelles regroupant les entreprises de transport public ;
+
+ Les  autorités  organisatrices  des  transports,  les  autorités  organisatrices  des  mobilités  et  leurs institutions représentatives ;
+
+ Les  parties  prenantes  nationales  associatives  représentatives  des  personnes  handicapées  ou  à mobilité réduite.
 
 3° En cas d'événements d'ampleur exceptionnelle, elle coordonne la mise en  uvre par les acteurs du réseau de transports ferroviaires des mesures nécessaires pour assurer l'accessibilité de ces transports aux personnes handicapées ou à mobilité réduite.
 
 Les modalités d'exercice de ces missions se traduisent notamment par l'organisation, par la Direction de l'Accessibilité, des instances suivantes de coordination et de concertation à titre gratuit :
 
--  Le Conseil Consultatif Pour l'Accessibilité, réunissant 2 fois par an en assemblée plénière SNCF Réseau, SNCF Gares &amp; Connexions, les Entreprises Ferroviaires de voyageurs clientes de SNCF Réseau et les associations nationales représentatives des personnes handicapées ou à mobilité réduite.
--  Les Commissions Techniques Accessibilité, réunissant 8 fois par an ces mêmes acteurs pour des réunions de travail où chaque acteur du système ferroviaire peut présenter aux associations ses projets (équipements, services, offre commerciale, projet de recherche, développement digitaux…)  ayant  une  dimension  accessibilité  importante,  et  permettant  ainsi  de  s'assurer d'être  en  phase  avec  les  besoins  spécifiques  des  personnes  handicapées  et/ou  à  mobilité réduite.
--  Le Comité des opérateurs du réseau (COOPERE) dédié à l'accessibilité, réunissant a minima 1 fois par an SNCF Réseau, SNCF Gares &amp; Connexions, les entreprises ferroviaires clientes de SNCF Réseau, les AOT et AOM, l'Etat et autres partenaires institutionnels.
+ Le Conseil Consultatif Pour l'Accessibilité, réunissant 2 fois par an en assemblée plénière SNCF Réseau, SNCF Gares & Connexions, les Entreprises Ferroviaires de voyageurs clientes de SNCF Réseau et les associations nationales représentatives des personnes handicapées ou à mobilité réduite.
+
+ Les Commissions Techniques Accessibilité, réunissant 8 fois par an ces mêmes acteurs pour des réunions de travail où chaque acteur du système ferroviaire peut présenter aux associations ses projets (équipements, services, offre commerciale, projet de recherche, développement digitaux…)  ayant  une  dimension  accessibilité  importante,  et  permettant  ainsi  de  s'assurer d'être  en  phase  avec  les  besoins  spécifiques  des  personnes  handicapées  et/ou  à  mobilité réduite.
+
+ Le Comité des opérateurs du réseau (COOPERE) dédié à l'accessibilité, réunissant a minima 1 fois par an SNCF Réseau, SNCF Gares & Connexions, les entreprises ferroviaires clientes de SNCF Réseau, les AOT et AOM, l'Etat et autres partenaires institutionnels.
 
 En complément, la Direction de l'Accessibilité propose deux prestations payantes décrites dans le catalogue des services de la Direction Générale Clients et Territoires :
 
--  formation à la gestion des personnes à mobilité réduite dans l'exploitation ferroviaire ;
--  l'accessibilité PMR à l'offre ferroviaire : conseil et expertise.
+ formation à la gestion des personnes à mobilité réduite dans l'exploitation ferroviaire ;
 
-## 1.2 OBJECTIF
+ l'accessibilité PMR à l'offre ferroviaire : conseil et expertise.
+
+<!-- page: 17 -->
+
+## [section_header] 1.2 OBJECTIF
 
 Le document de référence du réseau ferré national (DRR) contient les informations nécessaires aux entreprises ferroviaires et autres candidats qui souhaitent utiliser le réseau ferré national (RFN) pour y assurer des prestations de transport de voyageurs et de marchandises et plus généralement à toutes les parties intéressées par le transport ferroviaire.
 
 Tout  contrat  ou  accord  commercial  conclu  avec  SNCF  Réseau  conformément  au  Chapitre  3  Modalités  d'accès  au  réseau  ferré  national  est  établi  selon  les  règles  définies  dans  le  présent document.
 
-## 1.3 ASPECTS LÉGAUX
+## [section_header] 1.3 ASPECTS LÉGAUX
 
-## 1.3.1 CADRE JURIDIQUE
+## [section_header] 1.3.1 CADRE JURIDIQUE
 
 Le DRR est notamment basé sur les textes législatifs et réglementaires suivants :
 
-- -Règlement n° 913/2010 du 22 septembre 2010 relatif au réseau ferroviaire européen pour un fret compétitif ;
-- -Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire ;
-- -Directive (UE) 2016/797 du Parlement européen et du Conseil du 11 mai 2016 relative à l'interopérabilité du système ferroviaire au sein de l'Union européenne ;
-- -Directive  2012/34/UE  du  21  novembre  2012 établissant un espace ferroviaire unique européen, et directive 2016/2370/UE du 14 décembre 2016 la modifiant ;
-- -Code des transports, partie législative ;
-- [-Loi n° 2014-872 du 4 août 2014 portant réforme ferroviaire ;](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000029330511/)
-- -Décret  n°  97-444  du  5  mai  1997  modifié  relatif  aux  missions  et  aux  statuts  de  SNCF Réseau ;
-- -Décret n° 97-446 du 5 mai 1997 modifié relatif aux redevances d'utilisation du réseau ferré national perçues au profit de SNCF Réseau ;
-- -Décret n° 2003-194 du 7 mars 2003 modifié relatif à l'utilisation du réseau ferré national ;
-- -Décret  n°  2019-525  du  27  mai  2019  modifié  relatif  à  la  sécurité  des  circulations ferroviaires et à l'interopérabilité du système ferroviaire ;
-- -Décret  n°  2012-70  du  20  janvier  2012  relatif  aux  gares  de  voyageurs  et  autres infrastructures de services du réseau ferroviaire ;
-- -Arrêté du 9 décembre 2021 fixant les objectifs, les méthodes, les indicateurs de sécurité et la réglementation technique de sécurité et d'interopérabilité applicables sur le réseau ferré national ;
-- -Spécifications techniques d'interopérabilité (STI).
+-Règlement n° 913/2010 du 22 septembre 2010 relatif au réseau ferroviaire européen pour un fret compétitif ;
+
+-Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire ;
+
+-Directive (UE) 2016/797 du Parlement européen et du Conseil du 11 mai 2016 relative à l'interopérabilité du système ferroviaire au sein de l'Union européenne ;
+
+-Directive  2012/34/UE  du  21  novembre  2012 établissant un espace ferroviaire unique européen, et directive 2016/2370/UE du 14 décembre 2016 la modifiant ;
+
+-Code des transports, partie législative ;
+
+-Loi n° 2014-872 du 4 août 2014 portant réforme ferroviaire ;
+
+-Décret  n°  97-444  du  5  mai  1997  modifié  relatif  aux  missions  et  aux  statuts  de  SNCF Réseau ;
+
+-Décret n° 97-446 du 5 mai 1997 modifié relatif aux redevances d'utilisation du réseau ferré national perçues au profit de SNCF Réseau ;
+
+-Décret n° 2003-194 du 7 mars 2003 modifié relatif à l'utilisation du réseau ferré national ;
+
+-Décret  n°  2019-525  du  27  mai  2019  modifié  relatif  à  la  sécurité  des  circulations ferroviaires et à l'interopérabilité du système ferroviaire ;
+
+-Décret  n°  2012-70  du  20  janvier  2012  relatif  aux  gares  de  voyageurs  et  autres infrastructures de services du réseau ferroviaire ;
+
+-Arrêté du 9 décembre 2021 fixant les objectifs, les méthodes, les indicateurs de sécurité et la réglementation technique de sécurité et d'interopérabilité applicables sur le réseau ferré national ;
+
+-Spécifications techniques d'interopérabilité (STI).
 
 L'ensemble  des  textes  applicables  sont  consultables  sur  les  sites  www.eur-lex.europa.eu  (droit européen) et www.legifrance.gouv.fr (droit français).
 
-## 1.3.2 STATUT LÉGAL ET RESPONSABILITE
+<!-- page: 18 -->
+
+## [section_header] 1.3.2 STATUT LÉGAL ET RESPONSABILITE
 
 Le présent document contient une description des éléments essentiels du réseau ferré national et de son utilisation, arrêtés à la date de sa publication.
 
@@ -539,11 +617,11 @@ SNCF Réseau invite également le lecteur à signaler toute erreur présente dan
 
 Par ailleurs, SNCF Réseau ne peut se porter garant du contenu des sites internet de tiers auxquels le DRR renvoie. Si SNCF Réseau est informé de toute violation de droits touchant un de ces sites, il s'engage à supprimer les liens établis vers ces derniers.
 
-## 1.3.3 PROCÉDURE DE RECOURS
+## [section_header] 1.3.3 PROCÉDURE DE RECOURS
 
 Un recours peut être déposé par tout candidat, tout gestionnaire d'infrastructure ou tout exploitant d'installation  de  service  devant l'Autorité de régulation des transports (ART) dès lors qu'il  s'estime victime d'un traitement inéquitable, d'une discrimination ou tout autre préjudice lié à l'accès au réseau ferroviaire conformément aux dispositions de l'article L1263-2 du Code des transports.
 
-## 1.4 STRUCTURE DU DOCUMENT DE RÉFÉRENCE DU RESEAU
+## [section_header] 1.4 STRUCTURE DU DOCUMENT DE RÉFÉRENCE DU RESEAU
 
 Le  présent  document  suit  la  « structure  commune du  DRR  »,  élaborée  par  les  gestionnaires d'infrastructures européens appartenant à l'association RailNetEurope sur la base de la réglementation en vigueur. Celle-ci est réexaminée annuellement, la version la plus récente étant accessible sur le site de RailNetEurope.
 
@@ -551,28 +629,35 @@ Le but de cette structure commune est que tout candidat ou autre partie intéres
 
 Le DRR est structuré en 7 chapitres constituant le document principal, associé à des annexes donnant plus de détails :
 
-- -le Chapitre 1. Informations générales donne des informations générales sur le DRR et les contacts utiles ;
-- -le Chapitre 2. Infrastructure décrit les principales caractéristiques techniques et fonctionnelles du réseau ;
-- -le Chapitre 3. Modalités d'accès au réseau ferré national définit les modalités d'accès au réseau ferré national ;
-- -le Chapitre 4. Attribution de capacité fixe la procédure d'attribution des capacités ;
-- -le Chapitre 5. Services et tarification concerne la tarification et la facturation des services ainsi que les dispositifs incitatifs ;
+-le Chapitre 1. Informations générales donne des informations générales sur le DRR et les contacts utiles ;
 
-- -le  Chapitre  6.  Exploitation  ferroviaire définit toutes les règles relatives à l'exploitation ferroviaire comprenant la gestion opérationnelle des circulations ;
-- -le  Chapitre  7.  Installations  de  service  décrit  les  installations  de  services  et  services associés fournis par SNCF Réseau et les autres exploitants d'installations de service.
+-le Chapitre 2. Infrastructure décrit les principales caractéristiques techniques et fonctionnelles du réseau ;
+
+-le Chapitre 3. Modalités d'accès au réseau ferré national définit les modalités d'accès au réseau ferré national ;
+
+-le Chapitre 4. Attribution de capacité fixe la procédure d'attribution des capacités ;
+
+-le Chapitre 5. Services et tarification concerne la tarification et la facturation des services ainsi que les dispositifs incitatifs ;
+
+<!-- page: 19 -->
+
+-le  Chapitre  6.  Exploitation  ferroviaire définit toutes les règles relatives à l'exploitation ferroviaire comprenant la gestion opérationnelle des circulations ;
+
+-le  Chapitre  7.  Installations  de  service  décrit  les  installations  de  services  et  services associés fournis par SNCF Réseau et les autres exploitants d'installations de service.
 
 Le DRR est complété ou précisé par des « documents techniques », cités au fil du texte et repris dans l'annexe 1.2.
 
 Par ailleurs, la Charte du réseau, élaborée par le comité des opérateurs du réseau (COOPERE), en vertu de l'article L.2100-4 du Code des transports, établit des règles opérationnelles de bonne conduite, dans le respect des règles relatives à l'utilisation du réseau ferré national, notamment des documents de référence.
 
-## 1.5 PÉRIODE DE VALIDITE ET PROCEDURE DE MISE À JOUR
+## [section_header] 1.5 PÉRIODE DE VALIDITE ET PROCEDURE DE MISE À JOUR
 
-## 1.5.1 PÉRIODE DE VALIDITÉ
+## [section_header] 1.5.1 PÉRIODE DE VALIDITÉ
 
 Le  DRR  s'applique  aux  demandes  de  capacité  et  aux  circulations  de  l'horaire  de  service  2025  qui débute le 15 décembre 2024 à 00h00 et se termine le 13 décembre 2025 à 24h00.
 
 A  l'exception  des  dispositions  relatives  à  la  tarification  des  prestations  minimales  ainsi  que  celles relatives à la tarification de l'usage des installations de service et aux prestations régulées qui y sont fournies qui deviennent exécutoires après avis conforme de l'Autorité de régulation des transports (ART), le présent document prend effet dès sa publication.
 
-## 1.5.2 PROCÉDURE DE MISE À JOUR
+## [section_header] 1.5.2 PROCÉDURE DE MISE À JOUR
 
 Le DRR peut faire l'objet de mises à jour régulières par SNCF Réseau. Ces mises à jour entrent en vigueur après que SNCF Réseau les a rendues publiques par tout moyen approprié.
 
@@ -586,25 +671,29 @@ Il  est précisé que les textes législatifs ou réglementaires adoptés après
 
 Par ailleurs, les documents qui ont un caractère contraignant en raison de leur nature (décret n° 2019525 du 27 mai 2019) ou parce qu'ils sont cités dans le présent document, font l'objet d'une procédure d'élaboration / mise à jour distincte de celle du DRR. Pour les autres types de documents, le processus d'élaboration et de mise à jour correspondant sont listés dans l'annexe 1.2.
 
+<!-- page: 20 -->
+
 NOTA : Pour les documents qui ne sont pas cités dans la liste de l'annexe 1.2 mais auxquels il est fait référence dans le présent DRR, les informations qu'ils contiennent ne sont pas à considérer comme faisant partie intégrante du DRR.
 
-## 1.5.3 PUBLICATION
+## [section_header] 1.5.3 PUBLICATION
 
 Le DRR est établi en français et publié par SNCF Réseau en français et en anglais sur le site internet de SNCF  Réseau,  où  il  est  téléchargeable  gratuitement.  En  cas  de  divergence  ou  de  difficulté d'interprétation des différentes versions, seule la version en français fait foi.
 
 Les  documents  cités  dans  le  DRR,  et  repris  dans  l'annexe  1.2  sont  publiés,  soit  sur  la  page « Documents techniques cités dans le DRR » accessible sur le site internet de SNCF Réseau, soit sur l'Espace clients accessible via le site internet de SNCF Réseau en cliquant sur « Extranet clients pros ».
 
-## 1.6 CONTACTS
+## [section_header] 1.6 CONTACTS
 
-## 1.6.1 CONTACTS COMMERCIAUX (SIEGE)
+## [section_header] 1.6.1 CONTACTS COMMERCIAUX (SIEGE)
 
-## ● Le guichet unique
+## [section_header] ● Le guichet unique
 
 Les candidats ne disposant pas de chargé de compte attitré et qui souhaiteraient démarrer une activité ferroviaire en France et obtenir des précisions ou des informations complémentaires sur les modalités d'accès au réseau peuvent s'adresser à SNCF Réseau (Direction commerciale) via le guichet unique qui transmettra au(x) service(s) concerné(s) de SNCF Réseau pour prise en charge de la demande :
 
-- -Par courriel : guichetunique@reseau.sncf.fr
-- -par téléphone : +33 (0) 9 80 98 03 29
-- -par courrier à l'adresse postale :
+-Par courriel : guichetunique@reseau.sncf.fr
+
+-par téléphone : +33 (0) 9 80 98 03 29
+
+-par courrier à l'adresse postale :
 
 SNCF Réseau - Direction Générale Clients et Territoires Direction Commerciale - Guichet Unique 12, rue Jean-Philippe RAMEAU CS 80001
 
@@ -612,60 +701,69 @@ SNCF Réseau - Direction Générale Clients et Territoires Direction Commerciale
 
 Les  clients  utilisant  déjà  le  réseau  ferré  national  pour  fournir  des  services  ferroviaires  s'adressent principalement au chargé de compte qui leur a été attribué, au sein de la direction commerciale, et plus  particulièrement  des  départements  grands  comptes  voyageurs  et  fret  dont  les  missions  sont décrites au point 4.1.4. Leurs coordonnées peuvent être demandées au guichet unique.
 
-## ● La plateforme de services aux entreprises ferroviaires
+## [section_header] ● La plateforme de services aux entreprises ferroviaires
 
 Les clients souhaitant contractualiser ou souhaitant des informations sur l'accès aux installations de service  (cours  de  marchandises  et  chantiers  de  transport  combiné  mentionnés  au  Chapitre  7  Installations de service, services mentionnés au  Chapitre 7), gérées par la plateforme de services aux entreprises ferroviaires (PSEF) de SNCF Réseau, peuvent la contacter :
 
-- -Par courriel :  services.psef@sncf.fr
-- -par téléphone : +33 (0) 9 80 98 03 29
-- [-via le site internet :www.psef.sncf-reseau.fr](http://www.psef.sncf-reseau.fr/)
-- -par courrier à l'adresse postale :
+-Par courriel :  services.psef@sncf.fr
+
+-par téléphone : +33 (0) 9 80 98 03 29
+
+-via le site internet :www.psef.sncf-reseau.fr
+
+-par courrier à l'adresse postale :
+
+<!-- page: 21 -->
 
 SNCF Réseau - Direction Générale Clients et Territoires Plateforme de services aux entreprises ferroviaires 12, rue Jean-Philippe RAMEAU CS 80001 93212 LA PLAINE SAINT DENIS Cedex
 
-## ● Le document de référence du réseau
+## [section_header] ● Le document de référence du réseau
 
 Pour des questions ou remarques spécifiques au présent DRR, merci de contacter SNCF Réseau par courriel à l'adresse  observations.drr@reseau.sncf.fr.
 
-## ● Les systèmes d'information (SI)
+## [section_header] ● Les systèmes d'information (SI)
 
 Pour  des  questions  d'accès  aux  services  de  systèmes  d'information  de  SNCF  Réseau,  merci  de contacter le support de l'Espace clients.
 
-## ● Les services de communications ferroviaires (TEL)
+## [section_header] ● Les services de communications ferroviaires (TEL)
 
 Toutes les demandes concernant les services de communications ferroviaires, y compris de liaisons avec les trains ou téléphonie de pleine voie, doivent être adressées par les entreprises ferroviaires, qu'elles disposent ou non de terminaux :
 
-- -À leur chargé de compte à la Direction commerciale si elles en ont un ;
+-À leur chargé de compte à la Direction commerciale si elles en ont un ;
 
 ou à défaut :
 
-- -Au guichet unique par courriel, à l'adresse guichetunique@reseau.sncf.fr, qui transmettra au(x) service(s) concerné(s) de SNCF Réseau pour prise en charge de la demande.
+-Au guichet unique par courriel, à l'adresse guichetunique@reseau.sncf.fr, qui transmettra au(x) service(s) concerné(s) de SNCF Réseau pour prise en charge de la demande.
 
 Les demandes seront ensuite relayées (après validation de la légitimité de la demande de l'entreprise ferroviaire à accéder aux services de communications ferroviaires de SNCF Réseau) aux guichets et interlocuteurs  télécom  en  responsabilité,  qui  sont  chargés  de  cadrer  le  besoin  fonctionnel  et  de proposer la solution la plus appropriée pour y répondre.
 
 Les demandeurs seront également accompagnés dans le déploiement et la mise en exploitation de la solution retenue.
 
-## 1.6.2 CONTACTS COMMERCIAUX (EN REGION)
+## [section_header] 1.6.2 CONTACTS COMMERCIAUX (EN REGION)
 
 SNCF Réseau est localement organisé en dix directions territoriales et une direction générale Ile-deFrance, au sein desquelles les pôles clients et services sont vos interlocuteurs commerciaux.
 
 Leurs coordonnées sont consultables sur le site internet de  SNCF Réseau rubrique « Vos contacts commerciaux ».
 
-## 1.6.3 AUTRES GESTIONNAIRES D'INFRASTRUCTURES DU RFN
+## [section_header] 1.6.3 AUTRES GESTIONNAIRES D'INFRASTRUCTURES DU RFN
 
-## 1.6.3.1 LISEA, gestionnaire de la ligne à grande vitesse Tours-Bordeaux
+## [section_header] 1.6.3.1 LISEA, gestionnaire de la ligne à grande vitesse Tours-Bordeaux
 
 LISEA, gestionnaire de la LGV Tours-Bordeaux (la Ligne) au titre du contrat de concession conclu avec SNCF Réseau le 16 juin 2011, est en charge d'assurer :
 
-- -la  répartition  des  capacités  de  l'infrastructure  de  la  Ligne  (sillons  /  capacités  de maintenance) ;
-- -l'exploitation de la Ligne (gestion des circulations, des situations perturbées) ;
-- -la maintenance de la Ligne (opérations d'entretien et de renouvellement de Ligne).
+-la  répartition  des  capacités  de  l'infrastructure  de  la  Ligne  (sillons  /  capacités  de maintenance) ;
+
+-l'exploitation de la Ligne (gestion des circulations, des situations perturbées) ;
+
+-la maintenance de la Ligne (opérations d'entretien et de renouvellement de Ligne).
+
+<!-- page: 22 -->
 
 L'ensemble des informations nécessaires à l'exercice des droits d'accès à la Ligne, y compris le barème fixant les redevances applicables figure en annexe 8.1 du présent document.
 
 Sans préjudice des dispositions des conditions particulières du contrat d'utilisation de l'infrastructure convenues entre SNCF Réseau et les entreprises ferroviaires utilisatrices à la fois de la Ligne et du réseau non concédé, ces dernières adressent leurs réclamations éventuelles directement à LISEA.
 
-## 1.6.3.2 ERE, gestionnaire de la ligne à grande vitesse Bretagne-Pays de la Loire
+## [section_header] 1.6.3.2 ERE, gestionnaire de la ligne à grande vitesse Bretagne-Pays de la Loire
 
 En sa qualité de titulaire du  contrat de partenariat conclu avec SNCF Réseau (contrat BPL), Eiffage Rail Express (ERE) est chargé d'assurer la conception, la construction, le fonctionnement, l'entretien, la maintenance, le renouvellement et le financement de la LGV BPL entre Connerré et Cesson-Sévigné et des raccordements au réseau existant, comprenant le projet de la Virgule de Sablé-sur-Sarthe.
 
@@ -673,7 +771,7 @@ Conformément aux termes de ce contrat, le titulaire est responsable des dommage
 
 Les  entreprises  ferroviaires  adressent  les  réclamations  ou  procédures  relatives  à  la  LGV  BPL  à SNCF Réseau  qui  se  charge  de  transmettre  au  titulaire  celles  qui  entrent  dans  son  périmètre  de responsabilité pour traitement direct avec elles.
 
-## 1.6.3.3 OC'VIA,  gestionnaire  du  Contournement  ferroviaire  de  Nîmes  et  de  Montpellier (CNM)
+## [section_header] 1.6.3.3 OC'VIA,  gestionnaire  du  Contournement  ferroviaire  de  Nîmes  et  de  Montpellier (CNM)
 
 En sa qualité de titulaire du contrat de partenariat conclu avec SNCF Réseau (contrat CNM), OC'VIA est chargé d'assurer la conception, la construction, le fonctionnement, l'entretien, la maintenance, le renouvellement et le financement du contournement ferroviaire de Nîmes et de Montpellier.
 
@@ -681,25 +779,21 @@ Conformément aux termes du contrat CNM, le titulaire est responsable des dommag
 
 Les entreprises ferroviaires adressent les réclamations ou procédures relatives au CNM à SNCF Réseau qui se charge de transmettre au titulaire celles qui entrent dans son périmètre de responsabilité pour traitement direct avec elles.
 
-## 1.6.3.4 Région  Occitanie,  gestionnaire  d'infrastructure  des  lignes  Montréjeau-Luchon  et Alès-Bessèges
+## [section_header] 1.6.3.4 Région  Occitanie,  gestionnaire  d'infrastructure  des  lignes  Montréjeau-Luchon  et Alès-Bessèges
 
 La région Occitanie est gestionnaire d'infrastructure de plein exercice de la ligne Montréjeau-Luchon depuis le 4 avril 2023. L'ensemble des informations nécessaires à l'exercice des droits d'accès à cette Ligne figure en annexe 8.2 du présent document.
 
 La  région  Occitanie  a  également  demandé  le  transfert  de  gestion  de  la  ligne  Alès-Bessèges.  Le calendrier prévisionnel prévoit que ce transfert sera effectif à l'horizon 2026.
 
-## 1.6.4 GESTIONNAIRES D'INFRASTRUCTURES DES RESEAUX LIMITROPHES AU RFN (DONT LES PORTS)
+## [section_header] 1.6.4 GESTIONNAIRES D'INFRASTRUCTURES DES RESEAUX LIMITROPHES AU RFN (DONT LES PORTS)
 
 Les réseaux ferroviaires des pays limitrophes ou d'infrastructures binationales font également l'objet de  documents  de  référence  du  réseau,  disponibles  auprès  des  gestionnaires  d'infrastructures  ou organismes de répartition de la capacité suivants et sur le site RailNetEurope.
 
-## CHAPITRE 1 - INFORMATIONS GÉNÉRALES
+<!-- page: 23 -->
 
-<!-- image -->
+## [section_header] CHAPITRE 1 - INFORMATIONS GÉNÉRALES
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
+### [TABLE]
 
 |             | Adresse et site internet                                                                                                              |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -715,9 +809,13 @@ Les réseaux ferroviaires des pays limitrophes ou d'infrastructures binationales
 | Espagne     | Adif Dirección de prestación de servicios comerciales Calle Sor Ά ngela de la Cruz 3 - 28020 Madrid www.adif.es                       |
 | LFP Perthus | Linea Figueras Perpignan Département d'Exploitation Ctra. de Llers a Hostalets GIP-5107, km 1 17730 LLERS (Girona) www.lfpperthus.com |
 
-## CHAPITRE 1 - INFORMATIONS GÉNÉRALES
+<!-- page: 24 -->
+
+## [section_header] CHAPITRE 1 - INFORMATIONS GÉNÉRALES
 
 Les  grands  ports  maritimes  ou  fluviaux  français,  et  autres  ports,  gestionnaires  de  voies  ferrées portuaires, connectées au réseau ferré national, sont les suivants.
+
+### [TABLE]
 
 | Villes                                      | Adresse                                                                    | Site internet               |
 |---------------------------------------------|----------------------------------------------------------------------------|-----------------------------|
@@ -733,13 +831,17 @@ Les  grands  ports  maritimes  ou  fluviaux  français,  et  autres  ports,  ges
 | Port maritime de Sète                       | Direction Générale 1 quai Philippe Régy BP 10853 34201 Sète Cedex          | www.sete.port.fr            |
 | Ports de Paris                              | Direction Territoriale 2 quai de Grenelle 75015 Paris Cedex 15             | www.haropaport.com/fr/paris |
 
-## 1.6.5 EXPLOITANTS DE CHANTIERS DE TRANSPORT COMBINE
+## [section_header] 1.6.5 EXPLOITANTS DE CHANTIERS DE TRANSPORT COMBINE
 
 Voir point 7.3.3.3.
 
-## 1.6.6 AUTRES ACTEURS FERROVIAIRES
+<!-- page: 25 -->
+
+## [section_header] 1.6.6 AUTRES ACTEURS FERROVIAIRES
 
 Les autres acteurs ferroviaires français sont listés ci-dessous avec leurs coordonnées :
+
+### [TABLE]
 
 | Acteurs                                                                                                     | Adresse                                                                                         | Site internet                     |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------|
@@ -749,9 +851,9 @@ Les autres acteurs ferroviaires français sont listés ci-dessous avec leurs coo
 | SNCF Gares et Connexions                                                                                    | Guichet d'accès aux Gares pour Les Entreprises Ferroviaires (GGEF) 16 avenue d'Ivry 75013 Paris | www.gares-connexions.com          |
 | Union Internationale des Chemins de fer (UIC)                                                               | 16 rue Jean Rey 75015 Paris                                                                     | www.uic.org                       |
 
-## 1.7 COOPERATION ENTRE D'INFRASTRUCTURE EUROPEENS
+## [section_header] 1.7 COOPERATION ENTRE D'INFRASTRUCTURE EUROPEENS
 
-## 1.7.1 CORRIDORS DE FRET FERROVIAIRES
+## [section_header] 1.7.1 CORRIDORS DE FRET FERROVIAIRES
 
 Le  règlement  européen  n ° 913/2010/CE  du  22  septembre  2010  relatif  au  réseau  ferroviaire européen pour un fret compétitif prévoit la création d'un réseau ferroviaire fret composé de onze corridors européens pour lesquels sont instaurées des règles de coordination internationale pour la gestion du corridor et l'attribution de capacités d'infrastructure.
 
@@ -759,7 +861,11 @@ La France est concernée par la mise en place des corridors Mer du Nord Rhin Mé
 
 GESTIONNAIRES
 
-## CHAPITRE 1 - INFORMATIONS GÉNÉRALES
+<!-- page: 26 -->
+
+## [section_header] CHAPITRE 1 - INFORMATIONS GÉNÉRALES
+
+### [TABLE]
 
 | Corridor                                 | Etats membres                                  |
 |------------------------------------------|------------------------------------------------|
@@ -768,39 +874,45 @@ GESTIONNAIRES
 | Corridor Méditerranée                    | ES, FR, IT, SI, HU, HR, UA                     |
 | Corridor Rhin-Danube                     | FR, DE, AT, SK, HU, RO, CZ, BG, HR, SK, RS, UA |
 
-<!-- image -->
-
-## ● Gouvernance des corridors fret
+## [section_header] ● Gouvernance des corridors fret
 
 Pour chaque corridor, les différentes instances de gouvernance des corridors fret sont les suivantes :
 
-- -un comité exécutif (Executive Board ExBo), constitué de représentants des Etats membres concernés, chargé notamment de définir les objectifs généraux du corridor ;
-- -un  comité  de  gestion  (Management  Board  MB),  composé  de  représentants  des gestionnaires d'infrastructure  et  organismes  de  répartition  de  la  capacité,  chargé notamment de prendre des mesures concernant l'organisation et la gestion du corridor.
+-un comité exécutif (Executive Board ExBo), constitué de représentants des Etats membres concernés, chargé notamment de définir les objectifs généraux du corridor ;
+
+-un  comité  de  gestion  (Management  Board  MB),  composé  de  représentants  des gestionnaires d'infrastructure  et  organismes  de  répartition  de  la  capacité,  chargé notamment de prendre des mesures concernant l'organisation et la gestion du corridor.
 
 Chacun des deux comités prend ses décisions par consentement mutuel de ses membres.
 
 Le  comité  de  gestion  crée  un  groupe  consultatif  composé  des  gestionnaires  et  propriétaires  des terminaux du corridor de fret (Terminal Advisory Group TAG) : ce groupe consultatif émet un avis sur toute proposition du comité de gestion qui a des conséquences directes sur les investissements et la gestion des terminaux.
 
+<!-- page: 27 -->
+
 Le comité de gestion crée un autre groupe consultatif composé des entreprises ferroviaires (Railway Undertaking Advisory Group RAG) intéressées par l'utilisation du corridor de fret. Ce groupe consultatif émet un avis sur toute proposition du comité de gestion qui a des conséquences pour les EF.
 
-## ● Conditions d'utilisation des corridors fret
+## [section_header] ● Conditions d'utilisation des corridors fret
 
 Chaque comité de gestion établit, met à jour régulièrement et publie un document d'information du corridor contenant les informations relatives aux conditions d'utilisation de l'ensemble des infrastructures du corridor de fret, telles que :
 
-- -les informations sur les conditions d'accès à l'infrastructure ferroviaire contenues dans les documents de référence des réseaux nationaux ;
-- -la  liste  et  les  caractéristiques  des  terminaux,  notamment  les  informations  relatives  aux conditions et modalités d'accès aux terminaux ;
-- -les procédures élaborées pour la gestion de la capacité sur le corridor ;
-- -le plan de mise en  uvre du corridor.
+-les informations sur les conditions d'accès à l'infrastructure ferroviaire contenues dans les documents de référence des réseaux nationaux ;
+
+-la  liste  et  les  caractéristiques  des  terminaux,  notamment  les  informations  relatives  aux conditions et modalités d'accès aux terminaux ;
+
+-les procédures élaborées pour la gestion de la capacité sur le corridor ;
+
+-le plan de mise en  uvre du corridor.
 
 Les documents d'information des corridors sont mis à disposition sur les sites internet des corridors.
 
-## ● Guichets uniques des corridors fret (C-OSS)
+## [section_header] ● Guichets uniques des corridors fret (C-OSS)
 
 Chaque  comité  de  gestion  a  créé  un  guichet  unique  (ou  C-OSS)  chargé  d'attribuer  la  capacité d'infrastructure des sillons des corridors fret afin que les candidats effectuent leurs demandes de sillons pour  un  train  de  marchandises  traversant  au  moins  une  frontière  le  long  d'un  corridor  de  fret  et obtiennent une réponse auprès d'un organe commun.
 
-## ● Contacts utiles
+## [section_header] ● Contacts utiles
 
 Toute entreprise intéressée qui souhaite obtenir des précisions ou des informations complémentaires sur les corridors fret doit s'adresser aux points de contact suivants :
+
+### [TABLE]
 
 | Corridor                                 | Nom du comité de gestion                                  | Contact et site internet                                                                       |
 |------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -809,44 +921,51 @@ Toute entreprise intéressée qui souhaite obtenir des précisions ou des inform
 | Corridor Méditerranée                    | EEIG for Mediterranean Corridor - Rail Freight Corridor 6 | Stéphane Dastot C-OSS Leader oss@railfreightcorridor6.eu https://www.medrfc.eu/                |
 | Corridor Rhin - Danube                   | RFC Rhin - Danube                                         | Bernd B Wetzel C-OSS Manager Bernd.B.Wetzel@deutschebahn.com www.rfc-rhine-danube.eu           |
 
-## ● Recours concernant les corridors et compétence des régulateurs
+## [section_header] ● Recours concernant les corridors et compétence des régulateurs
+
+<!-- page: 28 -->
 
 Tout  opérateur  qui  s'estime  victime  d'un  traitement  inéquitable,  d'une  discrimination  ou  de  tout préjudice lié à la répartition par le guichet unique des capacités de l'infrastructure sur le corridor fret peut déposer une plainte :
 
-- -Pour  le  Corridor  Mer  du  Nord  -  Méditerranée,  auprès  de  l'Institut  Luxembourgeois  de Régulation,  17  rue  du  Fossé,  2922  Luxembourg,  Luxembourg  (www./web.ilr.lu/FR/ILR ilr.public.lu) ;
-- -Pour le Corridor Atlantique, auprès de l'Autorité de Régulation des transports,11 Place des 5 Martyrs du Lycée Buffon - CS 30054 - 75675 Paris Cedex 14 (www.autorite-transports.fr) ;
-- -Pour le Corridor Méditerranée, auprès de l'Autorità di Regolazione dei Trasporti , Via Nizza 230, I-10126 Torino, Italia (www.autorita-trasporti.it);
-- -Pour le Corridor Rhin - Danube auprès de la Bundesnetzagentur,Tulpenfeld 4, 53113 Bonn (www.bundesnetzagentur.de)
+-Pour  le  Corridor  Mer  du  Nord  -  Méditerranée,  auprès  de  l'Institut  Luxembourgeois  de Régulation,  17  rue  du  Fossé,  2922  Luxembourg,  Luxembourg  (www./web.ilr.lu/FR/ILR ilr.public.lu) ;
+
+-Pour le Corridor Atlantique, auprès de l'Autorité de Régulation des transports,11 Place des 5 Martyrs du Lycée Buffon - CS 30054 - 75675 Paris Cedex 14 (www.autorite-transports.fr) ;
+
+-Pour le Corridor Méditerranée, auprès de l'Autorità di Regolazione dei Trasporti , Via Nizza 230, I-10126 Torino, Italia (www.autorita-trasporti.it);
+
+-Pour le Corridor Rhin - Danube auprès de la Bundesnetzagentur,Tulpenfeld 4, 53113 Bonn (www.bundesnetzagentur.de)
 
 Les modalités de coopération pour le traitement de ces litiges sont précisées dans les accords de coopération entre régulateurs et disponibles sur leurs sites internet.
 
-## 1.7.2 RAILNETEUROPE, AUTRE COOPERATION INTERNATIONALE
+## [section_header] 1.7.2 RAILNETEUROPE, AUTRE COOPERATION INTERNATIONALE
 
-## 1.7.2.1 RailNetEurope
+## [section_header] 1.7.2.1 RailNetEurope
 
 SNCF  Réseau  est  membre  de  RailNetEurope  (RNE),  association  composée  de  gestionnaires d'infrastructure  et  d'organismes  de  répartition  de  la  capacité.  RNE  facilite  le  commerce  ferroviaire international en développant des processus commerciaux internationaux harmonisés sous la forme de modèles, de manuels et de lignes directrices, ainsi que d'outils informatiques.
 
 De  plus  amples  informations  sont  disponibles  sur  le  site  internet  https://rne.eu/organisation/rneapproach-structure/.
 
-## 1.7.2.2 One Europe - One Service
+## [section_header] 1.7.2.2 One Europe - One Service
 
 Un réseau de guichets uniques (OSS) représente les GI pour les besoins relatifs aux services ferroviaires internationaux.  Ces  guichets  constituent  le  point  de  contact  unique  pour  l'ensemble  de  l'itinéraire international  d'un  service  ferroviaire,  pour  toutes  les  questions  relatives  à  l'accès  au  réseau,  aux demandes de sillons internationaux ainsi qu'à l'évaluation de la performance après la circulation d'un train. SNCF Réseau exploite également un OSS.
 
 La liste des contacts OSS en Europe est disponible sur le site internet https://rne.eu/organisation/ossc-oss/.
 
-## 1.7.2.3 Outils de RNE
+## [section_header] 1.7.2.3 Outils de RNE
 
-## ● Path Coordination System (PCS)
+## [section_header] ● Path Coordination System (PCS)
 
 PCS est un système international de coordination des demandes de sillons pour les candidats, les gestionnaires d'infrastructure (GI), les organismes de répartition de capacité et les corridors de fret ferroviaire (RFC). Cette application optimise la coordination internationale des sillons en garantissant l'harmonisation des offres et demandes de sillons. De plus, PCS est le seul outil permettant de publier l'offre PaP et RC contraignante et de gérer les demandes de sillons internationales sur les corridors de fret.
 
 L'accès  à  PCS  est  gratuit.  Un  compte  utilisateur  peut  être  demandé  via  le  support  RNE  PCS  : support.pcs@rne.eu.
 
-## CHAPITRE 1 - INFORMATIONS GÉNÉRALES
+<!-- page: 29 -->
+
+## [section_header] CHAPITRE 1 - INFORMATIONS GÉNÉRALES
 
 De plus amples informations sont disponibles sur le site internet https://pcs.rne.eu/.
 
-## ● Charging Information System (CIS)
+## [section_header] ● Charging Information System (CIS)
 
 CIS  est  une  application  qui  fournit  des  informations  sur  la  tarification  de  l'infrastructure  ferroviaire européenne  et  qui  permet  d'estimer  le  prix  de  l'utilisation  du  sillon  international.  Elle  intègre  les différents systèmes nationaux de calcul de redevances pour évaluer le coût d'un sillon international.
 
@@ -854,7 +973,7 @@ L'accès à CIS est gratuit, sans souscription nécessaire.
 
 De plus amples informations sont disponibles sur le site internet http://cis.rne.eu ou peuvent être demandées via le support RNE CIS : support.cis@rne.eu.
 
-## ● Train Information System (TIS)
+## [section_header] ● Train Information System (TIS)
 
 TIS est une application qui permet de suivre en temps réel les circulations de trains internationaux de fret ou de voyageurs. Les données pertinentes sont directement issues des systèmes d'information de SNCF Réseau  et  des  autres  GI  ;  elles  sont  regroupées,  pour  chaque  circulation,  de  l'origine  à  la destination du train. Un train peut ainsi faire l'objet d'un suivi transfrontalier de bout en bout.
 
@@ -864,9 +983,11 @@ L'accès  à  TIS  est  gratuit.  Un  compte  utilisateur  peut  être  demandé
 
 De plus amples informations sont disponibles sur le site internet https://tis.rne.eu/.
 
-## CHAPITRE 2 INFRASTRUCTURE
+<!-- page: 30 -->
 
-## 2.1 INTRODUCTION
+## [section_header] CHAPITRE 2 INFRASTRUCTURE
+
+## [section_header] 2.1 INTRODUCTION
 
 Ce chapitre décrit les principales caractéristiques techniques et fonctionnelles du réseau ferré national, constitué de l'ensemble des lignes ferroviaires (propriété de l'Etat) dont la gestion a été confiée à SNCF Réseau par la loi. Il a pour objet d'aider les candidats dans la planification de leurs services.
 
@@ -874,8 +995,9 @@ L'accès aux installations de service qui sont accessibles depuis ce réseau fai
 
 Les  caractéristiques  détaillées  du  réseau  sont  consultables  dans  la  documentation  d'exploitation (point 3.4.7) et via des services de système d'information (SI), accessibles après signature d'un contrat avec SNCF Réseau (annexe 3.4)
 
-- -la base de « données de l'infrastructure » permet une consultation linéaire des données ;
-- -les  systèmes  d'informations  géographiques  permettent  de  visualiser  ces  données  sur  des cartes interactives.
+-la base de « données de l'infrastructure » permet une consultation linéaire des données ;
+
+-les  systèmes  d'informations  géographiques  permettent  de  visualiser  ces  données  sur  des cartes interactives.
 
 Les cartes citées dans ce chapitre et accessibles sur le site internet de SNCF ont une valeur indicative et  donnent  une  représentation  schématique  et  à  date  de  leur  production  des  caractéristiques  et équipements des lignes du RFN.
 
@@ -885,21 +1007,27 @@ Les caractéristiques détaillées  et  la  disponibilité  de  l'infrastructure
 
 Avant  d'envisager  une  circulation  sur  une  ligne  et  pour  connaître  les  éventuelles  évolutions  de l'infrastructure, il est nécessaire de consulter la documentation d'exploitation de la ligne et de se référer aux données de l'infrastructure, notamment pour l'admission du matériel roulant (point 3.4.1).
 
-## 2.2 ÉTENDUE DU RÉSEAU FERRE NATIONAL
+## [section_header] 2.2 ÉTENDUE DU RÉSEAU FERRE NATIONAL
 
-## 2.2.1 LIMITES
+## [section_header] 2.2.1 LIMITES
 
 L'infrastructure du réseau ferré national comprend :
 
-- -Les lignes ou sections de ligne de chemin de fer de ce réseau, dont la consistance est définie par le décret n° 2002-1359, qui permettent la circulation des trains entre les différents lieux géographiques où sont situés les équipements inclus dans le réseau ferré national décrits au chapitre 3 ou reliés à ce réseau. Les lignes et sections de ligne sont, dans la suite du DRR, désignées sous le terme générique de "lignes".
-- -L'infrastructure  de  SNCF  Réseau  comprend  également  des  installations  de  service accessibles aux candidats permettant notamment d'assurer les services définis au  Chapitre 7 - Installations de service, tels que :
-- Les gares de voyageurs (point 7.2.1) ;
+-Les lignes ou sections de ligne de chemin de fer de ce réseau, dont la consistance est définie par le décret n° 2002-1359, qui permettent la circulation des trains entre les différents lieux géographiques où sont situés les équipements inclus dans le réseau ferré national décrits au chapitre 3 ou reliés à ce réseau. Les lignes et sections de ligne sont, dans la suite du DRR, désignées sous le terme générique de "lignes".
 
-## CHAPITRE 2 - INFRASTRUCTURE
+-L'infrastructure  de  SNCF  Réseau  comprend  également  des  installations  de  service accessibles aux candidats permettant notamment d'assurer les services définis au  Chapitre 7 - Installations de service, tels que :
 
-- Les terminaux de marchandises (point 7.2.2) ;
-- Les autres équipements.
-- -Une partie des lignes du réseau ferré national est restreinte à certains services (point 3.4.7).
+Les gares de voyageurs (point 7.2.1) ;
+
+<!-- page: 31 -->
+
+## [section_header] CHAPITRE 2 - INFRASTRUCTURE
+
+Les terminaux de marchandises (point 7.2.2) ;
+
+Les autres équipements.
+
+-Une partie des lignes du réseau ferré national est restreinte à certains services (point 3.4.7).
 
 La  Carte  du  réseau  ferré  national,  consultable  sur  le  site  internet  de  SNCF  Réseau,  représente l'ensemble des lignes avec leurs principales caractéristiques (type de trafic, électrifiée ou non, nombre de voies, n ° de ligne … ). Les données les plus à jour sont disponibles dans les systèmes d'informations géographiques proposés par SNCF Réseau (annexe 5.3)
 
@@ -907,21 +1035,21 @@ Certaines  lignes  ne  sont  pas  ouvertes  à  la  circulation  commerciale  et
 
 La liste des sections élémentaires (SEL), seule faisant foi, figure en annexe 5.5. Elle indique les sections du réseau ouvertes à l'exploitation commerciale et sert de base à la tarification et à la facturation.
 
-## 2.2.2 RESEAUX FERROVIAIRES CONNECTES
+## [section_header] 2.2.2 RESEAUX FERROVIAIRES CONNECTES
 
 Le réseau ferré national donne accès :
 
-- Aux réseaux ferroviaires des pays voisins de la France et aux infrastructures concédées en limite du réseau ferré national (le lien ferroviaire fixe sous la Manche, la section internationale de Perpignan à Figueras de la ligne à grande vitesse entre la France et l'Espagne)
+Aux réseaux ferroviaires des pays voisins de la France et aux infrastructures concédées en limite du réseau ferré national (le lien ferroviaire fixe sous la Manche, la section internationale de Perpignan à Figueras de la ligne à grande vitesse entre la France et l'Espagne)
 
 La liste des sections-frontières donnant accès aux réseaux ferroviaires étrangers et concédés est reprise en annexe 2.1. Les conditions d'exploitation de ces sections sont définies par des consignes locales d'exploitation (point 3.4.7).
 
-## ● Aux voies ferrées portuaires
+## [section_header] ● Aux voies ferrées portuaires
 
 Les coordonnées des grands ports maritimes français sont mentionnées au point 1.6.4.
 
 Les principes d'accès et d'attribution des capacités entre le réseau ferré national et les voies ferrées portuaires sont définis dans le présent document et sur les sites internetde chaque port concerné. L'accès aux ports autres que les grands ports maritimes est également possible dans les conditions déterminées avec ces ports. SNCF Réseau (point 1.6.1) se tient à disposition pour toute demande d'information à ce sujet.
 
-## ● Aux installations embranchées
+## [section_header] ● Aux installations embranchées
 
 La localisation des installations terminales embranchées (ITE), ensemble de biens d'équipements et d'installations de logistique ferroviaire relié directement par aiguilles aux voies du réseau ferré national, en ce qui concerne les embranchements avec les chargeurs fret et les collectivités locales, est reprise en annexe 2.2.
 
@@ -929,63 +1057,77 @@ SNCF Réseau ne permet le raccordement d'un site au réseau ferré national que 
 
 Un embranché peut avoir accès à certaines parties des voies de service et voies principales accessibles depuis son embranchement sous certaines conditions techniques et financières qui sont régies dans une convention d'utilisation des voies de service en question (point 7.4.2.4). C'est une facilité accordée par  SNCF  Réseau.  Ce  cas  ne  s'applique  pas  aux  embranchés  uvrant  en  sous-traitance  d'une entreprise  ferroviaire  qui  agissent  alors  vis-à-vis  de  SNCF  Réseau  comme  sous-traitants  d'une entreprise ferroviaire dans le cadre du contrat d'utilisation de l'infrastructure de celle-ci.
 
+<!-- page: 32 -->
+
 La seconde partie des installations embranchées, y compris les voies de service situées en dehors du domaine de propriété de SNCF Réseau, et raccordées au réseau ferré national, est gérée à l'initiative de son titulaire et sous sa responsabilité. Il lui incombe de prendre toute disposition opérationnelle utile pour en permettre l'accès ou la sortie dans la durée convenue pour le départ et la réception de ses trains, mouvements de man  uvre guidée ou non guidée.
 
 Lorsque ces installations sont mises à disposition d'un autre demandeur par leur titulaire, en particulier en application du principe juridique des facilités essentielles, il incombe au demandeur qui souhaite y accéder  de  fournir  à  SNCF  Réseau  les  heures,  dates  et  conditions  de  man  uvre  d'aiguillages auxquelles cette facilité lui est accordée par le titulaire.
 
-## 2.2.3 MODALITES DE RACCORDEMENT AU RFN
+## [section_header] 2.2.3 MODALITES DE RACCORDEMENT AU RFN
 
 Cet  article  décrit  les  modalités  techniques  qui  s'appliquent  pour  étudier  en  phase  amont  le raccordement  d'une  future  installation  ferroviaire  privative  au  réseau  ferré  national  (RFN),  pour  le compte d'un tiers demandeur.
 
-## ● Périmètre
+## [section_header] ● Périmètre
 
 Le raccordement physique au RFN d'une installation ferroviaire privative nécessite des modifications sur le réseau exploité et le plus souvent, d'extension du réseau exploité pour des raisons techniques ou de sécurité, notamment sur les types d'installations suivants :
 
-- -La voie (y compris aiguillage),
-- -La signalisation (y compris poste de signalisation),
-- -La caténaire et les équipements d'alimentation des lignes électriques,
-- -Les ouvrages (ouvrages d'art, ouvrages en terre, ouvrages hydrauliques),
-- -Les télécommunications, etc.
+-La voie (y compris aiguillage),
+
+-La signalisation (y compris poste de signalisation),
+
+-La caténaire et les équipements d'alimentation des lignes électriques,
+
+-Les ouvrages (ouvrages d'art, ouvrages en terre, ouvrages hydrauliques),
+
+-Les télécommunications, etc.
 
 Le projet du demandeur peut impacter les installations d'un autre maitre d'ouvrage (MOA) que SNCF Réseau,  soit  directement  (impacts  hors  besoins  ferroviaires),  soit  indirectement  (impacts  issus  des besoins  ferroviaires  associés).  Dans  le  premier  cas,  le  demandeur  transmettra  à  SNCF  Réseau  les éléments permettant d'évaluer les répercussions éventuelles des aménagements à venir de cet autre MOA sur les installations ferroviaires.
 
-## ● Expression de besoin - Proposition d'étude
+## [section_header] ● Expression de besoin - Proposition d'étude
 
 La demande de raccordement doit être envoyée au Département Grand Compte Voyageurs de la Direction Commerciale, à la Direction Générale Clients et Territoires.
 
 Elle doit être accompagnée de tous les éléments permettant de bien examiner le besoin de service, et a minima des documents suivants :
 
-- -Présentation du projet, avec ses hypothèses et contraintes,
-- -Justification du choix géographique de l'installation ferroviaire,
-- -Schéma de la zone de raccordement souhaitée,
-- -Schéma de l'installation ferroviaire souhaitée
-- -Nombre d'entrées/sorties,
+-Présentation du projet, avec ses hypothèses et contraintes,
 
-## CHAPITRE 2 - INFRASTRUCTURE
+-Justification du choix géographique de l'installation ferroviaire,
 
-- -Conditions d'exploitation souhaitées,
-- -Thèmes de man  uvres envisagés,
-- -Caractéristiques du matériel roulant,  notamment : équipements de signalisation, puissance électrique, charge à l'essieu, accélération/freinage, conformité à la réglementation, longueur, tonnage, type de matières transportées (matières dangereuses ou non), etc.
+-Schéma de la zone de raccordement souhaitée,
+
+-Schéma de l'installation ferroviaire souhaitée
+
+-Nombre d'entrées/sorties,
+
+<!-- page: 33 -->
+
+## [section_header] CHAPITRE 2 - INFRASTRUCTURE
+
+-Conditions d'exploitation souhaitées,
+
+-Thèmes de man  uvres envisagés,
+
+-Caractéristiques du matériel roulant,  notamment : équipements de signalisation, puissance électrique, charge à l'essieu, accélération/freinage, conformité à la réglementation, longueur, tonnage, type de matières transportées (matières dangereuses ou non), etc.
 
 Une ou plusieurs réunions de cadrage du besoin seront ensuite organisées entre le demandeur et les services  techniques  de  SNCF  Réseau  afin  de  préciser  les  besoins  du  projet  et  ses  hypothèses  et contraintes structurantes.
 
 NOTA : Les dispositions suivantes sont susceptibles de remettre en cause la faisabilité du projet du fait de leur impact en conception et/ou en phase d'exploitation/maintenance :
 
-- -Raccordement direct sur les installations d'une LGV ;
-- -Raccordement entrainant des cisaillements.
+-Raccordement direct sur les installations d'une LGV ;
+
+-Raccordement entrainant des cisaillements.
 
 Elles sont de ce fait à éviter.
 
-- Inscription du processus dans le management de projet global de SNCF Réseau
-
-<!-- image -->
+Inscription du processus dans le management de projet global de SNCF Réseau
 
 Le processus décrit s'inscrit dans le cadre du management des projets ferroviaires (cf. frise macroplanning ci-dessus) au sein de la phase « Organiser et engager le projet », qui comprend :
 
-- -Une étude de faisabilité  qui  permet  de  partager  avec  le  demandeur  ses  besoins  et  de  lui apporter  les  éléments  de  compréhension  nécessaires  sur  les  configurations  possibles  du raccordement,  ses  incidences,  les  hypothèses  structurantes  de  dimensionnement  et  les premiers ordres de grandeurs de coûts et de délais associées.
-- -Une étude préliminaire qui intègre les premières études techniques et permet de donner le cadre de la conception du projet (programme, coûts, délai).
+-Une étude de faisabilité  qui  permet  de  partager  avec  le  demandeur  ses  besoins  et  de  lui apporter  les  éléments  de  compréhension  nécessaires  sur  les  configurations  possibles  du raccordement,  ses  incidences,  les  hypothèses  structurantes  de  dimensionnement  et  les premiers ordres de grandeurs de coûts et de délais associées.
 
-## a. Étude de faisabilité
+-Une étude préliminaire qui intègre les premières études techniques et permet de donner le cadre de la conception du projet (programme, coûts, délai).
+
+## [section_header] a. Étude de faisabilité
 
 Les études de faisabilité concernent les raccordements techniques et physiques de première partie d'installation ferroviaire sur une installation existante, sans préjuger à ce stade des faisabilités d'un point de vue gestion des interfaces en phase d'exploitation/maintenance, commercial, financier, qui devront faire l'objet d'études et d'échanges complémentaires ultérieurs entre le demandeur et SNCF Réseau.
 
@@ -997,74 +1139,97 @@ La consistance de l'étude de faisabilité et les clauses contractuelles associ�
 
 Le délai de l'étude sera fonction de son étendue, de sa complexité, de la spécificité des sujets à traiter (susceptibles  de  mobiliser  des  ressources  rares),  d'autres  projets  ferroviaires  éventuellement  en interfaces et de la bonne communication par le demandeur des données d'entrée nécessaires suivant les jalons partagés dans la convention de financement.
 
+<!-- page: 34 -->
+
 L'étude portera uniquement sur le périmètre impacté du RFN et la partie du raccordement qui sera intégrée  au  RFN  à  l'issue  des  travaux  (première  partie  de  l'installation  ferroviaire).  L'étude  de  la deuxième partie de l'installation ferroviaire restera à organiser par le demandeur.
 
 Les missions complémentaires suivantes pourront éventuellement être envisagées pour compléter les éléments de décisions du demandeur :
 
-- -Accompagnement du bureau d'étude du demandeur (visites de site  organisées  par  SNCF Réseau, recueil de données d'entrée, etc.),
-- -Etudes de dimensionnement caténaire,
-- -Etudes d'exploitation (en gare).
+-Accompagnement du bureau d'étude du demandeur (visites de site  organisées  par  SNCF Réseau, recueil de données d'entrée, etc.),
+
+-Etudes de dimensionnement caténaire,
+
+-Etudes d'exploitation (en gare).
 
 Elles seront le cas échéant incorporées à la convention de financement.
 
 L'étude de faisabilité ne comprendra pas :
 
-- -D'études techniques ou de réalisation de plans,
-- -De sondages ou d'investigations,
-- -D'études de phasage de l'opération,
-- -D'état des lieux du foncier hors domaine ferroviaire,
-- -D'état des lieux exploitation (Graphique d'Occupation des Voies, impact sillons, etc.)
-- -De diagnostic sur les procédures administratives et/ou environnementales.
+-D'études techniques ou de réalisation de plans,
+
+-De sondages ou d'investigations,
+
+-D'études de phasage de l'opération,
+
+-D'état des lieux du foncier hors domaine ferroviaire,
+
+-D'état des lieux exploitation (Graphique d'Occupation des Voies, impact sillons, etc.)
+
+-De diagnostic sur les procédures administratives et/ou environnementales.
 
 Ces prestations seront à réaliser dans la phase d'études préliminaires ou dans les phases suivantes du projet.
 
-## b. Étude préliminaire et ultérieures
+## [section_header] b. Étude préliminaire et ultérieures
 
 Une fois ces premiers éléments rendus, après acceptation de la part du demandeur, le processus de management de projet décrit dans la frise ci-dessus peut être engagé selon les étapes suivantes :
 
-- -Etude préliminaire, qui permet de consolider le programme technique et fonctionnel et les coûts et délais du projet,
-- -AVP / PRO : conception du projet,
-- -REA : réalisation des travaux,
-- -Elaboration en parallèle du contrat de raccordement au RFN.
+-Etude préliminaire, qui permet de consolider le programme technique et fonctionnel et les coûts et délais du projet,
+
+-AVP / PRO : conception du projet,
+
+-REA : réalisation des travaux,
+
+-Elaboration en parallèle du contrat de raccordement au RFN.
 
 Chaque démarrage de phase ne pourra être engagé qu'avec l'accord des parties, c'est-à-dire une Convention de Financement signée.
 
-## 2.3 DESCRIPTION DU RÉSEAU
+## [section_header] 2.3 DESCRIPTION DU RÉSEAU
 
 Ce  point  résume  les  caractéristiques  essentielles  du  réseau.  Leur  répartition  géographique  est représentée  de  façon  indicative  et  schématique  dans  les  cartes  publiées,  consultables  sur  le  site internet  de  SNCF  Réseau.  Pour  connaître  les  caractéristiques  détaillées  de  chaque  ligne,  il  est nécessaire de consulter la documentation d'exploitation, notamment les consignes locales d'exploitation (point 3.4.7), la carte des lignes dégagées au gabarit GB consultable via le lien suivant : https://dgo.reseau.sncf.fr/carto-gabarits/ et la carte « Lignes à une seule voie », consultable sur le site internet de SNCF Réseau.
 
-## 2.3.1 TYPOLOGIE DES LIGNES
+<!-- page: 35 -->
+
+## [section_header] 2.3.1 TYPOLOGIE DES LIGNES
 
 Les lignes comportent soit une voie principale (ligne dite à voie unique ou à une voie banalisée), soit deux voies principales ou plus (ligne dite à double voie ou à voies banalisées). Cette typologie est disponible sur le site internet de SNCF Réseau.
 
 Les lignes peuvent également donner accès à des voies de service, des terminaux de marchandises ou d'autres équipements (Chapitre 7 - Installations de service).
 
-## 2.3.2 ÉCARTEMENT DES VOIES
+## [section_header] 2.3.2 ÉCARTEMENT DES VOIES
 
 Toutes les voies principales du réseau ferré national sont à l'écartement standard UIC de 1,435 mètres, à l'exception des lignes caractérisées par une voie métrique dite aussi « voie étroite » (lignes n° 600000 entre  Salbris  et  Valençay,  n°  669000  entre  Villefranche-Vernet-les-bains/Latour-de-Carol-Enveitg, n° 896000 entre St-Gervais-les-Bains-Le Fayet/Le Chatelard-Frontière).
 
-## 2.3.3 GARES
+## [section_header] 2.3.3 GARES
 
 La  liste  des  gares  figure  dans  le  document  de  référence  des  gares  (DRG)  en  annexe  7.10.  Les propriétés de ces gares y sont décrites.
 
-## 2.3.4 GABARIT DES VOIES
+## [section_header] 2.3.4 GABARIT DES VOIES
 
 Les convois des entreprises ferroviaires doivent respecter le gabarit le plus restrictif de l'ensemble des lignes empruntées par le convoi, selon la limite d'encombrement définie comme :
 
-- -le  gabarit  à  respecter  qui  est  déclaré  dégagé,  selon  les  itinéraires,  vis-à-vis  des  différentes installations implantées le long des voies (ouvrages d'art, abris de quais, signaux, etc.) ;
-- -la  frontière  à  ne  pas  engager  par  la  limite  d'encombrement  des  véhicules  stationnant  ou circulant sur les voies contiguës.
-- -Lorsque l'encombrement du matériel dépasse les limites définies ci-dessus sur une portion de son itinéraire et tant qu'il s'inscrit dans le « contour N », son acheminement constitue un « transport  exceptionnel  »  qui  ne  peut  être  admis  sur  le  réseau  ferré  national  que  dans  les conditions définies au point 4.7 sur les lignes du réseau utilisables à cet effet, représentées de façon  indicative  par  la  carte  « Lignes  ouvertes  aux  études  de  transports  exceptionnels » consultable  sur  le  site  internet  de  SNCF  Réseau,  à  l'exception  du  transport  combiné  s'il respecte les exigences de l'item Contrôle spécifique pour le transport combiné de l'appendice D1 de la STI OPE. Il existe en outre des transports exceptionnels particuliers dont le gabarit dépasse le « contour N ».
-- -Les  transports  exceptionnels  particulièrement  encombrants  (TEPE)  qui  doivent  faire  l'objet d'une analyse au cas par cas qui est facturée (Chapitre 7 - Installations de service) ;
-- -Les transports à l'enveloppe M et à la charge maximale admissible D4.
-- -Chaque gabarit est défini à partir d'un contour de référence cinématique qui lui est propre et après  application  de  ses  règles  associées,  conformément  aux  prescriptions  de  la  série  de normes EN15273.
+-le  gabarit  à  respecter  qui  est  déclaré  dégagé,  selon  les  itinéraires,  vis-à-vis  des  différentes installations implantées le long des voies (ouvrages d'art, abris de quais, signaux, etc.) ;
+
+-la  frontière  à  ne  pas  engager  par  la  limite  d'encombrement  des  véhicules  stationnant  ou circulant sur les voies contiguës.
+
+-Lorsque l'encombrement du matériel dépasse les limites définies ci-dessus sur une portion de son itinéraire et tant qu'il s'inscrit dans le « contour N », son acheminement constitue un « transport  exceptionnel  »  qui  ne  peut  être  admis  sur  le  réseau  ferré  national  que  dans  les conditions définies au point 4.7 sur les lignes du réseau utilisables à cet effet, représentées de façon  indicative  par  la  carte  « Lignes  ouvertes  aux  études  de  transports  exceptionnels » consultable  sur  le  site  internet  de  SNCF  Réseau,  à  l'exception  du  transport  combiné  s'il respecte les exigences de l'item Contrôle spécifique pour le transport combiné de l'appendice D1 de la STI OPE. Il existe en outre des transports exceptionnels particuliers dont le gabarit dépasse le « contour N ».
+
+-Les  transports  exceptionnels  particulièrement  encombrants  (TEPE)  qui  doivent  faire  l'objet d'une analyse au cas par cas qui est facturée (Chapitre 7 - Installations de service) ;
+
+-Les transports à l'enveloppe M et à la charge maximale admissible D4.
+
+-Chaque gabarit est défini à partir d'un contour de référence cinématique qui lui est propre et après  application  de  ses  règles  associées,  conformément  aux  prescriptions  de  la  série  de normes EN15273.
 
 L'Union internationale des chemins de fer distingue les gabarits selon une classification tenant compte de leur hiérarchie (du plus restrictif au moins restrictif) qui est reprise dans les tableaux suivants.
 
 D'une manière générale, le gabarit de référence du réseau ferré national est le gabarit GA.
 
-## CHAPITRE 2 - INFRASTRUCTURE
+<!-- page: 36 -->
 
-## ● Pour le trafic Fret :
+## [section_header] CHAPITRE 2 - INFRASTRUCTURE
+
+## [section_header] ● Pour le trafic Fret :
+
+### [TABLE]
 
 | Gabarit   | Fiche IRS   | Caractéristique                                                   |
 |-----------|-------------|-------------------------------------------------------------------|
@@ -1077,7 +1242,9 @@ Pour le trafic combiné de fret, le gabarit de l'ensemble wagon/unité de transp
 
 Les circulations au GB, bien que dépassant le gabarit GA, ne sont pas considérées comme transports exceptionnels  (point  3.4.3),  sous  réserve  du  respect  de  la  carte  des  lignes  apte  au  gabarit  GB consultable via le lien suivant : https://dgo.reseau.sncf.fr/carto-gabarits/
 
-## ● Pour le trafic Voyageur :
+## [section_header] ● Pour le trafic Voyageur :
+
+### [TABLE]
 
 | Gabarit   | Fiche IRS   | Caractéristique                                                   |
 |-----------|-------------|-------------------------------------------------------------------|
@@ -1088,16 +1255,17 @@ Les circulations au GB, bien que dépassant le gabarit GA, ne sont pas considér
 
 Les cartes 1A (fret) (gabarit limite des obstacles fret) et 1B (voyageurs) (gabarit limite des obstacles hauts voyageurs), consultables sur le site internet de SNCF Réseau, représentent de façon indicative le gabarit maximal dégagé par tronçons de lignes du réseau ferré national, par type d'activité.
 
-## 2.3.5 LIMITES DE CHARGE
+## [section_header] 2.3.5 LIMITES DE CHARGE
 
-## ● Masse maximale admise par essieu
+## [section_header] ● Masse maximale admise par essieu
 
 La classification de l'Union internationale des chemins de fer distingue la masse maximale admise par essieu et par mètre courant.
 
 Les lignes à écartement normal du réseau ferré national autorisent :
 
-- -une  masse  maximale  admise  par  essieu  de  22,5  tonnes  (catégorie  D4)  ou  20  tonnes (catégorie C4);
-- -une masse maximale admise par mètre courant de 8 tonnes/mètre.
+-une  masse  maximale  admise  par  essieu  de  22,5  tonnes  (catégorie  D4)  ou  20  tonnes (catégorie C4);
+
+-une masse maximale admise par mètre courant de 8 tonnes/mètre.
 
 La carte « Charge admissible pour le transport de fret » consultable sur le site internet de SNCF Réseau, indique le classement des voies principales des lignes du réseau ferré national.
 
@@ -1105,30 +1273,33 @@ Les voies de service sont normalement classées en catégorie C4, sauf mention p
 
 Lorsque les limites de charge sont dépassées sur une section de ligne, tout acheminement constitue un transport exceptionnel qui ne peut être admis sur le réseau ferré national que dans les conditions définies au point 3.4.3.
 
+<!-- page: 37 -->
+
 Les  contrôles  de  la  compatibilité  statique  des  véhicules  doivent  être  effectués  conformément  à  la norme EN 15528 :2021 « Applications ferroviaires - Catégories de ligne pour la gestion des interfaces entre limites de charges des véhicules et de l'infrastructure ».
 
-## ● Masse admissible pour les matériels moteurs
+## [section_header] ● Masse admissible pour les matériels moteurs
 
 L'admission  sur  une  ligne  du  réseau  ferré  national  d'un  matériel  moteur  est  aussi  fonction  de l'armement, du type de rail et éventuellement du rayon de courbure de la ligne considérée.
 
 Les lignes sont classées de 1 à 5 (groupes Demaux) :
 
-- -les lignes classées de 1 à 3 font l'objet de restrictions de circulation (tonnage et vitesse limite), notamment pour les lignes de rayon faible ;
-- -les  lignes  classées  4  à  5  sont  accessibles  sans  restriction  aux  matériels  moteurs  respectant l'arrêté du 9 décembre  2021  précité, sous réserve que  le matériel présente des caractéristiques compatibles avec les sections sur lesquelles la circulation est envisagée.
+-les lignes classées de 1 à 3 font l'objet de restrictions de circulation (tonnage et vitesse limite), notamment pour les lignes de rayon faible ;
+
+-les  lignes  classées  4  à  5  sont  accessibles  sans  restriction  aux  matériels  moteurs  respectant l'arrêté du 9 décembre  2021  précité, sous réserve que  le matériel présente des caractéristiques compatibles avec les sections sur lesquelles la circulation est envisagée.
 
 Le classement des lignes du réseau ferré national selon cet indice ainsi que les lignes équipées de rail à double champignon qui font l'objet de restrictions complémentaires est disponible dans la base de données « données d'infrastructures », consultable via l'Espace clients.
 
 SNCF Réseau fournit aux entreprises ferroviaires via le RINF ou les moyens alternatifs prévus par la réglementation européenne l'ensemble des informations nécessaires pour définir les conditions de circulation sur les lignes empruntées.
 
-## 2.3.6 DECLIVITES DES LIGNES
+## [section_header] 2.3.6 DECLIVITES DES LIGNES
 
 La  documentation  d'exploitation  (point  3.4.7)  indique  les  déclivités  caractéristiques  des  voies principales du réseau ferré national. Les schémas de signalisation indiquent les déclivités réelles et les courbes de ces voies. La documentation d'exploitation indique aussi les déclivités des voies de service.
 
-## 2.3.7 VITESSES DES LIGNES
+## [section_header] 2.3.7 VITESSES DES LIGNES
 
 La documentation d'exploitation (point 3.4.7) indique pour chaque ligne la vitesse-limite applicable pour chacune des catégories de trains admis à circuler sur cette ligne. La carte « Vitesses maximales nominales » consultable sur le site internet de SNCF Réseau, indique de façon schématique la vitesse maximale nominale autorisée par section de ligne. Des limitations temporaires ou permanentes de vitesse peuvent être appliquées sur les lignes. Les candidats en sont informés via le SI ARCTIC.
 
-## 2.3.8 LONGUEUR DES TRAINS
+## [section_header] 2.3.8 LONGUEUR DES TRAINS
 
 Les règles de longueur ainsi que de composition et charge des convois doivent être compatibles avec l'itinéraire et le sillon alloué pour chaque catégorie de circulation. Conformément aux dispositions du 2)  de  l'article  4.2.6.6.2  du  règlement  2019/773  (STI  OPE),  SNCF  Réseau  fournit  aux  EF  la documentation précisant les règles de composition et de freinage des convois.
 
@@ -1138,29 +1309,35 @@ Les compositions dépassant la longueur de 750 m sont autorisées seulement sur 
 
 Les trains MA 100, ME 100 et ME 120 peuvent atteindre la longueur de 850 m sur les parcours désignés aux RT (carte « Lignes autorisées aux trains longs de 850m » consultable sur le site internet de SNCF
 
+<!-- page: 38 -->
+
 Réseau), sous réserve du respect des « Règles générales relatives à la composition, à la remorque, au freinage, à la vitesse limite et à la masse des trains » permettant de garantir le niveau de sécurité (par exemple, par l'application de la recommandation de l'EPSF RC A-B 7a n°1 disponible sur son site, notamment celles précisées aux articles 3203.3 et 3203.4 pour les trains ME 120 et ME 100 et 4202 pour les MA 100).
 
-## 2.3.9 COURANT DE TRACTION
+## [section_header] 2.3.9 COURANT DE TRACTION
 
 Sauf exceptions locales en partie liées à des sections transfrontalières, les lignes électrifiées du réseau ferré national le sont principalement en courant continu 1 500 volts ou en courant alternatif 25000 volts 50 Hz. La répartition des types de courant est représentée de façon indicative dans la carte « Lignes électrifiées » consultable sur le site internet de SNCF Réseau.
 
 Sur certaines lignes électrifiées en caténaire 1 500 volts de type Midi situées dans le sud-ouest du réseau, la caténaire entraîne des restrictions de circulation en fonction de l'archet du pantographe (largeur de 1,96 mètres au lieu de 1,6 mètres).
 
-## 2.3.10 SYSTEME DE SIGNALISATION
+## [section_header] 2.3.10 SYSTEME DE SIGNALISATION
 
 La documentation d'exploitation indique le type de système d'exploitation et de sécurité pour chacune des lignes du réseau ferré national.
 
-## ● Mode d'espacement des trains
+## [section_header] ● Mode d'espacement des trains
 
 Les différents types de mode d'espacement des trains sur le réseau ferré national sont :
 
-- -Le bloc automatique (lumineux ou à permissivité restreinte) ou bloc manuel : ces systèmes permettent d'assurer l'espacement entre les trains en sectionnant la ligne par canton. L'entrée du canton est gérée de manière automatique (utilisation de circuits de voie ou de compteurs d'essieux pour identifier l'occupation et la libération du canton) ou manuelle (avec intervention humaine).
-- -La signalisation en cabine de type TVM (transmission voie-machine) sur les lignes à grande vitesse : afin de s'affranchir de la signalisation latérale, les lignes à grande vitesse sont équipées de TVM (300 ou 430) où les informations de signalisation sont directement retransmises en cabine.
-- -L'ETCS (European Train Control System, Système européen de contrôle des trains) est un système de commande et de contrôle des trains avec signalisation de cabine, l'ETCS se déploie en  Europe  et  en  France  avec  un  objectif  d'interopérabilité  entre  les  différents  réseaux permettant un passage aisé des frontières tout en garantissant la sécurité des circulations.
+-Le bloc automatique (lumineux ou à permissivité restreinte) ou bloc manuel : ces systèmes permettent d'assurer l'espacement entre les trains en sectionnant la ligne par canton. L'entrée du canton est gérée de manière automatique (utilisation de circuits de voie ou de compteurs d'essieux pour identifier l'occupation et la libération du canton) ou manuelle (avec intervention humaine).
+
+-La signalisation en cabine de type TVM (transmission voie-machine) sur les lignes à grande vitesse : afin de s'affranchir de la signalisation latérale, les lignes à grande vitesse sont équipées de TVM (300 ou 430) où les informations de signalisation sont directement retransmises en cabine.
+
+-L'ETCS (European Train Control System, Système européen de contrôle des trains) est un système de commande et de contrôle des trains avec signalisation de cabine, l'ETCS se déploie en  Europe  et  en  France  avec  un  objectif  d'interopérabilité  entre  les  différents  réseaux permettant un passage aisé des frontières tout en garantissant la sécurité des circulations.
 
 Avec  ce  mode  d'espacement,  la  signalisation  n'est  pas  entièrement  déterminée  par  les équipements  au  sol  mais  est  en  partie  élaborée  à  bord,  sur  la  base  des  caractéristiques techniques détaillées du convoi (notamment de freinage) selon des règles qui dépendant de la  version  de  l'ETCS  mise  en  uvre  à  bord.  De  ce  fait,  l'espacement  minimal  entre  trains respectant la marche-type ou la marche de base et permettant une circulation « à voie libre », (c'est-à-dire, sans présentation d'une signalisation de cabine restrictive liée à la présence d'un train suivi) dépend des caractéristiques du train suiveur.
 
-- Le  système  ETCS  niveau  2  s'appuie  sur  une  transmission  continue  des  données  via  le réseau GSM-R, l'ensemble constituant (avec l'ATO) l'ERTMS.
+Le  système  ETCS  niveau  2  s'appuie  sur  une  transmission  continue  des  données  via  le réseau GSM-R, l'ensemble constituant (avec l'ATO) l'ERTMS.
+
+<!-- page: 39 -->
 
 L'utilisation  de  l'ETCS  niveau  2  nécessite  le  respect  par  les  entreprises  ferroviaires d'exigences relatives à leur matériel roulant. Les documents décrivant ces exigences et le processus à respecter sont disponibles sur le SI DocExplore, accessible via l'Espace clients.
 
@@ -1172,81 +1349,105 @@ Sur les lignes où coexistent l'ETCS 2 et la TVM, la règle précédente est app
 
 Les  projets  de  déploiement  de  l'ETCS  niveau  2  sont  indiqués  au  point  2.7  du  présent document.
 
-- Le  système  ETCS  niveau  1  repose  sur  une  transmission  ponctuelle  de  données  par l'intermédiaire de balises disposées en voie.
-- L'utilisation de l'ETCS niveau 1 sur ces lignes induit des contraintes exportées qui doivent être  amorties  par  les  entreprises  ferroviaires  concernées.  Les  documents  décrivant  ces contraintes et le processus à respecter sont disponibles sur le SI DocExplore, accessible via l'Espace clients.
+Le  système  ETCS  niveau  1  repose  sur  une  transmission  ponctuelle  de  données  par l'intermédiaire de balises disposées en voie.
+
+L'utilisation de l'ETCS niveau 1 sur ces lignes induit des contraintes exportées qui doivent être  amorties  par  les  entreprises  ferroviaires  concernées.  Les  documents  décrivant  ces contraintes et le processus à respecter sont disponibles sur le SI DocExplore, accessible via l'Espace clients.
 
 Les  projets  de  déploiement  de  l'ETCS  niveau  1  sont  indiqués  au  point  2.7  du  présent document ainsi que les prochains déploiements (N1 et N2) dans le National Implementation Plan (NIP). Celui-ci sera consultable (dès parution) sur le site de la commission européenne.
 
-- -D'autres types d'exploitation (cantonnement téléphonique, etc…).
+-D'autres types d'exploitation (cantonnement téléphonique, etc…).
 
 La  carte  « Modes  d'espacement  des  trains  »,  consultable  sur  le  site  internet  de  SNCF  Réseau, représente de façon indicative le type de mode d'espacement des trains pour chaque ligne du réseau ferré national. L'équipement en ETCS est présenté dans la carte « lignes équipées de contrôle de vitesse », consultable sur le site internet de SNCF Réseau, en tant que dispositif de contrôle de vitesse.
 
-## ● Processus de délivrance des clés de cryptage nécessaire à l'exploitation de l'ERTMS
+## [section_header] ● Processus de délivrance des clés de cryptage nécessaire à l'exploitation de l'ERTMS
 
 La technologie ETCS niveau 2 repose notamment sur deux sous-systèmes permettant les échanges d'information entre le matériel roulant à moteur et l'infrastructure empruntée par ce dernier :
 
-- -Le premier sous-système est constitué des RBC (Radios Bloc Center, ou gestionnaire d'un tronçon  de  ligne  par  Radio).  Un RBC est installé sur l'infrastructure, il identifie la position géographique du matériel roulant sur le réseau et diffuse par radio l'autorisation de marche adaptée pour garantir le bon espacement des trains. A date, les lignes grande vitesse sont équipées d'un RBC tous les 50 kilomètres.
-- -Le deuxième sous-système est constitué des EVC (European Vital Computer, ou calculateur de  sécurité  embarqué).  Chaque  matériel  roulant  à  moteur  empruntant  une  infrastructure équipée de l'ETCS2, est équipé d'un (ou plusieurs) EVC afin de signaler sa présence aux RBC.
+-Le premier sous-système est constitué des RBC (Radios Bloc Center, ou gestionnaire d'un tronçon  de  ligne  par  Radio).  Un RBC est installé sur l'infrastructure, il identifie la position géographique du matériel roulant sur le réseau et diffuse par radio l'autorisation de marche adaptée pour garantir le bon espacement des trains. A date, les lignes grande vitesse sont équipées d'un RBC tous les 50 kilomètres.
+
+-Le deuxième sous-système est constitué des EVC (European Vital Computer, ou calculateur de  sécurité  embarqué).  Chaque  matériel  roulant  à  moteur  empruntant  une  infrastructure équipée de l'ETCS2, est équipé d'un (ou plusieurs) EVC afin de signaler sa présence aux RBC.
+
+<!-- page: 40 -->
 
 Pour être reconnu et dialoguer avec les RBC, chaque EVC doit disposer d'une clé de cryptage remise par SNCF Réseau pour un itinéraire circulé à l'entreprise ferroviaire exploitant le matériel roulant à moteur. Une clé de cryptage est valable pour un seul EVC et un seul RBC.
 
-## A. Demande de clés de cryptage pour un matériel n'ayant jamais circulé en ERTMS sur le réseau équipé en ETCS niveau 2 pour lequel SNCF Réseau a la charge de la gestion opérationnelle des circulations.
+## [section_header] A. Demande de clés de cryptage pour un matériel n'ayant jamais circulé en ERTMS sur le réseau équipé en ETCS niveau 2 pour lequel SNCF Réseau a la charge de la gestion opérationnelle des circulations.
 
 1°) Dans un premier temps, chaque entreprise ferroviaire désireuse de vouloir faire circuler des trains sur une partie du réseau équipée de l'ETCS niveau 2 doit au préalable s'assurer de disposer de l'équipement bord ERTMS (EVC) adapté au système à l'équipement de la partie du réseau qu'il prévoit d'utiliser.
 
 2°) Dans un deuxième temps, et au plus tard douze (12) mois avant la première circulation, chaque entreprise ferroviaire doit se rapprocher de son chargé de compte (Direction commerciale de SNCF Réseau) et lui adresser une expression de besoin prévisionnelle dans laquelle elle renseigne :
 
-- niveau et nature d'équipement ERTMS installé dans le matériel roulant moteur ;
-- nombre d'exemplaires du matériel ferroviaire décrit au point 1°) ci-avant pour lequel sont sollicitées des clés de cryptage ;
-- nombre de clés  estimées  nécessaires,  sur  les  itinéraires  ERTMS  du  réseau  pour  lequel SNCF Réseau a la charge  de la gestion opérationnelle des  circulations  qu'elle  compte parcourir;
-- itinéraires  (origine  destination)  envisagés  pour  être  réalisé  avec  le  matériel  roulant  à équiper en clés de cryptage ;
-- cas antérieurs d'exploitation du matériel roulant en ERTMS (préciser le réseau ferroviaire utilisé, les axes empruntés, la technologie ERTMS utilisée) ;
-- liste des demandes en sillons adressées à SNCF Réseau ou à venir et correspondant aux itinéraires devant être pris en compte pour configurer les clés de cryptage ;
-- nom, prénoms, date de naissance, adresse et coordonnées professionnelles de la ou des personnes  physiques  mandatées  pour  demander  et  récupérer  les  clés  de  cryptage  de l'entreprise ferroviaire.
+niveau et nature d'équipement ERTMS installé dans le matériel roulant moteur ;
+
+nombre d'exemplaires du matériel ferroviaire décrit au point 1°) ci-avant pour lequel sont sollicitées des clés de cryptage ;
+
+nombre de clés  estimées  nécessaires,  sur  les  itinéraires  ERTMS  du  réseau  pour  lequel SNCF Réseau a la charge  de la gestion opérationnelle des  circulations  qu'elle  compte parcourir;
+
+itinéraires  (origine  destination)  envisagés  pour  être  réalisé  avec  le  matériel  roulant  à équiper en clés de cryptage ;
+
+cas antérieurs d'exploitation du matériel roulant en ERTMS (préciser le réseau ferroviaire utilisé, les axes empruntés, la technologie ERTMS utilisée) ;
+
+liste des demandes en sillons adressées à SNCF Réseau ou à venir et correspondant aux itinéraires devant être pris en compte pour configurer les clés de cryptage ;
+
+nom, prénoms, date de naissance, adresse et coordonnées professionnelles de la ou des personnes  physiques  mandatées  pour  demander  et  récupérer  les  clés  de  cryptage  de l'entreprise ferroviaire.
 
 Cette expression de besoins doit permettre :
 
-- d'identifier les clés de cryptage adaptées pour permettre le dialogue effectif entre l'EVC de chaque train et le ou les RBC concernés ;
-- au  chargé  de  compte  de  vérifier  la  cohérence  entre  les  projets  de  circulations  de l'entreprise ferroviaire et les clés de cryptages demandées.
+d'identifier les clés de cryptage adaptées pour permettre le dialogue effectif entre l'EVC de chaque train et le ou les RBC concernés ;
+
+au  chargé  de  compte  de  vérifier  la  cohérence  entre  les  projets  de  circulations  de l'entreprise ferroviaire et les clés de cryptages demandées.
 
 Une fois validée par le chargé de compte, l'expression de besoins sera communiquée par le chargé  de  compte  au  KMC  (gestionnaire  central  des  clés)  de  SNCF  Réseau.  L'entreprise ferroviaire devra ensuite se rapprocher du KMC de SNCF Réseau et se conformer au contenu du document d'utilisation du Réseau OP00585 « Procédure de gestion des clés de cryptage ERTMS », qui sera révisé.
+
+<!-- page: 41 -->
 
 B) Modalités et délais de délivrance des clés de cryptage pour un matériel ayant déjà circulé en ERTMS pour lequel SNCF Réseau a la charge de la gestion opérationnelle des circulations et pour lequel il est prévu un changement d'exploitant et ou d'itinéraire(s).
 
 Chaque entreprise  ferroviaire  doit  se  rapprocher  de  son  chargé  de  compte  (point  1.6)  et  lui adresser une expression de besoin prévisionnelle dans laquelle elle renseigne :
 
-- niveau et nature d'équipement ERTMS installé dans le matériel roulant moteur ;
-- nombre d'exemplaires du matériel ferroviaire décrit au 1) pour lequel sont sollicitées des clés de cryptage ;
-- nombre de clés  estimées  nécessaires,  sur  les  itinéraires  ERTMS  du  réseau  pour  lequel SNCF Réseau a la charge  de la gestion opérationnelle des  circulations  qu'elle  compte parcourir ;
-- itinéraires  (origine-destination)  envisagés  pour  être  réalisé  avec  le  matériel  roulant  à équiper en clés de cryptage ;
-- cas antérieurs d'exploitation du matériel roulant en ERTMS (préciser le réseau ferroviaire utilisé, les axes empruntés, la technologie ERTMS utilisée ;
-- liste des demandes en sillons adressées à SNCF Réseau ou à venir et correspondant aux itinéraires devant être pris en compte pour configurer les clés de cryptage ;
-- nom, prénoms, date de naissance, adresse et coordonnées professionnelles de la ou des personnes  physiques  mandatées  pour  demander  et  récupérer  les  clés  de  cryptage  de l'entreprise ferroviaire.
+niveau et nature d'équipement ERTMS installé dans le matériel roulant moteur ;
+
+nombre d'exemplaires du matériel ferroviaire décrit au 1) pour lequel sont sollicitées des clés de cryptage ;
+
+nombre de clés  estimées  nécessaires,  sur  les  itinéraires  ERTMS  du  réseau  pour  lequel SNCF Réseau a la charge  de la gestion opérationnelle des  circulations  qu'elle  compte parcourir ;
+
+itinéraires  (origine-destination)  envisagés  pour  être  réalisé  avec  le  matériel  roulant  à équiper en clés de cryptage ;
+
+cas antérieurs d'exploitation du matériel roulant en ERTMS (préciser le réseau ferroviaire utilisé, les axes empruntés, la technologie ERTMS utilisée ;
+
+liste des demandes en sillons adressées à SNCF Réseau ou à venir et correspondant aux itinéraires devant être pris en compte pour configurer les clés de cryptage ;
+
+nom, prénoms, date de naissance, adresse et coordonnées professionnelles de la ou des personnes  physiques  mandatées  pour  demander  et  récupérer  les  clés  de  cryptage  de l'entreprise ferroviaire.
 
 Cette expression de besoins doit permettre :
 
-- d'identifier les clés de cryptage adaptées pour permettre le dialogue effectif entre l'EVC de chaque train et le ou les RBC concernés ;
-- au  chargé  de  compte  de  vérifier  la  cohérence  entre  les  projets  de  circulations  de l'entreprise ferroviaire et les clés de cryptages demandées.
+d'identifier les clés de cryptage adaptées pour permettre le dialogue effectif entre l'EVC de chaque train et le ou les RBC concernés ;
+
+au  chargé  de  compte  de  vérifier  la  cohérence  entre  les  projets  de  circulations  de l'entreprise ferroviaire et les clés de cryptages demandées.
 
 Une fois validée par le chargé de compte l'expression de besoins sera communiquée par le chargé de compte au KMC de SNCF Réseau. Au plus tard sept (7) mois avant la première circulation, l'entreprise ferroviaire devra ensuite se rapprocher du KMC de SNCF Réseau et se conformer au contenu du document d'utilisation du réseau RFN-IG-IF 06 A-13-n°001 OP00585 « Procédure de gestion des clés de cryptage ERTMS » qui sera révisé.
 
-## ● Installations de détecteurs de boîtes chaudes
+## [section_header] ● Installations de détecteurs de boîtes chaudes
 
 L'infrastructure du réseau ferré national comprend des installations de détecteurs de boîtes chaudes qui ont pour rôle :
 
-- -d'accroître la sécurité des circulations en particulier dans les zones à trafic intense ou à grande vitesse ;
-- -de surveiller les circulations avant qu'elles n'abordent les tunnels ou certains ouvrages d'art ;
-- -de réduire le nombre des arrêts de trains de marchandises nécessaires aux visites de sécurité de parcours.
+-d'accroître la sécurité des circulations en particulier dans les zones à trafic intense ou à grande vitesse ;
+
+-de surveiller les circulations avant qu'elles n'abordent les tunnels ou certains ouvrages d'art ;
+
+-de réduire le nombre des arrêts de trains de marchandises nécessaires aux visites de sécurité de parcours.
+
+<!-- page: 42 -->
 
 La  carte  « Localisation  des  détecteurs  de  boîtes  chaudes »  consultable  sur  le  site  internet  de SNCF Réseau, indique la localisation des installations de détecteurs de boîtes chaudes. La présence de DBC est également renseignée dans un paramètre du RINF.
 
-## 2.3.11 SYSTEME DE CONTROLE DU TRAFIC
+## [section_header] 2.3.11 SYSTEME DE CONTROLE DU TRAFIC
 
 Sans objet.
 
-## 2.3.12 SYSTEME DE COMMUNICATION
+## [section_header] 2.3.12 SYSTEME DE COMMUNICATION
 
-## ● Liaison avec les trains
+## [section_header] ● Liaison avec les trains
 
 Les différents types de liaison avec les trains sont la radio GSM-R et le système GSM-GFU (ARES-Alert Radio Emergency Service).
 
@@ -1254,8 +1455,9 @@ Le  système  GSM-R  (Global  System  for  Mobile  communications  for  Railways
 
 Les trains circulant sur les lignes équipées de GSM-R doivent être équipés :
 
-- -du GSM-R conformément aux  spécificités techniques EIRENE (European Integrated Railway Radio Enhanced Network), mentionnées dans la STI CCS dont la documentation technique est disponible sur le site internet de l'ERA ;
-- -et, afin d'éviter les interférences entre les terminaux GSM-R des trains et les réseaux publics de GSM, de terminaux de type CAB-radio 8W conformes à la  norme technique de l'ETSI TS 102 933 1 v1.3.1.
+-du GSM-R conformément aux  spécificités techniques EIRENE (European Integrated Railway Radio Enhanced Network), mentionnées dans la STI CCS dont la documentation technique est disponible sur le site internet de l'ERA ;
+
+-et, afin d'éviter les interférences entre les terminaux GSM-R des trains et les réseaux publics de GSM, de terminaux de type CAB-radio 8W conformes à la  norme technique de l'ETSI TS 102 933 1 v1.3.1.
 
 Sur certaines lignes non équipées de la radio sol-train, le service de communications ferroviaires lié au système GSM-GFU (ARES) permet aux opérateurs au sol (via un téléphone fixe ou mobile) de donner au conducteur un ordre d'arrêt immédiat du train via un appel d'urgence sur son téléphone mobile homologué par SNCF Réseau et enrôlé ARES (c'est-à-dire, le téléphone mobile du conducteur, avec l'activation du principe de « bulle de protection » de l'écosystème de conduite).
 
@@ -1267,9 +1469,11 @@ Des études sont en cours, permettant d'améliorer cette fonctionnalité pour le
 
 L'utilisation du dispositif ARES ainsi que l'activation du numéro de mission dans l'application ARES sont obligatoires sur les lignes ou portions de lignes sur lesquelles le dispositif SOPRANO (concernant la téléphonie de pleine voie) sera déployé. Cette obligation sera généralisée à l'ensemble des lignes du RFN (y compris sur les lignes équipées de la radio sol-trains) à compter du 01/06/25. Néanmoins, pour tenir  compte  d'éventuelles  contraintes  opérationnelles  pour  les  entreprises  ferroviaires  liées  au développement de l'application, l'utilisation d'ARES par les EF pourra se faire progressivement selon des calendriers concertés entre SNCF Réseau et chaque EF en 2025.
 
+<!-- page: 43 -->
+
 La  carte  «Lignes  équipées  de  liaisons  radio  sol-trains»,  consultable  sur  le  site  internet  de  SNCF Réseau, indique les lignes équipées de liaison avec les trains ainsi que le type de liaison.
 
-## ● Téléphonie de passage à niveau et de pleine voie
+## [section_header] ● Téléphonie de passage à niveau et de pleine voie
 
 Sur certaines lignes du RFN, désignées dans les RT ou les CLE (voir point 3.4.7), les téléphones de voie  sont  amenés  à  être  remplacés  par  une  solution  dénommée  SOPRANO  reposant  sur  une application mobile. Afin d'être en mesure de passer les appels d'urgence qu'une éventuelle situation dégradée pourrait requérir, les conducteurs doivent être dotés d'un modèle de téléphone homologué par SNCF Réseau sur lequel l'application SOPRANO sera à installer.
 
@@ -1277,14 +1481,15 @@ Son utilisation par les conducteurs est en principe subordonnée à celle concom
 
 NOTA : La première utilisation du dispositif « SOPRANO intermédiaire LGV+ » interviendra sur deux (2) lignes (ou portions de lignes) déployées en pilote :
 
-- -sur la LGV Paris-Lyon (LGV+) en novembre 2024
-- -sur Reding-Saverne au troisième trimestre 2025.
+-sur la LGV Paris-Lyon (LGV+) en novembre 2024
+
+-sur Reding-Saverne au troisième trimestre 2025.
 
 Si des déploiements complémentaires de « SOPRANO intermédiaire LGV+ » étaient mis en  uvre (en anticipation du déploiement national), l'information serait disponible dans les RT ou les CLE des lignes concernées.
 
-## 2.3.13 SYSTEME DE CONTRÔLE AUTOMATIQUE DES TRAINS
+## [section_header] 2.3.13 SYSTEME DE CONTRÔLE AUTOMATIQUE DES TRAINS
 
-## ● Contrôle de vitesse ou de franchissement
+## [section_header] ● Contrôle de vitesse ou de franchissement
 
 Les différents types de contrôle de vitesse ou de franchissement sont le KVB (contrôle automatique et continu de la vitesse par balise sur réseau classique) , le DAAT (dispositif d'arrêt automatique des trains qui est notamment mis en  uvre sur certaines lignes à une seule voie et non électrifiées) , la TVM sur les lignes à grande vitesse et l'ETCS en déploiement.
 
@@ -1294,6 +1499,8 @@ Il existe également des types de contrôles spécifiques sur certaines sections
 
 Sur les lignes équipées d'ETCS, les convois équipés d'ETCS peuvent ne pas être équipés du KVB ou de la TVM.
 
+<!-- page: 44 -->
+
 SNCF Réseau attire l'attention des EF sur l'impossibilité d'utiliser des itinéraires de détournement par lignes classiques en absence d'équipement en KVB et rappelle que le niveau « ETCS N0 » est interdit sur le RFN.
 
 La carte « Lignes équipées de contrôle de vitesse » consultable sur le site internet de SNCF Réseau, représente de façon indicative les lignes équipées en dispositif de contrôle de vitesse KVB, TVM et ETCS. La documentation d'exploitation indique les lignes équipées en DAAT.
@@ -1302,11 +1509,11 @@ Concernant la mise à disposition des équipements de classe B, à savoir les sy
 
 Cette facilitation peut être sollicitée par tout candidat souhaitant opérer des circulations sur le RFN en adressant une demande au chargé de compte national ou régional dédié ou, à défaut d'interlocuteur identifié, au guichet unique (point 1.6.1).
 
-## 2.3.14 CARACTÉRISTIQUES TECHNIQUES
+## [section_header] 2.3.14 CARACTÉRISTIQUES TECHNIQUES
 
 SNCF Réseau met à la disposition des candidats les données d ' infrastructure contenant les principales caractéristiques  techniques  des  voies.  L'accès  à  ces  données  se  fait  par  le  RINF  (registre  de l'infrastructure) accessible sur le site internet de l'ERA.
 
-## 2.3.15 ODICEO
+## [section_header] 2.3.15 ODICEO
 
 SNCF Réseau a lancé le développement de l'outil ODICEO (Outil de digitalisation des incidents de circulation  et  de  transmission  des  ordres  écrits)  afin  de  digitaliser  les  processus  de  traitement opérationnel d'incidents de circulation en mettant des outils à disposition des agents de circulation (AC) de SNCF Réseau et des agents de conduite des entreprises ferroviaires.
 
@@ -1316,12 +1523,15 @@ Dans la 1ère phase du projet, l'outil ODICEO est mis à disposition des agents 
 
 Concernant  la  deuxième  phase  du  projet  permettant  la  transmission  numérique  des  ordres,  deux solutions s'offrent aux EF :
 
-- -Le développement de leur propre solution SI ;
-- -L'utilisation  de  la  solution  SI  développée  et  mise  à  disposition  par  SNCF  réseau,  sur  un téléphone ou une tablette de l'entreprise ferroviaire.
+-Le développement de leur propre solution SI ;
+
+-L'utilisation  de  la  solution  SI  développée  et  mise  à  disposition  par  SNCF  réseau,  sur  un téléphone ou une tablette de l'entreprise ferroviaire.
 
 À titre indicatif, les prochaines étapes du projet sont les suivantes :
 
-- -Les entreprises ferroviaires volontaires, et ayant développé leur propre solution SI, pourront participer à des tests de bout en bout de leur solution technique entre janvier et juin 2025 puis, à des expérimentations en conditions réelles, à partir de juin 2025.  Ces expérimentations sont menées par SNCF Réseau sur les cinq (5) lignes pilotes Conflans-Verdun, Quimper-Lorient, Corbeil-Malesherbes, Argentan - Granville et Estrée Longueau. Les modalités d'engagement dans le projet seront précisées sur demande auprès de la Direction commerciale (chargé de compte) de SNCF Réseau.
+-Les entreprises ferroviaires volontaires, et ayant développé leur propre solution SI, pourront participer à des tests de bout en bout de leur solution technique entre janvier et juin 2025 puis, à des expérimentations en conditions réelles, à partir de juin 2025.  Ces expérimentations sont menées par SNCF Réseau sur les cinq (5) lignes pilotes Conflans-Verdun, Quimper-Lorient, Corbeil-Malesherbes, Argentan - Granville et Estrée Longueau. Les modalités d'engagement dans le projet seront précisées sur demande auprès de la Direction commerciale (chargé de compte) de SNCF Réseau.
+
+<!-- page: 45 -->
 
 À noter que la solution développée par SNCF Réseau est intégralement financée par SNCF Réseau.
 
@@ -1329,58 +1539,65 @@ Les EF seront responsables de l'achat et de la maintenance de leur flotte d'appa
 
 À partir du SA 2026, l'utilisation d'ODICEO (via la solution SI développée par SNCF Réseau ou via la solution SI propre à l'EF) sera obligatoire sur le réseau pour la réception des ordres écrits. Néanmoins, pour tenir compte des éventuels retards d'installation des solutions techniques ou de formation des agents, l'utilisation d'ODICEO par les entreprises ferroviaires pourra se faire progressivement au cours de l'année 2026. A noter, qu'en cas de défaillance, le plan de continuité d'activité prévoit que les ordres puissent de nouveau être transmis par radio ou directement aux agents de conduite des EF.
 
-## 2.3.16 NEXTEO
+## [section_header] 2.3.16 NEXTEO
 
 Le nouveau système d'exploitation NEXTEO (nouvelle exploitation des trains sur les lignes E puis, B et D du RER) entrera en service en juillet 2026 entre Pantin et la nouvelle gare de Nanterre sur le RER E. Il ne concernera que les voies 1 et 2 Eole et servira à l'exploitation des trains Transilien circulant sur cette ligne.
 
 Sur cette partie du réseau ferré national, les trains circulant uniquement sous le système de signalisation BAL pourront continuer de circuler sans ajout de système NEXTEO. En revanche, le cadencement augmenté des trains Transilien équipés de NEXTEO ainsi que le système d'exploitation basé sur le CBTC (communication base train contrôle) pourraient conduire à revoir les règles d'exploitation et par exemple, avoir des conséquences sur les longueurs des trains et règles d'espacement sur les trains autres que les trains Transilien équipés de NEXTEO.
 
-## 2.4 PARTICULARITÉS D'EXPLOITATION
+## [section_header] 2.4 PARTICULARITÉS D'EXPLOITATION
 
-## 2.4.1 INFRASTRUCTURES SPECIALISEES
+## [section_header] 2.4.1 INFRASTRUCTURES SPECIALISEES
 
 Les sections suivantes constituent des infrastructures spécialisées au sens de l'article 25-1 du décret n° 2003-194 :
 
-- -les lignes à grande vitesse construites avec des caractéristiques techniques permettant, pour des services de transport nécessitant la grande vitesse, des vitesses supérieures ou égales à 250 km/h.
+-les lignes à grande vitesse construites avec des caractéristiques techniques permettant, pour des services de transport nécessitant la grande vitesse, des vitesses supérieures ou égales à 250 km/h.
 
 Des  cartes du réseau présentant les infrastructures spécialisées grande vitesse et leurs itinéraires de substitution sont établies et mises sur le site internet de SNCF Réseau.
 
 SNCF Réseau envisage, à l'horizon 2030, de spécialiser la LGV Paris-Lyon aux services de transport de voyageurs :
 
-- -aptes à circuler à la vitesse plafond de la ligne (270 ou 300 km/h suivant les sections), sur l'intégralité de la ligne à l'exception des rampes de grande longueur et à fort gradient, de façon effective ;
-- -aptes à respecter une valeur plafond d'espacement minimal technique (point 4.2.2.3), qu'il est envisagé de fixer à 2 minutes et 45 secondes.
+-aptes à circuler à la vitesse plafond de la ligne (270 ou 300 km/h suivant les sections), sur l'intégralité de la ligne à l'exception des rampes de grande longueur et à fort gradient, de façon effective ;
 
-## 2.4.2 RESTRICTIONS ENVIRONNEMENTALES
+-aptes à respecter une valeur plafond d'espacement minimal technique (point 4.2.2.3), qu'il est envisagé de fixer à 2 minutes et 45 secondes.
+
+## [section_header] 2.4.2 RESTRICTIONS ENVIRONNEMENTALES
 
 Des  restrictions  d'usage  du  réseau  ferré  national  peuvent  être  imposées  localement,  sur  certaines lignes  ou  faisceaux  de  voie,  par  les  autorités  publiques  pour  des  motifs  d'ordre  public  liés  à l'environnement  (bruit  et  nuisances  diverses).  Les  sections  de  ligne  relevant  « d'itinéraires moins bruyants » qui font l'objet de restrictions dans la STI bruit sont décrites dans le paramètre 1.1.1.1.7.11 du RINF.
 
+<!-- page: 46 -->
+
 Il en va ainsi notamment des restrictions de circulation de nuit sur certaines lignes à grande vitesse. Ces restrictions sont notamment répercutées dans le référentiel des heures d'ouverture des lignes, gares et postes.
 
-## 2.4.3 MARCHANDISES DANGEREUSES
+## [section_header] 2.4.3 MARCHANDISES DANGEREUSES
 
 Les demandeurs de capacités mentionnés au point  4.1.2 doivent s'adresser au chargé de compte national  dédié  ou,  à  défaut  d'interlocuteur  identifié,  au  guichet  unique  (point  1.6.1)  pour  toute demande concernant les  possibilités  d'utilisation  des  infrastructures  du  réseau  ferré  national  et  de circulation des trains comportant des wagons de marchandises dangereuses.
 
 Le document d'utilisation du réseau RFN-CG-TR 02 E-04-n°003 « Séjour temporaire des wagons de marchandises dangereuses » disponible sur la page « Documents Techniques » du site internet de SNCF Réseau, complète les dispositions de l'arrêté du 29 mai 2009 modifié dit arrêté TMD, pour le séjour temporaire des wagons de marchandises dangereuses sur le réseau ferré national.
 
-## 2.4.4 RESTRICTIONS POUR LES TUNNELS
+## [section_header] 2.4.4 RESTRICTIONS POUR LES TUNNELS
 
 Les conditions particulières de circulation à respecter au franchissement de certains tunnels figurent dans la  documentation d'exploitation  des  lignes  concernées  ou  sont  prescrites  par  la  signalisation implantée sur le terrain.
 
-## 2.4.5 RESTRICTIONS POUR LES PONTS
+## [section_header] 2.4.5 RESTRICTIONS POUR LES PONTS
 
 Les conditions particulières de circulation à respecter au franchissement de certains ponts et autres ouvrages d'art figurent dans la documentation d'exploitation des lignes concernées ou sont prescrites par la signalisation implantée sur le terrain.
 
-## 2.4.6 LIGNES DEDIÉES AUX TRAMS TRAINS
+## [section_header] 2.4.6 LIGNES DEDIÉES AUX TRAMS TRAINS
 
 En raison de leurs caractéristiques techniques (gabarits notamment), certaines lignes du réseau ferré national ne peuvent être circulées que par des trams-trains. Il s'agit des lignes T4 Aulnay à Bondy (ligne 958000), T11 Epinay-sur-Seine à Le Bourget (ligne 960000), T13 Saint-Cyr à Saint Germain en Laye (segment de la ligne 990000), Mulhouse (ligne 132 000), Nantes Châteaubriant (ligne 519 000) et le raccordement de Tassin (ligne 782 310).
 
 À défaut d'une convention spécifique relative à la mise à disposition de voies dédiées signée avec SNCF Réseau avant avril A-1 et applicable pour l'HDS A, les dispositions générales du DRR s'appliquent aux Trams-Trains de façon à pouvoir formaliser la circulation de ces derniers.
 
-## 2.4.7 DISPOSITIF DE SUIVI DES TRAINS
+## [section_header] 2.4.7 DISPOSITIF DE SUIVI DES TRAINS
 
-## 2.4.7.1 Dispositif de détection des défauts de roues des convois à l'entrée des lignes BPL et CNM
+## [section_header] 2.4.7.1 Dispositif de détection des défauts de roues des convois à l'entrée des lignes BPL et CNM
 
 Les  entrées  de  la  ligne  Bretagne-Pays  de  la  Loire  (LGV  BPL)  et  du  Contournement  de  NîmesMontpellier (CNM) sont équipées de stations de mesure (localisation ci-dessous) qui permettent de détecter au défilé et en temps réel les défauts de roues des convois.
+
+<!-- page: 47 -->
+
+### [TABLE]
 
 |                         | BPL                 | BPL              | CNM        | CNM        | CNM        | CNM          |
 |-------------------------|---------------------|------------------|------------|------------|------------|--------------|
@@ -1395,12 +1612,13 @@ Le seuil de force d'impact maximum autorisé par roue est fixé à 333 kilo-Newt
 
 Depuis la mise en service de la ligne BPL et du CNM, dès lors qu'au moins une des roues d'un convoi programmé sur BPL ou CNM est détectée par une station comme dépassant le seuil de force d'impact maximum autorisé :
 
-- -s'il  s'agit  d'un convoi de fret, celui-ci est dévié en temps réel sur l'itinéraire équivalent sur ligne  classique,  tel  que  défini  dans  les  renseignements  techniques  de  la  section  de  ligne concernée. En cas d'impossibilité de détournement sur ligne classique, le convoi poursuit son itinéraire initial sur ligne nouvelle ;
-- -s'il s'agit d'un convoi de voyageurs, celui-ci n'est pas dévié et poursuit son itinéraire initial sur ligne nouvelle.
+-s'il  s'agit  d'un convoi de fret, celui-ci est dévié en temps réel sur l'itinéraire équivalent sur ligne  classique,  tel  que  défini  dans  les  renseignements  techniques  de  la  section  de  ligne concernée. En cas d'impossibilité de détournement sur ligne classique, le convoi poursuit son itinéraire initial sur ligne nouvelle ;
+
+-s'il s'agit d'un convoi de voyageurs, celui-ci n'est pas dévié et poursuit son itinéraire initial sur ligne nouvelle.
 
 Lorsqu'au moins une roue d'un convoi qui doit emprunter les lignes nouvelles est détectée au-dessus du seuil susvisé, l'entreprise ferroviaire est avisée le jour même par le COGC compétent de la présence du défaut de roue sur son train, afin de pouvoir identifier le défaut et y remédier au plus vite.
 
-## 2.4.7.2 Dispositifs automatiques de surveillance des trains en marche
+## [section_header] 2.4.7.2 Dispositifs automatiques de surveillance des trains en marche
 
 Dans le cadre de la mise en  uvre de la Commande Centralisée du Réseau (CCR), SNCF Réseau prévoit de mettre en place différents dispositifs automatiques de vérification de la conformité des convois au défilé,  avec  les  règles  d'exploitation  associées,  ou  de  compléter certaines consignes d'exploitation actuelles.
 
@@ -1410,8 +1628,11 @@ La première étape, à l'horizon de l'HDS 2025, prévoit de mettre en place, su
 
 Les dispositifs de détection actuels (DACE pour Détecteurs d'Anomalie de Charge à l'Essieu) installés en amont et en aval du CNM et de la LGV BPL (voir article 2.4.7.1) vont être utilisés dans ce cadre pour agir sur les trains fret et voyageurs selon les modalités suivantes :
 
-- -les dispositions prises pour les trains de fret qui doivent emprunter le CNM ou la LGV BPL, (mentionnées  à  l'article  2.4.7.1)  sont  inchangées  vis-à-vis  de  ces  tronçons  d'infrastructure (déviation du train sur l'itinéraire équivalent de la ligne classique  sauf impossibilité, décrite dans ledit article, en cas de dépassement du seuil d'impact de 333 kiloNewton (kN).)
-- -en complément, dès lors qu'au moins une des roues d'un convoi fret ou voyageurs passant sur une des stations présente une force d'impact qui dépasse le seuil de 450 kiloNewton (kN), une alarme est émise vers l'agent circulation qui prend alors les mesures opérationnelles établies
+-les dispositions prises pour les trains de fret qui doivent emprunter le CNM ou la LGV BPL, (mentionnées  à  l'article  2.4.7.1)  sont  inchangées  vis-à-vis  de  ces  tronçons  d'infrastructure (déviation du train sur l'itinéraire équivalent de la ligne classique  sauf impossibilité, décrite dans ledit article, en cas de dépassement du seuil d'impact de 333 kiloNewton (kN).)
+
+-en complément, dès lors qu'au moins une des roues d'un convoi fret ou voyageurs passant sur une des stations présente une force d'impact qui dépasse le seuil de 450 kiloNewton (kN), une alarme est émise vers l'agent circulation qui prend alors les mesures opérationnelles établies
+
+<!-- page: 48 -->
 
 pour  arrêter  le  convoi  sur  le  garage,  adapté  et  disponible,  le  plus  proche  (pour  les  trains voyageurs, l'arrêt sera effectué dans une gare voyageurs).
 
@@ -1423,71 +1644,85 @@ L'utilisation des données brutes pour la maintenance prédictive doit permettre
 
 Selon les besoins des entreprises ferroviaires et des propriétaires de matériel roulant, deux solutions d'envoi de données ont été déterminées :
 
-- -Envoi des données de trains complets
-- -Envoi des données de mobiles unitaires
+-Envoi des données de trains complets
+
+-Envoi des données de mobiles unitaires
 
 Toute entreprise ferroviaire ou détenteur de matériel roulant souhaitant recevoir les données de ses trains ou de ses mobiles est invitée à se rapprocher de SNCF Réseau via les chargés de compte, et moyennant  la  signature  d'un  accord  de  confidentialité  établi  par  les  directions  commerciales  et juridiques.
 
-## 2.4.8 VENTS TRAVERSIERS SUR LA LIGNE CNM
+## [section_header] 2.4.8 VENTS TRAVERSIERS SUR LA LIGNE CNM
 
 En raison de la présence de vents traversiers sur la ligne dite du Contournement Nîmes-Montpellier, et de risques de déraillement liés, des études ont été menées en 2016 et 2017 pour s'assurer que les matériels roulants opérant à date sur le réseau régional concerné peuvent circuler dans les conditions définies ci-après :
 
-- -les trains fret, sans limite de vitesse ;
-- -les TAGV de classe 1 en conformité avec les exigences aérodynamiques liées aux vents latéraux tel que définies par le règlement (UE) n°1302/2014 de la Commission du 18 novembre 2014 concernant une spécification technique d'interopérabilité relative au sous-système « matériel roulant » du système ferroviaire transeuropéen à grande vitesse ;
-- -les rames tractées avec voyageurs, dans la limite de 140 km/h ;
-- -Z27500 et B81500, dans la limite de 140 km/h ;
-- -B83500 - 4 caisses, dans la limite de 140 km/h ;
-- -Z55500, dans la limite de 140 km/h ;
-- -X73500, dans la limite de 140 km/h.
+-les trains fret, sans limite de vitesse ;
+
+-les TAGV de classe 1 en conformité avec les exigences aérodynamiques liées aux vents latéraux tel que définies par le règlement (UE) n°1302/2014 de la Commission du 18 novembre 2014 concernant une spécification technique d'interopérabilité relative au sous-système « matériel roulant » du système ferroviaire transeuropéen à grande vitesse ;
+
+-les rames tractées avec voyageurs, dans la limite de 140 km/h ;
+
+-Z27500 et B81500, dans la limite de 140 km/h ;
+
+-B83500 - 4 caisses, dans la limite de 140 km/h ;
+
+-Z55500, dans la limite de 140 km/h ;
+
+-X73500, dans la limite de 140 km/h.
 
 Dans  le  cas  où  une  entreprise  ferroviaire  ou  un  gestionnaire  d'infrastructure  souhaite  engager  un matériel roulant ne répondant pas aux catégories ou conditions de circulation prévues ci-avant, une étude complémentaire doit être menée, sous sa responsabilité, afin de vérifier le risque du matériel roulant vis-à-vis des vents traversiers.
 
 Afin d'assister les demandeurs dans cette démarche, les études de sécurité ayant servi aux vérifications des  matériels  roulants  cités  ci-dessus  et  les  données  techniques  disponibles  sont  fournies  par SNCF Réseau par le biais de DocExplore, disponible via l'Espace clients.
 
-## 2.4.9 INFRASTRUCTURE RESERVEE AU TRANSPORT DE MARCHANDISES
+<!-- page: 49 -->
+
+## [section_header] 2.4.9 INFRASTRUCTURE RESERVEE AU TRANSPORT DE MARCHANDISES
 
 Certaines lignes du réseau ferré national peuvent être réservées au transport de marchandises. Il s'agit des lignes de groupe UIC « SV » (sans voyageurs). Elles sont représentées en vert sur la carte du réseau ferré, consultable sur le site internet de SNCF Réseau :
 
-- -sur  les  lignes  de  groupes  UIC  7  à  9  SV, les  normes de maintenance  ne prennent pas en compte la notion de confort voyageur, mais uniquement la sécurité des circulations ;
-- -sur les lignes de Groupes UIC 2 à 6 dédiées uniquement au fret, les normes de maintenance appliquées sont identiques à celles des lignes de groupe UIC 2 à 6 avec voyageurs, mais, pour des raisons commerciales et d'exploitation, n'y circulent que des trains à vitesse homogène, de l'ordre de 100km/h. Il serait donc difficile, du point de vue de l'exploitation, d'insérer dans ce trafic des trains voyageurs. De plus, pour certaines de ces lignes, il n'est pas possible d'y faire circuler des voyageurs dans la mesure où il n'y a pas de gares ;
-- -sur  certaines  lignes  (notamment  la  rive  droite  du  Rhône,  au  nord  de  Pont  Saint  Esprit), certaines  circulations  voyageurs  peuvent  être  admises  à  titre  exceptionnel,  en  cas  de détournements par exemple.
+-sur  les  lignes  de  groupes  UIC  7  à  9  SV, les  normes de maintenance  ne prennent pas en compte la notion de confort voyageur, mais uniquement la sécurité des circulations ;
 
-## 2.5 DISPONIBILITE DE L'INFRASTRUCURE
+-sur les lignes de Groupes UIC 2 à 6 dédiées uniquement au fret, les normes de maintenance appliquées sont identiques à celles des lignes de groupe UIC 2 à 6 avec voyageurs, mais, pour des raisons commerciales et d'exploitation, n'y circulent que des trains à vitesse homogène, de l'ordre de 100km/h. Il serait donc difficile, du point de vue de l'exploitation, d'insérer dans ce trafic des trains voyageurs. De plus, pour certaines de ces lignes, il n'est pas possible d'y faire circuler des voyageurs dans la mesure où il n'y a pas de gares ;
+
+-sur  certaines  lignes  (notamment  la  rive  droite  du  Rhône,  au  nord  de  Pont  Saint  Esprit), certaines  circulations  voyageurs  peuvent  être  admises  à  titre  exceptionnel,  en  cas  de détournements par exemple.
+
+## [section_header] 2.5 DISPONIBILITE DE L'INFRASTRUCURE
 
 Les conditions d'ouverture des lignes, des gares et des accès aux voies de service sont précisées dans le référentiel des heures d'ouverture des lignes, gares et postes, disponible dans le SI OLGA (système de  gestion  du  référentiel  et  des  demandes  d'ouverture  de  lignes,  gares  et  postes)  accessible  via l'Espace clients.
 
 Les périodes de travaux peuvent également impacter la disponibilité du réseau (voir point 4.5). Le SI TCAP (Travaux capacité) permet aux clients de SNCF Réseau de consulter en ligne, sur l'Espace clients les fenêtres travaux et capacités-travaux planifiées sur le réseau ferré national.
 
-## 2.6 PROJETS DE DEVELOPPEMENT
+## [section_header] 2.6 PROJETS DE DEVELOPPEMENT
 
 Les principaux projets de développement du réseau ferré national et leurs dates prévisibles de mise en exploitation sont disponibles sur le site internet de SNCF Réseau et mis à jour régulièrement.
 
 Plusieurs projets en cours ou planifiés auront un impact sur la capacité du réseau, l'offre de service, la gestion et la qualité de l'exploitation ainsi que  sur l'accessibilité aux personnes à mobilité réduite. Certains projets se déclinent en programmes, d'autres projets sont définis dans le cadre de contrats tels  que  les  Contrats  de  projets  Etat-Région  (CPER)  qui  donnent  l'opportunité  aux  collectivités régionales  de  financer  et  de  développer  les  lignes  régionales  dans  un  souci  de  cohérence  et compétitivité locale.
 
-## 2.7 PRINCIPAUX PROJETS DE MODERNISATION
+## [section_header] 2.7 PRINCIPAUX PROJETS DE MODERNISATION
 
 Depuis 2013, SNCF Réseau met en  uvre le grand plan de modernisation du réseau (GPMR) afin d'améliorer la sécurité et la performance du réseau.
 
-## ● Le projet Longuyon Bâle (427 km) : fin de déploiement en 2028
+## [section_header] ● Le projet Longuyon Bâle (427 km) : fin de déploiement en 2028
 
 Il consiste à équiper l'axe en ETCS niveau 1 (N1), V 2.3.0d, superposé au système de classe B (BAL KVB). Les mises en service se déroulent par tronçons entre 2016 et 2028.
 
 Sont en exploitation :
 
-- -SP1 (Zoufftgen - Uckange)
+-SP1 (Zoufftgen - Uckange)
 
-- -SP2 (Mont-St Martin - Longuyon exclu)
+<!-- page: 50 -->
+
+-SP2 (Mont-St Martin - Longuyon exclu)
 
 Planning prévisionnel (sous réserve de modification) :
 
-- -
-- Mise en exploitation de Longuyon-Thionville-Metz + SP1 : 2 ème  semestre 2025.
+-
+
+Mise en exploitation de Longuyon-Thionville-Metz + SP1 : 2 ème  semestre 2025.
 
 Mise  en  exploitation  de  Graffenstaden  (sud  de  Strasbourg)  -  St  Louis  (frontière  CH)  en décembre 2025.
 
 Le KVB et la signalisation latérale demeurant en superposition, il n'y a pas nécessité de définir des périodes d'essai spécifique.
 
-## ● LGV Paris-Lyon
+## [section_header] ● LGV Paris-Lyon
 
 Le  projet  prévoit  une  refonte  complète  de  la  signalisation  dont  la  mise  en  place  du  système interopérable européen dénommé ETCS sur la LGV et ses raccordements. Le système installé au sol sera ETCS niveau 2 (N2) en baseline 3 version 3.6.0. en transmission GSM-R exclusivement. La mise en exploitation commerciale est prévue en septembre 2026.
 
@@ -1499,31 +1734,37 @@ Bien que le déploiement ait lieu en superposition avec le système de classe B,
 
 (*)  Les trains circulant uniquement, au sein du périmètre ETCS, au sud de Grenay (avec usage des raccordements de/vers Lyon) ou au nord de Solers (de la bifurcation d'Yerres vers Marne-la-Vallée ou inversement) ne sont pas soumis à cette obligation. Au nord de Solers, cette dispense est uniquement valable pour les services annuels 2030 et 2031.
 
-## ● Axe Marseille-Vintimille
+## [section_header] ● Axe Marseille-Vintimille
 
 L'ensemble de l'axe Marseille - Vintimille sera exploité en ETCS niveau 2 (avec fonction de surveillance de l'intégrité du train) en baseline 3.6.0, en transmission GSM-R exclusivement, d'ici 2031.
 
 La mise en exploitation est prévue de manière phasée comme suit :
 
-- -Pour  l'HDS  2028  :  Tronçon  Théoule-sur-Mer  pk  181  à  Vintimille  en  coopération  avec  RFI, antenne vers Grasse et Section Nice-Ville - Nice Saint Roch (à noter que le système de classe B subsistera sur la section Nice-Ville voie G - Nice Saint Roch pour les circulations à destination ou en provenance de Breil) ;
-- -Pour l'HDS 2029 : Tronçon de Cuers à Théoule-sur-Mer pk 181 ;
-- -Pour l'HDS 2031 : Tronçon de Marseille-Blancarde pk 4.6 à Cuers et antenne vers Hyères.
+-Pour  l'HDS  2028  :  Tronçon  Théoule-sur-Mer  pk  181  à  Vintimille  en  coopération  avec  RFI, antenne vers Grasse et Section Nice-Ville - Nice Saint Roch (à noter que le système de classe B subsistera sur la section Nice-Ville voie G - Nice Saint Roch pour les circulations à destination ou en provenance de Breil) ;
+
+-Pour l'HDS 2029 : Tronçon de Cuers à Théoule-sur-Mer pk 181 ;
+
+-Pour l'HDS 2031 : Tronçon de Marseille-Blancarde pk 4.6 à Cuers et antenne vers Hyères.
 
 Le système de classe B actuellement en place (BAL, Bloc Automatique Lumineux + KVB, contrôle de Vitesse par Balises) sera démantelé simultanément au déploiement de l'ETCS pour chaque tronçon.
 
-## CHAPITRE 2 - INFRASTRUCTURE
+<!-- page: 51 -->
+
+## [section_header] CHAPITRE 2 - INFRASTRUCTURE
 
 Les entreprises ferroviaires pourront procéder aux essais dynamiques de fonctionnement ETCS de leurs matériels roulants au premier semestre 2026 sur la section d'essais de l'antenne vers Grasse.
 
-## ● Roissy-Picardie
+## [section_header] ● Roissy-Picardie
 
 À ce stade, il est prévu de déployer l'ETCS N2 sur la liaison, en superposition avec la TVM sur VémarsRoissy et ainsi que sur la ligne nouvelle Survilliers-Vémars.
 
-## ● LGV Nord et LGV Atlantique
+## [section_header] ● LGV Nord et LGV Atlantique
 
 À ce stade, il est prévu de déployer l'ETCS N2, sans superposition avec la TVM.
 
 Ci-dessous un tableau récapitulatif reprenant les grandes échéances indicatives d'équipements pour chaque ligne. Les calendriers détaillés seront partagés au fil de l'eau en groupe de travail COOPERE.
+
+### [TABLE]
 
 | NOM                                                          | EQUIPEMENT BORD NECESSAIRE                                                                                               | OBSERVATIONS                                                              |
 |--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
@@ -1536,17 +1777,19 @@ Ci-dessous un tableau récapitulatif reprenant les grandes échéances indicativ
 | KVB et ETCS N2 KVB et TVM430                                 | ou ETCS et TVM 430 sur Roissy-Vémars, ETCS et TVM 430 sur la LN Vémars-Survilliers-BAL KVB au-delà de Survilliers sur LC | Roissy-Picardie                                                           |
 | LGV Atlantique et LGV Nord ETCS N2                           | la                                                                                                                       | ETCS N2 seul avec une mise en service envisagée au début de décennie 2030 |
 
-## CHAPITRE 3 MODALITÉS D'ACCÈS AU RÉSEAU FERRÉ NATIONAL
+<!-- page: 52 -->
 
-## 3.1 INTRODUCTION
+## [section_header] CHAPITRE 3 MODALITÉS D'ACCÈS AU RÉSEAU FERRÉ NATIONAL
+
+## [section_header] 3.1 INTRODUCTION
 
 Dans ce chapitre sont décrites les conditions qu'un candidat doit remplir pour accéder au réseau ferré national (RFN), dont l'infrastructure est décrite au  Chapitre 2 - Infrastructure : les conditions générales et spécifiques d'accès, les conditions commerciales ainsi que les règles opérationnelles établies pour la circulation des convois.
 
 Ces conditions s'appliquent également à l'accès au RFN faisant partie des corridors européens.
 
-## 3.2 MODALITES D'ACCES
+## [section_header] 3.2 MODALITES D'ACCES
 
-## 3.2.1 CONDITIONS A REMPLIR POUR DEMANDER DE LA CAPACITÉ
+## [section_header] 3.2.1 CONDITIONS A REMPLIR POUR DEMANDER DE LA CAPACITÉ
 
 Un « candidat » est, au sens de l'article L.2122-11 du Code des transports, « une entreprise ferroviaire, un regroupement international d'entreprises ferroviaires ou toute autre personne ayant des raisons commerciales ou de service public d'acquérir des capacités de l'infrastructure, telle qu'un opérateur de transport combiné, un port, un chargeur, un transitaire ou une autorité organisatrice de transport ferroviaire ».
 
@@ -1556,7 +1799,7 @@ Dans le cadre des nouvelles modalités d'accès aux SI pour les nouveaux opérat
 
 Est défini comme « candidat demandeur de capacité », un candidat ayant effectivement procédé à des expressions de besoins 24h ou des commandes de sillons-jours.
 
-## 3.2.2 MODALITÉS D'ACCES AU RÉSEAU FERRÉ NATIONAL
+## [section_header] 3.2.2 MODALITÉS D'ACCES AU RÉSEAU FERRÉ NATIONAL
 
 Ont un droit d'accès au réseau ferré national les entreprises ferroviaires établies dans un Etat membre de l'Union européenne ou appliquant des règles équivalentes à celles de l'Union européenne en vertu d'accords conclus avec celle-ci.
 
@@ -1564,21 +1807,25 @@ Les entreprises ferroviaires peuvent également assurer uniquement la traction.
 
 En application des  décrets n° 2003-194 et n° 2019-525, toute entreprise ferroviaire voulant effectuer des services de transport ferroviaire et avoir accès à l'infrastructure ferroviaire doit être en possession :
 
-- -d'une  licence  d'entreprise  ferroviaire,  à  l'exception  des  entreprises  visées  aux  1°  à  5°  de l'article L.2122-10 du Code des transports (point 3.2.3) ;
+-d'une  licence  d'entreprise  ferroviaire,  à  l'exception  des  entreprises  visées  aux  1°  à  5°  de l'article L.2122-10 du Code des transports (point 3.2.3) ;
 
-- -d'un  certificat  de  sécurité  unique  valable  pour  les  services  concernés,  pour  l'utilisation effective de l'infrastructure (point 3.2.4) ;
-- -d'une attestation d'assurance (point 3.2.5).
+<!-- page: 53 -->
+
+-d'un  certificat  de  sécurité  unique  valable  pour  les  services  concernés,  pour  l'utilisation effective de l'infrastructure (point 3.2.4) ;
+
+-d'une attestation d'assurance (point 3.2.5).
 
 Elle doit également conclure un contrat d'utilisation de l'infrastructure avec SNCF Réseau (point 3.3.2).
 
 SNCF Réseau invite les entreprises ferroviaires à contacter le guichet unique (point 1.6.1), pour toute démarche visant à obtenir l'accès au réseau ferré national.
 
-## 3.2.3 LICENCE D'ENTREPRISE FERROVIAIRE
+## [section_header] 3.2.3 LICENCE D'ENTREPRISE FERROVIAIRE
 
 La licence d'entreprise ferroviaire est nécessaire pour exercer une ou plusieurs des activités suivantes liées  au  transport  de  voyageurs,  au  transport  de  marchandises  et/ou  à  la  traction  seule.  Elle  est délivrée :
 
-- -En France, par arrêté du ministre chargé des transports (point 1.6.6) dans les conditions fixées par le  titre II du décret n° 2003-194, l'arrêté du 6 mai 2003 fixant les modalités de délivrance, de suspension temporaire et de retrait des licences d'entreprises ferroviaires et l'arrêté du 20 mai 2003 fixant les seuils en matière de capital social, les pièces justificatives à fournir pour apprécier  la  condition  de  capacité  financière  et  les  montants  minimaux  des  plafonds  de garantie à prendre en compte pour l'attribution de la licence d'entreprise ferroviaire,
-- -Ou par l'autorité compétente dans un autre Etat membre de l'Union européenne ou appliquant des  règles  équivalentes  à  celles  de  l'Union  européenne  en  vertu  d'accords  conclus  avec celle- ci.
+-En France, par arrêté du ministre chargé des transports (point 1.6.6) dans les conditions fixées par le  titre II du décret n° 2003-194, l'arrêté du 6 mai 2003 fixant les modalités de délivrance, de suspension temporaire et de retrait des licences d'entreprises ferroviaires et l'arrêté du 20 mai 2003 fixant les seuils en matière de capital social, les pièces justificatives à fournir pour apprécier  la  condition  de  capacité  financière  et  les  montants  minimaux  des  plafonds  de garantie à prendre en compte pour l'attribution de la licence d'entreprise ferroviaire,
+
+-Ou par l'autorité compétente dans un autre Etat membre de l'Union européenne ou appliquant des  règles  équivalentes  à  celles  de  l'Union  européenne  en  vertu  d'accords  conclus  avec celle- ci.
 
 La licence d'entreprise ferroviaire est valable sur tout le territoire de l'Union européenne.
 
@@ -1586,17 +1833,23 @@ L'obtention de la licence d'entreprise ferroviaire est subordonnée au respect d
 
 Toutefois,  en application  de l'article  L.2122-10  du  Code  des  transports, l'obtention de la licence d'entreprise ferroviaire n'est pas exigée pour les entreprises :
 
-- -dont les activités  sont limitées  à la seule fourniture  de services de navettes pour véhicules routiers circulant uniquement sur la liaison fixe transmanche mentionnée à l'article L. 2111-8 ;
-- -qui exploitent uniquement des services urbains ou suburbains de transport de voyageurs ;
-- -qui  exploitent  uniquement  des  services  ferroviaires  de  transport  de  voyageurs  sur  des infrastructures ferroviaires locales ou régionales autonomes ;
-- -qui exploitent uniquement des services régionaux de fret ferroviaire ;
-- -qui exploitent uniquement des services de fret sur une infrastructure ferroviaire privée à l'usage exclusif de son propriétaire.
+-dont les activités  sont limitées  à la seule fourniture  de services de navettes pour véhicules routiers circulant uniquement sur la liaison fixe transmanche mentionnée à l'article L. 2111-8 ;
+
+-qui exploitent uniquement des services urbains ou suburbains de transport de voyageurs ;
+
+-qui  exploitent  uniquement  des  services  ferroviaires  de  transport  de  voyageurs  sur  des infrastructures ferroviaires locales ou régionales autonomes ;
+
+-qui exploitent uniquement des services régionaux de fret ferroviaire ;
+
+-qui exploitent uniquement des services de fret sur une infrastructure ferroviaire privée à l'usage exclusif de son propriétaire.
 
 De plus amples informations sont disponibles sur le site internet du ministère chargé des transports à l'adresse suivante :https://www.ecologie.gouv.fr/licence-dentreprise-ferroviaire.
 
 Dans le cadre d'une démarche visant à l'obtention d'une licence d'entreprise ferroviaire, il est possible d'obtenir tous les renseignements en prenant contact avec le service compétent du ministère à la DGITM via l'adresse de messagerie suivante : licences-ef@developpement-durable.gouv.fr.
 
-## 3.2.4 CERTIFICAT DE SECURITE
+<!-- page: 54 -->
+
+## [section_header] 3.2.4 CERTIFICAT DE SECURITE
 
 Une entreprise ferroviaire ne peut avoir accès au réseau ferré national exploité sous le régime du  décret 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire et modifiant ou abrogeant certaines dispositions réglementaires sans être titulaire d'un certificat de sécurité unique. Le certificat de sécurité unique  est délivré depuis le 16 juin 2019 par l'agence de l'Union européenne pour les chemins de fer, ou par l'EPSF pour une exploitation restreinte au territoire national, dans les conditions fixées par le décret n° 2019-525 et le règlement d'exécution européen n°2018-763.
 
@@ -1606,17 +1859,23 @@ En ce qui concerne les lignes qui sont exploitées sous le régime du décret n�
 
 Ces lignes sont, à la date du 10 décembre 2023 :
 
-- -ligne de Saint-Gervais-les-Bains-Le Fayet à Vallorcine
-- -ligne de Villefranche - Vernet-les-Bains à Latour-de-Carol - Entveig
-- -ligne de Salbris à Valencay
-- -ligne de tram-train T4 Aulnay - Bondy
-- -ligne de tram-train T11 Epinay-sur-Seine - Le Bourget
-- -ligne de tram-train T13 Saint-Cyr - Saint Germain en Laye
-- -ligne de tram-train Mulhouse - Vallée de la Thur sur la section Rond-point Strickler - Lutterbach.
+-ligne de Saint-Gervais-les-Bains-Le Fayet à Vallorcine
+
+-ligne de Villefranche - Vernet-les-Bains à Latour-de-Carol - Entveig
+
+-ligne de Salbris à Valencay
+
+-ligne de tram-train T4 Aulnay - Bondy
+
+-ligne de tram-train T11 Epinay-sur-Seine - Le Bourget
+
+-ligne de tram-train T13 Saint-Cyr - Saint Germain en Laye
+
+-ligne de tram-train Mulhouse - Vallée de la Thur sur la section Rond-point Strickler - Lutterbach.
 
 En cas de suspension ou retrait du certificat de sécurité, l'entreprise ferroviaire doit immédiatement prévenir le gestionnaire d'infrastructure et cesser son activité ainsi que les activités de ses éventuels candidats, autorisés sur le système ferroviaire, à la réception de la notification de la suspension ou retrait.
 
-## 3.2.5 ATTESTATION D'ASSURANCE
+## [section_header] 3.2.5 ATTESTATION D'ASSURANCE
 
 L'attestation d'assurance, ou un document équivalent, doit couvrir la période pour laquelle l'entreprise ferroviaire souhaite l'accès au réseau. Son montant couvre notamment les dommages que les activités de l'entreprise ferroviaire pourraient causer à SNCF Réseau.
 
@@ -1626,15 +1885,17 @@ Ce document précisera le montant et l'étendue de la couverture financière app
 
 Il est à noter que :
 
-- -pour les entreprises ferroviaires soumises à l'obligation d'une licence d'entreprise ferroviaire, les modalités exigées sont fixées par l'arrêté du 20 mai 2003 précité (point 2.2.3) ;
+-pour les entreprises ferroviaires soumises à l'obligation d'une licence d'entreprise ferroviaire, les modalités exigées sont fixées par l'arrêté du 20 mai 2003 précité (point 2.2.3) ;
 
 Document de Référence du Réseau 2025 - Version 5 du 13 décembre 2024
 
-- -pour les entreprises ferroviaires non soumises à l'exigence d'une licence d'entreprise ferroviaire en  application  de  l'article  L  2122-10  du  code  des  transports  précité  au  point  2.2.3,  les modalités exigées sont fixées par le décret n° 2020-820 du 30 juin 2020 relatif aux modalités d'obligation d'assurance pour les entreprises non soumises à l'exigence de licence d'entreprise ferroviaire.
+<!-- page: 55 -->
+
+-pour les entreprises ferroviaires non soumises à l'exigence d'une licence d'entreprise ferroviaire en  application  de  l'article  L  2122-10  du  code  des  transports  précité  au  point  2.2.3,  les modalités exigées sont fixées par le décret n° 2020-820 du 30 juin 2020 relatif aux modalités d'obligation d'assurance pour les entreprises non soumises à l'exigence de licence d'entreprise ferroviaire.
 
 En cas de doute sur le caractère suffisant du montant et de l'étendue de la couverture, SNCF Réseau peut contacter le ministère chargé des transports.
 
-## 3.2.6 PRESTATION D'ACCES SECURISE AUX INSTALLATIONS DE SERVICE (BADGES CANIF)
+## [section_header] 3.2.6 PRESTATION D'ACCES SECURISE AUX INSTALLATIONS DE SERVICE (BADGES CANIF)
 
 La détention d'un badge CANIF (contrôle d'accès national interopérable ferroviaire) est une mesure de sûreté liée à la sécurisation des sites et des activités qui y sont déployées. Il est fourni aux personnels des entreprises ferroviaires pour l'accès à certaines installations de service. Ce badge est nominatif et porte les mentions suivantes : nom et prénom de la personne, et nom de l'entreprise.
 
@@ -1646,27 +1907,41 @@ Les entreprises ferroviaires doivent formuler leur demande de badges CANIF ainsi
 
 En outre, par sa qualité de responsable de ce traitement des données à caractère personnel afférentes aux badge CANIF, SNCF Réseau s'engage à respecter les dispositions de la loi n°78-17 du 6 janvier 1978 et au règlement n°2016/679 du Parlement Européen et du Conseil du 27 avril 2016 (RGPD), sur la protection des données à caractère personnel.
 
-## 3.3 CONTRATS
+## [section_header] 3.3 CONTRATS
 
 SNCF Réseau, entreprise  de services,  met  en  place  avec  ses  clients  une  relation  commerciale  qui s'articule à la fois autour :
 
-- -de contrats nécessaires à l'accès au réseau par tout candidat (points 3.3.2 et 3.3.3) :
--  un contrat d'utilisation de l'infrastructure entre SNCF Réseau et l'entreprise ferroviaire ;
--  un contrat d'attribution de sillons entre SNCF Réseau et les autres candidats ;
--  un contrat d'utilisation des systèmes d'information (SI) entre SNCF Réseau et un candidat demandeur de capacité ;
--  un contrat d'utilisation des systèmes d'information (SI) entre SNCF Réseau et un candidat non-demandeur de capacité ;
--  une convention relative aux ouvertures supplémentaires de lignes, gares, et postes
-- -d'autres  contrats  visant  à  approfondir  les  relations  commerciales  avec  les  clients  qui  le souhaitent  et  renforcer  la  contractualisation  de  l'usage  du  réseau  :  les  accords-cadres  de capacités d'infrastructure (point 3.3.1) ;
-- -de contrats liés aux services de communications ferroviaires (point 3.3.2).
+-de contrats nécessaires à l'accès au réseau par tout candidat (points 3.3.2 et 3.3.3) :
 
-- -de contrats liés à l'usage de certaines installations de service (Chapitre 7 - Installations de service) :
--  pour l'utilisation récurrente des voies de service (annexe 7.2),
--  pour l'utilisation des cours de marchandises (annexe 7.3),
--  pour l'utilisation des chantiers de transport combiné (annexe 7.4)
--  pour la mise à disposition d'espaces industriels (annexe 7.5)
--  pour d'autres installations, voir Chapitre 7 - Installations de service ou contacter la PSEF.
+ un contrat d'utilisation de l'infrastructure entre SNCF Réseau et l'entreprise ferroviaire ;
 
-## 3.3.1 ACCORDS-CADRES DE CAPACITÉ D'INFRASTRUCTURE
+ un contrat d'attribution de sillons entre SNCF Réseau et les autres candidats ;
+
+ un contrat d'utilisation des systèmes d'information (SI) entre SNCF Réseau et un candidat demandeur de capacité ;
+
+ un contrat d'utilisation des systèmes d'information (SI) entre SNCF Réseau et un candidat non-demandeur de capacité ;
+
+ une convention relative aux ouvertures supplémentaires de lignes, gares, et postes
+
+-d'autres  contrats  visant  à  approfondir  les  relations  commerciales  avec  les  clients  qui  le souhaitent  et  renforcer  la  contractualisation  de  l'usage  du  réseau  :  les  accords-cadres  de capacités d'infrastructure (point 3.3.1) ;
+
+-de contrats liés aux services de communications ferroviaires (point 3.3.2).
+
+<!-- page: 56 -->
+
+-de contrats liés à l'usage de certaines installations de service (Chapitre 7 - Installations de service) :
+
+ pour l'utilisation récurrente des voies de service (annexe 7.2),
+
+ pour l'utilisation des cours de marchandises (annexe 7.3),
+
+ pour l'utilisation des chantiers de transport combiné (annexe 7.4)
+
+ pour la mise à disposition d'espaces industriels (annexe 7.5)
+
+ pour d'autres installations, voir Chapitre 7 - Installations de service ou contacter la PSEF.
+
+## [section_header] 3.3.1 ACCORDS-CADRES DE CAPACITÉ D'INFRASTRUCTURE
 
 Selon les modalités définies par la directive 2012/34/UE, le règlement d'exécution (UE) 2016/545 de la Commission du 7 avril 2016 sur les procédures et les critères concernant les accords-cadres pour la répartition des capacités de l'infrastructure ferroviaire, le Code des transports et le décret n° 2003194 modifié par le décret n° 2015-1040 du 20 août 2015 relatif à l'accès au réseau ferroviaire, SNCF Réseau peut conclure un accord-cadre avec tout candidat mentionné au point 3.2.1, sous réserve que la demande d'accord-cadre porte sur une ligne-cadre telle que décrite au point 3.3.1.3.
 
@@ -1678,7 +1953,7 @@ En revanche, les procédures de commande et d'attribution de sillons-jours reste
 
 La  capacité  de  l'infrastructure  attribuée  par  la  voie  d'un  accord-cadre  est  désignée  ci-après  par « capacité-cadre ».
 
-## 3.3.1.1 Déclaration de capacité-cadre
+## [section_header] 3.3.1.1 Déclaration de capacité-cadre
 
 En vue d'informer les candidats potentiels à un accord-cadre, SNCF Réseau établit une « Déclaration de capacité-cadre » publiée sur la page «Documents  techniques  cités  dans  le  DRR  » de son site internet, laquelle respecte la confidentialité commerciale.
 
@@ -1686,13 +1961,15 @@ Cette déclaration de capacité-cadre donne une vue d'ensemble de la capacité-c
 
 Elle  est  mise  à  jour  au  plus  tard  trois  (3)  mois  après  la  conclusion,  la  modification  substantielle  ou l'annulation d'un accord-cadre.
 
-## 3.3.1.2 Demande d'accord-cadre Fret
+## [section_header] 3.3.1.2 Demande d'accord-cadre Fret
 
 La demande d'accord-cadre doit être adressée par le candidat demandeur de capacité au chargé de compte national (ou régional) dédié, au plus tard à début juin A-2. Cette demande doit préciser les origines-destinations  concernées,  ainsi  que  les  caractéristiques  des  capacités  correspondantes  à chaque origine-destination. Une fois cette date passée, SNCF Réseau s'engage à traiter sans délai les demandes qu'il a reçues.
 
+<!-- page: 57 -->
+
 Sur  cette  base,  les  caractéristiques  techniques  de  l'accord-cadre,  incluant  les  plages  horaires,  sont négociées entre le candidat et SNCF Réseau pour aboutir à une annexe technique finalisée au plus tard mi-septembre A-2. La plage horaire est définie comme étant « la période spécifiée dans un accordcadre  au  cours  de  laquelle  un  ou  plusieurs  sillons  sont  destinés  à  être  attribués  dans  le  cadre  du processus d'établissement de l'horaire de service annuel »
 
-## 3.3.1.3 Demande d'accord-cadre Voyageurs
+## [section_header] 3.3.1.3 Demande d'accord-cadre Voyageurs
 
 Les accords-cadres Voyageurs pourront être mis en  uvre pour des circulations (sillons commerciaux à charge exclusivement) à partir du SA2026, sur le périmètre du RFN et, uniquement sur des « lignescadres ». L'ouverture d'une ligne-cadre est conditionnée à la présence d'au moins deux (2) candidats demandeurs de capacités, pour une même typologie de ligne (grande vitesse ou ligne classique), ne disposant pas de la même personnalité morale, prévoyant de circuler. Il est entendu que deux (2) candidats  appartenant  à  la  même  personne  morale  mais  agissant  sous  des  noms  commerciaux différents ne peuvent prétendre à la signature de deux (2) accords-cadres distincts sur une même lignecadre.
 
@@ -1708,6 +1985,8 @@ Pour une même ligne-cadre, la capacité-cadre attribuée à l'ensemble des cand
 
 Lorsqu'un  candidat  demandeur  souhaite  conclure  un  accord-cadre  sur  une  ligne-cadre  publiée,  la demande d'accord-cadre Voyageurs doit être  adressée au Directeur  commercial de SNCF  Réseau entre juin A-3 et janvier A-2 au plus tard. Cette demande doit préciser les lignes-cadres concernées, ainsi  que  les  caractéristiques  des  capacités  correspondantes  à  chaque  ligne-cadre.  Une  demande d'accord-cadre  concernant  une  ligne-cadre  déjà  publiée  peut  être  formulée  selon  un  calendrier anticipé par rapport à celui précité si une telle demande est objectivement justifiée par le candidat demandeur, notamment au regard de ses besoins propres au lancement d'un nouveau service. En tout état de cause, un tel accord-cadre ne pourra être signé plus de cinq (5) ans avant la date d'ouverture de la première période de commande de sillons-jours ciblée par le candidat demandeur.
 
+<!-- page: 58 -->
+
 Avant  de  conclure  un  accord-cadre,  le  gestionnaire  d'infrastructure  prend  en  compte  les  critères exposés à l'article 6 du règlement d'exécution (UE) 2016/545 de la Commission du 7 avril 2016.
 
 Les caractéristiques de l'accord-cadre sont négociées entre le candidat demandeur et SNCF Réseau dans le but d'aboutir à une annexe finalisée au plus tard à mi-septembre A-2. La signature de l'accordcadre Voyageurs doit intervenir au plus tard en décembre A-2.
@@ -1716,19 +1995,21 @@ Lorsqu'un candidat demandeur souhaite conclure un AC sur une ligne non encore pu
 
 Dans ce cas, et si SNCF Réseau a l'intention de conclure, la ligne concernée devient automatiquement éligible à la conclusion d'autres accords-cadres. L'information aux parties prenantes se fait par le biais de la publication de la ligne comme ligne-cadre sur le site de SNCF Réseau, sur la page Liste des lignes-cadres voyageurs. Cette publication fixera un délai dans lequel les candidats potentiels seront invités à formuler une demande d'accord-cadre, laquelle devra préciser les volumes envisagés sur la ligne et les HDS considérés. Les demandes d'accords-cadres ainsi reçues dans le délai précité seront alors traitées par SNCF Réseau à l'issue de celui-ci. Les demandes d'accords-cadres sur ces mêmes lignes, reçues postérieurement au délai précité, seront traitées au fil de l'eau dans un second temps.
 
-## 3.3.1.4 Coordination des demandes
+## [section_header] 3.3.1.4 Coordination des demandes
 
 Des conflits peuvent survenir :
 
-- -entre des accords-cadres existants et des demandes de nouveaux accords-cadres ;
-- -entre des accords-cadres existants et des modifications d'accords-cadres ;
-- -entre des demandes de nouveaux accords-cadres.
+-entre des accords-cadres existants et des demandes de nouveaux accords-cadres ;
+
+-entre des accords-cadres existants et des modifications d'accords-cadres ;
+
+-entre des demandes de nouveaux accords-cadres.
 
 Dans  ce  cas,  SNCF  Réseau  mène  une  coordination  conformément  à  l'article  9  du  règlement  n° 2016/545 précité relatif à la « Coordination en cas de demandes d'accords-cadres concurrentes à tout moment après la fin de la prochaine période de validité de l'horaire de service ».
 
 Les principes de la procédure de coordination pour les demandes de sillons concurrentes prévue au chapitre 4 s'appliquent.
 
-## 3.3.1.5 Conclusion de l'accord-cadre
+## [section_header] 3.3.1.5 Conclusion de l'accord-cadre
 
 Avant de conclure un accord-cadre (trame en annexes 3.3.1 et 3.3.2), ou de modifier substantiellement un accord-cadre existant, SNCF Réseau prend notamment en compte les éléments suivants.
 
@@ -1739,6 +2020,8 @@ b) Les besoins commerciaux légitimes du candidat lorsque celui-ci a démontré 
 c)  Les besoins des passagers, du secteur du transport de marchandises et des investisseurs, y compris des entités étatiques et d'autres entités publiques et privées ;
 
 d) La garantie d'un accès non discriminatoire à l'infrastructure et la disponibilité des installations reliées et des services assurés dans celles-ci dans la mesure où ces informations sont mises à la disposition du gestionnaire de l'infrastructure ;
+
+<!-- page: 59 -->
 
 e) Son propre financement et le développement futur du réseau ;
 
@@ -1762,9 +2045,11 @@ a) L'accord-cadre est une condition préalable au financement du matériel roula
 
 b) Il est nécessaire d'accomplir les démarches liées à l'autorisation du matériel roulant visé au point a) ;
 
-- c)  Le  début  de  l'exploitation  des  points  d'expédition  ou  des  terminaux  de  chargement  ou l'ouverture d'un élément de raccordement de l'infrastructure sont programmés selon certaines modalités ;
-- d) Des investissements doivent être effectués sur l'infrastructure en vue d'accroître la capacité ;
-- e) Un contrat de service public existant le prévoit.
+ Le  début  de  l'exploitation  des  points  d'expédition  ou  des  terminaux  de  chargement  ou l'ouverture d'un élément de raccordement de l'infrastructure sont programmés selon certaines modalités ;
+
+Des investissements doivent être effectués sur l'infrastructure en vue d'accroître la capacité ;
+
+Un contrat de service public existant le prévoit.
 
 L'Autorité  de  régulation  des  transports  (ART)  peut  approuver  d'autres  critères  que  ceux  visés  aux points a) à e).
 
@@ -1774,11 +2059,13 @@ Pendant ce délai, la capacité-cadre reste disponible pour d'autres candidats.
 
 Conformément à l'article L.2133-3 du Code des transports, l'accord-cadre peut être soumis par les parties pour avis à l'Autorité de régulation des transports.
 
-## 3.3.1.6 Exécution de l'accord-cadre
+## [section_header] 3.3.1.6 Exécution de l'accord-cadre
 
 La demande et l'attribution de sillons pour chaque horaire de service s'effectuent conformément aux dispositions de l'accord-cadre et du Chapitre 4 - Attribution de capacité ci-après.
 
-## ● Ajustement de la capacité-cadre fixée au titre de l'accord-cadre
+<!-- page: 60 -->
+
+## [section_header] ● Ajustement de la capacité-cadre fixée au titre de l'accord-cadre
 
 L'accord-cadre est régulièrement réexaminé avec le candidat afin d'apprécier la capacité fixée entre les parties au titre de l'accord-cadre. Le candidat informe sans tarder SNCF Réseau de toute intention durable de ne pas utiliser l'intégralité ou une partie de cette capacité.
 
@@ -1788,32 +2075,35 @@ Lorsque le candidat n'a pas l'intention d'utiliser cette proportion de la capaci
 
 À défaut d'information dans ce délai et lorsque le candidat n'utilisera pas l'intégralité ou une partie de la capacité qui a été fixée au titre de l'accord-cadre pendant une période de plus d'un mois, SNCF Réseau réduit ladite capacité pour l'horaire de service en cours, sauf si le candidat ne l'a pas utilisée pour des raisons indépendantes de sa volonté. SNCF Réseau peut également réduire cette capacité pour la période postérieure à l'horaire de service en cours.
 
-- Pénalités
+Pénalités
 
 Les parties peuvent prévoir l'application de pénalités dans le cas de modification ou de résiliation de l'accord-cadre, conformément à l'article 13 du règlement n° 2016/545 précité.
 
-## 3.3.2 CONTRATS AVEC LES ENTREPRISES FERROVIAIRES
+## [section_header] 3.3.2 CONTRATS AVEC LES ENTREPRISES FERROVIAIRES
 
-- Contrat d'utilisation de l'infrastructure
+Contrat d'utilisation de l'infrastructure
 
 En application de l'article L.2122-11 du Code des transports, toute utilisation de l'infrastructure du réseau ferré national pour l'exploitation d'un service de transport est soumise à la signature préalable, par SNCF Réseau et l'entreprise ferroviaire, du « contrat d'utilisation de l'infrastructure du réseau ferré national », dont les conditions générales applicables à la date de publication de ce document figurent en annexe 3.1 et un modèle de conditions particulières, en annexe 3.2.1.
 
-- Contrat d'utilisation des systèmes d'information
+Contrat d'utilisation des systèmes d'information
 
 L'utilisation des systèmes d'informations mis à disposition par SNCF Réseau en vue de demander de la capacité et d'utiliser l'infrastructure du réseau ferré national nécessite la signature par le candidat concerné :
 
-- -Dans le cas d'un candidat demandeur de capacité : du contrat d'utilisation des systèmes d'information (SI), dont les conditions générales applicables à la date de publication du présent document figurent en annexe 3.4.1 et un modèle de conditions particulières en annexe 3.4.2.
+-Dans le cas d'un candidat demandeur de capacité : du contrat d'utilisation des systèmes d'information (SI), dont les conditions générales applicables à la date de publication du présent document figurent en annexe 3.4.1 et un modèle de conditions particulières en annexe 3.4.2.
 
-## OU
+## [section_header] OU
 
-- -Dans le cas d'un candidat non-demandeur de capacité : du contrat d'utilisation des systèmes d'information (SI) disponible en annexe 3.4.3.
-- Contrats d'utilisation des services de communications ferroviaires
+-Dans le cas d'un candidat non-demandeur de capacité : du contrat d'utilisation des systèmes d'information (SI) disponible en annexe 3.4.3.
+
+Contrats d'utilisation des services de communications ferroviaires
 
 L'utilisation des services de communications ferroviaires souscrits auprès de SNCF Réseau nécessite la signature par l'entreprise ferroviaire de contrats d'utilisation ou conditions particulières d'abonnements figurant en annexe 3.2.4.
 
-## 3.3.3 CONTRATS AVEC LES CANDIDATS NON-ENTREPRISES FERROVIAIRES
+<!-- page: 61 -->
 
-- Contrat d'attribution de sillons sur le réseau ferré national
+## [section_header] 3.3.3 CONTRATS AVEC LES CANDIDATS NON-ENTREPRISES FERROVIAIRES
+
+Contrat d'attribution de sillons sur le réseau ferré national
 
 Conformément à l'article L.2122-11 du Code des transports, toute attribution de sillons sur le réseau ferré national à un candidat autre qu'une entreprise ferroviaire en vue de les mettre à disposition d'une ou de plusieurs entreprises ferroviaires pour assurer les services de transport qu'il organise nécessite la signature, par SNCF Réseau et le candidat, d'un « contrat d'attribution de sillons sur le réseau ferré national » dont les conditions générales applicables à la date de publication de ce document sont en annexe 3.1 et un modèle de conditions particulières en annexe 3.2.2.
 
@@ -1821,31 +2111,33 @@ Ce contrat doit être signé préalablement à la désignation par le bénéfici
 
 SNCF Réseau peut être amené à réclamer au demandeur qu'il fournisse des informations permettant d'établir qu'il possède la capacité financière nécessaire préalablement à la signature du contrat.
 
-- Contrat d'utilisation des systèmes d'information
+Contrat d'utilisation des systèmes d'information
 
 L'utilisation des systèmes d'informations mis à disposition par SNCF Réseau en vue de demander de la capacité et d'utiliser l'infrastructure du réseau ferré national nécessite la signature par le candidat concerné :
 
-- -Dans le cas d'un candidat demandeur de capacité : du contrat d'utilisation des systèmes d'information (SI), dont les conditions générales applicables à la date de publication du présent document figurent en annexe 3.4.1 et un modèle de conditions particulières en annexe 3.4.2;
+-Dans le cas d'un candidat demandeur de capacité : du contrat d'utilisation des systèmes d'information (SI), dont les conditions générales applicables à la date de publication du présent document figurent en annexe 3.4.1 et un modèle de conditions particulières en annexe 3.4.2;
 
-## OU
+## [section_header] OU
 
-- -Dans le cas d'un candidat non-demandeur de capacité : du contrat d'utilisation des systèmes d'information (SI) disponible en annexe 3.4.3.
+-Dans le cas d'un candidat non-demandeur de capacité : du contrat d'utilisation des systèmes d'information (SI) disponible en annexe 3.4.3.
 
-## 3.3.4 CONDITIONS COMMERCIALES GÉNÉRALES
+## [section_header] 3.3.4 CONDITIONS COMMERCIALES GÉNÉRALES
 
 Sans objet
 
-## 3.3.5 PROTOCOLE DE GESTION DES ACCIDENTS ET DOMMAGES FERROVIAIRES
+## [section_header] 3.3.5 PROTOCOLE DE GESTION DES ACCIDENTS ET DOMMAGES FERROVIAIRES
 
 Un protocole de gestion des accidents et dommages ferroviaires peut être conclu entre SNCF Réseau et toute entreprise ferroviaire qui le demande.
 
 Ce  protocole  s'applique  aux  accidents  et  dommages  ferroviaires  dans  lesquels  est  impliquée l'entreprise ferroviaire, que la responsabilité en incombe à cette dernière ou à SNCF Réseau. Il a pour objectif  de  favoriser  l'organisation  rapide  des  échanges  d'informations  entre  SNCF  Réseau  et l'entreprise  ferroviaire  et  de  faciliter  et  accélérer  le  règlement  des  dossiers,  notamment  à  enjeu financier limité, ainsi que le versement des indemnités associées.
 
-## 3.4 CONDITIONS D'ACCÈS REQUISES
+## [section_header] 3.4 CONDITIONS D'ACCÈS REQUISES
 
-## 3.4.1 ACCEPTATION DU MATÉRIEL ROULANT
+## [section_header] 3.4.1 ACCEPTATION DU MATÉRIEL ROULANT
 
 Le  décret  n°  2019-525  du  27  mai  2019  dispose  en  son  article  190  « Avant  qu'une  entreprise ferroviaire utilise un véhicule dans le domaine d'utilisation spécifié dans son autorisation de mise sur le marché, elle vérifie :
+
+<!-- page: 62 -->
 
 1°) Que le véhicule est muni d'une autorisation de mise sur le marché délivrée conformément aux sections 1 et 2 du présent chapitre ou de l'autorisation d'exploitation en tenant lieu et qu'il est dûment enregistré ;
 
@@ -1853,36 +2145,47 @@ Le  décret  n°  2019-525  du  27  mai  2019  dispose  en  son  article  190
 
 3°) Que le véhicule est convenablement intégré dans la composition du train au sein duquel il doit être utilisé, en prenant en compte le système de gestion de la sécurité et la spécification technique d'interopérabilité relative à l'exploitation et à la gestion du trafic ».
 
-## 3.4.1.1 Dispositions générales
+## [section_header] 3.4.1.1 Dispositions générales
 
 Pour permettre aux entreprises ferroviaires de satisfaire à leurs obligations prévues au 2° de l'article 190 du décret n° 2019-525 du 27 mai 2019 précité, SNCF Réseau met à disposition des entreprises ferroviaires :
 
-1)  Les  informations  prescrites  par  le  4éme  paquet  ferroviaire  (STI  OPE  2023/1693  &amp;  règlement RINF2019/777/UE).
+1)  Les  informations  prescrites  par  le  4éme  paquet  ferroviaire  (STI  OPE  2023/1693  &  règlement RINF2019/777/UE).
 
 Dans le cas où une entreprise ferroviaire identifierait une caractéristique incomplètement renseignée dans le RINF (registre de l'infrastructure) accessible sur le site internet de l'ERA, pour une ligne faisant  partie  du  périmètre  des  lignes  ferroviaires  dont  SNCF  Réseau  est  le  gestionnaire d'infrastructure,  cette  information  lui  sera  fournie,  après  qu'elle  en  ait  adressé  la  demande  au Support  Clients  et  Partenaires  de  SNCF  Réseau,  conformément  au  §  4.2.2.5.1  du  règlement d'exécution UE/2019/773 dénommé STI OPE précité (*). Les coordonnées du Support Clients et Partenaires sont données ci-après :
 
-- -Courriel : supportclients.si@reseau.sncf.fr
-- -Horaires d'ouverture : du lundi au vendredi (hors jours fériés) de 7h30 à 19h
-- -Numéro de téléphone Azur : 09.72.72.27.29 (prix d'un appel local)
-- -Numéro de téléphone depuis l'étranger : +33 9 72 72 27 29
+-Courriel : supportclients.si@reseau.sncf.fr
+
+-Horaires d'ouverture : du lundi au vendredi (hors jours fériés) de 7h30 à 19h
+
+-Numéro de téléphone Azur : 09.72.72.27.29 (prix d'un appel local)
+
+-Numéro de téléphone depuis l'étranger : +33 9 72 72 27 29
 
 (*) Ne  disposant  pas  des  informations  nécessaires,  SNCF  Réseau  n'est  pas  en  mesure  de communiquer,  par  l'intermédiaire  des  paramètres  1.1.1.5.1  et  1.1.1.5.2  du  règlement  2019/777 modifié, la liste des types de véhicules ou des véhicules compatibles avec l'itinéraire, au regard de la « charge de trafic et de la capacité de charge de l'infrastructure » et des « systèmes de détection des trains ».
 
-Dans le cas où une entreprise ferroviaire souhaiterait obtenir une étude de compatibilité historique réalisée par SNCF Réseau, cette information lui sera fournie après qu'elle en ait adressé la demande à l'adresse IPSYS\_Compatibilite\_MR\_Infra@reseau.sncf.fr. Le délai de réponse est alors à convenir entre SNCF Réseau et l'entreprise ferroviaire intéressée.
+Dans le cas où une entreprise ferroviaire souhaiterait obtenir une étude de compatibilité historique réalisée par SNCF Réseau, cette information lui sera fournie après qu'elle en ait adressé la demande à l'adresse IPSYS_Compatibilite_MR_Infra@reseau.sncf.fr. Le délai de réponse est alors à convenir entre SNCF Réseau et l'entreprise ferroviaire intéressée.
 
 Une  caractéristique  manquante  ou  incomplètement  renseignée  dans  le  RINF  pour  une  ligne ferroviaire du réseau ferré national relevant du périmètre d'un autre gestionnaire d'infrastructure que SNCF RESEAU, d'un grand port maritime ou fluvial français (Paris ou Marseille), ou autre port, d'un gestionnaire de voies ferrées portuaires, cité dans le présent document de référence du réseau, est à obtenir directement auprès de l'entité concernée. Le délai de réponse est alors à convenir entre cette dernière et l'entreprise ferroviaire intéressée.
 
-- 2) Un guide à l'usage des entreprises ferroviaires (IG02043)
-- 3) Une étude d'impacts (IG02053)
+<!-- page: 63 -->
+
+Un guide à l'usage des entreprises ferroviaires (IG02043)
+
+Une étude d'impacts (IG02053)
 
 4) Six procédures pour accompagner les entreprises ferroviaires dans la réalisation de la vérification de la compatibilité :
 
--  IG02037 - Procédure de vérification de compatibilité du véhicule avec la signalisation,
--  IG02038 - Procédure de vérification de la compatibilité des locomotives, voitures, wagons et automoteurs vis-à-vis de l'armement de la voie,
--  IG02039 - Procédure de vérification de la compatibilité des performances d'accélération des véhicules avec les délais d'annonce,
--  IG02040  -  Procédure  de  vérification  de  la  compatibilité  du  gabarit  du  véhicule  avec  les différents items « gabarit » de l'infrastructure,
--  IG02041 - Procédure de vérification de la compatibilité du véhicule avec la traction électrique,
--  IG02042 - Procédure de vérification de la compatibilité des véhicules avec les ponts rails des lignes de SNCF Réseau.
+ IG02037 - Procédure de vérification de compatibilité du véhicule avec la signalisation,
+
+ IG02038 - Procédure de vérification de la compatibilité des locomotives, voitures, wagons et automoteurs vis-à-vis de l'armement de la voie,
+
+ IG02039 - Procédure de vérification de la compatibilité des performances d'accélération des véhicules avec les délais d'annonce,
+
+ IG02040  -  Procédure  de  vérification  de  la  compatibilité  du  gabarit  du  véhicule  avec  les différents items « gabarit » de l'infrastructure,
+
+ IG02041 - Procédure de vérification de la compatibilité du véhicule avec la traction électrique,
+
+ IG02042 - Procédure de vérification de la compatibilité des véhicules avec les ponts rails des lignes de SNCF Réseau.
 
 Ces  procédures,  ainsi  que  le  guide  précité  et  l'étude  d'impacts,  sont  disponibles  sur  la  page «Documents techniques cités dans le DRR » du site internet de SNCF Réseau.
 
@@ -1890,25 +2193,29 @@ Ces  procédures,  ainsi  que  le  guide  précité  et  l'étude  d'impacts,  s
 
 3.4.1.2 Dispositions  relatives  à  l'assistance  aux  entreprises  ferroviaires  proposée  par SNCF Réseau
 
-## ● Objectifs
+## [section_header] ● Objectifs
 
 Conformément à l'article  190  du  décret  n°  2019-525  du  27  mai  2019  qui  dispose  que  le  «  (…) gestionnaire d'infrastructure (…) peut fixer dans son document de référence du réseau, les modalités d'assistance  qu'il  peut  fournir  à  l'entreprise  ferroviaire  dans  le  cadre  de  la  vérification  de  la compatibilité », SNCF Réseau est disposée à vendre des prestations de vérification de la compatibilité de matériel  roulant  à  l'infrastructure.  Le  point  3.4.1.2  fixe  les  modalités  de  mise  en  place  de  ces prestations.
 
-## ● Champ et objet
+## [section_header] ● Champ et objet
 
 La réalisation par SNCF Réseau d'une prestation de vérification de la compatibilité d'un matériel roulant avec des sections de lignes identifiées (voies principales) nécessite la conclusion préalable d'un contrat.
 
 Ce contrat porte sur un ou plusieurs des matériels suivants :
 
-- -les engins moteurs (locomotives, autorails, automotrices, …) ;
-- -les matériels remorqués (voitures, wagons, …).
+-les engins moteurs (locomotives, autorails, automotrices, …) ;
+
+-les matériels remorqués (voitures, wagons, …).
+
+<!-- page: 64 -->
 
 À l'issue de la vérification de la compatibilité, SNCF Réseau délivre un résultat d'étude de compatibilité (EC) qui :
 
-- -détermine si les sections de ligne, sur lesquelles la circulation de ce matériel est envisagée, présentent des caractéristiques compatibles avec les caractéristiques techniques du matériel ;
-- -définit, le cas échéant, des restrictions d'emploi sur une ou plusieurs sections de ligne, voire indique  une  non-compatibilité,  conduisant  à  une  impossibilité  de  circulation  sur  la  ou  les sections de lignes concernée(s).
+-détermine si les sections de ligne, sur lesquelles la circulation de ce matériel est envisagée, présentent des caractéristiques compatibles avec les caractéristiques techniques du matériel ;
 
-## ● Procédure
+-définit, le cas échéant, des restrictions d'emploi sur une ou plusieurs sections de ligne, voire indique  une  non-compatibilité,  conduisant  à  une  impossibilité  de  circulation  sur  la  ou  les sections de lignes concernée(s).
+
+## [section_header] ● Procédure
 
 Lorsqu'une entreprise ferroviaire envisage d'emprunter une ou plusieurs sections de ligne du RFN avec un matériel roulant donné, autorisé conformément à la réglementation en vigueur à la date de cette autorisation, elle vérifie au préalable si ce type de matériel est inscrit dans les documents d'utilisation du réseau applicables à ces sections de ligne, cités au point 3.4.7.
 
@@ -1918,30 +2225,33 @@ Si le matériel autorisé ne figure pas dans les documents relatifs à une ou pl
 
 La demande de prestation doit comporter :
 
-- 1) Une liste des sections de lignes du RFN, regroupées par date de besoin dans l'ordre du plus urgent au moins urgent ou tout autre procédé suffisamment précis pour formaliser le besoin ;
+Une liste des sections de lignes du RFN, regroupées par date de besoin dans l'ordre du plus urgent au moins urgent ou tout autre procédé suffisamment précis pour formaliser le besoin ;
 
 2) Si elle existe, l'autorisation de mise sur le marché (AMM 1 ) du matériel roulant. Elle permet dans ce cas à SNCF Réseau de prendre en compte d'éventuelles contraintes exportées par le matériel roulant vers l'infrastructure ;
 
 3) Les informations techniques relatives au matériel roulant nécessaires pour la réalisation des analyses telles que définies au contrat de prestations.
 
-La demande de prestation est à réaliser via le Formulaire de demande d'étude de comptabilité du matériel  roulant,  disponible  sur  la  page  ».  Il  est  ensuite  à  adresser  par  courrier  électronique  avec demande d'accusé réception  au  guichet  unique  de  SNCF  Réseau  (guichetunique@reseau.sncf.fr), avec copie au chargé de compte s'il est connu, ainsi qu'au service de SNCF Réseau en charge des études de compatibilité. (IPSYS\_Compatibilite\_MR\_Infra@reseau.sncf.fr). À compter de sa réception, SNCF  Réseau  se  rapprochera  du  client  pour  définir  les  conditions  et  termes  contractuels  des prestations à réaliser par SNCF Réseau.
+La demande de prestation est à réaliser via le Formulaire de demande d'étude de comptabilité du matériel  roulant,  disponible  sur  la  page  ».  Il  est  ensuite  à  adresser  par  courrier  électronique  avec demande d'accusé réception  au  guichet  unique  de  SNCF  Réseau  (guichetunique@reseau.sncf.fr), avec copie au chargé de compte s'il est connu, ainsi qu'au service de SNCF Réseau en charge des études de compatibilité. (IPSYS_Compatibilite_MR_Infra@reseau.sncf.fr). À compter de sa réception, SNCF  Réseau  se  rapprochera  du  client  pour  définir  les  conditions  et  termes  contractuels  des prestations à réaliser par SNCF Réseau.
 
 L'évaluation  du  coût  de  cette  prestation  repose  sur  le  périmètre  de  l'étude,  défini  par  les  critères suivants :
 
-- -Matériel  roulant  :  le  type  de  véhicule  (locomotive,  automoteurs,  voiture,  wagon),  le  type d'énergie de propulsion (Diesel, électrique, bi mode), sa connaissance (matériel nouveau ou déjà en circulation), avec ou sans autorisation de mise sur le marché (AMM).
-- -Infrastructure : le périmètre géographique d'étude (nbre de kilomètres étudiés), le type de groupe UIC, l'existence d'une étude antérieure ou non, au format précédant le 4 ème  paquet ferroviaire ou non.
+-Matériel  roulant  :  le  type  de  véhicule  (locomotive,  automoteurs,  voiture,  wagon),  le  type d'énergie de propulsion (Diesel, électrique, bi mode), sa connaissance (matériel nouveau ou déjà en circulation), avec ou sans autorisation de mise sur le marché (AMM).
+
+-Infrastructure : le périmètre géographique d'étude (nbre de kilomètres étudiés), le type de groupe UIC, l'existence d'une étude antérieure ou non, au format précédant le 4 ème  paquet ferroviaire ou non.
 
 1 Pour l'application des articles 2.7, les EF pourront continuer de se prévaloir des AMEC délivrées avant le 16 juin 2019.
 
-- -Items  techniques  à  vérifier  :  la  liste  des  sujets  d'études  de  la  Spécification  Technique Interopérabilité « Exploitation et gestion du trafic » (STI OPE) définie contractuellement ou une étude spécifique sur les ouvrages d'arts
+<!-- page: 65 -->
+
+-Items  techniques  à  vérifier  :  la  liste  des  sujets  d'études  de  la  Spécification  Technique Interopérabilité « Exploitation et gestion du trafic » (STI OPE) définie contractuellement ou une étude spécifique sur les ouvrages d'arts
 
 Chaque étude est réalisée avec les données de l'infrastructure les plus récentes.
 
-## ● Fin de la procédure et effets
+## [section_header] ● Fin de la procédure et effets
 
 Le résultat de ces vérifications fait l'objet d'une étude de compatibilité (EC) adressée à l'entreprise ferroviaire ayant conclu le contrat de prestation avec SNCF Réseau.
 
-- 3.4.1.3 Travaux  d'adaptation  de  l'infrastructure  pour  l'admission  d'un  matériel  roulant présentant des non-compatibilités sur des sections de l'infrastructure
+3.4.1.3 Travaux  d'adaptation  de  l'infrastructure  pour  l'admission  d'un  matériel  roulant présentant des non-compatibilités sur des sections de l'infrastructure
 
 Le  matériel  roulant  pour  lequel  l'attestation  de  compatibilité  fait  état  d'une  ou  plusieurs  noncompatibilité(s) n'est pas autorisé à circuler sur la ou les sections de ligne(s) concernée(s).
 
@@ -1951,11 +2261,11 @@ SNCF Réseau assure le préfinancement des études nécessaires à l'élaboratio
 
 Les études et la réalisation des travaux ne sont engagées qu'après accord entre les parties acté dans une convention ad hoc.
 
-## 3.4.2 DISPOSITIONS CONCERNANT LE PERSONNEL DES ENTREPRISES FERROVIAIRES
+## [section_header] 3.4.2 DISPOSITIONS CONCERNANT LE PERSONNEL DES ENTREPRISES FERROVIAIRES
 
 Le personnel des entreprises ferroviaires doit être en conformité avec la réglementation en vigueur.
 
-## 3.4.3 TRANSPORTS EXCEPTIONNELS
+## [section_header] 3.4.3 TRANSPORTS EXCEPTIONNELS
 
 Il s'agit d'un véhicule et/ou chargement transporté qui, en raison de sa construction/conception, de ses dimensions ou de sa masse, ne répond pas aux paramètres de l'itinéraire, nécessite une autorisation particulière de mouvement et peut nécessiter des conditions de circulation particulières sur tout ou partie du parcours (appendice J du règlement 2019-773 STI-OPE). Il ne peut être admis de ce fait que dans des conditions techniques ou d'exploitations spéciales.
 
@@ -1969,7 +2279,9 @@ Des dispositions complémentaires liées à la gestion opérationnelle des circu
 
 Nota : Les circulations GB respectant les caractéristiques de l'infrastructure ne sont pas considérées comme transports exceptionnels, sous réserve du respect de la carte des lignes apte au gabarit GB consultable via le lien suivant :https://dgo.reseau.sncf.fr/carto-gabarits/
 
-## 3.4.4 MARCHANDISES DANGEREUSES
+<!-- page: 66 -->
+
+## [section_header] 3.4.4 MARCHANDISES DANGEREUSES
 
 On entend par marchandises dangereuses, les matières et objets dont le transport est interdit selon le RID (Règlement international pour le transport ferroviaire de marchandises dangereuses) ou autorisé uniquement sous certaines conditions.
 
@@ -1979,39 +2291,41 @@ L'accès des transports de marchandises dangereuses au réseau ferré national e
 
 Des dispositions complémentaires liées à la gestion opérationnelle des circulations sont définies au Chapitre 6 - Exploitation ferroviaire.
 
-## 3.4.5 CIRCULATIONS D'ESSAI ET AUTRES CIRCULATIONS DEROGATOIRES
+## [section_header] 3.4.5 CIRCULATIONS D'ESSAI ET AUTRES CIRCULATIONS DEROGATOIRES
 
-## 3.4.5.1 Circulations d'essai
+## [section_header] 3.4.5.1 Circulations d'essai
 
 Toute circulation d'essai sur le réseau ferré national, effectuée dans le cadre des dispositions de l'arrêté du 23 mars 2021 relatif aux autorisations temporaires de circulation ferroviaire aux fins d'essais, doit faire l'objet d'une autorisation préalable de l'EPSF (point 1.6.6), suivant le processus et les exigences définies dans le document RFN-CG-MR 03 H-01-n°001 « Circulations dérogatoires ». Ce document est disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau. Cela concerne notamment les circulations pour la réalisation d'essais de matériels roulants n'ayant pas encore d'autorisation de mise sur le marché.
 
-La demande d'avis au GI SNCF Réseau décrite dans ce document doit être adressée à SNCF Réseau par courrier électronique à l'adresse : IPSYS\_circulations\_derogatoires@reseau.sncf.fr.
+La demande d'avis au GI SNCF Réseau décrite dans ce document doit être adressée à SNCF Réseau par courrier électronique à l'adresse : IPSYS_circulations_derogatoires@reseau.sncf.fr.
 
-## 3.4.5.2 Autres circulations dérogatoires
+## [section_header] 3.4.5.2 Autres circulations dérogatoires
 
 Toute  circulation  dérogatoire  sur  le  réseau  ferré  national,  qui  ne  rentre  pas  dans  le  cadre  des dispositions  de  l'arrêté  du  23  mars  2021,  mais  circulant  dans  des  conditions  dérogatoires  à  la documentation technique et d'exploitation, doit faire l'objet d'un avis des GI concernés, suivant le processus  et  les  exigences  définies  dans  le  document  RFN-CG-MR  03  H-01-n°001  « Circulations dérogatoires » disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau.
 
-La demande d'avis au GI SNCF Réseau, décrite dans ce document, doit être adressée à SNCF Réseau par courrier électronique à l'adresse :  IPSYS\_circulations\_derogatoires@reseau.sncf.fr.
+La demande d'avis au GI SNCF Réseau, décrite dans ce document, doit être adressée à SNCF Réseau par courrier électronique à l'adresse :  IPSYS_circulations_derogatoires@reseau.sncf.fr.
 
-## 3.4.6 AUTRES CONDITIONS SPÉCIFIQUES
+## [section_header] 3.4.6 AUTRES CONDITIONS SPÉCIFIQUES
 
 Les documents référencés ci-dessous sont des documents d'exploitation ou des règles d'exploitation particulières et sont disponibles dans le système d'information DocExplore (point 3.4.7) et sur la page Documents techniques cités dans le DRR du site internet de SNCF Réseau.
 
-- 3.4.6.1 Conditions  spécifiques  pour  l'utilisation  de  voies  du  RFN  pour  des  circulations touristiques régulières
+3.4.6.1 Conditions  spécifiques  pour  l'utilisation  de  voies  du  RFN  pour  des  circulations touristiques régulières
 
 La circulation touristique régulière s'effectue sur des lignes ou des sections de lignes lors de périodes n'offrant pas de capacité d'infrastructure.
 
 La circulation touristique régulière est soumise à la signature d'une convention entre SNCF Réseau, la personne morale désignée pour l'exploitation touristique de la ligne et, si cette dernière n'est pas entreprise ferroviaire, la collectivité territoriale concernée, conformément à l'article 20 du décret n° 97-444 modifié.
 
+<!-- page: 67 -->
+
 La circulation touristique régulière est soumise notamment au  décret n° 2019-525 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire. La personne morale désignée pour l'exploitation touristique de la ligne doit, entre autres, respecter la règle d'exploitation particulière RFN-IG-TR 01 C-05-n°004 « Prescriptions relatives à la sécurité des circulations touristiques régulières sur des lignes figurant au document de référence du Réseau », disponible sur la page  Documents techniques  cités  dans  le  DRR    du  site  internet  de  SNCF  Réseau,  qui  prévoit  l'établissement  par l'exploitant d'un règlement de sécurité de l'exploitation, validé par un expert ou organisme qualifié agréé (OQA) relevant du décret n° 2017-440 relatif à la sécurité des transports publics guidés ou à un service de contrôle de l'Etat compétent en matière de transport guidé. Le règlement de sécurité de l'exploitation ainsi que sa validation sont annexés à la convention.
 
 Sur une section de ligne ne figurant pas au DRR, la circulation touristique régulière est soumise à la réglementation en vigueur hors réseau ferré national, notamment au décret n° 2017-440 précité.
 
-## 3.4.6.2 Véhicules exclusivement utilisés pour la réalisation de travaux sur le RFN
+## [section_header] 3.4.6.2 Véhicules exclusivement utilisés pour la réalisation de travaux sur le RFN
 
 En complément éventuellement de l'autorisation de mise sur le marché, ces véhicules doivent disposer d'un agrément de travail. Les conditions de délivrance de l'agrément de travail de ces véhicules sont définies dans les règles d'exploitation particulières RFN-CG-MR 03 A-00-n°003 et RFN-CG-MR 03 A00-n°005, intitulées respectivement « Processus autorisant la circulation et le travail des véhicules exclusivement utilisés pour la réalisation de travaux » et « Véhicules exclusivement utilisés pour la réalisation de travaux. Caractéristiques techniques », disponibles sur la page Documents techniques cités dans le DRR  du site internet de SNCF Réseau.
 
-## 3.4.6.3 Graissage des rails par le matériel roulant
+## [section_header] 3.4.6.3 Graissage des rails par le matériel roulant
 
 Sur  les  RFN,  les  entreprises  ferroviaires  sont  responsables  de  la  lubrification  du  contact  rail-roue, quelles que soient les conditions d'environnement ou de tracé. A cette fin, le document SAM S 801 « Lubrification  du  contact  roue-rail  par  le  matériel  roulant » publié par l'EPSF constitue un moyen acceptable  de  conformité.  A  défaut  du  respect  des  dispositions  de  ce  texte,  il  appartient  aux entreprises ferroviaires d'être en capacité de démontrer la conformité à cette obligation. .
 
@@ -2021,51 +2335,61 @@ Au cours de cette commission, les entreprises ferroviaires (ou entités en charg
 
 Ces  éléments  sont  à  communiquer  par  les  entreprises  Ferroviaires  (ou  entités  en  charge  de  la maintenance  du  matériel  roulant,  le  cas  échéant)  à  SNCF  Réseau  un  (1)  mois  avant  la  date  de  la commission.
 
-## 3.4.7 DOCUMENTATION
+## [section_header] 3.4.7 DOCUMENTATION
 
 Outre le respect des dispositions législatives et réglementaires (point 1.3), l'utilisation du réseau ferré national est soumise au respect de la documentation ci-après.
 
-## ● Documentation établie en application du décret n°2019-525
+<!-- page: 68 -->
+
+## [section_header] ● Documentation établie en application du décret n°2019-525
 
 La  documentation  établie  en  application  des  articles  1,  14  et  15  du  décret  n°  2019-525  susvisé comprend  la  documentation  d'exploitation  et  les  règles  d'exploitation  particulières.  Les  parties directement intéressées par l'élaboration et la mise à jour de ces documents sont consultées dans les conditions décrites dans l'annexe 1.2.
 
-## ● Documentation d'exploitation
+## [section_header] ● Documentation d'exploitation
 
 Cette  documentation  d'exploitation,  établie  et  publiée  par  SNCF  Réseau,  ou  le  gestionnaire d'infrastructure en charge de la gestion opérationnelle des circulations si cette mission lui a été confiée, au moyen du SI DocExplore, accessible via l'Espace clients après demande au Support (point 1.6.1), comporte :
 
-- 1) Les documents d'exploitation de portée nationale ;
+Les documents d'exploitation de portée nationale ;
 
 2)  Les  consignes  locales  d'exploitation  (CLE),  élaborées  et  mises  à  jour  en  déclinaison  de  la réglementation d'Etat ;
 
 3) Le livret A des renseignements techniques (RT) ou, pour certaines lignes, le document en tenant lieu (exemple : les consignes de ligne pour les voies uniques à trafic restreint et les lignes à voie unique à régime d'exploitation particulier), les schémas de signalisation et schémas simplifiés des gares importantes qui décrivent les principales caractéristiques des lignes.
 
-## ● Règles d'exploitation particulières
+## [section_header] ● Règles d'exploitation particulières
 
 En application de l'article 15 du décret susvisé, les règles d'exploitation particulières sont établies par SNCF  Réseau,  ou  le  gestionnaire  d'infrastructure  en  charge  de  la  gestion  opérationnelle  des circulations si cette mission lui a été confiée, pour les activités suivantes.
 
-- 1) La circulation depuis les zones de chantier et vers celles-ci des convois ferroviaires utilisés pour la réalisation de travaux sur le réseau ferré national ;
-- 2) La circulation des convois ferroviaires sur des voies de service ou d'embranchement du réseau ferré  national  lorsqu'elle  relève  d'un  service  de  transport  réalisé  sur  un  réseau  public  ou  privé raccordé à celui-ci ainsi que les man  uvres accomplies à cette occasion par nécessité sur les voies principales ;
-- 3) La circulation des véhicules principalement utilisés sur les infrastructures légères mais équipés de certains  composants  ferroviaires  lourds  nécessaires  pour  permettre  le  transit  sur  une  section confinée et limitée du RFN à des fins de connectivité uniquement ;
-- 4) Les activités réalisées sur les voies du réseau ferré national, y compris la circulation de convois ferroviaires, lors des périodes au cours desquelles il n'est offert aucune capacité d'infrastructure ;
-- 5) La circulation des véhicules à des fins d'essais d'infrastructure sur le réseau concerné.
+La circulation depuis les zones de chantier et vers celles-ci des convois ferroviaires utilisés pour la réalisation de travaux sur le réseau ferré national ;
 
-## ● Consignes et instructions temporaires
+La circulation des convois ferroviaires sur des voies de service ou d'embranchement du réseau ferré  national  lorsqu'elle  relève  d'un  service  de  transport  réalisé  sur  un  réseau  public  ou  privé raccordé à celui-ci ainsi que les man  uvres accomplies à cette occasion par nécessité sur les voies principales ;
+
+La circulation des véhicules principalement utilisés sur les infrastructures légères mais équipés de certains  composants  ferroviaires  lourds  nécessaires  pour  permettre  le  transit  sur  une  section confinée et limitée du RFN à des fins de connectivité uniquement ;
+
+Les activités réalisées sur les voies du réseau ferré national, y compris la circulation de convois ferroviaires, lors des périodes au cours desquelles il n'est offert aucune capacité d'infrastructure ;
+
+La circulation des véhicules à des fins d'essais d'infrastructure sur le réseau concerné.
+
+## [section_header] ● Consignes et instructions temporaires
 
 SNCF  Réseau  fournit  en  temps  utile  aux  entreprises  ferroviaires  les  consignes  et  instructions opérationnelles à caractère temporaire liées à l'état de l'infrastructure, dans les conditions décrites par les  documents  d'utilisation  RFN-NG-SE  01  D-00-n°003  « Information  des  conducteurs  sur  les modifications d'infrastructure »  et  RFN-IG-AG  07 A-05-n°001  « Gestion et fourniture aux opérateurs ferroviaires de documents de sécurité et présentation des sites desservis »  disponibles sur la page Documents techniques cités dans le DRR du site internet de SNCF Réseau.
 
-## ● Autre documentation
+<!-- page: 69 -->
+
+## [section_header] ● Autre documentation
 
 SNCF  Réseau  établit  d'autres  documents  opposables  contractuellement  (documents  de  principe, documents  d'utilisation  du  réseau  notamment).  Ils  sont  mis  à  disposition  sur  la  page  Documents techniques cités dans le DRR du site internet de SNCF Réseau. Leur liste est indiquée en annexe 1.2.
 
-## 3.4.8 SÛRETÉ
+## [section_header] 3.4.8 SÛRETÉ
 
 Les entreprises ferroviaires doivent respecter les exigences de sûreté applicables pour utiliser le réseau ferré  national  en  ce  qui  concerne  le  personnel,  le  contrôle  ou  la  surveillance  du  matériel  roulant composant les trains, les voyageurs et les marchandises transportées.
 
-## CHAPITRE 4 ATTRIBUTION DE CAPACITÉ
+<!-- page: 70 -->
 
-## 4.1 INTRODUCTION
+## [section_header] CHAPITRE 4 ATTRIBUTION DE CAPACITÉ
 
-## 4.1.1 OBJET
+## [section_header] 4.1 INTRODUCTION
+
+## [section_header] 4.1.1 OBJET
 
 Le  présent  chapitre  a  pour  objet  de  décrire  les  principes  relatifs  au  processus  d'attribution  des capacités d'infrastructure sur le réseau ferré national par SNCF Réseau, aux différents demandeurs de capacité (sillons et travaux), et d'informer ces derniers sur le calendrier (point 4.5) et la procédure de demande (points 4.2.3 et 4.2.5) et d'attribution de sillons (points 4.2.4, 4.2.6 et 4.5.4) pour l'horaire de service A (dit aussi « service annuel »), correspondant à l'année du présent DRR. Les procédures d'attribution de capacité sur installations de service sont présentées au point 7.3.5.6.
 
@@ -2075,10 +2399,11 @@ Les règles relatives à l'attribution de capacité pour les corridors européen
 
 L'horaire de service (HDS) A visé au présent chapitre désigne l'HDS 2025, sauf :
 
-- -pour la phase de structuration des capacités, où l'HDS A désigne l'HDS 2028 ;
-- -pour la phase de pré-construction, où l'HDS A désigne l'HDS 2027.
+-pour la phase de structuration des capacités, où l'HDS A désigne l'HDS 2028 ;
 
-## 4.1.2 LES DEMANDEURS DE CAPACITE
+-pour la phase de pré-construction, où l'HDS A désigne l'HDS 2027.
+
+## [section_header] 4.1.2 LES DEMANDEURS DE CAPACITE
 
 Comme indiqué au point 3.2.1 conformément à l'article L.2122-11 du Code des transports, peut présenter des demandes d'attribution de sillons tout « candidat » remplissant les conditions définies au  Chapitre 3 - Conditions d'accès au RFN. Tout candidat peut également demander à accéder et à utiliser les installations de service décrites au Chapitre 7 - Installations de service.
 
@@ -2086,37 +2411,49 @@ Les candidats sont, dans le présent chapitre 4, désignés sous le terme géné
 
 Au sein des candidats, parmi ceux qui commandent des sillons, on distingue :
 
-- -les  «  candidats  connus  », qui ont effectivement demandé des sillons avant la fin de la période de demandes de sillons pour l'horaire de service A définie au point 4.3.1 ;
-- -les « candidats potentiels », qui n'ont pas demandé de sillon pour l'horaire de service A, mais qui manifestent leur volonté de fournir des services ferroviaires et de demander des sillons durant cet horaire de service. Ils peuvent formuler des observations sur le projet d'horaire de service dans les conditions définies au point 4.3.1.
+-les  «  candidats  connus  », qui ont effectivement demandé des sillons avant la fin de la période de demandes de sillons pour l'horaire de service A définie au point 4.3.1 ;
+
+-les « candidats potentiels », qui n'ont pas demandé de sillon pour l'horaire de service A, mais qui manifestent leur volonté de fournir des services ferroviaires et de demander des sillons durant cet horaire de service. Ils peuvent formuler des observations sur le projet d'horaire de service dans les conditions définies au point 4.3.1.
 
 Dans les cas particuliers cités ci-dessous, les droits et obligations attachés aux sillons attribués à un candidat A peuvent être exercés de plein droit par un candidat B :
 
-- -si le candidat A est une autorité organisatrice des transports déjà attributaire de sillons et que cette dernière souhaite que le candidat (B), qu'elle a désigné comme titulaire d'un contrat  de  service  public  de  transport  ferroviaire  de  voyageurs,  les  reprenne  sous  sa responsabilité ; dans le cas où le candidat B viendrait à ne plus exercer ses responsabilités en la matière (perte ou fin de contrat), les sillons reviennent alors au candidat A ;
-- -en  cas  de  nécessité  de  changer  l'identité  de  l'attributaire  des  sillons  à  la  suite  d'une opération  de  cession,  fusion  ou  acquisition,  entre  un  candidat  A  et  un  candidat  B, entraînant une reprise de l'activité pour laquelle les sillons ont été initialement attribués ;
-- -en cas de nécessité de changer l'identité de l'attributaire des sillons à la suite de la création par le candidat A d'une filiale (candidat B), dédiée à reprendre l'activité pour laquelle les sillons ont été initialement attribués.
+<!-- page: 71 -->
+
+-si le candidat A est une autorité organisatrice des transports déjà attributaire de sillons et que cette dernière souhaite que le candidat (B), qu'elle a désigné comme titulaire d'un contrat  de  service  public  de  transport  ferroviaire  de  voyageurs,  les  reprenne  sous  sa responsabilité ; dans le cas où le candidat B viendrait à ne plus exercer ses responsabilités en la matière (perte ou fin de contrat), les sillons reviennent alors au candidat A ;
+
+-en  cas  de  nécessité  de  changer  l'identité  de  l'attributaire  des  sillons  à  la  suite  d'une opération  de  cession,  fusion  ou  acquisition,  entre  un  candidat  A  et  un  candidat  B, entraînant une reprise de l'activité pour laquelle les sillons ont été initialement attribués ;
+
+-en cas de nécessité de changer l'identité de l'attributaire des sillons à la suite de la création par le candidat A d'une filiale (candidat B), dédiée à reprendre l'activité pour laquelle les sillons ont été initialement attribués.
 
 Les modalités de mise en  uvre sont définies entre SNCF Réseau et les candidats concernés et font l'objet  de  la  signature  d'un  contrat  ad  hoc  ou  de  stipulations  particulières  dans  les  contrats classiquement applicables.
 
-## 4.1.3 RESPONSABILITÉS DES DEMANDEURS
+## [section_header] 4.1.3 RESPONSABILITÉS DES DEMANDEURS
 
 Le présent article n'a pas pour ambition de définir de façon exhaustive le niveau de responsabilité des demandeurs  mais  vise  à  faciliter  leurs  démarches  en  explicitant  leurs  responsabilités  lors  de  la formulation d'une demande de sillon en fonction des caractéristiques du convoi correspondant (voir également le point 4.2.3).
 
 Le demandeur élabore la demande de sillons sous sa responsabilité. Il lui appartient donc :
 
-- -de  formuler  chaque  demande  en  y  intégrant  les  informations  sur  le  demandeur  et  le parcours revendiqué, la gare d'origine, le ou les arrêts intermédiaires, la gare d'arrivée, les caractéristiques du convoi, telles que définies et décrites dans le « Manuel du demandeur de capacité commerciale sur la phase amont » et le « Manuel du demandeur de capacité commerciale en construction et adaptation du service annuel », disponible  sur la page Documents techniques cités dans le DRR  du site internet de SNCF Réseau ;
-- -de signaler lors des demandes de capacité les particularités pouvant avoir une influence sur  la  construction  d'un  sillon  ou  sur  les  conditions  d'utilisation  du  réseau,  citées notamment aux points 4.7.1 à 4.7.3 ci-dessous ;
-- -de procéder en amont de la demande de capacité à la vérification de la compatibilité du matériel  roulant  utilisé  avec  l'infrastructure  des  lignes  empruntées,  conformément  aux versions en vigueur de la documentation d'exploitation (point 2.7) ; en cas d'évolution des caractéristiques du convoi susceptibles d'affecter le respect du jalonnement horaire, de demander la modification du sillon attribué ou la création d'un sillon sur mesure en cas d'impossibilité à modifier le sillon existant pour prendre en compte les contraintes réelles du train ;
-- -de  vérifier  en  amont  de  la  demande  de  capacité  la  disponibilité  de  l'infrastructure  en fonction  des  éléments  mis  à  sa  disposition,  de  sorte  que  la  demande  soit  faite  en connaissance  de  cause  (heures  d'ouverture  des  lignes,  gares  et  postes,  fenêtres  et capacités travaux, limitations temporaires de vitesse) ;
-- -de vérifier préalablement à sa demande que son train pourra être réceptionné sur le ou les embranchements à l'heure souhaitée.
+-de  formuler  chaque  demande  en  y  intégrant  les  informations  sur  le  demandeur  et  le parcours revendiqué, la gare d'origine, le ou les arrêts intermédiaires, la gare d'arrivée, les caractéristiques du convoi, telles que définies et décrites dans le « Manuel du demandeur de capacité commerciale sur la phase amont » et le « Manuel du demandeur de capacité commerciale en construction et adaptation du service annuel », disponible  sur la page Documents techniques cités dans le DRR  du site internet de SNCF Réseau ;
 
-## 4.1.3.1 Responsabilités particulières des entreprises ferroviaires
+-de signaler lors des demandes de capacité les particularités pouvant avoir une influence sur  la  construction  d'un  sillon  ou  sur  les  conditions  d'utilisation  du  réseau,  citées notamment aux points 4.7.1 à 4.7.3 ci-dessous ;
+
+-de procéder en amont de la demande de capacité à la vérification de la compatibilité du matériel  roulant  utilisé  avec  l'infrastructure  des  lignes  empruntées,  conformément  aux versions en vigueur de la documentation d'exploitation (point 2.7) ; en cas d'évolution des caractéristiques du convoi susceptibles d'affecter le respect du jalonnement horaire, de demander la modification du sillon attribué ou la création d'un sillon sur mesure en cas d'impossibilité à modifier le sillon existant pour prendre en compte les contraintes réelles du train ;
+
+-de  vérifier  en  amont  de  la  demande  de  capacité  la  disponibilité  de  l'infrastructure  en fonction  des  éléments  mis  à  sa  disposition,  de  sorte  que  la  demande  soit  faite  en connaissance  de  cause  (heures  d'ouverture  des  lignes,  gares  et  postes,  fenêtres  et capacités travaux, limitations temporaires de vitesse) ;
+
+-de vérifier préalablement à sa demande que son train pourra être réceptionné sur le ou les embranchements à l'heure souhaitée.
+
+<!-- page: 72 -->
+
+## [section_header] 4.1.3.1 Responsabilités particulières des entreprises ferroviaires
 
 Lorsque  le  demandeur  est  une  entreprise  ferroviaire,  certaines  responsabilités  particulières  lui incombent.
 
 Ainsi, dans tous les cas, il est de la responsabilité de l'entreprise ferroviaire utilisant un sillon d 'engager des convois dont les matériels et la composition (traction, masse, longueur, marchandises dangereuses, transport exceptionnel...) sont :
 
-- -compatibles avec le jalonnement horaire du  sillon attribué. Pour un nouvel engin moteur, il peut être nécessaire de le modéliser préalablement dans l'outil horaire (voir point 4.2.3).
-- -compatibles avec les temps d'arrêts commerciaux et temps techniques pour les opérations en gare (exemple : coupe / accroche) du sillon attribué.
+-compatibles avec le jalonnement horaire du  sillon attribué. Pour un nouvel engin moteur, il peut être nécessaire de le modéliser préalablement dans l'outil horaire (voir point 4.2.3).
+
+-compatibles avec les temps d'arrêts commerciaux et temps techniques pour les opérations en gare (exemple : coupe / accroche) du sillon attribué.
 
 L'entreprise  ferroviaire  a  en  outre  pour  responsabilité  de  respecter  les  obligations  d'information préalables à la circulation prévues par le  Chapitre 6 - Exploitation ferroviaire relative à la gestion opérationnelle des circulations sur le réseau ferré national.
 
@@ -2124,42 +2461,49 @@ L'attention doit être portée sur le report complet vers l'EF de la responsabil
 
 Pour les demandes faites au gabarit GB, la description de l'itinéraire devra être suffisamment précise, afin que le sillon tracé par l'horairiste n'emprunte que les lignes désignées aptes au gabarit GB sur la carte correspondante.
 
-## 4.1.3.2 Responsabilités particulières des demandeurs autres qu'entreprise ferroviaire
+## [section_header] 4.1.3.2 Responsabilités particulières des demandeurs autres qu'entreprise ferroviaire
 
 Le demandeur qui n'est pas une entreprise ferroviaire a pour responsabilité :
 
-- -de s'assurer qu'il  dispose  des  ressources  (humaines,  techniques  et  financières)  suffisantes pour maîtriser l'organisation nécessaire (notamment en termes d'accès à l'information) des traitements des demandes de capacité ;
-- -de garantir à SNCF Réseau que l'entreprise ferroviaire désignée est capable de respecter les horaires de circulation qui lui ont été communiqués par SNCF Réseau au titre de l'attribution de  capacité,  sauf  exceptions  prévues  par  les  textes  réglementaires  (article  5.2.1  de l'annexe 3.1).  À  ce  titre,  le  candidat  communique  à  l'entreprise  ferroviaire  désignée  les informations qu'il détient et qui sont nécessaires à la formation par cette dernière de convois compatibles avec les caractéristiques du sillon attribué et capables notamment de respecter le jalonnement horaire de ce sillon ;
-- -de communiquer à SNCF Réseau le nom de la ou des entreprises ferroviaires à qui il met les sillons à disposition au plus tard trente (30) jours avant toute circulation afférente via les outils de commande.
+-de s'assurer qu'il  dispose  des  ressources  (humaines,  techniques  et  financières)  suffisantes pour maîtriser l'organisation nécessaire (notamment en termes d'accès à l'information) des traitements des demandes de capacité ;
 
-## 4.1.4 LES ENTITES DE SNCF RESEAU IMPLIQUEES DANS LE PROCESSUS D'ATTRIBUTION DES SILLONS
+-de garantir à SNCF Réseau que l'entreprise ferroviaire désignée est capable de respecter les horaires de circulation qui lui ont été communiqués par SNCF Réseau au titre de l'attribution de  capacité,  sauf  exceptions  prévues  par  les  textes  réglementaires  (article  5.2.1  de l'annexe 3.1).  À  ce  titre,  le  candidat  communique  à  l'entreprise  ferroviaire  désignée  les informations qu'il détient et qui sont nécessaires à la formation par cette dernière de convois compatibles avec les caractéristiques du sillon attribué et capables notamment de respecter le jalonnement horaire de ce sillon ;
+
+-de communiquer à SNCF Réseau le nom de la ou des entreprises ferroviaires à qui il met les sillons à disposition au plus tard trente (30) jours avant toute circulation afférente via les outils de commande.
+
+## [section_header] 4.1.4 LES ENTITES DE SNCF RESEAU IMPLIQUEES DANS LE PROCESSUS D'ATTRIBUTION DES SILLONS
 
 Différentes  entités  interviennent  dans  le  processus  et  sont  en  contact  avec  les  demandeurs.  Les départements  grands  comptes  voyageurs  et  fret  de  la  Direction  commerciale,  les  pôles  clients  et services des Directions Territoriales peuvent assister le demandeur dans l'identification de son besoin et la prise de contact avec l'entité correspondante ou effectuer la transmission de la demande.
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 73 -->
 
-- -Entités en charge de la répartition de capacité du « grand amont »
--  La Direction Marketing, Commercial et Régulation (DMCR)
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+
+-Entités en charge de la répartition de capacité du « grand amont »
+
+ La Direction Marketing, Commercial et Régulation (DMCR)
 
 La  Direction  Marketing,  Commercial  et  Régulation  intervient  dans  la  connaissance  des  besoins prévisionnels des marchés utiles à la phase de structuration.
 
--  La Direction Générale Stratégie et Affaires Corporate (DGSAC)
+ La Direction Générale Stratégie et Affaires Corporate (DGSAC)
 
 La Direction Générale Stratégie et Affaires Corporate détermine les stratégies par axe en fonction des politiques nationales, des besoins prévisionnels des marchés et de la performance de l'infrastructure. Elle anime les plateformes de coordination services et infrastructures, nationales ou territoriales.
 
--  La Direction Générale Exploitation Système (DGEX)
+ La Direction Générale Exploitation Système (DGEX)
 
 La  Direction  Ingénierie  Capacitaire  (INCA),  au  sein  de  la  Direction  Générale  Exploitation  Système, optimise la répartition capacitaire en fonction des besoins de l'ensemble des demandeurs (internes et externes) et produit les plans d'exploitation.
 
-- -Entités en charge du dialogue industriel
--  Les Départements Grands Comptes Voyageur et Fret, les pôles Clients et Services des Directions Territoriales
+-Entités en charge du dialogue industriel
+
+ Les Départements Grands Comptes Voyageur et Fret, les pôles Clients et Services des Directions Territoriales
 
 Ces équipes commerciales ont pour rôle d'accompagner les demandeurs dans leur utilisation du réseau (contractualisation, demandes de sillons, développement d'activités…).
 
 Elles assurent également, en lien avec les autres entités de SNCF Réseau concernées, les concertations et itérations nécessaires avec les demandeurs afin de trouver des solutions qui répondent à leur besoin.
 
-- -Entités en charge de l'allocation de capacité Amont et Aval
--  La Direction de l'Attribution des Capacités (DAC)
+-Entités en charge de l'allocation de capacité Amont et Aval
+
+ La Direction de l'Attribution des Capacités (DAC)
 
 La DAC a pour mission principale d'assurer la répartition et l'attribution des capacités en répondant au mieux aux demandes de sillons pour satisfaire les  besoins  commerciaux  des  demandeurs,  tout  en dégageant  des  capacités  pour  permettre  la  maintenance,  la  rénovation  et  le  développement  du réseau.
 
@@ -2167,21 +2511,23 @@ Au sein de la DAC, le Pôle Relation Client Sillon (PRCS) assure le dialogue ave
 
 Les  Chargés  de  Dialogue  Sillon  de  ce  même  pôle  sont  identifiés  comme  les  points  d'entrée  des demandeurs nationaux sur les sujets sillons, à partir du projet d'Horaire de Service et jusqu'à la fin de la phase « avant circulation » (J-1 17h).
 
--  Les Bureaux Horaires Régionaux (BHR)
+ Les Bureaux Horaires Régionaux (BHR)
 
 Les Bureaux Horaires Régionaux interviennent dans le traitement des demandes et de la compatibilité sillons / travaux à partir de la phase de construction.
 
--  Les Bureaux Horaires Locaux (BHL)
+ Les Bureaux Horaires Locaux (BHL)
 
 Les Bureaux Horaires Locaux ont pour mission principale de répartir la capacité en gare, en coopération avec la DAC et les BHR.
 
--  Les guichets-capacité et opérationnels
+<!-- page: 74 -->
+
+ Les guichets-capacité et opérationnels
 
 Le guichet capacité traite les demandes de dernière minute (à partir de J-7, J étant le jour prévu pour la circulation). À partir de J-1 17h00, la continuité de la mission est assurée par le guichet opérationnel. Les coordonnées des guichets capacité et opérationnels sont indiquées dans le document de principe « AR 3001 - Capacité de dernière minute ».
 
-## 4.2 DESCRIPTION GÉNÉRALE DES PROCESSUS
+## [section_header] 4.2 DESCRIPTION GÉNÉRALE DES PROCESSUS
 
-## 4.2.1 PRINCIPES
+## [section_header] 4.2.1 PRINCIPES
 
 SNCF Réseau répartit et attribue la capacité sur l'ensemble du réseau ferré national (y compris dans les gares voyageurs) et dans ce cadre, veille à assurer la meilleure utilisation des infrastructures ainsi que le développement équilibré de l'ensemble des services ferroviaires.
 
@@ -2191,9 +2537,11 @@ La capacité utilisable pour le trafic commercial est l'espace-temps d'ouverture
 
 L'attribution de capacité concilie :
 
-- -les besoins tant quantitatifs que qualitatifs, notamment exprimés par les demandeurs,
-- -les possibilités offertes par l'infrastructure,
-- -les exigences de sécurité et de robustesse de conception.
+-les besoins tant quantitatifs que qualitatifs, notamment exprimés par les demandeurs,
+
+-les possibilités offertes par l'infrastructure,
+
+-les exigences de sécurité et de robustesse de conception.
 
 Elle respecte les règles de calcul d'un sillon et de l'élaboration d'un graphique de circulation, dont les principes  et  normes  sont  décrits  dans  l'annexe  4.1  et  le  référentiel  de  robustesse  des  services ferroviaires (AR01424), afin de proposer des sillons compatibles avec la performance de l'infrastructure et de prendre en compte la robustesse de conception.
 
@@ -2205,20 +2553,23 @@ La capacité mise à la disposition des demandeurs est une ressource limitée do
 
 Cependant, les demandeurs de capacité sont également acteurs de la qualité et de l'efficacité du processus, dans la recherche d'un équilibre entre anticipation et stabilité. Dans la mesure du possible, ils doivent anticiper les demandes correspondant à un besoin avéré et confirmé, afin de n'inscrire dans le graphique que des horaires qui ne seront pas remis en cause dans une phase ultérieure. En effet, la multiplication des demandes de création, de modification ou d'optimisation de sillons pour un même besoin de transport pèse sur la charge des équipes de production horaire et sur la performance des processus d'attribution.
 
-## 4.2.2 LES 4 GRANDES ÉTAPES DE L'ÉLABORATION DU GRAPHIQUE
+## [section_header] 4.2.2 LES 4 GRANDES ÉTAPES DE L'ÉLABORATION DU GRAPHIQUE
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 75 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
 
 Les grandes étapes de l'attribution de capacité sont les suivantes :
 
-- -De A-6 à fin avril A-2 : la structuration de la capacité du graphique ;
-- -De mai A-2 à décembre A-2 : la pré-construction du graphique ;
-- -De décembre A-2 à septembre A-1 : la construction de l'horaire de service (HDS) ;
-- -De  septembre  A-1  à  décembre  A  :  l'adaptation  de  l'horaire  de  service,  y  compris  en dernière minute.
+-De A-6 à fin avril A-2 : la structuration de la capacité du graphique ;
+
+-De mai A-2 à décembre A-2 : la pré-construction du graphique ;
+
+-De décembre A-2 à septembre A-1 : la construction de l'horaire de service (HDS) ;
+
+-De  septembre  A-1  à  décembre  A  :  l'adaptation  de  l'horaire  de  service,  y  compris  en dernière minute.
 
 Ces 4 étapes sont illustrées dans le schéma ci-dessous.
-
-<!-- image -->
 
 Chaque étape s'inscrit dans une continuité et une progression par rapport à la précédente, dans une démarche vertueuse.
 
@@ -2226,7 +2577,7 @@ La construction de l'HDS s'appuie ainsi sur la pré-construction, qui s'appuie e
 
 L'adaptation  de  l'HDS  a  quant  à  elle  pour  vocation  l'attribution  de  sillons  supplémentaires  pour répondre à des besoins nouveaux, ainsi que la modification de sillons attribués précédemment.
 
-## 4.2.2.1 La structuration des capacités
+## [section_header] 4.2.2.1 La structuration des capacités
 
 De  A-6  à  fin  avril  A-2,  SNCF  Réseau  structure  la  capacité  du  graphique  et  définit  les  principes d'organisation des sillons et de la capacité dédiée aux travaux.
 
@@ -2234,9 +2585,11 @@ La phase de structuration des capacités s'appuie sur le plan d'exploitation de 
 
 Cette structuration peut, jusqu'à fin octobre A-3, amener à une révision du modèle d'un Plan d'Exploitation déjà publié.
 
+<!-- page: 76 -->
+
 4.2.2.1.1 Conception du plan d'exploitation de référence (PER)
 
-## ● Objectifs généraux
+## [section_header] ● Objectifs généraux
 
 Les  dispositions  de  ce  point  s'appliquent  en  référence  pour  la  production  de  l'HDS 2028  et  des suivants.
 
@@ -2248,18 +2601,25 @@ Il  n'a  donc  pas  vocation  à  être  révisé  en  vue  de  chaque  Service 
 
 Le PER ne crée ni droits, ni obligations, que ce soit pour SNCF Réseau ou pour les demandeurs de capacité.
 
-## ● Instances de travail
+## [section_header] ● Instances de travail
 
 Les  PER  sont  élaborés  en  s'appuyant  sur  les  instances  de  travail  multilatérales  suivantes,  ci-après désignées « les instances » pour l'ensemble du point 4.2.2.1.1 :
 
-- -Les 8 plateformes territoriales de coordination services et infrastructures qui réunissent :
--  Les AOM accompagnées de leurs opérateurs si elles le souhaitent
--  L'alliance  4F  «  Fret Ferroviaire  Français  du  Futur  »  qui  représente  l'ensemble  des opérateurs, chargeurs et terminaux du fret ferroviaire en France
--  Les autres GI éventuels
-- -La Plateforme nationale voyageurs qui réunit l'ensemble des acteurs des services librement organisés actuels et prospects
-- -La Plateforme nationale fret qui réunit l'ensemble des opérateurs, chargeurs et terminaux du fret ferroviaire en France
-- -La  Communauté  Fret  du  COOPERE  qui  rassemblent  les  opérateurs  et  les  associations professionnelles du fret ferroviaire à l'échelle nationale
-- -Les groupes de travail Fret qui réunissent l'ensemble des opérateurs, chargeurs et terminaux à l'échelle d'une ou plusieurs plateformes territoriales de coordination services et infrastructures
+-Les 8 plateformes territoriales de coordination services et infrastructures qui réunissent :
+
+ Les AOM accompagnées de leurs opérateurs si elles le souhaitent
+
+ L'alliance  4F  «  Fret Ferroviaire  Français  du  Futur  »  qui  représente  l'ensemble  des opérateurs, chargeurs et terminaux du fret ferroviaire en France
+
+ Les autres GI éventuels
+
+-La Plateforme nationale voyageurs qui réunit l'ensemble des acteurs des services librement organisés actuels et prospects
+
+-La Plateforme nationale fret qui réunit l'ensemble des opérateurs, chargeurs et terminaux du fret ferroviaire en France
+
+-La  Communauté  Fret  du  COOPERE  qui  rassemblent  les  opérateurs  et  les  associations professionnelles du fret ferroviaire à l'échelle nationale
+
+-Les groupes de travail Fret qui réunissent l'ensemble des opérateurs, chargeurs et terminaux à l'échelle d'une ou plusieurs plateformes territoriales de coordination services et infrastructures
 
 Ces différentes instances de travail se complètent.
 
@@ -2267,83 +2627,109 @@ Les PER font l'objet d'échanges avec l'ensemble des candidats dans le cadre de 
 
 Les candidats qui le souhaitent pourront bénéficier d'un échange bilatéral.
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 77 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
 
 Carte des 8 plateformes territoriales de coordination services et infrastructures
 
-<!-- image -->
-
-## ● Description et données d'entrée
+## [section_header] ● Description et données d'entrée
 
 Le plan d'exploitation de référence se compose :
 
-- -D'une capacité commerciale nominale, répondant aux besoins prévisionnels voyageurs et fret réguliers du lundi au vendredi décrite au travers d'un modèle de flux structuré et s'appuyant sur des objets techniques (réticulaire 2h, GOV systématiques 2h pour les gares structurantes et maquettes 24h). Le niveau de robustesse des solutions envisagées est pris en compte pour l'organisation  de  cette  capacité.  Fondée  sur  les  principes  du  cadencement  en  réseau,  la trame horaire systématique est un plan de sillons cohérents entre eux en ligne et en gare, bâti sur un intervalle horaire de 2 heures.
-- -D'une  capacité  travaux,  dite  « cadrage  capacitaire  travaux »,  répondant  aux  besoins prévisionnels pluriannuels, constitué des fenêtres génériques, des fenêtres de surveillance, des crédits temps associés aux limitations de vitesse, des itinéraires alternatifs, des volumes d'activation et des périodes interdites, et le cas échéant de fenêtres déformées récurrentes.
-- -De conditions de réalisation pour que la capacité définie au plan d'exploitation de référence soit effective pour sa période de validité :
+-D'une capacité commerciale nominale, répondant aux besoins prévisionnels voyageurs et fret réguliers du lundi au vendredi décrite au travers d'un modèle de flux structuré et s'appuyant sur des objets techniques (réticulaire 2h, GOV systématiques 2h pour les gares structurantes et maquettes 24h). Le niveau de robustesse des solutions envisagées est pris en compte pour l'organisation  de  cette  capacité.  Fondée  sur  les  principes  du  cadencement  en  réseau,  la trame horaire systématique est un plan de sillons cohérents entre eux en ligne et en gare, bâti sur un intervalle horaire de 2 heures.
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+-D'une  capacité  travaux,  dite  « cadrage  capacitaire  travaux »,  répondant  aux  besoins prévisionnels pluriannuels, constitué des fenêtres génériques, des fenêtres de surveillance, des crédits temps associés aux limitations de vitesse, des itinéraires alternatifs, des volumes d'activation et des périodes interdites, et le cas échéant de fenêtres déformées récurrentes.
 
--  Endogènes,  qui  dépendent  de  SNCF  Réseau  (évolution  de  la  performance  de l'infrastructure, évolution des horaires d'ouverture des gares …)
--  Exogènes, qui ne dépendent pas de SNCF Réseau (arrivée d'un nouveau matériel roulant …)
+-De conditions de réalisation pour que la capacité définie au plan d'exploitation de référence soit effective pour sa période de validité :
+
+<!-- page: 78 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+
+ Endogènes,  qui  dépendent  de  SNCF  Réseau  (évolution  de  la  performance  de l'infrastructure, évolution des horaires d'ouverture des gares …)
+
+ Exogènes, qui ne dépendent pas de SNCF Réseau (arrivée d'un nouveau matériel roulant …)
 
 Le PER s'appuie sur des données d'entrées décrites dans le cahier des hypothèses, constitué des quatre rubriques suivantes :
 
-- -Périmètre et horizon temporel :
--  Lignes concernées
--  Horizon de mise en  uvre et durée de validité prévisionnelle
-- -Hypothèses de services :
+-Périmètre et horizon temporel :
+
+ Lignes concernées
+
+ Horizon de mise en  uvre et durée de validité prévisionnelle
+
+-Hypothèses de services :
 
 Elles sont alimentées dans une approche systémique par :
 
--  Des scénarios de mobilités fret et voyageurs issus du dialogue commercial continu et des études marchés
--  Des échanges dans le cadre des instances
+ Des scénarios de mobilités fret et voyageurs issus du dialogue commercial continu et des études marchés
+
+ Des échanges dans le cadre des instances
 
 Ces  hypothèses  prennent  la  forme,  pour  les  marchés  fret  et  voyageurs,  d'une  liste  de  services homogènes  (parcours  identiques,  politiques  d'arrêt  identiques,  amplitudes  et  performances  des convois identiques (matériels roulants, tonnages…):
 
--  Services cadencés (&gt;4 AR par jour) sur une même origine-destination y compris, le cas échéant, les services de renfort de pointe journalière et hebdomadaire
--  Services réguliers (&gt; 100 jours ouvrés par an) et de grand parcours (&gt; 300 Km) ou traversant au moins deux gares structurantes
-- -Hypothèses d'infrastructure concernant :
--  Le niveau de performance prévisionnel de l'infrastructure
--  Les projets d'infrastructure  dont  la  mise  en  service  est  prévue  à  l'échéance  de  la première année de mise en  uvre du PER
-- -Hypothèses de besoins pour la maintenance et les travaux
+ Services cadencés (>4 AR par jour) sur une même origine-destination y compris, le cas échéant, les services de renfort de pointe journalière et hebdomadaire
+
+ Services réguliers (> 100 jours ouvrés par an) et de grand parcours (> 300 Km) ou traversant au moins deux gares structurantes
+
+-Hypothèses d'infrastructure concernant :
+
+ Le niveau de performance prévisionnel de l'infrastructure
+
+ Les projets d'infrastructure  dont  la  mise  en  service  est  prévue  à  l'échéance  de  la première année de mise en  uvre du PER
+
+-Hypothèses de besoins pour la maintenance et les travaux
 
 Dès qu'il est finalisé, le cahier des hypothèses du PER est communiqué à l'ensemble des demandeurs de capacité.
 
-## ● Critères d'évaluation pour mise en cohérence de besoins incompatibles
+## [section_header] ● Critères d'évaluation pour mise en cohérence de besoins incompatibles
 
 Dès lors que les besoins retenus pour concevoir les PER nécessitent une mise en cohérence, SNCF Réseau a recours aux critères d'appréciation décrits au paragraphe 4.2.2.3.
 
-## ● Echanges sur les projets de réticulaire
+## [section_header] ● Echanges sur les projets de réticulaire
 
 Les  projets  de  réticulaire  sont  communiqués aux  candidats  qui  pourront  réagir  dans  le  cadre  des instances ou d'échanges bilatéraux avec SNCF Réseau.
 
-## ● Finalisation et publication des PER
+## [section_header] ● Finalisation et publication des PER
 
 Le PER est constitué des éléments suivants :
 
-- -Note de synthèse comprenant notamment :
--  Une carte du réseau concerné avec les itinéraires alternatifs (le cas échéant)
--  L'adéquation  entre  la  capacité  commerciale  nominale  du  PER  et  la  capacité commerciale recherchée
+-Note de synthèse comprenant notamment :
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+ Une carte du réseau concerné avec les itinéraires alternatifs (le cas échéant)
 
--  Les caractéristiques principales de la capacité travaux (cadrage capacitaire travaux)
--  Les projets d'infrastructure prévus à l'horizon du PER et conditionnant sa mise en  uvre
--  Les autres conditions de réalisation
-- -Objets techniques :
--  Réticulaires 2h
--  Accompagnés, le cas échéant, de maquettes 24h donnant par tranche horaire à titre indicatif, des hypothèses de type et nombre de sillons :
-- o Principalement issus d'activation du réticulaire 2h
-- o Complétés si nécessaire par des sillons récurrents longs parcours ne pouvant s'appuyer sur des activations du réticulaire.
+ L'adéquation  entre  la  capacité  commerciale  nominale  du  PER  et  la  capacité commerciale recherchée
+
+<!-- page: 79 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+
+ Les caractéristiques principales de la capacité travaux (cadrage capacitaire travaux)
+
+ Les projets d'infrastructure prévus à l'horizon du PER et conditionnant sa mise en  uvre
+
+ Les autres conditions de réalisation
+
+-Objets techniques :
+
+ Réticulaires 2h
+
+ Accompagnés, le cas échéant, de maquettes 24h donnant par tranche horaire à titre indicatif, des hypothèses de type et nombre de sillons :
+
+o Principalement issus d'activation du réticulaire 2h
+
+o Complétés si nécessaire par des sillons récurrents longs parcours ne pouvant s'appuyer sur des activations du réticulaire.
 
 La cible est de publier le PER avant fin de A-4 et de respecter au plus tard les jalons suivants :
 
-- -Fin octobre A-3 (cas général)
-- -Juin A-3 (si évolution du cadrage capacitaire travaux)
+-Fin octobre A-3 (cas général)
+
+-Juin A-3 (si évolution du cadrage capacitaire travaux)
 
 Les PER sont publiés sur le site de SNCF Réseau, sur la page « Plan d'exploitation de référence ».
 
-## 4.2.2.1.2 Veille du plan d'exploitation de référence (PER)
+## [section_header] 4.2.2.1.2 Veille du plan d'exploitation de référence (PER)
 
 Les  dispositions  de  ce  point  s'appliquent  en  référence  pour  la  production  de  l'HDS 2028  et  des suivants.
 
@@ -2351,21 +2737,29 @@ La phase de veille débute à la publication du PER puis est réalisée au fil d
 
 Elle a pour objectif :
 
-- -De veiller à la validité des hypothèses pluriannuelles sur lesquelles le PER est basé
-- -D'examiner la validité du PER en cas d'évolution de ces hypothèses
-- -Si nécessaire, de procéder à des ajustements, voire des révisions du PER
+-De veiller à la validité des hypothèses pluriannuelles sur lesquelles le PER est basé
+
+-D'examiner la validité du PER en cas d'évolution de ces hypothèses
+
+-Si nécessaire, de procéder à des ajustements, voire des révisions du PER
 
 Les évolutions du PER peuvent être qualifiées de mineures ou de structurantes :
 
-- -Les évolutions du PER sont qualifiées de mineures si elles sont intégrables à la structure du PER sans impact significatif sur la capacité commerciale (réticulaire 2h et maquette 24h) et sur le cadrage capacitaire travaux (typologie et amplitude) déjà présents au PER. Pour les évolutions mineures, le PER est mis à jour et republié sur le site de SNCF Réseau.
-- -Les évolutions du PER sont qualifiées de structurantes :
--  si elles remettent en cause la structure du réticulaire 2h ou de la maquette 24h, du fait par exemples, de l'évolution de tendance du marché, de la modification profonde des  caractéristiques  d'un  ou  plusieurs  services,  d'une  évolution  d'un  réticulaire national
--  si  elles remettent en cause le cadrage capacitaire travaux de façon significative et pluriannuelle
--  si une ou plusieurs conditions de réalisation ne peuvent être atteintes. Cela pourrait être par exemple un décalage calendaire important d'une infrastructure nouvelle, la dégradation  de  la  performance  de  l'infrastructure,  ou  la  sous  performance  d'un nouveau matériel roulant
+-Les évolutions du PER sont qualifiées de mineures si elles sont intégrables à la structure du PER sans impact significatif sur la capacité commerciale (réticulaire 2h et maquette 24h) et sur le cadrage capacitaire travaux (typologie et amplitude) déjà présents au PER. Pour les évolutions mineures, le PER est mis à jour et republié sur le site de SNCF Réseau.
+
+-Les évolutions du PER sont qualifiées de structurantes :
+
+ si elles remettent en cause la structure du réticulaire 2h ou de la maquette 24h, du fait par exemples, de l'évolution de tendance du marché, de la modification profonde des  caractéristiques  d'un  ou  plusieurs  services,  d'une  évolution  d'un  réticulaire national
+
+ si  elles remettent en cause le cadrage capacitaire travaux de façon significative et pluriannuelle
+
+ si une ou plusieurs conditions de réalisation ne peuvent être atteintes. Cela pourrait être par exemple un décalage calendaire important d'une infrastructure nouvelle, la dégradation  de  la  performance  de  l'infrastructure,  ou  la  sous  performance  d'un nouveau matériel roulant
+
+<!-- page: 80 -->
 
 Pour les évolutions structurantes, un travail de révision doit être engagé selon les mêmes principes et calendriers que ceux décrits dans le paragraphe précédent, relatif à la conception des plans d'exploitation.
 
-## 4.2.2.2 La pré-construction du graphique
+## [section_header] 4.2.2.2 La pré-construction du graphique
 
 Les dispositions de ce point s'appliquent en 2025 pour la pré-construction du graphique de l'horaire de service 2027 (correspondant ci-après à l'HDS A).
 
@@ -2373,33 +2767,45 @@ Les objets techniques issus des PER (réticulaires 2h complétés, le cas éché
 
 Pour les parties non encore couvertes par un plan d'exploitation, les Trames 2h pour le SA 2027 seront fournies au plus tard à Avril A-2.
 
-## ● Objectifs généraux
+## [section_header] ● Objectifs généraux
 
 De manière générale, le catalogue de sillons, à savoir de sillons commerciaux à charge (i.e. sillons non techniques) et récurrents, constitue une structuration du graphique pour les vingt-quatre (24) heures d'un  jour  considéré  comme  type  (étant  noté  que  les  régimes  des  sillons  préconstruits  peuvent néanmoins varier).
 
 Les objectifs de la pré-construction sont de permettre de couvrir au mieux les besoins commerciaux spécifiques à l'année A, tout en optimisant globalement l'utilisation de la capacité du réseau :
 
-- -Les  besoins  commerciaux  sont  basés  sur  les  expressions  de  besoins  des  clients  et partenaires ainsi que de l'historique de l'utilisation des sillons des services précédents et des études de marché conduites par SNCF Réseau.
-- -L'optimisation de l'utilisation de la capacité du réseau est obtenue :
-- en couvrant le maximum des besoins commerciaux par l'utilisation des sillons des plans d'exploitation de référence,
-- quand cela n'est pas possible, en ajoutant des sillons spécifiques
-- en veillant, autant que possible, à préserver de la capacité résiduelle pour des besoins qui  pourraient  être  demandés  ultérieurement  (en  phase  de  construction  ou  en adaptation), notamment des besoins spécifiques et moins récurrents
-- -L'élaboration du catalogue de sillons tient compte des besoins travaux structurants.
-- -Les lignes régionales et/ou de très courts parcours peuvent également donner lieu à des sillons préconstruits.
+-Les  besoins  commerciaux  sont  basés  sur  les  expressions  de  besoins  des  clients  et partenaires ainsi que de l'historique de l'utilisation des sillons des services précédents et des études de marché conduites par SNCF Réseau.
 
-## ● Recevabilité des expressions de besoins pour la pré-construction
+-L'optimisation de l'utilisation de la capacité du réseau est obtenue :
+
+en couvrant le maximum des besoins commerciaux par l'utilisation des sillons des plans d'exploitation de référence,
+
+quand cela n'est pas possible, en ajoutant des sillons spécifiques
+
+en veillant, autant que possible, à préserver de la capacité résiduelle pour des besoins qui  pourraient  être  demandés  ultérieurement  (en  phase  de  construction  ou  en adaptation), notamment des besoins spécifiques et moins récurrents
+
+-L'élaboration du catalogue de sillons tient compte des besoins travaux structurants.
+
+-Les lignes régionales et/ou de très courts parcours peuvent également donner lieu à des sillons préconstruits.
+
+## [section_header] ● Recevabilité des expressions de besoins pour la pré-construction
 
 Afin d'atteindre les objectifs généraux indiqués ci-dessus, les expressions de besoin des clients doivent répondre aux caractéristiques suivantes :
 
-- -Pour les expressions de besoins recourant aux plans d'exploitation de référence :
--  pour  l'activité  voyageurs,  circulations  envisagées  pour  un  minimum  de  quatre  (4) jours/semaine du lundi au vendredi et un minimum de vingt-cinq (25) semaines/an ;
--  pour l'activité fret, circulations envisagées pour un minimum de trois (3) jours/semaine du lundi au vendredi et un minimum de vingt (20) semaines/an.
+-Pour les expressions de besoins recourant aux plans d'exploitation de référence :
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+ pour  l'activité  voyageurs,  circulations  envisagées  pour  un  minimum  de  quatre  (4) jours/semaine du lundi au vendredi et un minimum de vingt-cinq (25) semaines/an ;
 
-- -Pour les expressions de besoins spécifiques ne recourant pas aux plans d'exploitation de référence
--  pour  l'activité  voyageurs,  circulations  envisagées  pour  un  minimum  de  quatre  (4) jours/semaine du lundi au vendredi et un minimum de vingt-cinq (25) semaines/an ;
--  pour l'activité fret, circulations envisagées pour un minimum de trois (3) jours/semaine du lundi au vendredi et un minimum de vingt (20) semaines/an.
+ pour l'activité fret, circulations envisagées pour un minimum de trois (3) jours/semaine du lundi au vendredi et un minimum de vingt (20) semaines/an.
+
+<!-- page: 81 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+
+-Pour les expressions de besoins spécifiques ne recourant pas aux plans d'exploitation de référence
+
+ pour  l'activité  voyageurs,  circulations  envisagées  pour  un  minimum  de  quatre  (4) jours/semaine du lundi au vendredi et un minimum de vingt-cinq (25) semaines/an ;
+
+ pour l'activité fret, circulations envisagées pour un minimum de trois (3) jours/semaine du lundi au vendredi et un minimum de vingt (20) semaines/an.
 
 Les critères  en  nombre de jours et semaines sont cumulatifs. La recevabilité est déterminée sur la somme des régimes.
 
@@ -2417,18 +2823,23 @@ Les expressions de besoins des clients doivent être saisies dans l'interface un
 
 NOTA : SNCF Réseau se réserve la possibilité de ne pas prendre en compte certaines expressions de besoins présentées en fonction des éléments recueillis auprès des parties prenantes sur la réalité des évolutions d'offres envisagées et de l'évaluation du potentiel des marchés considérés.
 
-## ● Calendrier pour l'élaboration des sillons préconstruits
+## [section_header] ● Calendrier pour l'élaboration des sillons préconstruits
 
-- -Le 15 juin de A-2 (date au plus tard) : les expressions de besoins sont saisies par les clients dans l'interface unifiée GESICO- DSDM.
-- -Du 16 au 30 juin A-2 : SNCF Réseau échange avec les différents émetteurs d'expressions de besoin afin de confirmer ou infirmer leur recevabilité et faire préciser si nécessaire le rationnel  des  besoins  exprimés  au  regard  des  contraintes  de  capacité  et  de  sa  propre connaissance du marché.
-- -Le 15 septembre A-2 (date au plus tard) : les enchaînements envisagés sont transmis par les clients concernant les gares structurantes voyageurs.
-- -Du 1er juillet au 30 novembre A-2 : à l'initiative de SNCF Réseau, des échanges avec les clients et partenaires peuvent avoir lieu pour éclairer la compréhension du besoin exprimé ou tester la pertinence de tracés en cours d'élaboration du catalogue de sillons.
+-Le 15 juin de A-2 (date au plus tard) : les expressions de besoins sont saisies par les clients dans l'interface unifiée GESICO- DSDM.
+
+-Du 16 au 30 juin A-2 : SNCF Réseau échange avec les différents émetteurs d'expressions de besoin afin de confirmer ou infirmer leur recevabilité et faire préciser si nécessaire le rationnel  des  besoins  exprimés  au  regard  des  contraintes  de  capacité  et  de  sa  propre connaissance du marché.
+
+-Le 15 septembre A-2 (date au plus tard) : les enchaînements envisagés sont transmis par les clients concernant les gares structurantes voyageurs.
+
+-Du 1er juillet au 30 novembre A-2 : à l'initiative de SNCF Réseau, des échanges avec les clients et partenaires peuvent avoir lieu pour éclairer la compréhension du besoin exprimé ou tester la pertinence de tracés en cours d'élaboration du catalogue de sillons.
+
+<!-- page: 82 -->
 
 Aux fins de mise en cohérence, SNCF Réseau met à profit cette période pour approfondir si nécessaire la compréhension détaillée des expressions de besoins retenues et enchaînements envisagés, et tester la pertinence des tracés qui résultent de la mise en cohérence des offres en ligne comme en gare.
 
-- -En décembre A-2 : décision et publication du catalogue de sillons par SNCF Réseau.
+-En décembre A-2 : décision et publication du catalogue de sillons par SNCF Réseau.
 
-## ● Pré-construction coordonnée ligne - gare
+## [section_header] ● Pré-construction coordonnée ligne - gare
 
 Pour  les  gares  structurantes  voyageurs,  les  demandeurs  exprimant  des  besoins  pour  des  sillons préconstruits, doivent fournir à SNCF Réseau les informations relatives aux enchaînements envisagés, pour le jour type préconstruit (enchaînements cohérents avec les expressions de besoins transmises) avec indication de remisage ou accès au site de maintenance au plus tard le 15 septembre A-2.
 
@@ -2436,15 +2847,17 @@ Ces  informations  permettent  de  vérifier  la  compatibilité  des  sillons  
 
 Pour les gares structurantes voyageurs, des graphiques d'occupation des voies dits « avant-projet » sont diffusés à titre d'information par le bureau horaire local entre décembre A-2 et février A-1.
 
-## ● Ouvertures supplémentaires de lignes, gares et postes
+## [section_header] ● Ouvertures supplémentaires de lignes, gares et postes
 
 Certains  sillons  préconstruits  peuvent  nécessiter  une  ouverture  supplémentaire  de  lignes,  gares  et postes (cette notion intégrant les augmentations d'amplitudes d'ouvertures de poste).
 
 SNCF Réseau s'appuie sur plusieurs critères d'appréciation afin de donner suite ou non à une telle ouverture supplémentaire :
 
-- -l'évaluation  de  la  faisabilité  organisationnelle  se  base  sur  la  disponibilité  de  la  ressource humaine pour tenir le ou les poste(s) nécessaire(s) à l'ouverture supplémentaire
-- -l'évaluation  de  la  pertinence  organisationnelle  se  base  sur  les  impacts  de  cette  ouverture supplémentaire sur les organisations déjà mises en place
-- -l'évaluation de la pertinence économique se base sur le montant des redevances perçues sur l'horaire de service concerné pour les sillons nécessitant l'ouverture supplémentaire  ainsi que sur  les  coûts  des  travaux  de  remise  en  état  des  installations  si  nécessaires,  et  des  coûts supplémentaires agent(s) (notamment en cas de recrutement d'un nouvel opérateur)
+-l'évaluation  de  la  faisabilité  organisationnelle  se  base  sur  la  disponibilité  de  la  ressource humaine pour tenir le ou les poste(s) nécessaire(s) à l'ouverture supplémentaire
+
+-l'évaluation  de  la  pertinence  organisationnelle  se  base  sur  les  impacts  de  cette  ouverture supplémentaire sur les organisations déjà mises en place
+
+-l'évaluation de la pertinence économique se base sur le montant des redevances perçues sur l'horaire de service concerné pour les sillons nécessitant l'ouverture supplémentaire  ainsi que sur  les  coûts  des  travaux  de  remise  en  état  des  installations  si  nécessaires,  et  des  coûts supplémentaires agent(s) (notamment en cas de recrutement d'un nouvel opérateur)
 
 Si  cela  est  techniquement  faisable  et  est  jugé  pertinent  d'un  point  de  vue  économique  et organisationnel, ces sillons préconstruits sont alors inscrits dans le catalogue de sillons avec un renvoi spécifique  précisant  ce  besoin  d'ouverture  supplémentaire,  sans  que  ces  ajustements  d'horaires figurent dans les horaires publiés en décembre A-2 dans l'outil OLGA. En cas d'impossibilité technique, économique et/ ou organisationnelle SNCF Réseau motivera les termes de sa décision de refus auprès du ou des demandeur(s) de capacité concernés.
 
@@ -2454,17 +2867,19 @@ En  cas  d'attribution  à  la  publication  de  l'horaire  de  service,  les  d
 
 En  cas  de  suppression  par  un  demandeur  de  capacité  de  sillons-jours  impliquant  une  ouverture supplémentaire, ce dernier sera facturé à l'issue de l'HDS des coûts engagés par SNCF Réseau, calculés sur la base du tarif d'une vacation de 8 heures, par an.
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 83 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
 
 En cas de suppression par SNCF Réseau de sillons-jours impliquant une ouverture supplémentaire, le ou les demandeur(s) de capacité impactés pourront solliciter l'indemnisation du préjudice allégué au titre des stipulations en vigueur prévues à l'article 20 des conditions générales du contrat d'utilisation de l'infrastructure et d'attribution des sillons.
 
 Ces engagements réciproques sont fixés dans une convention adhoc (trame en annexe 3.6).
 
-- Consultation  des  parties  prenantes  en  cas  de  fermeture  ou  de  modifications  importantes  des ouvertures de lignes, gares et postes en A-2
+Consultation  des  parties  prenantes  en  cas  de  fermeture  ou  de  modifications  importantes  des ouvertures de lignes, gares et postes en A-2
 
 SNCF Réseau peut être amenée à fermer ou à apporter des modifications importantes aux ouvertures de lignes, gares et postes. Afin que les différentes parties prenantes puissent en anticiper les impacts, SNCF Réseau met en place une consultation de ces parties prenantes en leur envoyant, à mi-septembre de A-2, le projet des fermetures ou modifications importantes envisagées pour le SA A. Ce projet des fermetures ou modifications importantes envisagées sera également publié sur l'Espace clients.
 
-Les parties prenantes ont alors jusque fin octobre A-2 pour envoyer à SNCF Réseau leurs observations sur ces fermetures ou modifications d'ouvertures de lignes, gares et postes, via l'adresse mail olga\_ administration@reseau.sncf.fr.
+Les parties prenantes ont alors jusque fin octobre A-2 pour envoyer à SNCF Réseau leurs observations sur ces fermetures ou modifications d'ouvertures de lignes, gares et postes, via l'adresse mail olga_ administration@reseau.sncf.fr.
 
 Sans  réponse  reçue  à  cette  date,  les  fermetures  et  modifications  importantes  envisagées  seront validées. A contrario, en cas d'observations, celles-ci seront étudiées par SNCF Réseau, en concertation avec les parties prenantes.
 
@@ -2472,7 +2887,7 @@ L'ensemble  des  horaires  d'ouverture  des  lignes,  gares  et  postes  sont  a
 
 NOTA : SNCF Réseau peut faire vibrer les horaires d'ouvertures ou de fermetures des lignes, gares et postes à hauteur de plus ou moins 10 minutes. Ces recalages d'ouvertures ou de fermetures de lignes, gares et postes ne nécessitent pas de consulter au préalable les parties prenantes.
 
-## ● Statut des sillons offerts au catalogue de sillons
+## [section_header] ● Statut des sillons offerts au catalogue de sillons
 
 Compte-tenu de l'existence d'une phase de construction du graphique de l'horaire de service, cette offre de SNCF Réseau ne confère ni droits ni obligations aux différents demandeurs et au gestionnaire d'infrastructure.
 
@@ -2480,73 +2895,97 @@ En particulier, les sillons du catalogue de sillons peuvent être commandés par
 
 Cette offre permet :
 
-- -aux différents candidats de commander des sillons du catalogue pour la construction de l'horaire de service ;
-- -à  SNCF Réseau de rendre visible des sillons  susceptibles  de  correspondre  à  un  besoin encore non exprimé.
+-aux différents candidats de commander des sillons du catalogue pour la construction de l'horaire de service ;
+
+-à  SNCF Réseau de rendre visible des sillons  susceptibles  de  correspondre  à  un  besoin encore non exprimé.
 
 NOTA : En cohérence avec l'élaboration des sillons préconstruits, les fenêtres travaux et capacités travaux en gare sont précisées afin d'aboutir au programme général des fenêtres (PGF), diffusé aux demandeurs en décembre A-2 via le SI TCAP. Ce PGF fait l'objet d'une concertation avec l'ensemble des  clients  et  partenaires  (point  4.5.3).  Les  horaires  d'ouverture  des  lignes,  gares  et  postes  sont également définis et notifiés aux demandeurs en décembre A-2 via le SI OLGA.
 
-## 4.2.2.3 Compatibilité des offres issues du PER et du préconstruit
+<!-- page: 84 -->
+
+## [section_header] 4.2.2.3 Compatibilité des offres issues du PER et du préconstruit
 
 Dès lors que les besoins retenus pour établir les offres, en phase de structuration comme de préconstruction, nécessitent une mise en cohérence au graphique dans la capacité commerciale (en ligne ou en gare), SNCF Réseau s'efforce, par la coordination des besoins, d'assurer la meilleure adéquation possible entre ceux-ci.
 
 Dans une première phase, SNCF Réseau concerte avec les parties prenantes concernées, afin d'aboutir à une solution consensuelle. Cette recherche se fait en privilégiant des scénarii de mise en compatibilité qui  limitent  le  périmètre  de  la  coordination.  C'est-à-dire  des  scénarii  qui  ne  génèrent  pas  d'effets domino sur des zones géographiques concernées par :
 
-- L'organisation de croisements sur voie unique ;
-- Les insertions en zone dense ;
-- Une coordination déjà réalisée aux points de contact avec d'autres réseaux ;
-- Des déclarations de saturation prévisible ou constatée, lors du dernier horaire de service publié.
+L'organisation de croisements sur voie unique ;
+
+Les insertions en zone dense ;
+
+Une coordination déjà réalisée aux points de contact avec d'autres réseaux ;
+
+Des déclarations de saturation prévisible ou constatée, lors du dernier horaire de service publié.
 
 Les vibrations des sillons à longs parcours ou faisant l'objet de conditions particulières de tracé doivent être limitées pour générer le minimum d'effets domino sur les zones citées ci-dessus.
 
 Dans  le  cas  où  la  concertation,  une  fois  menée  à  terme,  ne  permettrait  pas  d'agencer  les  offres capacitaires de manière consensuelle, SNCF Réseau a recours aux critères ci-après afin de comparer deux ou plusieurs scénarii de résolution de conflits, et déterminer la solution retenue :
 
-- Enjeu  commercial  pour  les  services  de  transport  (ces  critères  prennent  en  compte  les  besoins exprimés par les opérateurs ferroviaires et aussi l'appréciation que SNCF Réseau peut faire des besoins du marché final) :
--  Ecart quantitatif par rapport au besoin initial :
--  Suppression de toute desserte (critère critique) ;
+Enjeu  commercial  pour  les  services  de  transport  (ces  critères  prennent  en  compte  les  besoins exprimés par les opérateurs ferroviaires et aussi l'appréciation que SNCF Réseau peut faire des besoins du marché final) :
+
+ Ecart quantitatif par rapport au besoin initial :
+
+ Suppression de toute desserte (critère critique) ;
 
 Exemple : Besoin de x sillons sur l'OD A-B et suite à impossibilité, offre de 0 sillon.
 
--  Réduction du volume de desserte, résultant en un taux de réduction si la réduction impacte la fréquence ou par une réduction d'amplitude s'il s'agit du 1er ou du dernier sillon de la journée ;
+ Réduction du volume de desserte, résultant en un taux de réduction si la réduction impacte la fréquence ou par une réduction d'amplitude s'il s'agit du 1er ou du dernier sillon de la journée ;
 
 Exemple : Besoin de 10 sillons sur l'OD et offre de 8 sillons (soit un taux de réduction de 20 %)
 
--  Pour les sillons sous accord-cadre avec SNCF Réseau : résultant en un taux de réduction du volume de sillons tracés, par rapport aux engagements de l'accord-cadre (déduction faite du volume de sillons potentiellement non attribuables de la franchise) (critère critique).
--  Ecart qualitatif par rapport au besoin initial :
--  Réduction du nombre d'arrêts commerciaux ;
+ Pour les sillons sous accord-cadre avec SNCF Réseau : résultant en un taux de réduction du volume de sillons tracés, par rapport aux engagements de l'accord-cadre (déduction faite du volume de sillons potentiellement non attribuables de la franchise) (critère critique).
+
+ Ecart qualitatif par rapport au besoin initial :
+
+ Réduction du nombre d'arrêts commerciaux ;
 
 Nota : Ce critère devra être caractérisé par une estimation du nombre de voyageurs ou du volume de fret impacté(s), selon les données fournies par les candidats potentiellement concernés. En l'absence de données, ce critère ne pourra pas être pris en compte.
 
--  Ecart en minutes qui peuvent induire, par exemple, une réduction ou un allongement du temps de parcours (plus ou moins dix (10) minutes pour les services voyageurs et plus ou moins trente (30) minutes pour les services fret) par rapport aux horaires visés au départ et
+ Ecart en minutes qui peuvent induire, par exemple, une réduction ou un allongement du temps de parcours (plus ou moins dix (10) minutes pour les services voyageurs et plus ou moins trente (30) minutes pour les services fret) par rapport aux horaires visés au départ et
+
+<!-- page: 85 -->
 
 /ou à l'arrivée (lorsque cet écart est supérieur aux  tolérances exprimées  par  les demandeurs) ;
 
 Nota :  Ce  critère  n'est  applicable  qu'en  pré-construction,  phase  s'appuyant  sur  des expressions de besoins des clients.
 
--  Perte de correspondance voyageurs ;
+ Perte de correspondance voyageurs ;
 
 NOTA :  Ce  critère  devra  être  caractérisé  par  une  estimation  du  nombre  de  voyageurs impactés,  selon  les  données  fournies  par  les  candidats  potentiellement  concernés.  En l'absence de données, ce critère ne pourra pas être pris en compte.
 
--  Non pertinence des plages horaires proposées au regard des besoins des catégories de voyageurs les plus concernés par le service
+ Non pertinence des plages horaires proposées au regard des besoins des catégories de voyageurs les plus concernés par le service
 
 Exemple : Horaires habituels des scolaires ou employés
 
--  Non- respect des horaires limites d'un rendez-vous logistique (critère critique).
+ Non- respect des horaires limites d'un rendez-vous logistique (critère critique).
 
 Exemple : Horaires de limite d'arrivée avant fermeture journalière du site de destination final (si cet horaire n'est pas objectivement ajustable).
 
--  Pour les sillons sous accord-cadre avec SNCF Réseau : résultant en un taux du volume de sillons tracés ne répondant pas aux caractéristiques contractualisées dans l'accord-cadre (critère critique) ;
-- Robustesse de conception (cf annexe 4.1) :
--  Dérogation aux temps robustes d'un recueil d'exploitation (*) ;
--  Non-respect de la détection de conflits entre sillons (**) SIPH (ou des normes de tracé telles que décrites  dans  l'annexe  4.1  du  DRR  en  cas  de  non-utilisation  de  SIPH) et/ou  d'une  condition particulière  de  tracé  et/ou  d'un  temps  minimum  décrit  dans  le  chapitre  4  d'un  recueil d'exploitation (critère critique)
-- Enjeu financier pour le gestionnaire d'infrastructure : Montant prévisionnel des redevances liées aux prestations minimales perçues sur l'horaire de service concerné ;
-- Utilisation antérieure :
--  Utilisation quantitative :
--  De la phase PER (ou de réticulaire 2h) : appréciation par le nombre d'expressions de besoins (EDB) 24h ou la sommes des régimes des EDB, revendiquant les sillons du PER de l'HDS A1  ou  projeté  pour  l'horaire  de  service  considéré  (en  cas  de  nouvelle  offre  ou  de développement d'offre projeté) ;
--  De la phase de pré-construction : appréciation par le nombre de demandes de service (DS) revendiquant  les  sillons  préconstruits,  constaté  dans  les  commandes  de  l'HDS  A-1  ou projeté pour l'horaire de service considéré (en cas de nouvelle offre ou de développement d'offre projeté) ;
--  Utilisation qualitative :
--  Nature de l'utilisation des sillons du PER (ou de la Trame 2h) par les EDB 24h (consommation stricte, consommation non stricte, ou demandes hors PER ou hors Trame 2h).
+ Pour les sillons sous accord-cadre avec SNCF Réseau : résultant en un taux du volume de sillons tracés ne répondant pas aux caractéristiques contractualisées dans l'accord-cadre (critère critique) ;
+
+Robustesse de conception (cf annexe 4.1) :
+
+ Dérogation aux temps robustes d'un recueil d'exploitation (*) ;
+
+ Non-respect de la détection de conflits entre sillons (**) SIPH (ou des normes de tracé telles que décrites  dans  l'annexe  4.1  du  DRR  en  cas  de  non-utilisation  de  SIPH) et/ou  d'une  condition particulière  de  tracé  et/ou  d'un  temps  minimum  décrit  dans  le  chapitre  4  d'un  recueil d'exploitation (critère critique)
+
+Enjeu financier pour le gestionnaire d'infrastructure : Montant prévisionnel des redevances liées aux prestations minimales perçues sur l'horaire de service concerné ;
+
+Utilisation antérieure :
+
+ Utilisation quantitative :
+
+ De la phase PER (ou de réticulaire 2h) : appréciation par le nombre d'expressions de besoins (EDB) 24h ou la sommes des régimes des EDB, revendiquant les sillons du PER de l'HDS A1  ou  projeté  pour  l'horaire  de  service  considéré  (en  cas  de  nouvelle  offre  ou  de développement d'offre projeté) ;
+
+ De la phase de pré-construction : appréciation par le nombre de demandes de service (DS) revendiquant  les  sillons  préconstruits,  constaté  dans  les  commandes  de  l'HDS  A-1  ou projeté pour l'horaire de service considéré (en cas de nouvelle offre ou de développement d'offre projeté) ;
+
+ Utilisation qualitative :
+
+ Nature de l'utilisation des sillons du PER (ou de la Trame 2h) par les EDB 24h (consommation stricte, consommation non stricte, ou demandes hors PER ou hors Trame 2h).
 
 Tout scénario de résolution de conflits, ayant un ou plusieurs sillon(s) impacté(s) par au moins un critère considéré comme critique ci-dessus, est inférieur à tout autre scénario sans critère critique. Les mises en compatibilités des offres pourront être alimentées de l'examen des différentes options techniques déjà étudiées dans l'élaboration du plan d'exploitation de référence, pour la phase de préconstruction.
+
+<!-- page: 86 -->
 
 (*) Sur les sections équipées de l'ETCS Niveau 2 (N2) et niveau 3 Hybrid (N3H), l'exécution du service en situation nominale est réalisée en mode supervisé pour la performance d'exploitation.
 
@@ -2558,7 +2997,7 @@ Le respect de cette valeur plafond est évalué dans deux situations : pour des 
 
 Il est actuellement prévu que la première application intervienne sur la LGV Paris-Lyon à l'horizon du SA2030, avec une valeur plafond de l'ordre de 2 minutes et 45 secondes, permettant la construction d'une trame structurée par un espacement de 3 minutes.
 
-## 4.2.2.4 La construction de l'horaire de service
+## [section_header] 4.2.2.4 La construction de l'horaire de service
 
 De décembre A-2 à septembre A-1, SNCF Réseau construit l'horaire de service de l'année A sur la base des  sillons  demandés  au  plus  tard  le  deuxième  lundi  d'avril  A-1  (voir  calendrier  au  point  4.5.1  et modalités de demandes au point 4.2.3.1). Dès cette phase qui s'étend de décembre A-2 au deuxième lundi d'avril A-1, des demandes de modification peuvent être émises via l'interface unifiée GESICODSDM et pourront être traitées de manière consolidée durant la phase de construction.
 
@@ -2566,11 +3005,13 @@ Pour traiter les demandes de sillons, SNCF Réseau s'appuie sur le « graphique 
 
 Lorsque les caractéristiques d'un sillon demandé sont proches d'un sillon préconstruit, SNCF Réseau privilégiera en réponse l'attribution du sillon préconstruit sans ou avec des ajustements très réduits.
 
-## Ouvertures supplémentaires de lignes, gares et postes :
+## [section_header] Ouvertures supplémentaires de lignes, gares et postes :
 
 Par ailleurs,  si  le  sillon  demandé  est  incompatible  avec  le  régime  d'ouverture des lignes, avec des fenêtres et capacités réservées pour travaux ou maintenance, des sillons différents de ceux qui ont été demandés peuvent être attribués. Les horaires d'ouverture des lignes, gares et postes ainsi que les fenêtres  et  capacités  réservées  pour  les  travaux  peuvent  aussi  dans  certains  cas  faire  l'objet d'ajustements afin de permettre le tracé et l'attribution de sillons, si cela est techniquement faisable et est  jugé  pertinent  d'un  point  de  vue  économique  et  organisationnel  (voir  point  4.2.2.2).  En  cas d'impossibilité technique, économique et/ou organisationnelle, SNCF Réseau motivera les termes de sa décision de refus auprès du ou des demandeurs de capacités concernés.
 
 Dans les cas où SNCF Réseau finance des ouvertures supplémentaires de lignes, gares et postes (cette notion intégrant les augmentations d'amplitudes d'ouvertures de poste) pour répondre au(x) sillon(s) demandé(s) et où les circulations du(es) demandeur(s) concerné(s) ne se matérialiseraient finalement pas,  SNCF  Réseau  pourra  exiger  de  leur  part  la  prise  en  charge  de  tout  ou  partie  des  coûts supplémentaires engagés.
+
+<!-- page: 87 -->
 
 Les modalités de prise en charge de ces coûts font l'objet d'une convention adhoc, ayant pour objet de fixer les engagements réciproques des parties sur les ouvertures supplémentaires de lignes, gares et postes, à savoir l'engagement des demandeurs de capacités et du gestionnaire d'infrastructure de ne pas supprimer les sillons impliquant des ouvertures supplémentaires (trame en annexe 3.6).
 
@@ -2582,35 +3023,41 @@ Les horaires actualisés des ouvertures de lignes, gares et postes sont mis à j
 
 Au cours de cette étape de construction, SNCF Réseau trace les sillons, sans concertation préalable avec les demandeurs lorsque le tracé reste dans les tolérances définies ci-après, et sans préjudice de tolérances plus larges formulées ou acceptées par les demandeurs :
 
-- -plus ou moins dix (10) minutes, par rapport aux horaires demandés au départ et à l'arrivée pour les services voyageurs ;
-- -et plus ou moins trente (30) minutes, par rapport aux horaires demandés au départ et à l'arrivée pour les services fret.
+-plus ou moins dix (10) minutes, par rapport aux horaires demandés au départ et à l'arrivée pour les services voyageurs ;
+
+-et plus ou moins trente (30) minutes, par rapport aux horaires demandés au départ et à l'arrivée pour les services fret.
 
 Quand ces tolérances ne peuvent être respectées, SNCF Réseau mène une démarche de concertation avec les demandeurs (point 4.5.4) dont le principal objectif est d'apporter des réponses appropriées au plus proche des besoins tout en tenant compte des contraintes fortes du réseau. Une réponse formelle est apportée à chaque sillon demandé (voir tableau des réponses au point 4.2.4).
 
 Après avril A-1, les demandes tardives au service (DTS) formulées par les candidats jusqu'à septembre A-1,  sont  répondues  par  SNCF  Réseau  selon  le  calendrier  décrit  au  point  4.3.2  dans  la  capacité résiduelle, avec comme critères d'ordonnancement de leur traitement, dans l'ordre :
 
-1. les suppressions et retraits de jours
-2. puis les créations et ajouts de jours
-3. puis les autres modifications.
+les suppressions et retraits de jours
+
+puis les créations et ajouts de jours
+
+puis les autres modifications.
 
 L'ordonnancement au sein des catégories 2 et 3  s'appuie également sur l'ordre de réception des demandes au sein de chaque catégorie.
 
-## Ouvertures supplémentaires de lignes, gares et postes suite à une demande tardive de sillon :
+## [section_header] Ouvertures supplémentaires de lignes, gares et postes suite à une demande tardive de sillon :
 
 Lorsqu'une demande tardive de sillon n'est pas compatible avec les horaires d'ouverture des lignes, gares et postes précisés dans le SI OLGA, le demandeur a la possibilité de solliciter SNCF Réseau en vue d'une modification de ces horaires dans les conditions définies au point 5.1.6.2.
 
 Une étude de faisabilité ainsi qu'une estimation du coût de l'extension d'ouverture demandée est alors effectuée.  L'étude  de  faisabilité  pourra  notamment  mentionner  un  délai  de  mise  en  uvre lié  aux contraintes de mise en place des organisations nécessaires aux modifications des heures d'ouverture.
 
+<!-- page: 88 -->
+
 Selon le résultat de l'étude de faisabilité, SNCF Réseau répondra favorablement ou négativement à la demande.
 
 En cas de réponse favorable, la prestation fera l'objet d'un devis basé sur l'étude de coûts, adressé au demandeur, pour accord (point  5.4.2).  En  cas  d'acceptation  par  le  demandeur,  la  prestation  sera facturée dans les conditions définies au Chapitre 5 - Services et tarification.
 
-## 4.2.2.5 L'adaptation de l'horaire de service
+## [section_header] 4.2.2.5 L'adaptation de l'horaire de service
 
 Une fois l'horaire de service A arrêté au mois de septembre A-1, SNCF Réseau attribue les sillons dans la capacité résiduelle, dans le calendrier précisé au point 4.3.2, sur la base :
 
-- -des demandes de sillon en adaptation (DSA) reçues à compter du lendemain de l'arrêté de l'horaire de service en septembre A-1, suivant les règles précisées au point 4.2.3.2, traitées par SNCF Réseau en priorisant le respect des délais de réponse indiqués au point 4.2.3.2, puis l'ordre de réception ;
-- -des demandes de sillons de dernière minute (DSDM) reçues entre J-7 et J, traitées par SNCF Réseau avec une priorité correspondant à l'ordre de réception des demandes, sauf dans les cas particuliers décrits dans le référentiel « Capacité de dernière minute » publié sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau. Les modalités de demandes des sillons de dernière minute (SDM) sont précisées au point 4.2.3.2.
+-des demandes de sillon en adaptation (DSA) reçues à compter du lendemain de l'arrêté de l'horaire de service en septembre A-1, suivant les règles précisées au point 4.2.3.2, traitées par SNCF Réseau en priorisant le respect des délais de réponse indiqués au point 4.2.3.2, puis l'ordre de réception ;
+
+-des demandes de sillons de dernière minute (DSDM) reçues entre J-7 et J, traitées par SNCF Réseau avec une priorité correspondant à l'ordre de réception des demandes, sauf dans les cas particuliers décrits dans le référentiel « Capacité de dernière minute » publié sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau. Les modalités de demandes des sillons de dernière minute (SDM) sont précisées au point 4.2.3.2.
 
 La  phase  d'adaptation  a  pour  finalité  première  l'attribution  de  nouveaux  sillons  dans  la  capacité résiduelle.
 
@@ -2618,7 +3065,7 @@ Les réponses proposées tiennent compte de la robustesse de conception (respect
 
 Les sillons proposés ne doivent pas entraîner de modifications des sillons déjà attribués dans le cadre de  la  procédure  de  coordination  décrite  au  point  4.5.4,  sauf  accord  sollicité  et  obtenu  par SNCF Réseau des titulaires de ces sillons.
 
-## Ouvertures supplémentaires de lignes, gares et postes :
+## [section_header] Ouvertures supplémentaires de lignes, gares et postes :
 
 Lorsqu'une demande de sillon en adaptation n'est pas compatible avec les horaires d'ouverture des lignes, gares  et postes précisés dans le SI  OLGA, le demandeur a la possibilité de solliciter SNCF Réseau en vue d'une modification de ces horaires dans les conditions définies au point 5.1.6.2.
 
@@ -2626,21 +3073,25 @@ Une étude de faisabilité ainsi qu'une estimation du coût de l'extension d'ouv
 
 En cas de réponse favorable, la prestation fera l'objet d'un devis basé sur l'étude de coûts, adressé au demandeur, pour accord (point 5.4.2). En cas d'acceptation du devis, la prestation sera facturée dans les conditions définies au  Chapitre 5 - Services et tarification.
 
-## 4.2.3 DEMANDES DE SILLONS
+## [section_header] 4.2.3 DEMANDES DE SILLONS
 
 Conformément au « Manuel du demandeur de capacité commerciale en construction et adaptation du service annuel », disponible sur la page «Documents techniques cités dans le DRR » du site internet de SNCF Réseau, les demandes de sillon s'effectuent :
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 89 -->
 
-- -pour une demande de sillon national jusqu'à J-8 du premier jour de circulation du train : via l'interface unifiée GESICO- DSDM. Voir également points 4.2.3.1 et 4.2.3.2 ;
-- -pour une demande de sillon national de dernière minute (entre J-7 et le jour J de circulation souhaitée) : via l'interface unifiée GESICO- DSDM, conformément au document de principe « Capacité de dernière minute » disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau. Voir également fin du point 4.2.3.2 ;
-- -pour une demande de sillon international : voir point 4.2.5.2.
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+
+-pour une demande de sillon national jusqu'à J-8 du premier jour de circulation du train : via l'interface unifiée GESICO- DSDM. Voir également points 4.2.3.1 et 4.2.3.2 ;
+
+-pour une demande de sillon national de dernière minute (entre J-7 et le jour J de circulation souhaitée) : via l'interface unifiée GESICO- DSDM, conformément au document de principe « Capacité de dernière minute » disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau. Voir également fin du point 4.2.3.2 ;
+
+-pour une demande de sillon international : voir point 4.2.5.2.
 
 Les  demandeurs sont invités  à  apporter  la  plus  grande  attention  à  la  qualité  et  à  l'exactitude  des informations  saisies  lors  de  la  demande  (voir  également  le  point  4.1.3),  afin  de  permettre  à SNCF Réseau d'apporter une réponse pertinente lors du traitement. Dans le cas où  SNCF Réseau jugerait ne pas disposer des informations nécessaires à l'élaboration de la réponse, la demande pourra être  répondue  «  irrecevable  »,  et  le  demandeur  devra  renouveler  sa  demande  en  apportant  les précisions ou corrections nécessaires.
 
 La demande de capacité en gare (point 4.2.7) doit être effectuée en même temps que le sillon en apportant les informations nécessaires et en renseignant les champs appropriés de la demande.
 
-## ● Modélisation des engins moteurs dans l'outil de tracé horaire
+## [section_header] ● Modélisation des engins moteurs dans l'outil de tracé horaire
 
 Comme indiqué au point 4.1.3, il est de la responsabilité du demandeur de s'assurer que le convoi puisse respecter le jalonnement horaire du sillon attribué. Les horaires sont calculés et tracés sur la base des performances de l'engin moteur désigné par le demandeur dans sa demande.
 
@@ -2650,15 +3101,17 @@ Le  demandeur  devra  notamment  transmettre,  avec  l'appui  du  fournisseur  d
 
 Compte-tenu du délai nécessaire pour la réalisation de ces modèles (variable en fonction des engins et du nombre de compositions), le demandeur est invité à anticiper autant que possible ces opérations. En l'absence d'un engin de référence spécifiquement modélisé dans l'outil de tracé horaire (par choix du demandeur ou en attendant la finalisation de la modélisation), le demandeur indiquera dans sa demande et sous sa responsabilité l'engin équivalent à retenir pour le calcul et le tracé des sillons.
 
-## 4.2.3.1 Demandes de sillons au service en phase de construction
+## [section_header] 4.2.3.1 Demandes de sillons au service en phase de construction
 
-## ● Généralités
+## [section_header] ● Généralités
 
 Les demandes de sillons au service peuvent être formulées entre mi-décembre A-2 et le deuxième lundi d'avril A-1, selon le calendrier décrit au point 4.5 qui précise également les dates de réponse à ces demandes. SNCF Réseau communique avant l'ouverture de cette période les éléments nécessaires à la formulation des demandes de sillons, précisés ci-après.
 
 Par ailleurs, les demandes tardives au service (DTS) formulées après le deuxième lundi d'avril et jusqu'à l'arrêté  de  l'horaire  de  service  en  septembre  A-1,  décrites  au  point  4.2.2.4,  sont  traitées  dans  la capacité résiduelle, selon le calendrier décrit au point 4.5.2.
 
-## ● Sillons préconstruits
+<!-- page: 90 -->
+
+## [section_header] ● Sillons préconstruits
 
 Les sillons préconstruits figurent au catalogue de sillons, élaboré pendant la phase de pré-construction (point 4.2.2.2).
 
@@ -2670,26 +3123,29 @@ Le catalogue de sillons est communiqué en décembre A-2 sur l'Espace clients du
 
 (*) L'attention des demandeurs est attirée sur le fait que la demande d'un sillon préconstruit suppose de  leur  part  l'acceptation  des  paramètres  de  positionnement  et  performance  de  ce  sillon,  et  que lesdites valeurs primeront sur toute autre déclaration formulée dans la demande. Seuls des ajustements très réduits de moins de 5 minutes, et ne remettant pas en cause la succession des sillons (liés par exemple  au  fait  qu'un  train  démarrera  au  lieu  de  passer  en  un  point  intermédiaire  d'un  sillon), permettent de laisser à la demande son statut de « demande d'un sillon préconstruit ». Pour les sillons pour lesquelles une valeur plafond d'espacement minimal technique a été fixée (point  4.2.2.3), le respect de cette valeur est nécessaire pour laisser à la demande son statut de « demande d'un sillon préconstruit ».
 
-## ● Contraintes de capacité
+## [section_header] ● Contraintes de capacité
 
 SNCF Réseau communique aux demandeurs en mi-décembre A-2 :
 
-- -Les horaires d'ouverture des lignes, gares et postes tels qu'applicables pour l'horaire de service A,  via  le  SI  OLGA.  Le  référentiel  notifié  est  également  publié  sur  la  page  « Documents techniques cités dans le DRR » du site internet de SNCF Réseau.
-- -Le programme général des fenêtres (PGF), décrivant les fenêtres et capacités allouées pour les travaux (point 4.3.2), via le SI TCAP.
+-Les horaires d'ouverture des lignes, gares et postes tels qu'applicables pour l'horaire de service A,  via  le  SI  OLGA.  Le  référentiel  notifié  est  également  publié  sur  la  page  « Documents techniques cités dans le DRR » du site internet de SNCF Réseau.
+
+-Le programme général des fenêtres (PGF), décrivant les fenêtres et capacités allouées pour les travaux (point 4.3.2), via le SI TCAP.
 
 SNCF Réseau anime, durant la période des demandes de sillons au service, des instances de dialogue avec les demandeurs, durant lesquelles leur sont communiquées les données relatives aux capacités disponibles et aux contraintes identifiées.
 
 La démarche et ces instances sont décrites plus en détail dans le « Manuel du demandeur de capacité commerciale en construction et adaptation du service annuel », disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau.
 
-## ● Enchaînements en gare
+## [section_header] ● Enchaînements en gare
 
 Les demandeurs communiquent également les informations relatives aux besoins d'enchaînements en gare (réutilisation du matériel, programme théorique de travail, opérations en gare) entre les sillons demandés, a minima pour la période A. Ces informations sont transmises au plus tard le deuxième vendredi du mois de mai A-1.
 
 A partir de ces informations, SNCF Réseau vérifie la compatibilité des sillons en gare et élabore des graphiques d'occupation des voies dits « projets » des gares structurantes, pour chaque jour de la semaine (ou regroupement de jours identiques) correspondant à la période A. Ces graphiques sont diffusés  par  le  bureau  horaire  local  à  titre  d'information  entre  le  projet  d'HDS  (en  juillet  A-1)  et  la publication de l'HDS (septembre A-1).
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 91 -->
 
-## 4.2.3.2 Demandes de sillons en phase d'adaptation
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+
+## [section_header] 4.2.3.2 Demandes de sillons en phase d'adaptation
 
 Les demandes formulées après l'arrêté de l'horaire de service en septembre A-1 (DSA, DSDM) décrites au point 4.2.2.5, sont traitées dans la capacité résiduelle, selon le calendrier décrit au point 4.5.2.
 
@@ -2697,13 +3153,17 @@ Concernant les DSA, leur traitement ne débute que lorsque les DTS sont traitée
 
 Au  sujet  des  demandes  de  modification  et  de  suppression  de  sillons,  consulter  également  les dispositions relatives au dispositif incitatif réciproque au Chapitre 5 - Services et tarification.
 
-## ● Enchaînements
+## [section_header] ● Enchaînements
 
 A l'instar de la phase de construction, les demandeurs précisent également les informations relatives aux besoins d'enchaînements (réutilisation du matériel, programme théorique de travail, opérations en gare) :
 
-- -En cas de variabilité de leur plan de transport, un récapitulatif des enchaînements définitifs de chaque période avant les jalons limites ci-après :
-- -En accompagnement des DSA qui impliquent des modifications d'enchaînement,
-- -En  cas  de  modification  d'enchaînement  souhaitée,  sans  modification  des  sillons  déjà attribués.
+-En cas de variabilité de leur plan de transport, un récapitulatif des enchaînements définitifs de chaque période avant les jalons limites ci-après :
+
+-En accompagnement des DSA qui impliquent des modifications d'enchaînement,
+
+-En  cas  de  modification  d'enchaînement  souhaitée,  sans  modification  des  sillons  déjà attribués.
+
+### [TABLE]
 
 |              | Période A                                | Période B                              | Période C                           | Période D                             |
 |--------------|------------------------------------------|----------------------------------------|-------------------------------------|---------------------------------------|
@@ -2715,18 +3175,19 @@ Les GOV journaliers sont publiés au plus tard à J-1 ouvré 17H.
 
 Afin de permettre leur élaboration :
 
-- -Les  EF  doivent  transmettre  à  S-1  leurs  enchaînements  mis  à  jour  ou  confirmer  les enchaînements précédemment transmis. En l'absence de transmission à cette échéance, SNCF Réseau prendra en compte les données précédemment transmises.
-- -Toute  modification  apportée  au-delà  de  S-1  devra  explicitement  être  notifiée  à  SNCF Réseau et transmise au plus tard à J-1 ouvré 12h.
+-Les  EF  doivent  transmettre  à  S-1  leurs  enchaînements  mis  à  jour  ou  confirmer  les enchaînements précédemment transmis. En l'absence de transmission à cette échéance, SNCF Réseau prendra en compte les données précédemment transmises.
+
+-Toute  modification  apportée  au-delà  de  S-1  devra  explicitement  être  notifiée  à  SNCF Réseau et transmise au plus tard à J-1 ouvré 12h.
 
 Dans une logique d'anticipation, il est par ailleurs recommandé aux EF de transmettre en amont de ces  jalons  toutes  les  modifications  structurantes  d'enchainements  nécessaires,  et  en  particulier  aux jalons S-8 et S-5.
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 92 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
 
 Synthèse de la fourniture des données enchaînements
 
-<!-- image -->
-
-## ● Assistance à la formulation des demandes de sillons
+## [section_header] ● Assistance à la formulation des demandes de sillons
 
 SNCF Réseau propose un service d'aide à la commande pour les demandes tardives et les demandes en adaptation. A la demande du client et sur décision du Pôle Relation Client Sillon de la DAC, des études peuvent être réalisées pour orienter les demandes de sillons liées à de nouveaux trafics.
 
@@ -2734,15 +3195,17 @@ Une  étude  effectuée  dans  le  cadre  de  ce  dispositif  d'aide  à  la  co
 
 Le processus est détaillé dans le « Manuel du demandeur de capacité commerciale en construction et adaptation du service annuel » disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau.
 
-## ● Règles applicables aux demandes en phase d'adaptation
+## [section_header] ● Règles applicables aux demandes en phase d'adaptation
 
-- -Suppression de sillons-jours
+-Suppression de sillons-jours
 
-<!-- image -->
+<!-- page: 93 -->
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
 
-- -Création/ajout de sillons-jours non soumis à prescription de sécurité
+-Création/ajout de sillons-jours non soumis à prescription de sécurité
+
+### [TABLE]
 
 | Périmètre                  | Périmètre                         | Demandes de création (hors sillons-jours soumis à des prescriptions de sécurité, traités ci-après) répondant à un nouveau besoin de transport, ou ajouts de sillons- jours nouveaux dans un sillon attribué avec plusieurs jours de circulation.                                                                                                                                    |
 |----------------------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2753,69 +3216,89 @@ Le processus est détaillé dans le « Manuel du demandeur de capacité commerci
 
 Compte-tenu du temps nécessaire au tracé des sillons et des contraintes liées aux prescriptions de sécurité, les demandeurs sont invités à anticiper autant que possible la demande, afin d'augmenter les chances d'avoir une réponse positive, ou de permettre le renouvellement de la demande en cas de réponse négative.
 
+### [TABLE]
+
 | Périmètre                   | Demandes de création de sillons-jours pour : - les circulations comportant un avis de transport exceptionnel mentionnant une interdiction de croisement ou de dépassement ; - les circulations de transport exceptionnel particulièrement encombrant ; - les circulations dérogatoires nécessitant la prise en compte dans le tracé horaire de l'incidence de prescriptions de sécurité découlant de l'analyse des risques réalisée par le demandeur.                                                   |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Demande au plus tard à J-40 | Compte-tenu du temps nécessaire au tracé de ce type de sillons, la demande doit être formulée au plus tard quarante (40) jours calendaires avant le premier jour de circulation (J-40), qu'elle concerne un nouveau besoin ou le renouvellement d'une demande déjà répondue irréalisable (ou sillon-jour non-attribué). Les types de réponse sont décrits au point 4.2.4. La demande doit comporter l'ensemble des éléments techniques nécessaires, stabilisés et finalisés (ATE, consigne d'essai, …). |
 | Réponse                     | La réponse est apportée dans les meilleurs délais, au plus tard trente (30) jours calendaires après le dépôt de la demande. Dans le cas où la demande ne respecte pas ce délai de quarante (40) jours, SNCF Réseau invite le demandeur à formuler une nouvelle demande à une autre date, compatible avec les contraintes de production horaire.                                                                                                                                                         |
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+2 Ce délai de « 7 jours calendaires » est la traduction opérationnelle du délai de « 5 jours ouvrables » prévu à l'article 48 de la directive 2012/34/UE et repris à l'art.23 du décret n° 2003-194, convenue entre les gestionnaires d'infrastructure au sein de RNE dans un souci d'harmoniser l'application de ce délai.
 
-- -Cas particulier : évolution de l'ATE
+<!-- page: 94 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+
+-Cas particulier : évolution de l'ATE
 
 Demande de modification du sillon Dans  le  cas  où,  à  l'occasion  d'une  réédition  ou  de  la  diffusion  d'un  rectificatif,  les prescriptions de sécurité portées par l'ATE ont évolué depuis l'attribution du sillon, le demandeur procède à une demande de modification du sillon dès qu'il a connaissance du besoin, en précisant les motifs de sa demande et les références de l'ATE rectifié.
 
 Réponse La  réponse est  alors apportée  dans  les  meilleurs  délais,  au  plus  tard  trente  (30)  jours calendaires après le dépôt de la demande (ou selon le délai applicable aux SDM à partir de J-7), étant entendu que la faisabilité de la modification est assujettie à la nature et à la complexité des impacts à traiter.
 
-- -Modification de sillons-jours
+-Modification de sillons-jours
+
+### [TABLE]
 
 | Périmètre                  | Demandes de modification de sillons-jours (parcours et/ou horaires) à l'initiative du demandeur, suite à une évolution de son besoin. La demande peut porter sur un sillon-jour préalablement attribué ou sur un sillon-jour non encore répondu.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Demande au plus tard à J-8 | La demande doit être formulée au plus tard huit (8) jours calendaires avant le premier jour de circulation (J-8), étant rappelé qu'une plus grande anticipation améliore les chances de prise en charge. Les demandes de modification ne sont pas acceptées à partir de J-7 (à l'exception des demandes de suppression partielle). La demande de modification doit être conforme aux principes métiers d'utilisation des fonctionnalités « vie du sillon » mises à disposition dans l'interface unifiée GESICO- DSDM, permettant de suivre les évolutions d'un sillon demandé. En particulier, il n'est pas autorisé de masquer une demande de modification en procédant à une demande de création couplée à une demande de suppression ou de retrait de jour. |
 | Réponse                    | La réponse à une demande de modification d'un sillon-jour unique destinée à une circulation commerciale (hors circulation comportant un avis de transport exceptionnel dont la demande doit être formulée au plus tard quarante (40) jours calendaires avant le premier jour de circulation, et train touristique), est apportée dans un délai de 7 jours calendaires 3 . Pour les autres demandes, la réponse est apportée dans les meilleurs délais, au plus tard trente (30) jours calendaires après le dépôt de la demande. Les types de réponse sont décrits au point 4.2.4.                                                                                                                                                                              |
 
-## ● Demandes de sillons de dernière minute
+## [section_header] ● Demandes de sillons de dernière minute
 
 Les demandes (ou restitutions) de capacité pouvant être formulées entre J-7 et le jour J de circulation du train sont les suivantes :
 
-- -Création de sillon de dernière minute (SDM) ;
-- -Suppression (totale ou partielle) de sillon attribué ;
-- -Autorisation et renoncement à circuler en train à marche indéterminée.
+-Création de sillon de dernière minute (SDM) ;
+
+-Suppression (totale ou partielle) de sillon attribué ;
+
+-Autorisation et renoncement à circuler en train à marche indéterminée.
 
 3 Ce délai de « 7 jours calendaires » est la traduction opérationnelle du délai de « 5 jours ouvrables » prévu à l'article 48 de la directive 2012/34/UE et repris à l'art.23 du décret n° 2003-194, convenue entre les gestionnaires d'infrastructure au sein de RNE dans un souci d'harmoniser l'application de ce délai.
+
+<!-- page: 95 -->
 
 Les demandes de modification ne sont pas autorisées et ne sont pas prises en compte.
 
 Les demandes de SDM formulées entre J-7 et J-1 17h sont traitées par les guichets capacité en moins de sept (7) jours calendaires 4  et dans les conditions figurant dans le document « Capacité de dernière minute » disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau. Les demandes ultérieures, ou dont le traitement n'a pu être achevé par les guichets capacité sont traitées par les guichets opérationnels.
 
-## ● Création de sillons-jours soumis à prescription de sécurité en SDM
+## [section_header] ● Création de sillons-jours soumis à prescription de sécurité en SDM
 
-## A. Cas de sillons avec prescriptions de sécurité pouvant faire l'objet d'une DSDM sans condition particulière :
+## [section_header] A. Cas de sillons avec prescriptions de sécurité pouvant faire l'objet d'une DSDM sans condition particulière :
 
-- -Les circulations de catégorie A ou B susceptibles de ne pas assurer le bon fonctionnement des circuits de voie ;
-- -Les circulations susceptibles de perturber le bon fonctionnement des compteurs d'essieux
-- -Les circulations à courants de Foucault ;
-- -Les circulations d'engins moteurs avec radio sol-train hors service, acheminés vers un centre de maintenance à la vitesse limite de 70 Km/h.
+-Les circulations de catégorie A ou B susceptibles de ne pas assurer le bon fonctionnement des circuits de voie ;
+
+-Les circulations susceptibles de perturber le bon fonctionnement des compteurs d'essieux
+
+-Les circulations à courants de Foucault ;
+
+-Les circulations d'engins moteurs avec radio sol-train hors service, acheminés vers un centre de maintenance à la vitesse limite de 70 Km/h.
 
 B. Cas de sillons avec prescriptions de sécurité pouvant faire l'objet d'une DSDM sous certaines conditions : ce cas est détaillé dans le document « Capacité de dernière minute » disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau.
 
-## C. Cas de sillons avec prescriptions de sécurité ne pouvant pas faire l'objet d'une DSDM :
+## [section_header] C. Cas de sillons avec prescriptions de sécurité ne pouvant pas faire l'objet d'une DSDM :
 
-- -Les circulations de catégorie C n'assurant pas le bon fonctionnement des circuits de voie ;
-- -Les  circulations  dérogatoires  nécessitant  la  prise  en  compte  dans  le  tracé  horaire  de l'incidence de prescriptions de sécurité découlant de l'analyse des risques réalisée par le demandeur.
+-Les circulations de catégorie C n'assurant pas le bon fonctionnement des circuits de voie ;
 
-## 4.2.3.3 Reprise d'un trafic existant
+-Les  circulations  dérogatoires  nécessitant  la  prise  en  compte  dans  le  tracé  horaire  de l'incidence de prescriptions de sécurité découlant de l'analyse des risques réalisée par le demandeur.
+
+## [section_header] 4.2.3.3 Reprise d'un trafic existant
 
 Dans le cas où un trafic existant est repris à l'identique par une entreprise ferroviaire autre que celle attributaire des sillons (sur la base des mêmes caractéristiques des sillons), la procédure spécifique suivante est appliquée :
 
-- -La situation est portée à la connaissance de SNCF Réseau par l'AOM, l'entreprise ferroviaire nouvellement  attributaire  du  marché  ou  par  le  chargeur,  lesquels  doivent  fournir  tout élément attestant de l'attribution de ce marché.
-- -SNCF  Réseau  prend  contact  avec  le  chargeur,  l'industriel  ou  l'entreprise  ferroviaire anciennement attributaire afin de confirmer la situation ;
-- -SNCF Réseau prend contact avec l'entreprise ferroviaire qui perdrait le marché (d'après les informations communiquées précédemment). Il l'informe qu'elle recevra un courrier de la part de SNCF Réseau lui demandant de restituer les sillons sous un certain délai et qu'à défaut, lesdits sillons lui seront supprimés.
+-La situation est portée à la connaissance de SNCF Réseau par l'AOM, l'entreprise ferroviaire nouvellement  attributaire  du  marché  ou  par  le  chargeur,  lesquels  doivent  fournir  tout élément attestant de l'attribution de ce marché.
+
+-SNCF  Réseau  prend  contact  avec  le  chargeur,  l'industriel  ou  l'entreprise  ferroviaire anciennement attributaire afin de confirmer la situation ;
+
+-SNCF Réseau prend contact avec l'entreprise ferroviaire qui perdrait le marché (d'après les informations communiquées précédemment). Il l'informe qu'elle recevra un courrier de la part de SNCF Réseau lui demandant de restituer les sillons sous un certain délai et qu'à défaut, lesdits sillons lui seront supprimés.
 
 4 Ce délai de « 7 jours calendaires » est la traduction opérationnelle du délai de « 5 jours ouvrables » prévu à l'article 48 de la directive 2012/34/UE et repris à l'art.23 du décret n°2003-194, convenue entre les gestionnaires d'infrastructure au sein de RNE dans un souci d'harmoniser l'application de ce délai.
 
-- -SNCF Réseau envoie le courrier.  En  l'absence  de  restitution  des  sillons  dans  les  délais impartis, il procède à leur suppression.
+<!-- page: 96 -->
 
-## 4.2.4 REPONSES DE SNCF RESEAU
+-SNCF Réseau envoie le courrier.  En  l'absence  de  restitution  des  sillons  dans  les  délais impartis, il procède à leur suppression.
+
+## [section_header] 4.2.4 REPONSES DE SNCF RESEAU
 
 Toute  demande  fait  l'objet  d'une  réponse  conformément  au  calendrier  défini  au  point  4.5.  via l'interface unifiée GESICO- DSDM qui inclut l'état de la réponse, associée à une catégorie de réponse, et le commentaire saisis par l'horairiste le cas échéant.
 
@@ -2825,12 +3308,15 @@ Une demande qui n'a pas encore reçu de réponse dans cette interface GESICO - D
 
 Les demandeurs peuvent suivre l'attribution des sillons-jours, à partir de la communication de l'horaire de service, via :
 
-- -l'interface  unifiée  GESICO-  DSDM : consultation des sillons  et  des  «  états  courants  des sillons » présentant le statut de chaque sillon-jour sous forme calendaire ;
-- -le SI e-HOUAT : consultation des horaires théoriques de tous les trains.
+-l'interface  unifiée  GESICO-  DSDM : consultation des sillons  et  des  «  états  courants  des sillons » présentant le statut de chaque sillon-jour sous forme calendaire ;
+
+-le SI e-HOUAT : consultation des horaires théoriques de tous les trains.
 
 Les sillons attribués ont une validité au plus égale à celle de l'horaire de service pour lequel la capacité a été accordée.
 
 Les états de la réponse de SNCF Réseau aux demandes de sillon sont définis dans le tableau suivant.
+
+### [TABLE]
 
 | Etat de la réponse dans l'interface unifiée GESICO- DSDM   | Caractéristique                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2840,22 +3326,26 @@ Les états de la réponse de SNCF Réseau aux demandes de sillon sont définis d
 | Mise en réserve                                            | Cette réponse est donnée lorsque plusieurs demandes au service sont faites pour un même service de transport, en lien avec un appel d'offres en cours. Cette réponse est de nature temporaire. La mise en réserve est levée dès que possible, lorsque SNCF Réseau aura obtenu les informations nécessaires auprès des demandeurs concernés pour attribuer le sillon au demandeur attributaire de l'appel d'offres.                                                                                                                                |
 | Tracé en attente de validation                             | Le sillon ne peut être attribué car certains éléments restent à valider (par exemple ATE, itération avec gare structurante, …). Le cas se présente notamment lorsque le tracé nécessite l'ouverture d'une ligne, d'une gare ou d'un poste qui n'est pas prévue à l'origine pour ce service et qui doit donc être étudiée. Le cas se présente également lorsque la limite de capacité est atteinte en voie unique et qu'une étude complémentaire est nécessaire pour valider une éventuelle extension de capacité permettant de tracer des sillons |
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 97 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+
+### [TABLE]
 
 |              | supplémentaires. Cette réponse est provisoire, et fait l'objet d'une modification dès que les éléments nécessaires sont réunis afin de formuler une réponse définitive au demandeur.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Irréalisable | L'application des règles énoncées dans le présent document, des référentiels et des normes de tracé, et/ou les contraintes du graphique (disponibilité de l'infrastructure, capacité allouée à des travaux ou des sillons) ne permettent pas de tracer le sillon demandé dans les tolérances minimales définies au point 4.2.2.4 ou les tolérances plus larges exprimées par le demandeur pour l'ensemble des dates demandées ou, en cas de coordination, dans les limites raisonnables définies au point 4.5.4. La réponse est accompagnée d'un commentaire précisant et justifiant le motif de la réponse. En particulier, des détails sont apportés afin d'expliciter les situations où la capacité résiduelle est insuffisante pour permettre l'attribution de la capacité demandée. |
 | Irrecevable  | La demande de sillon est incohérente ou ne contient pas toutes les informations nécessaires à la réalisation du tracé, ou ne respecte pas les règles énoncées dans le présent document. La réponse est accompagnée d'un commentaire précisant et justifiant le motif du rejet ou du non-traitement de la demande.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-<!-- image -->
-
 Des catégories de réponse peuvent, le cas échéant, compléter et préciser ces types de réponse.
 
-## 4.2.4.1 Les états courants des sillons
+## [section_header] 4.2.4.1 Les états courants des sillons
 
 L'état courant du sillon est une information qui permet de connaître le statut d'un sillon pour chaque jour de circulation demandé et son évolution. La première communication des états courants des sillons est effectuée au moment de la publication de l'horaire de service.
 
 Les différents états courants des sillons sont définis dans le tableau suivant.
+
+### [TABLE]
 
 | Etats courants des sillons           | Caractéristique                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2865,17 +3355,19 @@ Les différents états courants des sillons sont définis dans le tableau suivan
 | Sillon- jour en conflit              | En période d'adaptation, un conflit est identifié entre le sillon-jour et un ou plusieurs objets travaux.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Commande jour en cours de traitement | Le sillon-jour commandé n'est pas encore traité ou est en cours de traitement.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-## 4.2.4.2 Suivi des indicateurs de production horaire
+<!-- page: 98 -->
+
+## [section_header] 4.2.4.2 Suivi des indicateurs de production horaire
 
 SNCF Réseau partage, lors des instances avec les demandeurs, plusieurs indicateurs permettant de suivre  l'évolution  de  la  performance  du  processus  de  production  horaire,  ainsi  que  le  respect  des engagements de SNCF Réseau.
 
-## 4.2.5 SILLONS INTERNATIONAUX
+## [section_header] 4.2.5 SILLONS INTERNATIONAUX
 
 Pour  les  sillons  des  corridors  fret  en  particulier,  les  règles  d'attribution  de  capacité  sont  fixées  en application  du  règlement  n°  913/2010,  notamment  au  titre  du  cadre  de  répartition  des  capacités décidé  par  les  comités  exécutifs  des  corridors  et  déclinées  dans  les  documents  d'information  de chaque corridor (point 1.7).
 
 Pour  les  sillons  internationaux,  les  principes  et  processus  d'attribution  des  sillons  sont  définis  par RailNetEurope et repris dans un manuel disponible sur son site internet. Des outils spécifiques sont mis à la disposition des demandeurs de capacité afin qu'ils puissent formuler leurs demandes. Les réponses à ces demandes font l'objet d'une coordination entre les gestionnaires d'infrastructure concernés par l'itinéraire.
 
-## 4.2.5.1 Étude de faisabilité internationale
+## [section_header] 4.2.5.1 Étude de faisabilité internationale
 
 Pour  des  besoins  particuliers  relatifs  aux  circulations  internationales,  au-delà  des  travaux  de  préconstruction menés, tout  demandeur  peut soumettre des demandes  d'étude de faisabilité internationale afin d'affiner la construction de ses plans de transport.
 
@@ -2887,7 +3379,7 @@ Elle  peut  être  demandée  jusqu'à  mi-janvier  A-1,  mais  il  est  toutefo
 
 Les réponses de SNCF Réseau à une étude de faisabilité ne constituent pas une proposition ferme de sillons et ne dispensent pas de présenter, dans les conditions fixées au point 4.2.5.2 une demande formelle de sillons internationaux. Ce service est une prestation connexe (point 5.1.7.1) dont le tarif est précisé au point 5.5.1.1.
 
-## 4.2.5.2 Demandes de sillons internationaux au service (phase de construction)
+## [section_header] 4.2.5.2 Demandes de sillons internationaux au service (phase de construction)
 
 Les demandes de sillons internationaux au service peuvent être formulées par les demandeurs soit dans PCS soit dans l'interface unifiée GESICO- DSDM. SNCF Réseau préconise l'utilisation de PCS afin d'optimiser la coordination internationale.
 
@@ -2895,9 +3387,11 @@ Pour le cas particulier des sillons préétablis des corridors fret européen, l
 
 La  demande formulée dans PCS doit systématiquement donner lieu à la création d'une demande identique dans l'interface unifiée GESICO- DSDM. Pour ce faire, le demandeur peut choisir d'effectuer lui-même la double-saisie ou de déléguer la retranscription de saisie dans GESICO-DSDM à SNCF Réseau  via  l'adresse  générique  :  SERVICE.ANNUEL@reseau.sncf.fr.  À  l'issue  de  la  procédure  de planification et d'attribution du sillon international, en coordination avec le ou les GI voisins, SNCF Réseau  saisit  la  réponse  à  la  demande  issue  de  PCS  dans  cette  interface  GESICO-  DSDM.  Cette réponse est ensuite notifiée dans PCS.
 
+<!-- page: 99 -->
+
 Les modalités particulières s'appliquant aux demandes de sillons internationaux sont précisées dans le « Manuel du demandeur de capacité commerciale en construction et adaptation du service annuel » disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau. Le calendrier complet de demande et d'attribution des sillons est détaillé au point 4.5.
 
-## 4.2.5.3 Coordination des horaires aux points frontière
+## [section_header] 4.2.5.3 Coordination des horaires aux points frontière
 
 A chaque section frontière, un des deux gestionnaires d'infrastructure (GI) est désigné « GI pilote » et est responsable de la coordination horaire sur la section frontière.
 
@@ -2909,23 +3403,25 @@ Pour qu'un sillon puisse être attribué, le « GI pilote » est responsable de 
 
 La  coordination  des  demandes  lors  de  la  phase  de  construction  du  service  s'articule  autour  de  la réunion organisée sous l'égide de l'association RailNetEurope en juin de chaque année, réunissant les différents GI en un même lieu géographique sur plusieurs jours (RNE Technical Meeting), les échanges se poursuivant ensuite entre entités allocatrices.
 
-<!-- image -->
+## [section_header] 4.2.6 ATTRIBUTION DE CAPACITES SPECIFIQUES
 
-## 4.2.6 ATTRIBUTION DE CAPACITES SPECIFIQUES
-
-## 4.2.6.1 Attribution de capacité conjointe avec LISEA
+## [section_header] 4.2.6.1 Attribution de capacité conjointe avec LISEA
 
 Lorsqu'un demandeur de capacités commande un sillon nécessitant d'emprunter à la fois la ligne à grande vitesse SEA Tours-Bordeaux, dont LISEA est le gestionnaire d'infrastructure, et le réseau ferré national non concédé, la réponse est coordonnée entre LISEA et SNCF Réseau pour assurer le tracé de bout en bout du sillon commandé.
 
-## 4.2.6.2 Attribution de capacité sur les lignes à voies uniques
+## [section_header] 4.2.6.2 Attribution de capacité sur les lignes à voies uniques
 
 Il  existe des limites de capacité (nombre maximal de sillons journaliers) sur les lignes à voie unique suivantes :
 
-- -Voie unique à signalisation ordinaire avec cantonnement téléphonique (VUSO) ;
-- -Voie unique à signalisation simplifiée (VUSS) ;
+-Voie unique à signalisation ordinaire avec cantonnement téléphonique (VUSO) ;
 
-- -Voie unique à trafic restreint (VUTR) ;
-- -Voie unique gérée par consigne S4C.
+-Voie unique à signalisation simplifiée (VUSS) ;
+
+<!-- page: 100 -->
+
+-Voie unique à trafic restreint (VUTR) ;
+
+-Voie unique gérée par consigne S4C.
 
 Ces limites de capacité sont définies en application de critères évalués en début de chaque année.
 
@@ -2937,15 +3433,15 @@ Afin de faciliter l'accès et l'attribution de la capacité sur certaines lignes
 
 Les lignes concernées et les modalités de ces procédures font l'objet de communication directe auprès des  demandeurs,  et  sont  détaillées  le  cas  échéant  dans  le  «  Manuel  du  demandeur  de  capacité commerciale en construction et adaptation du service annuel » disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau.
 
-## 4.2.6.3 Coordination avec les grands ports maritimes
+## [section_header] 4.2.6.3 Coordination avec les grands ports maritimes
 
 SNCF  Réseau  et  chacun  des  grands  ports  maritimes  ont  établi  des  principes  permettant  soit  à SNCF Réseau d'allouer les sillons sur les voies ferrées portuaires, soit de veiller à la bonne coordination de l'attribution des capacités entre les deux réseaux.
 
 Des  dispositions  de  même  nature  sont  prises  avec  les  autres  ports.  Les  demandeurs  peuvent  se renseigner auprès du département grand compte.
 
-## 4.2.7 CONCEPTION COORDONNEE LIGNE / GARE
+## [section_header] 4.2.7 CONCEPTION COORDONNEE LIGNE / GARE
 
-## ● Principes généraux
+## [section_header] ● Principes généraux
 
 Les voies des gares de voyageurs font partie du réseau. L'utilisation de la capacité en gare est du ressort de SNCF Réseau.
 
@@ -2953,10 +3449,13 @@ Est entendue comme gare voyageurs, tout complexe ferroviaire permettant d'assure
 
 L'attribution de capacité de SNCF Réseau en gares de voyageurs consiste en la mise à disposition d'un espace-temps défini comme suit :
 
-- -voie à quai ;
-- -temps nécessaires aux opérations à assurer (des valeurs de référence sont spécifiées dans les recueils d'exploitation propres à chaque gare pour certaines de ces opérations).
+-voie à quai ;
+
+-temps nécessaires aux opérations à assurer (des valeurs de référence sont spécifiées dans les recueils d'exploitation propres à chaque gare pour certaines de ces opérations).
 
 Compte-tenu  de  l'interaction entre l'organisation des capacités en gare  (GOV  -  graphique d'occupation des voies) et l'organisation des capacités en ligne (graphique de circulation), l'expression et  le  traitement  des  besoins  en  ligne  et  en  gare  sont  coordonnés.  Ceci  est  notamment  organisé spécifiquement pour les gares dites « structurantes ».
+
+<!-- page: 101 -->
 
 La  « liste  des  gares  structurantes »  est  disponible  sur  le  site  Internet  de  SNCF  Réseau  (page « documents techniques »).
 
@@ -2966,46 +3465,53 @@ Les demandeurs doivent fournir au cours des phases de préconstruction, construc
 
 Les informations relatives aux voies et voies à quai prévues pour les différents demandeurs de sillons sont  diffusées  dans  le  graphique  d'occupation  des  voies  de  la  gare  considérée,  établi  par SNCF Réseau.
 
-## ● Modalités de coordination des demandes de capacités et de gestion de la saturation
+## [section_header] ● Modalités de coordination des demandes de capacités et de gestion de la saturation
 
 En cas d'incapacité à satisfaire l'ensemble des demandes en gare, les principes de coordination décrits au point 4.5.4 s'appliquent.
 
-## ● Cas du remisage de matériel voyageurs sur voie principale en gares de voyageurs
+## [section_header] ● Cas du remisage de matériel voyageurs sur voie principale en gares de voyageurs
 
 Au-delà des prestations d'accès au réseau et de stationnement, une prestation de remisage de matériel voyageurs sur voie principale en gares (et donc  en  dehors des installations de service  ayant  cette vocation) peut être rendue par SNCF Réseau, sous réserve que les conditions de sécurité définies par les consignes locales d'exploitation soient respectées.
 
 Cette prestation de remisage de matériel voyageurs de nuit sur voie principale en gares de voyageurs, qui constitue un supplétif de la prestation de garage sur voies de service, est décrite au point 7.3.5.7.
 
-## 4.3 PROCESSUS  DE  DÉTERMINATION  DE  CAPACITÉ  POUR  LES RESTRICTIONS TEMPORAIRES DE CAPACITÉS
+## [section_header] 4.3 PROCESSUS  DE  DÉTERMINATION  DE  CAPACITÉ  POUR  LES RESTRICTIONS TEMPORAIRES DE CAPACITÉS
 
-## 4.3.1 PRINCIPES GENERAUX
+## [section_header] 4.3.1 PRINCIPES GENERAUX
 
-## ● Principes généraux
+## [section_header] ● Principes généraux
 
 Les capacités allouées pour des besoins de travaux font l'objet de « fenêtres travaux » définies sur des sections à fenêtres. Elles sont de plusieurs types :
 
-- -« fenêtres génériques », « correctives » et « surveillance » correspondant à une capacité pour les travaux les plus courants dans des périodes de moindre besoin commercial ;
-- -« fenêtres déformées » appliquées à un nombre limité de semaines et susceptibles d'avoir un impact sillon significatif.
+-« fenêtres génériques », « correctives » et « surveillance » correspondant à une capacité pour les travaux les plus courants dans des périodes de moindre besoin commercial ;
+
+-« fenêtres déformées » appliquées à un nombre limité de semaines et susceptibles d'avoir un impact sillon significatif.
 
 En ce qui concerne les zones de gare et les n  uds ferroviaires, celles-ci ne font pas l'objet de fenêtres, compte tenu de la multiplicité des itinéraires pouvant être empruntés pour y circuler. Ces zones font l'objet de « capacités travaux » sur sections ou voies sans fenêtres.
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 102 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
 
 Pour ces travaux, SNCF Réseau se fonde sur la recherche d'un optimum technico-économique au cas par cas qui se traduit par les mesures d'exploitation suivantes :
 
-- -une interruption totale de circulation sur une période donnée sur la voie concernée ou sur les deux voies le cas échéant ;
-- -des limitations temporaires de vitesse (LTV) sur la voie concernée et les voies contiguës.
+-une interruption totale de circulation sur une période donnée sur la voie concernée ou sur les deux voies le cas échéant ;
+
+-des limitations temporaires de vitesse (LTV) sur la voie concernée et les voies contiguës.
 
 Les restrictions temporaires de capacité commerciale (RTC) des lignes ferroviaires pour des motifs tels que la réalisation de travaux d'infrastructure, y compris les restrictions temporaires de la vitesse, la charge par essieu, la longueur des trains, la traction ou le gabarit, font l'objet, conformément à la directive 2012/34/UE, d'un classement et de processus décrits ci-après.
 
-## ● Catégories de restrictions temporaires de capacité
+## [section_header] ● Catégories de restrictions temporaires de capacité
 
 L'annexe VII de la directive 2012/34/UE identifie quatre catégories de RTC, selon deux critères :
 
-- -la durée de la RTC, définie comme la séquence de jours calendaires pendant lesquels la RTC s'applique chaque jour, sur la même section de ligne, sans interruption ;
-- -l'incidence  de  la  RTC  sur  le  trafic,  mesurée  en  pourcentage  du  trafic  estimé  supprimé, détourné ou remplacé par d'autres modes de transport.
+-la durée de la RTC, définie comme la séquence de jours calendaires pendant lesquels la RTC s'applique chaque jour, sur la même section de ligne, sans interruption ;
+
+-l'incidence  de  la  RTC  sur  le  trafic,  mesurée  en  pourcentage  du  trafic  estimé  supprimé, détourné ou remplacé par d'autres modes de transport.
 
 Les  quatre  catégories  de  RTC  ainsi  que  les  deux  critères  de  classement  associés  qui  doivent  être remplis par les RTC sont indiqués dans le tableau ci-dessous :
+
+### [TABLE]
 
 |   Catégorie | Catégorie                     | Jours consécutifs            |    | Incidence sur le trafic                                                   |
 |-------------|-------------------------------|------------------------------|----|---------------------------------------------------------------------------|
@@ -3014,39 +3520,45 @@ Les  quatre  catégories  de  RTC  ainsi  que  les  deux  critères  de  classem
 |           3 | RTC avec incidence moyenne    | 7 jours consécutifs ou moins | et | Plus de 50% du volume de trafic estimé sur une ligne ferroviaire par jour |
 |           4 | RTC avec incidence mineure    | Indéfini                     | et | Plus de 10% du volume de trafic estimé sur une ligne ferroviaire par jour |
 
-## 4.3.2 CALENDRIERS ET LIVRABLES
+## [section_header] 4.3.2 CALENDRIERS ET LIVRABLES
 
-## ● A-8 à A-4 :
+## [section_header] ● A-8 à A-4 :
 
 A cet horizon de temps, en amont du processus décrit ci-après, des échanges d'informations entre SNCF Réseau et ses clients et partenaires ont lieu dans les plateformes territoriales de coordination services et infrastructures.
 
-## ● Avant novembre A-3 :
+## [section_header] ● Avant novembre A-3 :
 
 Identification et évaluation des besoins capacitaires pour les chantiers dits « à fort impact capacitaire » (FIC) et les chantiers dont les RTC sont de catégories 1 et 2 sur le RFN ; premier cadrage des fenêtres génériques et déformées.
 
 Si l'incidence de la RTC de ces deux catégories ne se limite pas à un seul réseau, les gestionnaires de l'infrastructure concernés, y compris les gestionnaires de l'infrastructure qui pourraient être affectés par le  changement  d'itinéraires  de  trains,  coordonnent  entre  eux  les  restrictions  des  capacités.  Le gestionnaire de l'infrastructure responsable de la RTC doit partager toutes les informations pertinentes connues à propos de la RTC prévue avec les gestionnaires de l'infrastructure,  les  candidats  et  les principaux opérateurs des installations de service pouvant être impactés par la RTC.
 
+<!-- page: 103 -->
+
 Le  cas  échéant,  les  gestionnaires  d'infrastructure  invitent  les  candidats  opérant  sur  les  lignes concernées, les principaux exploitants d'installations de service et les corridors de fret concernés à participer à cette coordination.
 
 SNCF Réseau communique aux candidats avant novembre A-3 les RTC de catégorie 1 prévues sur le RFN.  Sur  demande  des  candidats,  SNCF  Réseau  doit  fournir  une  comparaison  des  conditions rencontrées,  avec  au  moins  deux  scénarios  de  restriction  des  capacités.  SNCF Réseau  élabore  ces scénarios  alternatifs  sur  la  base  des  informations  fournies  par  les  candidats  au  moment  de  leurs demandes et conjointement avec eux. La comparaison doit, pour chaque scénario, comprendre au moins les éléments suivants :
 
-- -la durée de la restriction de capacité ;
-- -le montant indicatif des redevances d'utilisation de l'infrastructure ;
-- -la capacité disponible sur les itinéraires de détournement ;
-- -les itinéraires alternatifs disponibles ;
-- -les temps de trajet indicatifs.
+-la durée de la restriction de capacité ;
+
+-le montant indicatif des redevances d'utilisation de l'infrastructure ;
+
+-la capacité disponible sur les itinéraires de détournement ;
+
+-les itinéraires alternatifs disponibles ;
+
+-les temps de trajet indicatifs.
 
 Avant de faire un choix entre les scénarios alternatifs de restriction de capacités, SNCF Réseau consulte les candidats intéressés et prend en compte les incidences des différents scénarios sur ces candidats et sur les utilisateurs de services.
 
-- Novembre A-3 :
+Novembre A-3 :
 
 Pour les chantiers FIC et les chantiers dont les RTC sont de catégories 1 et 2 sur le RFN, SNCF Réseau invite  les  candidats  à  des  «  revues  d'axes  macro  »  dans  le  but  d'un  partage  itératif  des  premiers cadrages pour une prise en compte dans l'ordonnancement futur. Ces échanges se basent sur un « macro-ordonnancement » et des courbes de pertes de temps reprenant les besoins capacitaires des chantiers identifiés.
 
-- Décembre A-3 :
+Décembre A-3 :
 
 Publication  sur  l'espace  sharepoint  d'une  première  version  des  chantiers  dont  les  RTC  sont  de catégories 1 et 2 sur le RFN, sous forme de macro-ordonnancement. Le cas échéant, une estimation de la capacité commerciale des itinéraires de détournement est également publiée.
 
-- Janvier A-2 à fin avril A-2 :
+Janvier A-2 à fin avril A-2 :
 
 Sur la base d'un premier ordonnancement de l'ensemble des chantiers, définition du cadrage final des fenêtres génériques et déformées au cours d'un processus itératif et concerté avec toutes les parties prenantes.
 
@@ -3056,47 +3568,57 @@ Le  cas  échéant,  les  gestionnaires  d'infrastructure  invitent  les  candid
 
 Les « revues d'axe », organisées mi-avril, ont pour vocation de consulter les candidats au sujet des informations suivantes issues des premiers ordonnancements :
 
-- -les semaines d'activation des fenêtres génériques ;
+-les semaines d'activation des fenêtres génériques ;
 
-- -les  typologies  et  semaines  d'activation  des  fenêtres  déformées  et  des  demandes  de capacité ;
-- -les courbes de pertes de temps.
-- Mai A-2 à juillet A-2 :
+<!-- page: 104 -->
+
+-les  typologies  et  semaines  d'activation  des  fenêtres  déformées  et  des  demandes  de capacité ;
+
+-les courbes de pertes de temps.
+
+Mai A-2 à juillet A-2 :
 
 Ordonnancement final des chantiers dans la capacité octroyée par le cadrage des fenêtres génériques et déformées.
 
 En parallèle, SNCF Réseau organise des réunions dites « RP0 » avec les candidats (sillons et travaux) dans les cas suivants :
 
-- -chantiers nécessitant des déformations de fenêtres ;
-- -chantiers  s'inscrivant  dans  les  fenêtres  génériques  ou  sur  des  sections  hors  fenêtre  et présentant un besoin de LTV à fort impact ;
-- -chantiers  s'inscrivant  sur  des  sections  hors  fenêtre  et  occasionnant  une  réduction  de capacité significative.
+-chantiers nécessitant des déformations de fenêtres ;
+
+-chantiers  s'inscrivant  dans  les  fenêtres  génériques  ou  sur  des  sections  hors  fenêtre  et présentant un besoin de LTV à fort impact ;
+
+-chantiers  s'inscrivant  sur  des  sections  hors  fenêtre  et  occasionnant  une  réduction  de capacité significative.
 
 Les RP0 sont organisées selon le calendrier suivant :
 
-- -de début février à fin avril A-2 : RP0 anticipées des chantiers FIC.
-- -de mi-avril à fin juin A-2 : RP0 regroupant l'ensemble des chantiers par portion d'axe.
-- Juillet A-2 à décembre A-2 :
+-de début février à fin avril A-2 : RP0 anticipées des chantiers FIC.
+
+-de mi-avril à fin juin A-2 : RP0 regroupant l'ensemble des chantiers par portion d'axe.
+
+Juillet A-2 à décembre A-2 :
 
 Ajustement  du  positionnement  horaire  des  fenêtres  en  lien  avec  la  phase  de  construction  du « graphique 24h ».
 
-- Mi-décembre A-2 :
+Mi-décembre A-2 :
 
 Publication du programme général des fenêtres travaux (PGF) via le SI TCAP, qui décrit l'ensemble des fenêtres et capacités travaux programmées. Le cas échéant, une estimation de la capacité commerciale des itinéraires de détournement est publiée via le site internet de SNCF Réseau.
 
 SNCF Réseau peut décider de ne pas appliquer les délais indiqués ci-dessus si la restriction de capacité est  nécessaire  pour  rétablir  l'exploitation  du  service  des  trains  en  toute  sécurité,  si  l'horaire  des restrictions  est indépendant de sa volonté, si l'application de ces délais peut s'avérer inefficace au regard des coûts occasionnés ou inutilement dommageable au regard de l'état ou de la durée de vie de  l'actif,  ou  si  tous  les  candidats  concernés  sont  d'accord.  Dans  ces  cas,  SNCF  Réseau  consulte immédiatement les candidats et les principaux exploitants d'installations de service concernés.
 
-## Participation des candidats aux instances de gouvernance travaux
+## [section_header] Participation des candidats aux instances de gouvernance travaux
 
 Tout candidat (y compris les AOT) peut participer aux instances de consultation relatives aux travaux (présentations des portefeuilles  de chantiers, concertations sur les fenêtres génériques/jours d'exclusion/itinéraires  alternatifs,  macros  revues  d'axe  et  concertations  des  chantiers  à  fort  impact capacitaires (FIC), réunions préparatoires, instances de concertation sur les impacts travaux (RP0…), comités techniques régionaux) dans les conditions suivantes, étant rappelé, conformément à la loi, que SNCF Réseau demeure in fine seul décideur de la répartition des capacités et de la planification des travaux:
 
-- -seuls les candidats ayant formulé des expressions de besoins de capacités commerciales (ou  a  minima  ayant  adressé  au  préalable  à  SNCF  Réseau  une  lettre  d'intention  de
+-seuls les candidats ayant formulé des expressions de besoins de capacités commerciales (ou  a  minima  ayant  adressé  au  préalable  à  SNCF  Réseau  une  lettre  d'intention  de
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 105 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
 
 commander des capacités pour les HDS concernés par ces instances) ont la possibilité de s'exprimer dans ces instances.
 
 Dans  le  cas  où  plusieurs  représentants  sont  présents  aux  instances  de  concertation (notamment  lors  des  RP0),  ils  devront  définir  lequel  d ' entre  eux  sera  le  représentant unique qui donnera un avis à l'issue de cette réunion ainsi que dans les phases suivantes (conciliations, arbitrage), les autres pouvant néanmoins s'exprimer au cours des échanges.
 
-- -les autres candidats (à savoir ceux qui n'ont pas formulé des expressions de besoins comme indiqué ci-dessus) peuvent assister aux échanges, en qualité d'observateurs.
+-les autres candidats (à savoir ceux qui n'ont pas formulé des expressions de besoins comme indiqué ci-dessus) peuvent assister aux échanges, en qualité d'observateurs.
 
 SNCF Réseau demeure seule décideur de la répartition des capacités et de la planification des travaux.
 
@@ -3108,6 +3630,8 @@ Le tableau ci-après recense, sur la base de l'existant à la date d'édition du
 
 S'ils souhaitent participer à ces instances, les candidats sont invités à se rapprocher de leur chargé de compte national ou régional dédié ou, à défaut d'interlocuteur identifié, au guichet unique (point 1.6.1) pour connaître les modalités de cette participation.
 
+### [TABLE]
+
 | Instances                                                                                                                                                                                                                                                                     | Pilote                   | Période                    |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|----------------------------|
 | Présentation des portefeuilles de chantiers issus de la commande stratégique                                                                                                                                                                                                  | DGOP                     | Avril A-3                  |
@@ -3117,17 +3641,21 @@ S'ils souhaitent participer à ces instances, les candidats sont invités à se 
 | Réunions de concertations RP0 Réunions de concertations concernant les incidences des travaux sur les circulations                                                                                                                                                            | Infrapôles               | Février à juin A-2         |
 | COTECH régionaux Suivi régional des instances capacitaires                                                                                                                                                                                                                    | Directions territoriales | Périodique                 |
 
-## Projet « PACT »
+## [section_header] Projet « PACT »
 
 Afin d'améliorer les modes de consultation des candidats et une transmission d'information plus lisible et intelligible sur les travaux projetés et leur impact sur les sillons, SNCF Réseau met en place à compter de la campagne des réunions RP0 devant être menée en 2024 pour les travaux projetés durant l'HDS 2026 le projet Planification agile pour nos clients et travaux dit « PACT ».
 
+<!-- page: 106 -->
+
 Dans le cadre de ce projet, SNCF Réseau :
 
-- -veille à mettre en qualité les chantiers en entrée de campagne RP0 en éliminant les chantiers non matures ;
-- -organise  et  planifie  la  campagne  RP0  en  mettant  en  place  un  traitement  différencié  des chantiers segmentés en 5 catégories : les chantiers relevant du paquet 1 sont les chantiers indispensables pour maintenir la performance du réseau qui ne peuvent être reportés et sur lesquels  SNCF  Réseau  s'engage  en  amont  de  la  campagne  RP0  à  travailler  avec  les demandeurs concernés des solutions pour leurs plans de transports ; les chantiers relevant du paquet 2 sont les chantiers s'inscrivant dans une fenêtre capacitaire négociée a priori éventuellement sur une période pluriannuelle ; les chantiers relevant du paquet 3 sont les chantiers dont les conséquences sont maîtrisées au niveau local permettant une négociation bilatérale efficace ; les chantiers du paquet 4 sont les chantiers s'inscrivant dans une logique de  zone  ou  d'axe  ;  et  les  chantiers  du  paquet  5  sont  les  chantiers  complexes  avec  des conséquences capacitaires particulières nécessitant la négociation de solutions capacitaires individualisées.  Ce  pilotage  de  la  campagne  RP0  de  façon  optimisée  vise  à  réduire progressivement le nombre de réunions RP0 et à faciliter la compréhension par les candidats de l'empreinte capacitaire travaux sur leurs flux ;
-- -instaure une fonction Front office clients afin d'améliorer la communication avec les candidats et d'identifier avec eux leurs flux stratégiques.
+-veille à mettre en qualité les chantiers en entrée de campagne RP0 en éliminant les chantiers non matures ;
 
-## 4.3.3 GESTION DES ÉCARTS
+-organise  et  planifie  la  campagne  RP0  en  mettant  en  place  un  traitement  différencié  des chantiers segmentés en 5 catégories : les chantiers relevant du paquet 1 sont les chantiers indispensables pour maintenir la performance du réseau qui ne peuvent être reportés et sur lesquels  SNCF  Réseau  s'engage  en  amont  de  la  campagne  RP0  à  travailler  avec  les demandeurs concernés des solutions pour leurs plans de transports ; les chantiers relevant du paquet 2 sont les chantiers s'inscrivant dans une fenêtre capacitaire négociée a priori éventuellement sur une période pluriannuelle ; les chantiers relevant du paquet 3 sont les chantiers dont les conséquences sont maîtrisées au niveau local permettant une négociation bilatérale efficace ; les chantiers du paquet 4 sont les chantiers s'inscrivant dans une logique de  zone  ou  d'axe  ;  et  les  chantiers  du  paquet  5  sont  les  chantiers  complexes  avec  des conséquences capacitaires particulières nécessitant la négociation de solutions capacitaires individualisées.  Ce  pilotage  de  la  campagne  RP0  de  façon  optimisée  vise  à  réduire progressivement le nombre de réunions RP0 et à faciliter la compréhension par les candidats de l'empreinte capacitaire travaux sur leurs flux ;
+
+-instaure une fonction Front office clients afin d'améliorer la communication avec les candidats et d'identifier avec eux leurs flux stratégiques.
+
+## [section_header] 4.3.3 GESTION DES ÉCARTS
 
 SNCF Réseau veille à organiser la réalisation des travaux de maintenance et de développement au sein du programme général des fenêtres ou, à défaut, dans les capacités d'infrastructure disponibles.
 
@@ -3139,41 +3667,51 @@ La  gestion  des  écarts  est  traitée  par  SNCF  Réseau  dans  un  processu
 
 Certains sillons-jours peuvent alors être soit modifiés, soit supprimés, conformément au processus de consultation et de concertation décrit dans le « Manuel du demandeur de capacité commerciale en construction et adaptation du service annuel » disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau. Dans ce cas, SNCF Réseau indique la nature et la durée de  la  modification ou  de  la suppression,  ainsi que  les  sillons  proposés  éventuellement  en remplacement, avec un préavis minimum de quinze jours, l'attributaire de sillons n'ayant pas besoin d'effectuer de demandes de sillon en adaptation (DSA).
 
-## 4.3.4 CRITERES DE DETOURNEMENT DE TRAFICS
+<!-- page: 107 -->
+
+## [section_header] 4.3.4 CRITERES DE DETOURNEMENT DE TRAFICS
 
 En ce qui concerne les chantiers dont les RTC sont de catégorie 1 sur le réseau structurant, SNCF Réseau déterminera les types de trafics pouvant faire l'objet d'un changement d'itinéraire s'appuyant sur les critères suivants.
 
-- -Le prorata des types de trafic constatés lors de l'HDS précédent ;
-- -Les prévisions d'évolution de trafics connues ;
-- -Les contraintes commerciales et opérationnelles des trafics ;
-- -L'objectif de réduction des coûts de SNCF Réseau.
+-Le prorata des types de trafic constatés lors de l'HDS précédent ;
+
+-Les prévisions d'évolution de trafics connues ;
+
+-Les contraintes commerciales et opérationnelles des trafics ;
+
+-L'objectif de réduction des coûts de SNCF Réseau.
 
 L'application de ces critères est concertée avec les candidats lors des réunions de consultation relatives aux travaux (revue d'axe macro, revue d'axe et processus RP0). A l'occasion de ces réunions, pour les chantiers dont les RTC de sont de catégorie 1, la répartition provisoire des capacités restantes pour les différents types de service ferroviaires est communiquée aux candidats.
 
-## 4.3.5 CONFIRMATION DE L'UTILISATION DE LA CAPACITE TRAVAUX
+## [section_header] 4.3.5 CONFIRMATION DE L'UTILISATION DE LA CAPACITE TRAVAUX
 
 SNCF Réseau accompagne le processus de gestion des écarts d'actions visant à communiquer aux demandeurs tout ajustement des capacités allouées aux travaux.
 
-- -L'ensemble des chantiers FIC, ainsi que certains chantiers sensibles, font l'objet de réunions dites « RP1 » organisées par SNCF Réseau à M-8 avec les demandeurs de capacité (sillons et travaux) afin de finaliser les ajustements nécessaires, et procéder à l'instruction des demandes d'écart correspondantes (telles que décrites au point 4.3.3) avant M-6. La capacité travaux non utilisée est ainsi restituée, et le PGF est mis à jour dans l'outil TCAP.
-- -Sauf cas d'urgence et de nécessité absolue, SNCF Réseau confirme les capacités réservées pour les travaux au plus tard six semaines avant leur date d'intervention. L'information relative aux capacités travaux confirmées ainsi qu'aux éventuelles capacités restituées est portée à la connaissance  des  demandeurs  au  plus  tard  un  mois  avant  la  date  d'intervention,  par l'intermédiaire  des  outils  de  consultation  de  graphique  par  l'envoi  des  ordres  du  jour  et relevés de décisions des comités de concertation (CODEC).
+-L'ensemble des chantiers FIC, ainsi que certains chantiers sensibles, font l'objet de réunions dites « RP1 » organisées par SNCF Réseau à M-8 avec les demandeurs de capacité (sillons et travaux) afin de finaliser les ajustements nécessaires, et procéder à l'instruction des demandes d'écart correspondantes (telles que décrites au point 4.3.3) avant M-6. La capacité travaux non utilisée est ainsi restituée, et le PGF est mis à jour dans l'outil TCAP.
+
+-Sauf cas d'urgence et de nécessité absolue, SNCF Réseau confirme les capacités réservées pour les travaux au plus tard six semaines avant leur date d'intervention. L'information relative aux capacités travaux confirmées ainsi qu'aux éventuelles capacités restituées est portée à la connaissance  des  demandeurs  au  plus  tard  un  mois  avant  la  date  d'intervention,  par l'intermédiaire  des  outils  de  consultation  de  graphique  par  l'envoi  des  ordres  du  jour  et relevés de décisions des comités de concertation (CODEC).
 
 Les  demandeurs ont alors la  possibilité  de  procéder  à  des  demandes  de  création  ou  de modification  de  sillons  dans  la  capacité  résiduelle,  ou  de  renouveler  des  demandes  qui auraient reçu des réponses négatives au préalable, dans le respect des règles décrites au point 4.2.3.2.
 
 En  revanche,  SNCF  Réseau  ne  procédera  pas,  de  sa  propre  initiative,  au  réexamen  des demandes  de  capacités  sillons  déjà  répondues,  quelle  que  soit  la  nature  de  la  réponse apportée (irréalisable, traitée…).
 
-- -Afin de contrôler et d'inciter à l'optimisation de l'utilisation des capacités réservées pour les travaux, SNCF Réseau établit des indicateurs sur l'utilisation effective de ces capacités aux différents horizons de temps, avec déclinaison géographique. Ces indicateurs font l'objet d'une publication annuelle dans le rapport annuel sur l'efficacité du processus d'allocation des capacités sur le réseau ferré national à l'attention des demandeurs et parties prenantes. Par ailleurs, le gestionnaire d'infrastructure est soumis au dispositif incitatif défini par l'ART dans sa décision n° 2018-094 qui encourage SNCF Réseau à une meilleure utilisation des capacités commerciales et non commerciales sur le réseau ferré national (point 5.6).
+-Afin de contrôler et d'inciter à l'optimisation de l'utilisation des capacités réservées pour les travaux, SNCF Réseau établit des indicateurs sur l'utilisation effective de ces capacités aux différents horizons de temps, avec déclinaison géographique. Ces indicateurs font l'objet d'une publication annuelle dans le rapport annuel sur l'efficacité du processus d'allocation des capacités sur le réseau ferré national à l'attention des demandeurs et parties prenantes. Par ailleurs, le gestionnaire d'infrastructure est soumis au dispositif incitatif défini par l'ART dans sa décision n° 2018-094 qui encourage SNCF Réseau à une meilleure utilisation des capacités commerciales et non commerciales sur le réseau ferré national (point 5.6).
 
-## 4.4 IMPACTS DES ACCORD-CADRES
+<!-- page: 108 -->
+
+## [section_header] 4.4 IMPACTS DES ACCORD-CADRES
 
 Au  cas  où  les  capacités  travaux  viendraient  à  impacter  des  sillons  objet  d'un  accord-cadre,  une concertation est engagée par SNCF Réseau avec le titulaire de cet accord-cadre dans les modalités décrites au point 4.3.2.
 
-## 4.5 PROCESSUS D'ALLOCATION DE CAPACITÉS
+## [section_header] 4.5 PROCESSUS D'ALLOCATION DE CAPACITÉS
 
 Le  calendrier  de  la  procédure  de  demande  et  d'attribution  des  sillons  fait  la  distinction  entre  les demandes effectuées au plus tard le 8 avril 2024 (demandes au service) et les demandes effectuées au-delà (demandes tardives ou en adaptation).
 
-## 4.5.1 DEMANDES  DE  SILLONS  DEPOSEES  JUSQU'AU  8  AVRIL  2024  (DEMANDES  AU SERVICE)
+## [section_header] 4.5.1 DEMANDES  DE  SILLONS  DEPOSEES  JUSQU'AU  8  AVRIL  2024  (DEMANDES  AU SERVICE)
 
 Le calendrier ci-dessous présente les dates clés de la procédure de demande et d'attribution des sillons au  service,  tant  pour  les  sillons  nationaux  que  les  sillons  internationaux.  Certaines  dates  sont harmonisées au niveau européen, notamment la date limite de demande de sillons au service (DS). D'autres sont librement fixées par chaque gestionnaire d'infrastructure.
+
+### [TABLE]
 
 | Date / Période                   | Étape de la procédure pour les sillons nationaux                                                                                                                                                                                                                                                                                             | Étape de la procédure pour les sillons internationaux                                                                                                                                                                                                                                                                                        |
 |----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3189,7 +3727,11 @@ Le calendrier ci-dessous présente les dates clés de la procédure de demande e
 | 02 juillet 2024 au 02 août 2024  |                                                                                                                                                                                                                                                                                                                                              | Période d'observations des demandeurs sur les projets de proposition de sillons en réponse aux demandes de sillons internationaux émises dans PCS (y compris pour les sillons corridors fret).                                                                                                                                               |
 | 09 au 11 juillet 2024            | Communication aux demandeurs du projet de l'HDS par SNCF Réseau. Chaque demandeur peut consulter dans e.Houat et les flux Houat l'ensemble des sillons prévus, à compter du 09 juillet 2024. Il reçoit une description précise des sillons envisagés en réponse à sa demande dans l'interface unifiée GESICO-DSDM au plus tard le 11 juillet | Communication aux demandeurs du projet de l'HDS par SNCF Réseau. Chaque demandeur peut consulter dans e.Houat et les flux Houat l'ensemble des sillons prévus, à compter du 09 juillet 2024. Il reçoit une description précise des sillons envisagés en réponse à sa demande dans l'interface unifiée GESICO-DSDM au plus tard le 11 juillet |
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 109 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+
+### [TABLE]
 
 | Date / Période                        | Étape de la procédure pour les sillons nationaux                                                                                                                                             | Étape de la procédure pour les sillons internationaux                                                                                                                                        |
 |---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3204,24 +3746,29 @@ Le calendrier ci-dessous présente les dates clés de la procédure de demande e
 | 11 novembre 2024                      | Certification de l'horaire de service 2025                                                                                                                                                   | Certification de l'horaire de service 2025                                                                                                                                                   |
 | 15 décembre 2024                      | Début de l'horaire de service 2025                                                                                                                                                           | Début de l'horaire de service 2025                                                                                                                                                           |
 
-## ● Précisions sur la communication du projet d'horaire de service aux candidats potentiels
+## [section_header] ● Précisions sur la communication du projet d'horaire de service aux candidats potentiels
 
 Les candidats potentiels qui souhaiteraient formuler des observations sur le projet d'horaire de service A dans la mesure où celui-ci aurait une incidence sur leur aptitude à fournir des services ferroviaires durant la période de validité de cet horaire, doivent en faire la demande auprès de SNCF Réseau (point 1.6.1) au plus tard un (1) mois après la fin de la période de demandes de sillons pour l'horaire de service.
 
 SNCF Réseau communiquera le projet d'horaire de service, suivant le calendrier présenté ci-dessus, dès lors que le candidat potentiel :
 
-- -a expressément déclaré son intention et démontré par tout moyen son aptitude à fournir des services ferroviaires et sa volonté manifeste de demander des sillons durant cet horaire de service,  sur  la  base  des  conditions  générales  applicables  au  contrat  d'utilisation  de l'infrastructure et au contrat d'attribution de sillons (en annexe 3.1) ;
-- -a  signé  le  contrat  d'utilisation  des  services  SI  (trame  en  annexe  3.4)  lui  donnant  droit d'accéder à ces services.
+-a expressément déclaré son intention et démontré par tout moyen son aptitude à fournir des services ferroviaires et sa volonté manifeste de demander des sillons durant cet horaire de service,  sur  la  base  des  conditions  générales  applicables  au  contrat  d'utilisation  de l'infrastructure et au contrat d'attribution de sillons (en annexe 3.1) ;
+
+-a  signé  le  contrat  d'utilisation  des  services  SI  (trame  en  annexe  3.4)  lui  donnant  droit d'accéder à ces services.
 
 SNCF Réseau répondra aux observations qui lui auront été transmises.
 
+<!-- page: 110 -->
+
 La construction de l'horaire de service est réalisée sur la seule base des sillons demandés avant la fin de la période de demandes de sillons pour l'horaire de service A.
 
-## 4.5.2 DEMANDES  DE  SILLONS  DEPOSEES  A  PARTIR  DU  9  AVRIL  2024  (DEMANDES TARDIVES)
+## [section_header] 4.5.2 DEMANDES  DE  SILLONS  DEPOSEES  A  PARTIR  DU  9  AVRIL  2024  (DEMANDES TARDIVES)
 
 4.5.2.1. Calendrier de réponses aux demandes
 
 Les réponses de SNCF Réseau aux demandes déposées à partir du 9 avril 2024 sont effectuées dans les délais suivants :
+
+### [TABLE]
 
 4.5.2.2. Comité Technique Horaire (CTH)
 
@@ -3231,15 +3778,17 @@ Les réponses de SNCF Réseau aux demandes déposées à partir du 9 avril 2024 
 | 10 septembre 2024 au 05 décembre 2025 | Tout type de sillon (demandes en adaptation - DSA)                                                  | Dans les meilleurs délais et suivant les délais indiqués au point 4.2.3.2. Pour les DSA reçues avant la date de certification du service, les délais s'évaluent à partir de cette date. |
 | 08 décembre 2024 au 13 décembre 2025  | Sillon de dernière minute - DSDM (moins de huit (8) jours calendaires avant la date de circulation) | Sept (7) jours calendaires 5 au plus tard, dans les conditions définies dans le document «Capacité de dernière minute ».                                                                |
 
-## ● Objectif
+4.5.2.2. Comité Technique Horaire (CTH)
+
+## [section_header] ● Objectif
 
 Le Comité Technique Horaire est une des modalités possibles de dialogue sillon entre SNCF Réseau et les candidats. Il vise à un dialogue sillon enrichi pour faciliter le traitement de demandes de capacité formulées par les candidats pour un service annuel sous la forme de DS, DTS ou DSA.
 
-## ● Périodicité
+## [section_header] ● Périodicité
 
 Le Comité Technique Horaire est tenu chaque semaine en alternance pour les trafics voyageurs et les trafics fret à partir de la publication de l'horaire de service.
 
-## ● Contenu de la réunion
+## [section_header] ● Contenu de la réunion
 
 L'ordre  du  jour  est  établi  par  les  chargés  de  dialogue  sillon  de  SNCF  Réseau  en  compilant  les demandes visées par les candidats, dans la limite des quotas applicables par CTH.
 
@@ -3251,29 +3800,35 @@ Les candidats qui n'ont pas circulé au service annuel A-2, ou dont le volume de
 
 5 Ce délai de « 7 jours calendaires » est la traduction opérationnelle du délai de « 5 jours ouvrables » prévu à l'article 48 de la directive 2012/34/UE et repris à l'art.23 du décret n°2003-194, convenue entre les gestionnaires d'infrastructure au sein de RNE dans un souci d'harmoniser l'application de ce délai.
 
+<!-- page: 111 -->
+
 Les demandes reprises dans l'ordre du jour font l'objet du traitement suivant :
 
-- -Le candidat exposera les particularités du trafic considéré, ses attentes et ses besoins de manière détaillée.
-- -SNCF Réseau s'efforcera de rechercher une solution qui satisfasse le client, au plus proche des besoins exprimés et dans le respect des règles applicables.
-- -SNCF  Réseau  ne  répondra  pas  « irréalisable »  à  une  demande  présentée  au  Comité Technique Horaire sans avoir préalablement itéré avec le candidat.
+-Le candidat exposera les particularités du trafic considéré, ses attentes et ses besoins de manière détaillée.
 
-## ● Précisions méthodologiques :
+-SNCF Réseau s'efforcera de rechercher une solution qui satisfasse le client, au plus proche des besoins exprimés et dans le respect des règles applicables.
 
-- -Concernant les DS présentées au Comité Technique Horaire (cas exceptionnel de DS sans réponse après le projet d'horaire de service), leur traitement sera priorisé par les équipes horaires de SNCF Réseau.
-- -L'ordre de traitement des autres demandes (DTS, DSA) n'est pas modifié.
-- -Aucune DS ne pourra être présentée en Comité Technique Horaire avant la publication de l'horaire de service.
+-SNCF  Réseau  ne  répondra  pas  « irréalisable »  à  une  demande  présentée  au  Comité Technique Horaire sans avoir préalablement itéré avec le candidat.
+
+## [section_header] ● Précisions méthodologiques :
+
+-Concernant les DS présentées au Comité Technique Horaire (cas exceptionnel de DS sans réponse après le projet d'horaire de service), leur traitement sera priorisé par les équipes horaires de SNCF Réseau.
+
+-L'ordre de traitement des autres demandes (DTS, DSA) n'est pas modifié.
+
+-Aucune DS ne pourra être présentée en Comité Technique Horaire avant la publication de l'horaire de service.
 
 Les quotas non utilisés ne sont ni reportés ni échangeables entre candidats.
 
-## 4.5.3 DEMANDES PONCTUELLES
+## [section_header] 4.5.3 DEMANDES PONCTUELLES
 
 Se référer au paragraphe 4.2.3.2 sur le sujet des demandes ponctuelles
 
-## 4.5.4 PROCÉDURE  DE  COORDINATION  ET  D'ATTRIBUTION EN CAS DE CAPACITÉ CONTRAINTE
+## [section_header] 4.5.4 PROCÉDURE  DE  COORDINATION  ET  D'ATTRIBUTION EN CAS DE CAPACITÉ CONTRAINTE
 
 Procédures de coordination des demandes en phase de construction
 
-## ● Les principes généraux de coordination des demandes
+## [section_header] ● Les principes généraux de coordination des demandes
 
 Conformément  à  l'article  21-1  du  décret  n°  2003-194,  lorsqu'il  est  confronté  à  des  demandes concurrentes auxquelles il n'a pu répondre dans les tolérances définies au point 4.2.2.4 ci-avant, SNCF Réseau s'efforce, par la coordination des demandes, d'assurer la meilleure adéquation possible entre celles-ci.  La  procédure  décrite  ci-après  s'applique  pour  toute  demande  de  capacité,  y  compris lorsqu'une  ou  plusieurs  des  demandes  concurrentes  s'appuient  sur  une  capacité  d'infrastructure contractualisée par accord-cadre. A cet égard, SNCF Réseau fait usage de la dérogation prévue à l'article 10.5 du règlement (UE) n°2016/545.
 
@@ -3281,26 +3836,41 @@ Si ce processus de coordination échoue à l'issue de la procédure de construct
 
 La procédure de coordination des demandes, qui a pour objectif d'attribuer l'ensemble des sillons demandés, est mise en  uvre, selon les principes suivants :
 
-- -La coordination est effectuée par SNCF Réseau en fonction des demandes présentées et en tenant  compte  des  informations  obtenues  lors  de  la  concertation  effectuée  avec  les demandeurs lors de la phase de structuration et préconstruction du graphique ;
-- -Pour être effective, la coordination prend en compte l'ensemble des demandes présentées, qu'elles soient ou non en conflit avec d'autres au début de la procédure de coordination (des
+-La coordination est effectuée par SNCF Réseau en fonction des demandes présentées et en tenant  compte  des  informations  obtenues  lors  de  la  concertation  effectuée  avec  les demandeurs lors de la phase de structuration et préconstruction du graphique ;
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+-Pour être effective, la coordination prend en compte l'ensemble des demandes présentées, qu'elles soient ou non en conflit avec d'autres au début de la procédure de coordination (des
+
+<!-- page: 112 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
 
 demandes qui ne sont pas en conflit à l'ouverture de cette procédure pouvant le devenir au cours de celle-ci) ;
 
-- -Pour améliorer la qualité des réponses, le processus permet de clarifier, le cas échéant, l'objet de  la  demande  et  les  marges  de  man  uvre  associées  et  de  recueillir  l'avis  du  ou  des demandeurs en vue de trouver une solution en cas de conflit subsistant ;
-- -SNCF Réseau peut proposer des capacités d'infrastructure différentes de celles qui ont été demandées par les candidats, dans les limites raisonnables, définies comme suit :
-- respect  des  dessertes  commerciales  demandées  (origine,  terminus  et  dessertes  du parcours, y compris pour le fret par exemple, les prend-laisse) ;
-- plus ou moins trente (30) minutes par rapport aux horaires demandés au départ et à l'arrivée pour les services voyageurs courte distance (égale ou inférieure à 250 km) ;
-- plus ou moins une (1) heure par rapport aux horaires demandés au départ et à l'arrivée pour les services voyageurs longue distance (supérieure à 250 km) ou internationaux ;
-- plus ou moins une (1) heure par rapport aux horaires demandés au départ et à l'arrivée pour les services fret combiné et fret international ;
-- plus  ou  moins  deux  (2)  heures  par  rapport  aux  horaires  demandés  au  départ  et  à l'arrivée pour les autres services fret.
-- -Dans  tous  les  cas,  les  clients  peuvent  indiquer  leur  accord  pour  sortir  de  ces  limites raisonnables pour favoriser une issue consensuelle à la coordination ;
-- -Le processus s'appuie sur la communication gratuite et par tout moyen écrit (y compris par voie électronique) aux demandeurs concernés des informations relevant du périmètre de la coordination :
-- les demandes de sillons présentées ;
-- les réponses provisoires faites à ces demandes, et en particulier, le cas échéant, les propositions de réponses qui diffèrent des capacités demandées ;
-- les informations complètes et détaillées sur les critères de répartition des capacités ;
-- Les solutions proposées sont définies dans la limite des performances permises par l'infrastructure  et  tiennent  compte  de  la  robustesse  de  conception  d'ensemble (fragilités éventuelles introduites par des agencements contraints des sillons entre eux).
+-Pour améliorer la qualité des réponses, le processus permet de clarifier, le cas échéant, l'objet de  la  demande  et  les  marges  de  man  uvre  associées  et  de  recueillir  l'avis  du  ou  des demandeurs en vue de trouver une solution en cas de conflit subsistant ;
+
+-SNCF Réseau peut proposer des capacités d'infrastructure différentes de celles qui ont été demandées par les candidats, dans les limites raisonnables, définies comme suit :
+
+respect  des  dessertes  commerciales  demandées  (origine,  terminus  et  dessertes  du parcours, y compris pour le fret par exemple, les prend-laisse) ;
+
+plus ou moins trente (30) minutes par rapport aux horaires demandés au départ et à l'arrivée pour les services voyageurs courte distance (égale ou inférieure à 250 km) ;
+
+plus ou moins une (1) heure par rapport aux horaires demandés au départ et à l'arrivée pour les services voyageurs longue distance (supérieure à 250 km) ou internationaux ;
+
+plus ou moins une (1) heure par rapport aux horaires demandés au départ et à l'arrivée pour les services fret combiné et fret international ;
+
+plus  ou  moins  deux  (2)  heures  par  rapport  aux  horaires  demandés  au  départ  et  à l'arrivée pour les autres services fret.
+
+-Dans  tous  les  cas,  les  clients  peuvent  indiquer  leur  accord  pour  sortir  de  ces  limites raisonnables pour favoriser une issue consensuelle à la coordination ;
+
+-Le processus s'appuie sur la communication gratuite et par tout moyen écrit (y compris par voie électronique) aux demandeurs concernés des informations relevant du périmètre de la coordination :
+
+les demandes de sillons présentées ;
+
+les réponses provisoires faites à ces demandes, et en particulier, le cas échéant, les propositions de réponses qui diffèrent des capacités demandées ;
+
+les informations complètes et détaillées sur les critères de répartition des capacités ;
+
+Les solutions proposées sont définies dans la limite des performances permises par l'infrastructure  et  tiennent  compte  de  la  robustesse  de  conception  d'ensemble (fragilités éventuelles introduites par des agencements contraints des sillons entre eux).
 
 Ces informations sont fournies sans révéler volontairement l'identité des autres demandeurs, à moins que les demandeurs concernés n'aient accepté qu'elle le soit.
 
@@ -3308,20 +3878,23 @@ Par ailleurs SNCF Réseau assure la traçabilité des échanges et des décision
 
 Les principes exposés ci-dessus s'appliquent aux deux cas suivants de coordination.
 
-## ● En cas d'issue consensuelle de la concertation
+## [section_header] ● En cas d'issue consensuelle de la concertation
 
 Dans le cas où la concertation, une fois menée à terme, permet de traiter les conflits entre demandes de  sillons  (*)  de  manière  consensuelle,  la  solution  trouvée  est  communiquée  aux  demandeurs concernés.
 
-## ● En cas de conflit résiduel
+<!-- page: 113 -->
+
+## [section_header] ● En cas de conflit résiduel
 
 Dans le cas où la concertation, une fois menée à terme, ne permettrait pas de traiter les conflits entre demandes  de  sillons  (*)  de  manière  consensuelle,  SNCF  Réseau  privilégiera,  pour  décider  de l'agencement des sillons, dans l'ordre suivant :
 
-## Hors infrastructures spécialisées
+## [section_header] Hors infrastructures spécialisées
 
 1) Les demandes revendiquant de façon formelle et strictement conforme des sillons préconstruits fret ou voyageurs (*)
 
-- 2) Les demandes de sillons comparables à des sillons préconstruits fret ou voyageurs (**) ;
-- 3) Les autres demandes de sillons.
+Les demandes de sillons comparables à des sillons préconstruits fret ou voyageurs (**) ;
+
+Les autres demandes de sillons.
 
 Sur infrastructure spécialisée grande vitesse, telle que définie au point 2.4.1, dans l'ordre :
 
@@ -3329,9 +3902,11 @@ Sur infrastructure spécialisée grande vitesse, telle que définie au point 2.4
 
 2) Les  demandes  revendiquant  de  façon  formelle  et  strictement  conforme  (***)  des  sillons préconstruits  voyageurs  et  pour  des  trains  en  exploitation  commerciale  circulant  à  une  vitesse supérieure ou égale à 250 km/h ;
 
-- 3) Les autres demandes de sillons pour des trains en exploitation commerciale circulant à une vitesse supérieure ou égale à 250 km/h ;
-- 4) Les autres demandes de sillons pour des services voyageurs ;
-- 5) Les autres demandes de sillons.
+Les autres demandes de sillons pour des trains en exploitation commerciale circulant à une vitesse supérieure ou égale à 250 km/h ;
+
+Les autres demandes de sillons pour des services voyageurs ;
+
+Les autres demandes de sillons.
 
 Cette  priorité  d'agencement  ne  fait  toutefois  pas  obstacle  à  ce  que  SNCF  Réseau  propose,  si nécessaire, des sillons différents de ceux demandés, dès lors qu'il respecte les limites raisonnables définies ci-dessus.
 
@@ -3341,17 +3916,21 @@ Il tient également compte de la difficulté à tracer des sillons internationau
 
 (**) Sont considérées comme comparables à un sillon préconstruit les demandes qui remplissent les trois conditions suivantes :
 
-- a) Les  points  remarquables  issus  du  jalonnement  de  la  demande  doivent  correspondre  au moins à 60% des points remarquables du sillon préconstruit et respecter l'origine, terminus et itinéraire du sillon préconstruit ;
-- b) Il n'y a pas d'écart d'horaire supérieur à trois (3) minutes pour les sillons voyageurs, et cinq (5)  minutes  pour  les  sillons  fret,  entre  les  points  remarquables  d'extrémité  du  tronçon commun entre la demande et le sillon préconstruit.
-- c) Si une valeur plafond d'espacement minimal technique a été définie (point 4.2.2.3), celle-ci est respectée.
+Les  points  remarquables  issus  du  jalonnement  de  la  demande  doivent  correspondre  au moins à 60% des points remarquables du sillon préconstruit et respecter l'origine, terminus et itinéraire du sillon préconstruit ;
+
+Il n'y a pas d'écart d'horaire supérieur à trois (3) minutes pour les sillons voyageurs, et cinq (5)  minutes  pour  les  sillons  fret,  entre  les  points  remarquables  d'extrémité  du  tronçon commun entre la demande et le sillon préconstruit.
+
+Si une valeur plafond d'espacement minimal technique a été définie (point 4.2.2.3), celle-ci est respectée.
 
 (***) y compris le respect du plafond d'espacement minimal technique, si applicable (point 4.2.2.3).
 
 Il est précisé que SNCF Réseau n'utilise pas la faculté décrite dans l'article 18 du décret n°2003-194 permettant de prendre en compte les niveaux antérieurs d'utilisation des sillons pour déterminer des priorités d'attribution.
 
+<!-- page: 114 -->
+
 La  solution  trouvée  à  l'issue  de  la  procédure  de  coordination  est  communiquée  aux  demandeurs concernés. Elle est également communiquée à l'ART.
 
-## 4.5.5 PROCÉDURE DE RÈGLEMENT DES LITIGES À L'ISSUE DE LA COMMUNICATION DE L'HORAIRE DE SERVICE
+## [section_header] 4.5.5 PROCÉDURE DE RÈGLEMENT DES LITIGES À L'ISSUE DE LA COMMUNICATION DE L'HORAIRE DE SERVICE
 
 Seuls les sillons ayant fait l'objet de l'application de la méthode de répartition de capacité en cas de conflit résiduel décrite au point 4.5.4 sont éligibles à la procédure de règlement des litiges suivante.
 
@@ -3361,8 +3940,9 @@ La requête doit être adressée par le demandeur par courrier électronique à 
 
 Dans un délai de dix (10) jours ouvrables à compter de la réception, SNCF Réseau (Direction Générale Clients et Territoires) décide :
 
-- -soit du maintien de l'attribution figurant à l'horaire de service ;
-- -soit  du  réexamen  de  l'attribution,  via  l'organisation  d'une  nouvelle  concertation  avec  les demandeurs de sillons concernés, dans les meilleurs délais.
+-soit du maintien de l'attribution figurant à l'horaire de service ;
+
+-soit  du  réexamen  de  l'attribution,  via  l'organisation  d'une  nouvelle  concertation  avec  les demandeurs de sillons concernés, dans les meilleurs délais.
 
 La  décision  est  motivée  et  communiquée  par  courrier  électronique  aux  demandeurs  de  sillons concernés.
 
@@ -3370,11 +3950,11 @@ Les éventuelles modifications ou suppressions de sillons qui interviendraient s
 
 Cette procédure est sans préjudice des voies de recours existantes et des compétences de l'ART.
 
-## 4.6 INFRASTRUCTURES SATURÉES
+## [section_header] 4.6 INFRASTRUCTURES SATURÉES
 
 La déclaration de saturation peut intervenir soit à l'issue de la procédure de construction du service (saturation « constatée »), soit à l'issue de la période de pré-construction (saturation « prévisible ») dans les conditions définies ci-après.
 
-## ● Déclaration de saturation « prévisible »
+## [section_header] ● Déclaration de saturation « prévisible »
 
 En application de l'article 26 du décret n° 2003-194, lorsque SNCF Réseau identifie fin février A-1 qu'une  ligne  ou  section  de  ligne  est  susceptible  d'être  saturée  lors  de  l'horaire  de  service  A, SNCF Réseau procède à une déclaration de saturation prévisible.
 
@@ -3382,7 +3962,9 @@ La déclaration de saturation prévisible intervient ainsi à l'issue de la pér
 
 Cette déclaration est publiée par SNCF Réseau sur son site Internet et communiquée à toutes les parties intéressées. Les demandeurs sont ainsi avisés que dans le cas où la saturation viendrait à être confirmée  par  une  déclaration  de  saturation  constatée  à  l'issue  de  la  période  de  construction  de l'horaire de service, une tarification additionnelle de saturation sera appliquée.
 
-## ● Déclaration de saturation « constatée »
+<!-- page: 115 -->
+
+## [section_header] ● Déclaration de saturation « constatée »
 
 Une ligne ou section de ligne est déclarée saturée par SNCF Réseau, dès que, à l'issue de la procédure de construction du service, le processus de coordination décrit au point 4.5.4 échoue.
 
@@ -3394,24 +3976,33 @@ Conformément à  l'article 22 du décret n° 2003-194, SNCF Réseau procède, d
 
 Dans un délai de six (6) mois suivant l'achèvement de cette analyse et après consultation des utilisateurs de l'infrastructure saturée, SNCF Réseau soumet pour approbation au ministre chargé des transports un plan de renforcement des capacités qui indique les raisons de la saturation, évalue l'ensemble des dispositions envisageables pour renforcer les capacités d'infrastructure et définit un calendrier de mise en  uvre.
 
-## ● Attribution de la capacité après saturation constatée
+## [section_header] ● Attribution de la capacité après saturation constatée
 
 Les processus diffèrent selon que la ligne ou section de ligne a (i) ou n'a pas (ii) préalablement fait l'objet d'une déclaration de saturation prévisible.
 
-## i) Si une déclaration de saturation prévisible a préalablement été effectuée
+## [section_header] i) Si une déclaration de saturation prévisible a préalablement été effectuée
 
 Si  à  l'issue  de  la  procédure  de  construction  de  l'horaire  de  service  et  de  la  concertation  avec l'ensemble des demandeurs, et malgré l'annonce de l'application d'une tarification additionnelle de saturation, lorsqu'elle est prévue, il subsiste des conflits entre demandes concurrentes ne permettant pas de répondre favorablement à l'ensemble des demandes, SNCF Réseau confirme la déclaration de ligne ou section de ligne saturée. Après que l'analyse des capacités ait été réalisée, SNCF Réseau applique, , conformément à l'article 22 du décret n° 2003-194, les critères de priorité suivants pour l'attribution des sillons, dans l'ordre :
 
-- -les demandes de sillons préconstruits fret ou voyageurs ;
-- -les  demandes de sillons  comparables  à  des  sillons  préconstruits  fret  ou  voyageurs  (point 4.5.4) ;
-- -sur infrastructure spécialisée grande vitesse, telle que définie au point 2.4.1, dans l'ordre :
-1. les demandes de sillons pour des circulations assurant une mission de reconnaissance de l'infrastructure ;
-2.  les  demandes de sillons pour des trains en exploitation commerciale circulant à une vitesse supérieure ou égale à 250 km/h ;
-- -les demandes de sillons pour les services de transport internationaux de marchandises ;
-- -les demandes pour des services de fret ferroviaire en provenance ou à destination des ports
+-les demandes de sillons préconstruits fret ou voyageurs ;
 
-- -les demandes pour des services effectués dans le cadre d'un contrat de service public passé avec une autorité organisatrice de transports ;
-- -les services assurant des dessertes pertinentes en matière d'aménagement du territoire.
+-les  demandes de sillons  comparables  à  des  sillons  préconstruits  fret  ou  voyageurs  (point 4.5.4) ;
+
+-sur infrastructure spécialisée grande vitesse, telle que définie au point 2.4.1, dans l'ordre :
+
+les demandes de sillons pour des circulations assurant une mission de reconnaissance de l'infrastructure ;
+
+ les  demandes de sillons pour des trains en exploitation commerciale circulant à une vitesse supérieure ou égale à 250 km/h ;
+
+-les demandes de sillons pour les services de transport internationaux de marchandises ;
+
+-les demandes pour des services de fret ferroviaire en provenance ou à destination des ports
+
+<!-- page: 116 -->
+
+-les demandes pour des services effectués dans le cadre d'un contrat de service public passé avec une autorité organisatrice de transports ;
+
+-les services assurant des dessertes pertinentes en matière d'aménagement du territoire.
 
 Ces critères de priorité pourront faire l'objet, selon la situation, d'ajustements à la suite du plan de renforcement approuvé.
 
@@ -3421,7 +4012,7 @@ Le demandeur à qui sera attribué un sillon empruntant la ligne ou section de l
 
 Si à l'inverse, à l'issue de la procédure de construction de l'horaire de service et de la concertation avec l'ensemble des demandeurs, toutes les demandes sont satisfaites, alors SNCF Réseau informe les parties intéressées que la saturation déclarée initialement « prévisible » n'a plus lieu d'être et donc qu'aucune tarification de la saturation ne sera appliquée. Cette information est également publiée sur son site internet.
 
-## ii) En l'absence de déclaration de saturation prévisible préalable
+## [section_header] ii) En l'absence de déclaration de saturation prévisible préalable
 
 Si  à  l'issue  de  la  procédure  de  construction  de  l'horaire  de  service  et  de  la  concertation  avec l'ensemble des demandeurs, il subsiste des conflits entre demandes concurrentes ne permettant pas  de  répondre  favorablement  à  l'ensemble  des  demandes,  SNCF  Réseau  déclare  la  ligne  ou section de ligne saturée.
 
@@ -3429,15 +4020,17 @@ Après que l'analyse des capacités ait été réalisée par SNCF Réseau, confo
 
 Dans la mesure où cette déclaration de saturation n'aura pas été anticipée par une déclaration de saturation prévisible, les demandeurs à qui serait alloué un sillon empruntant la ligne ou section de ligne déclarée saturée ne se verront pas appliquer de tarification de la saturation au cours de l'horaire de service A. Sur la base de ce constat de saturation, cette même ligne ou section de ligne est susceptible de faire l'objet d'une déclaration de saturation prévisible à l'issue de la pré-construction de l'horaire de service suivant, et ainsi se voir appliquer une tarification additionnelle de saturation au cours donc de l'horaire de service suivant.
 
-## 4.7 CIRCULATIONS AVEC CONTRAINTES ET PERTURBATIONS
+## [section_header] 4.7 CIRCULATIONS AVEC CONTRAINTES ET PERTURBATIONS
 
 SNCF Réseau doit avoir connaissance de toutes les particularités pouvant avoir une influence sur la construction d'un sillon en raison de restrictions imposées telles que l'interdiction de croisement, de stationnement ou la limitation de vitesse. Les demandeurs doivent fournir ces informations lors de leurs demandes.
 
 Les dispositions visées ci-dessous ne font pas obstacle à l'application des obligations imposées lors de la circulation effective sur le réseau ferré national des trains acheminant les dits transports qui sont décrites en annexe 5.
 
-## 4.7.1 TRANSPORTS EXCEPTIONNELS
+## [section_header] 4.7.1 TRANSPORTS EXCEPTIONNELS
 
 L'accès des transports exceptionnels au réseau ferré national est soumis à l'inscription de l'autorisation correspondante au certificat de sécurité de l'entreprise ferroviaire.
+
+<!-- page: 117 -->
 
 Ces trains de transports exceptionnels ne pourront circuler qu'après étude préalable par le bureau des transports  exceptionnels  (BTE)  (point  5.1.7.2)  pour  vérifier  la  faisabilité  de  ce  transport,  et  après délivrance par le BTE au demandeur de capacité d'un avis de transport exceptionnel (ATE).
 
@@ -3449,7 +4042,7 @@ SNCF Réseau trace et attribue le cas échéant un sillon prenant en compte à l
 
 SNCF  Réseau  détermine  ainsi  les  dispositions  particulières  dérogatoires,  y  compris  tarifaires,  qui conditionnent l'accès d'une circulation et les communique au demandeur.
 
-## 4.7.2 MARCHANDISES DANGEREUSES
+## [section_header] 4.7.2 MARCHANDISES DANGEREUSES
 
 L'accès des trains de marchandises dangereuses au réseau ferré national est soumis à l'inscription de l'autorisation correspondante au certificat de sécurité de l'entreprise.
 
@@ -3457,35 +4050,39 @@ Les  demandeurs  doivent  indiquer  la  présence  de  marchandises  dangereuses
 
 SNCF Réseau trace et attribue le cas échéant un sillon prenant en compte à la fois les possibilités physiques offertes par le réseau et l'impact de la circulation du transport sur l'utilisation des lignes qu'il emprunte.
 
-## 4.7.3 CIRCULATIONS SUSCEPTIBLES DE NE PAS ASSURER LE BON FONCTIONNEMENT DES CIRCUITS DE VOIE
+## [section_header] 4.7.3 CIRCULATIONS SUSCEPTIBLES DE NE PAS ASSURER LE BON FONCTIONNEMENT DES CIRCUITS DE VOIE
 
 Certains matériels présentent des conditions de shuntage insuffisantes pour assurer un fonctionnement normal des circuits de voie assurant la sécurité. Ils créent de fait des sujétions significatives dans la gestion de la circulation et son débit.
 
 Les demandeurs doivent informer SNCF Réseau de la présence de matériels susceptibles de ne pas assurer le bon fonctionnement des circuits de voie en indiquant la catégorie de la circulation (catégorie A, B ou C) dans la demande de capacité conformément aux dispositions du « Manuel du demandeur de capacité commerciale en construction et adaptation du service annuel » disponible sur la page « Documents  techniques  cités  dans  le  DRR  »  du  site  internet  de  SNCF  Réseau.  Pour  identifier  ces circulations, les demandeurs peuvent s'appuyer sur le document RFN-CG-SE 06 A-00-n°004 « Mesures à prendre par les exploitants ferroviaires vis à vis du risque de déshuntage ».
 
-## 4.7.4 MESURES PARTICULIERES APPLIQUEES EN CAS DE PERTURBATIONS
+## [section_header] 4.7.4 MESURES PARTICULIERES APPLIQUEES EN CAS DE PERTURBATIONS
 
 En cas d'urgence et de nécessité absolue, motivée notamment par une défaillance ou un accident qui rend l'infrastructure momentanément inutilisable ou une situation où il existe un risque supposé pour la  sécurité  (colis  piégé,  personne  sur  les  voies…)  ou  les  catastrophes  naturelles  ou  phénomènes climatiques (gel, enneigement, grandes chaleurs, inondations, tempêtes..) d'une intensité et/ou d'une ampleur exceptionnelle, les sillons attribués peuvent être supprimés ou modifiés sans préavis pendant le temps nécessaire à la remise en état des installations ou à la disparition du fait générateur de l'arrêt des circulations.
 
+<!-- page: 118 -->
+
 Le  Chapitre  6  -  Exploitation  ferroviaire  précise  les  dispositions  applicables  pour  la  gestion  des situations perturbées. En particulier dans ces conditions, il est important que les entreprises ferroviaires aient  indiqué  à  SNCF Réseau  (correspondants-operationnels-ef@reseau.sncf.fr)  la  liste  actualisée du/des correspondant(s) opérationnel(s) et pré-opérationnel(s) que SNCF Réseau peut contacter.
 
-## 4.8 RÈGLES APRÈS ATTRIBUTION DE LA CAPACITÉ
+## [section_header] 4.8 RÈGLES APRÈS ATTRIBUTION DE LA CAPACITÉ
 
-## 4.8.1 REGLES APPLICABLES EN CAS DE MODIFICATIONS DES SILLONS PAR LE DEMANDEUR
+## [section_header] 4.8.1 REGLES APPLICABLES EN CAS DE MODIFICATIONS DES SILLONS PAR LE DEMANDEUR
 
 Se référer au paragraphe 5.6.1
 
-## 4.8.2 REGLES APPLICABLES EN CAS DE MODIFICATION PAR LES GI
+## [section_header] 4.8.2 REGLES APPLICABLES EN CAS DE MODIFICATION PAR LES GI
 
 Se référer au paragraphe 5.6.2
 
-## 4.8.3 NON-UTILISATION DES SILLONS ATTRIBUES
+## [section_header] 4.8.3 NON-UTILISATION DES SILLONS ATTRIBUES
 
 La non-utilisation d'un sillon attribué est dommageable à la fois :
 
-- -pour l'ensemble du système ferroviaire, car il s'agit d'une perte globale d'efficacité ;
-- -pour SNCF Réseau, car la non-utilisation constitue une perte de recette ;
-- -pour les autres utilisateurs du réseau, car ils ont perdu une possibilité d'utilisation du réseau.
+-pour l'ensemble du système ferroviaire, car il s'agit d'une perte globale d'efficacité ;
+
+-pour SNCF Réseau, car la non-utilisation constitue une perte de recette ;
+
+-pour les autres utilisateurs du réseau, car ils ont perdu une possibilité d'utilisation du réseau.
 
 SNCF Réseau, tout en tenant compte des circonstances qui ont conduit à la sous-utilisation, notamment pour des raisons  autres  qu'économiques  échappant  au  contrôle  des  demandeurs,  peut  décider  la suppression du sillon attribué pour la période qui reste à courir jusqu'à la fin de l'horaire de service, lorsque  le  coefficient  d'utilisation  d'un  sillon  attribué  (nombre  de  jours  effectifs  de  circulation  sur l'ensemble du parcours réservé/nombre de jours de réservation) est inférieur  à 0,75 pour un mois calendaire.
 
@@ -3493,51 +4090,55 @@ Toute application de ces dispositions est précédée d'un préavis de quinze jo
 
 Toutefois, lorsque SNCF Réseau a connaissance que le demandeur à qui le sillon a été attribué ne l'utilisera pas, il lui demandera de supprimer le sillon concerné avant l'heure théorique de départ, sans attendre la période de sous-utilisation d'un mois calendaire.
 
-## 4.8.4 REGLES APPLICABLES EN CAS D'ANNULATION DE SILLONS PAR LE DEMANDEUR
+## [section_header] 4.8.4 REGLES APPLICABLES EN CAS D'ANNULATION DE SILLONS PAR LE DEMANDEUR
 
 Se référer au paragraphe 5.6.4
 
-## 4.9 TIMETABLING REDESIGN - PROGRAMME DE REFONTE DE LA CAPACITÉ
+## [section_header] 4.9 TIMETABLING REDESIGN - PROGRAMME DE REFONTE DE LA CAPACITÉ
 
-## 4.9.1 OBJECTIFS DU PROGRAMME TTR
+## [section_header] 4.9.1 OBJECTIFS DU PROGRAMME TTR
 
 RNE  et  FTE,  appuyés  par  l'ERFA  travaillent  à  un  projet  dénommé  TTR  (Redesign  of  Timetabling Process). Son objectif est d'harmoniser et d'améliorer le système de gestion de la capacité européen afin d'apporter aux transports ferroviaires un gain significatif de performance et de compétitivité. TTR concerne toutes les circulations, nationales et internationales, voyageurs et fret.
 
 L'ambition de TTR consiste à optimiser l'utilisation de la capacité, en réponse aux besoins du marché. L'optimisation  prend  en  compte  l'ensemble  des  besoins  en  capacité,  pour  tous  les  segments  de marché (voyageurs comme fret, domestiques comme internationaux…), comme pour les travaux de
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 119 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
 
 régénération ou de développement nécessaires au maintien et à l'amélioration de sa performance. Des informations plus détaillées sont disponibles sur les sites internet  https://ttr.rne.eu/ et http://www.forumtraineurope.eu/services/ttr/.
 
-## 4.9.2 COMPOSANTS DU PROCESSUS DE REFONTE DE LA CAPACITE
-
-<!-- image -->
+## [section_header] 4.9.2 COMPOSANTS DU PROCESSUS DE REFONTE DE LA CAPACITE
 
 *HDS:horairedeservice
 
 Le processus TTR est construit autour des éléments suivants :
 
-- La stratégie des capacités (X-160 à X-36 mois) :
+La stratégie des capacités (X-160 à X-36 mois) :
 
 Planification capacitaire à long terme pour une ligne spécifique, une partie du réseau ou le réseau entier.  Son  objectif  principal  est  de  fournir  un  premier  aperçu  de  la  future  capacité  disponible  sur l'infrastructure et des prévisions de besoins, en volume.
 
-- Le modèle des capacités (X-36 à X-18 mois) :
+Le modèle des capacités (X-36 à X-18 mois) :
 
 Définition plus détaillée des besoins prévisionnels, et répartition des capacités : capacité commerciale pré-planifiée, rolling planning, restrictions temporaires de capacités et capacités non planifiées.
 
 Les candidats ont la possibilité de contribuer au modèle de capacités en annonçant leurs besoins en matière de capacités (CNA) et peuvent faire part de leur réaction  sur la répartition de la capacité proposée.
 
-## 4.9.3 MISE EN  UVRE PAR SNCF RESEAU
+## [section_header] 4.9.3 MISE EN  UVRE PAR SNCF RESEAU
 
 SNCF Réseau teste progressivement les concepts de TTR, afin de :
 
-- -mettre  à  profit  des  livrables  harmonisés,  dans  des  jalons  communs  entre  gestionnaires d'infrastructure, pour permettre une coordination internationale de qualité,
+-mettre  à  profit  des  livrables  harmonisés,  dans  des  jalons  communs  entre  gestionnaires d'infrastructure, pour permettre une coordination internationale de qualité,
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 120 -->
 
-- -tester la faisabilité et l'intérêt des concepts, pour les demandeurs de capacité comme pour le gestionnaire d'infrastructure.
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+
+-tester la faisabilité et l'intérêt des concepts, pour les demandeurs de capacité comme pour le gestionnaire d'infrastructure.
 
 Le périmètre géographique sur lequel porte ces tests est le suivant :
+
+### [TABLE]
 
 |   UIC line number | Section                              |   RFC |   UIC line number | Section                       |   RFC |
 |-------------------|--------------------------------------|-------|-------------------|-------------------------------|-------|
@@ -3581,7 +4182,11 @@ Le périmètre géographique sur lequel porte ces tests est le suivant :
 |            752000 | LGV Sud Est                          |       |            906000 | Traversée du Rhône (Givors)   |     4 |
 |            797000 | Traversée du Rhône (Peyraud)         |       |            908000 | Valence - Moirans             |     4 |
 
-## CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+<!-- page: 121 -->
+
+## [section_header] CHAPITRE 4 - ATTRIBUTION DE CAPACITÉ
+
+### [TABLE]
 
 |   800000 | Miramas - L'Estacle                 |   4 |   909000 | Grenoble - Montmélian             |   4 |
 |----------|-------------------------------------|-----|----------|-----------------------------------|-----|
@@ -3604,9 +4209,11 @@ Le périmètre géographique sur lequel porte ces tests est le suivant :
 
 Les concepts concernés sont les suivants :
 
-- -stratégie des capacités : en vue de la préparation du service annuel 2026 et suivants
-- -modèle des capacités : en vue de la préparation du service annuel 2026 et suivants
-- -planification  des  capacités  et  publication  du  portefeuille  de  produits :  la  phase  de  préconstruction du processus horaire répond aux exigences formulées par TTR.
+-stratégie des capacités : en vue de la préparation du service annuel 2026 et suivants
+
+-modèle des capacités : en vue de la préparation du service annuel 2026 et suivants
+
+-planification  des  capacités  et  publication  du  portefeuille  de  produits :  la  phase  de  préconstruction du processus horaire répond aux exigences formulées par TTR.
 
 Ces  différents  livrables  prévus  par  TTR  sont  produits  à  partir  du  processus  de  SNCF  Réseau,  de structuration  (voir  point  4.2.2.1),  de  pré-construction  (voir  point  4.2.2.2)  et  de  planification  des capacités travaux (voir point 4.3). Leur contenu est coordonné avec les gestionnaires d'infrastructure limitrophes. Ces livrables  sont  disponibles  sur  la  page  « Timetable  Redesign »  du  site  internet  de SNCF Réseau.
 
@@ -3622,6 +4229,8 @@ Voir dispositions au point 4.9.3
 
 Voir dispositions au point 4.9.3
 
+<!-- page: 122 -->
+
 Nota bene : A ce stade, SNCF Réseau ne teste pas le concept de rolling-planning dans la répartition des capacités et les phases suivantes du processus.
 
 4.9.3.2.1. Annonces des besoins en capacité
@@ -3636,35 +4245,41 @@ Voir dispositions au point 4.9.3
 
 Voir point 4.2.5.1
 
-## 4.9.4 PROJETS PILOTES
+## [section_header] 4.9.4 PROJETS PILOTES
 
 Sans objet
 
-## 4.10 PRINCIPES  D'ALLOCATION  DE  CAPACITÉS  POUR  LES CORRIDORS DE FRET INTERNATIONAUX
+## [section_header] 4.10 PRINCIPES  D'ALLOCATION  DE  CAPACITÉS  POUR  LES CORRIDORS DE FRET INTERNATIONAUX
 
 Pour consulter les principes d'allocation de capacités pour les corridors de fret internationaux se référer à l'annexe 4.2.
 
-## CHAPITRE 5 SERVICES ET TARIFICATION
+<!-- page: 123 -->
 
-## 5.1 INTRODUCTION
+## [section_header] CHAPITRE 5 SERVICES ET TARIFICATION
 
-## 5.1.1 LES PRINCIPES TARIFAIRES : CADRE JURIDIQUE
+## [section_header] 5.1 INTRODUCTION
+
+## [section_header] 5.1.1 LES PRINCIPES TARIFAIRES : CADRE JURIDIQUE
 
 En application du cadre législatif et réglementaire français, la tarification de l'usage du réseau ferré national dans son ensemble est décidée par SNCF Réseau 6 , dans le cadre mis en place par l'Etat 7 , et soumise, pour  les prestations minimales, à l'avis conforme  de  l'Autorité de  régulation  des transports 8   (ART). Selon les dispositions du code des transports, l'ART émet un avis conforme sur la fixation des redevances d'infrastructure liées à l'utilisation du réseau ferré national tenant compte :
 
-- 1°) Des principes et des règles de tarification applicables sur ce réseau, prévus à l'article L. 2111-25 ;
-- 2°) De la soutenabilité de l'évolution de la tarification pour le marché du transport ferroviaire, et en considération de la position concurrentielle du transport ferroviaire sur le marché des transports ;
-- 3°) Des dispositions du contrat mentionné à l'article L. 2111-10, conclu entre l'Etat et SNCF Réseau.
+1°) Des principes et des règles de tarification applicables sur ce réseau, prévus à l'article L. 2111-25 ;
+
+2°) De la soutenabilité de l'évolution de la tarification pour le marché du transport ferroviaire, et en considération de la position concurrentielle du transport ferroviaire sur le marché des transports ;
+
+3°) Des dispositions du contrat mentionné à l'article L. 2111-10, conclu entre l'Etat et SNCF Réseau.
 
 La tarification doit respecter les principes et l'architecture générale issus du droit européen et français constitué par la  directive européenne 2012/34/UE, le Code des transports, le  décret n° 2003-194 modifié et le  décret n° 97-446 du 5 mai 1997 modifié et les dispositions du contrat conclu entre l'État et SNCF Réseau.
 
-## 5.1.2 LE DROIT DE L'UNION EUROPEENNE : LA DIRECTIVE 2012/34/UE
+## [section_header] 5.1.2 LE DROIT DE L'UNION EUROPEENNE : LA DIRECTIVE 2012/34/UE
 
-## La  directive 2012/34/UE fixe quatre principaux objectifs à la tarification de l'infrastructure :
+## [section_header] La  directive 2012/34/UE fixe quatre principaux objectifs à la tarification de l'infrastructure :
 
-- -Assurer l'équilibre des comptes du gestionnaire d'infrastructure sur une période raisonnable, compte tenu des concours publics 9  ;
-- -Assurer  aux  différentes  entreprises  ferroviaires  les  conditions  d'un  accès  équitable  et  non discriminatoire 10 ;
-- -Inciter le gestionnaire d'infrastructure à optimiser l'utilisation de son infrastructure 11 ;
+-Assurer l'équilibre des comptes du gestionnaire d'infrastructure sur une période raisonnable, compte tenu des concours publics 9  ;
+
+-Assurer  aux  différentes  entreprises  ferroviaires  les  conditions  d'un  accès  équitable  et  non discriminatoire 10 ;
+
+-Inciter le gestionnaire d'infrastructure à optimiser l'utilisation de son infrastructure 11 ;
 
 6 Code des transports, décret n° 97-446 modifié et décret n° 2003-194 modifié.
 
@@ -3678,67 +4293,81 @@ La tarification doit respecter les principes et l'architecture générale issus 
 
 11 « Dans  le  cadre  défini  par  les  États  membres,  il  est  opportun  que  les  systèmes  de  tarification  et  de  répartition  des  capacités  incitent  les gestionnaires de l'infrastructure ferroviaire à optimiser l'utilisation de leur infrastructure. » (Considérant 43)
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 124 -->
 
-- -Émettre des  signaux  clairs  et  cohérents  pour  que  les  entreprises  ferroviaires  prennent  des décisions rationnelles en termes d'usage du réseau 12 .
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
-## Les articles posent les principes suivants (détaillés dans l'annexe 5.1.1) :
+-Émettre des  signaux  clairs  et  cohérents  pour  que  les  entreprises  ferroviaires  prennent  des décisions rationnelles en termes d'usage du réseau 12 .
 
-- -La rémunération minimale du gestionnaire d'infrastructure selon l'article 31.3 de la directive 2012/34 est le coût directement imputable qui correspond à un coût marginal d'utilisation de l'infrastructure conformément au règlement d'exécution 2015/909 du 12 juin 2015
-- -Par ailleurs selon l'article 32.1 de la directive, une majoration peut être appliquée si le marché s'y prête.
-- -Enfin la tarification liée à la rareté des capacités est possible.
+## [section_header] Les articles posent les principes suivants (détaillés dans l'annexe 5.1.1) :
+
+-La rémunération minimale du gestionnaire d'infrastructure selon l'article 31.3 de la directive 2012/34 est le coût directement imputable qui correspond à un coût marginal d'utilisation de l'infrastructure conformément au règlement d'exécution 2015/909 du 12 juin 2015
+
+-Par ailleurs selon l'article 32.1 de la directive, une majoration peut être appliquée si le marché s'y prête.
+
+-Enfin la tarification liée à la rareté des capacités est possible.
 
 Il est ainsi posé le principe d'une tarification constituée :
 
-- -de  redevances  qui  visent  à  faire  payer  à  l'utilisateur  du  réseau  le  coût  direct  qu'il  fait supporter  à  SNCF  Réseau  (i.e.  le  coût  marginal,  c'est-à-dire  le  coût  encouru  lors  de  la circulation d'une  unité de  trafic supplémentaire sur le réseau) 13 .  Ces  redevances pourraient intégrer les coûts externes liés à l'usage de l'infrastructure du RFN (rareté en particulier) ;
-- -de  majorations  qui  visent  à  recouvrer  les  coûts  fixes  supportés  par  SNCF  Réseau.  Ces majorations doivent être soutenables par les entreprises ferroviaires actives sur le segment de marché où elles sont appliquées.
+-de  redevances  qui  visent  à  faire  payer  à  l'utilisateur  du  réseau  le  coût  direct  qu'il  fait supporter  à  SNCF  Réseau  (i.e.  le  coût  marginal,  c'est-à-dire  le  coût  encouru  lors  de  la circulation d'une  unité de  trafic supplémentaire sur le réseau) 13 .  Ces  redevances pourraient intégrer les coûts externes liés à l'usage de l'infrastructure du RFN (rareté en particulier) ;
+
+-de  majorations  qui  visent  à  recouvrer  les  coûts  fixes  supportés  par  SNCF  Réseau.  Ces majorations doivent être soutenables par les entreprises ferroviaires actives sur le segment de marché où elles sont appliquées.
 
 Ces  principes  tarifaires  européens,  issus  pour  la  plupart  des  anciennes  directives  97/440/CEE  et 2001/14/CE (aujourd'hui abrogées) ont fait l'objet d'une transposition en droit français et dernièrement dans le décret n° 2003-194 et décret n°97-446 en vigueur.
 
-## 5.1.3 LE CADRE REGLEMENTAIRE FRANÇAIS
+## [section_header] 5.1.3 LE CADRE REGLEMENTAIRE FRANÇAIS
 
 Les dispositions précitées de la directive 2012/34/UE sont précisées les décrets n°97-446 modifié et n°2003-194, en particulier :
 
-- -Le  principe  de  tarification  au  «  coût  directement  imputable  »,  ainsi  que  les  différentes redevances  qui  y  sont  assujetties  (redevance  de  circulation,  redevance  de  circulation électrique, redevance destinée à couvrir les pertes des systèmes électriques) ;
-- -La possibilité de percevoir des majorations afin de procéder au recouvrement total des coûts encourus et à condition que le marché s'y prête ;
-- -La possibilité de tarifer la rareté des capacités ;
-- -La  possibilité  de  mettre  en  uvre  des  redevances  particulières  liées  à  des  projets d'investissements spécifiques
-- -Ainsi que des modulations potentielles de la tarification
+-Le  principe  de  tarification  au  «  coût  directement  imputable  »,  ainsi  que  les  différentes redevances  qui  y  sont  assujetties  (redevance  de  circulation,  redevance  de  circulation électrique, redevance destinée à couvrir les pertes des systèmes électriques) ;
+
+-La possibilité de percevoir des majorations afin de procéder au recouvrement total des coûts encourus et à condition que le marché s'y prête ;
+
+-La possibilité de tarifer la rareté des capacités ;
+
+-La  possibilité  de  mettre  en  uvre  des  redevances  particulières  liées  à  des  projets d'investissements spécifiques
+
+-Ainsi que des modulations potentielles de la tarification
 
 12 « Il convient que les systèmes de répartition des capacités émettent des signaux clairs et cohérents permettant aux entreprises ferroviaires de prendre des décisions rationnelles. » (Considérant 44)
 
 13 Voir Infrastructure (Chapitre 2 du DRR).
 
-## 5.1.4 SERVICES FOURNIS AUX CANDIDATS PAR LE GESTIONNAIRE D'INFRASTRUCTURE
+<!-- page: 125 -->
+
+## [section_header] 5.1.4 SERVICES FOURNIS AUX CANDIDATS PAR LE GESTIONNAIRE D'INFRASTRUCTURE
 
 Les services fournis et proposés par SNCF Réseau aux candidats sont répartis suivant les catégories suivantes.
 
-- -Prestations minimales sur voies principales (point 5.1.5),
-- -Autres  prestations,  qui  regroupent  les  prestations  complémentaires  (point  5.1.6)  et  les prestations  connexes  sur  voies  principales  (point  5.1.7),  ainsi  que  les  prestations  diverses (points 5.1.8).
+-Prestations minimales sur voies principales (point 5.1.5),
 
-## 5.1.5 PRESTATIONS MINIMALES SUR VOIES PRINCIPALES
+-Autres  prestations,  qui  regroupent  les  prestations  complémentaires  (point  5.1.6)  et  les prestations  connexes  sur  voies  principales  (point  5.1.7),  ainsi  que  les  prestations  diverses (points 5.1.8).
+
+## [section_header] 5.1.5 PRESTATIONS MINIMALES SUR VOIES PRINCIPALES
 
 Conformément à la réglementation en vigueur, SNCF Réseau assure aux candidats l'ensemble des prestations minimales sur les lignes du réseau ferré national définies ci-après.
 
-## ● Traitement des demandes de capacités d'infrastructure
+## [section_header] ● Traitement des demandes de capacités d'infrastructure
 
 SNCF  Réseau  traite  des  demandes  de  capacité  d'infrastructure  dans  les  conditions  légales  et réglementaires  et  selon  les  règles  figurant  au  Chapitre  4  -  Attribution  de  capacité  du  présent document.
 
-## ● Droit d'utilisation des sillons attribués
+## [section_header] ● Droit d'utilisation des sillons attribués
 
 Les sillons attribués par SNCF Réseau sont mis à la disposition de l'entreprise ferroviaire, directement par SNCF Réseau ou par le candidat (ayant obtenu des sillons) qui n'est pas une entreprise ferroviaire. Dès lors qu'elle remplit toutes les autres conditions requises (notamment au titre de la sécurité des circulations et de l'exploitation du réseau) et sous réserve des pouvoirs conférés à SNCF Réseau par la réglementation  en  vigueur,  l'entreprise  ferroviaire  décide  seule  de  leur  utilisation  effective,  en respectant les obligations d'information préalables à la circulation prévues au Chapitre 6 - Exploitation ferroviaire.
 
-## ● Prestations relatives à la circulation
+## [section_header] ● Prestations relatives à la circulation
 
 La commande des aiguilles et branchements du réseau, la signalisation, la régulation, la gestion des circulations, la coordination de la gestion des situations de crise, la communication et la fourniture des informations relatives à la circulation (en ce compris l'utilisation des services de télécommunication dont l'usage  est  rendu  obligatoire  par  SNCF  Réseau  tels  que  la  radio  sol-train,  la  transmission  de signaux ou la signalisation de cabine via ERTMS ou S.A.E.I.V. sur les lignes qui en sont équipées ainsi que  les  systèmes  ARES  et  SOPRANO  (voir  Chapitre  3  -  Conditions  d'accès  au  RFN)  ainsi  que l'utilisation du système d'alimentation électrique pour le courant de traction sont assurées, pour les trains  de  l'entreprise  ferroviaire,  conformément  à  la  réglementation  technique  de  sécurité,  à  la documentation relative à l'utilisation du réseau et aux dispositions du présent document de référence du réseau.
 
-## ● Couverture des pertes des systèmes électriques
+## [section_header] ● Couverture des pertes des systèmes électriques
 
 SNCF Réseau fournit également la couverture des pertes des systèmes électriques depuis les sousstations jusqu'aux points de captage des trains.
 
-## ● Autre information nécessaire à la mise en  uvre ou à l'exploitation du service pour lequel des capacités d'infrastructure ont été demandées (services SI minimaux)
+## [section_header] ● Autre information nécessaire à la mise en  uvre ou à l'exploitation du service pour lequel des capacités d'infrastructure ont été demandées (services SI minimaux)
 
 SNCF Réseau met notamment à disposition des candidats demandeurs de capacité les services de systèmes d'information dit « services SI minimaux » dans la mesure où ils permettent la délivrance d'informations strictement nécessaires à la réalisation de leur activité. Est défini comme « candidat demandeur de capacité » un candidat ayant effectivement procédé à des expressions de besoins 24h ou des commandes de sillons-jours.
+
+<!-- page: 126 -->
 
 La fourniture d'un service SI minimal inclut la fourniture de prestations de base (un nombre déterminé de login d'accès au service, une formation initiale à l'utilisation du service pour un nombre déterminé de personnes, une documentation d'utilisation et l'accès à la cellule support dédiée).
 
@@ -3746,15 +4375,15 @@ Les conditions d'accès et d'utilisation de ces services sont fixées dans le co
 
 Les différents services SI minimaux sont décrits dans le catalogue des services SI disponible sur l'Espace clients.
 
-## ● Accès par le réseau aux installations de service
+## [section_header] ● Accès par le réseau aux installations de service
 
 SNCF Réseau offre, dans le cadre des prestations minimales, l'accès par le réseau aux installations de service accessibles depuis le RFN.
 
-## 5.1.6 PRESTATIONS COMPLEMENTAIRES SUR VOIES PRINCIPALES
+## [section_header] 5.1.6 PRESTATIONS COMPLEMENTAIRES SUR VOIES PRINCIPALES
 
 Les prestations complémentaires sont fournies par SNCF Réseau à tout candidat qui en fait la demande
 
-## 5.1.6.1 Prestations de services de systèmes d'information
+## [section_header] 5.1.6.1 Prestations de services de systèmes d'information
 
 SNCF Réseau met à disposition  des  candidats  demandeurs  et  non  demandeurs  de  capacités  des prestations complémentaires de services SI.
 
@@ -3764,17 +4393,19 @@ Les services SI complémentaires ainsi que les formations proposées par SNCF R�
 
 L'utilisation des services SI relevant des prestations complémentaires suppose la conclusion d'un des contrats d'utilisation des SI précités.
 
-## 5.1.6.2 Ouvertures supplémentaires de lignes, gares et postes non ouverts en permanence
+## [section_header] 5.1.6.2 Ouvertures supplémentaires de lignes, gares et postes non ouverts en permanence
 
 Des demandes d'ouvertures supplémentaires de lignes, gares et postes non ouverts en permanence par rapport à la notification définitive de décembre A-2 peuvent être effectuées en DTS et DSA. Ces demandes peuvent faire l'objet d'une réponse favorable de SNCF Réseau dans les conditions prévues aux points 4.2.2.4 et 4.2.2.5. Dans ce cas, les demandes doivent être adressées au chargé de compte dédié,  selon  les  modalités  décrites  dans  le  «  Manuel  du  demandeur  de  capacité  commerciale  en construction et adaptation du service annuel » disponible sur la page « Documents Techniques cités dans le DRR » du site internet de SNCF Réseau.
 
-## 5.1.6.3 Fourniture du courant de traction électrique
+## [section_header] 5.1.6.3 Fourniture du courant de traction électrique
 
-- Principes relatifs au comptage de l'énergie électrique
+Principes relatifs au comptage de l'énergie électrique
 
 Depuis l'entrée en vigueur de la Spécification Technique d'Interopérabilité relative au sous-système « matériel  roulant  »  (RE  1302/2014),  les  matériels  roulants  doivent  suivre  les  exigences  relatives  aux spécifications fonctionnelles et techniques des équipements électriques de ces matériels, stipulées dans  cette  STI,  dans  les  conditions  fixées  audit  Règlement  1302/2014.  A  cet  égard,  le  «  système embarqué de mesure d'énergie », mentionné comme une exigence essentielle, est un constituant de l'alimentation en courant électrique des engins moteurs spécifié au § 4.2.8.2. (Alimentation en courant
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 127 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 électrique) de la STI permettant de mesurer l'ensemble de l'énergie électrique absorbée depuis, ou renvoyée vers (au cours d'un freinage par récupération) la ligne de contact par les engins moteurs électriques. Ces systèmes de comptage doivent être conformes à la norme EN 50463-2017 (Mesures d'énergie à bord des trains). Par ailleurs, ces systèmes doivent être télé-relevables par un système de collecte au sol (DCS : Data Collecting System) conformément à la STI.
 
@@ -3788,9 +4419,11 @@ SNCF  Réseau  a  développé  un  outil  de  rapprochement  des  données  de  
 
 Qu'elle soit équipée en compteurs ou non, chaque entreprise ferroviaire demeure libre de sélectionner le fournisseur d'énergie de son choix. L'équipement en compteurs permet cependant à l'entreprise ferroviaire  une  meilleure  maitrise  de  ses  consommations  et  in  fine,  de  ses  factures  d'énergie, notamment en choisissant l'offre la plus adaptée à son profil. En outre, l'équipement en compteurs renforce la qualité et la fiabilité du décompte ferroviaire, au bénéfice de tous les acteurs.
 
-## -Obligations des entreprises ferroviaires
+## [section_header] -Obligations des entreprises ferroviaires
 
 Chaque entreprise ferroviaire, dont les compteurs sont télérelevés par DECOFER, doit contractualiser avec RTE un contrat de prestation pour le calcul du décompte « au réel » sur la base des compteurs. Cette disposition s'applique à toutes les entreprises  ferroviaires dont la flotte est partiellement ou totalement  équipés  de  compteurs  et  qu'elles  soient  fournis  par  SNCF  Réseau  (RFE)  ou  par  un fournisseur de leur choix. Ce contrat de prestation de décompte ferroviaire entre l'EF et RTE acte l'opération de la télérelève de ses compteurs par DECOFER, du calcul des décomptes de l'EF, et de la publication des consommations de l'EF à son fournisseur d'électricité.
+
+<!-- page: 128 -->
 
 L'entreprise  ferroviaire  est  tenue  de  déclarer  dans  DECOFER  chaque  engin  électrique  circulant  en France. L'entreprise ferroviaire doit tenir informé RTE de l'évolution de l'équipement en compteurs de son parc. Elle fournit à RTE les prévisions de modifications de son parc de compteurs déjà équipé et le  cas  échéant,  le  planning  d'équipement  en  compteurs  de  ses  engins  en  précisant  le  modèle d'équipement prévu pour vérifier son aptitude à communiquer avec DECOFER.
 
@@ -3802,19 +4435,21 @@ Dans le cas d'engins loués, l'entreprise ferroviaire doit informer RTE, engin p
 
 Pour les entreprises ferroviaires dont le déploiement des compteurs est programmé ou en cours, elles doivent partager à SNCF Réseau et RTE le planning d'équipement des engins de leurs flottes et sa mise à jour en fonction de l'avancement du déploiement, afin de préparer la transition vers le décompte « au réel » des entreprises ferroviaires.
 
-- Achat du courant de traction auprès de fournisseurs d'énergie électrique
+Achat du courant de traction auprès de fournisseurs d'énergie électrique
 
 Les entreprises ferroviaires achètent leur courant de traction au fournisseur de leur choix dans le cadre de la législation française sur l'énergie.
 
-## -Achat du courant de traction auprès d'un autre fournisseur que SNCF Réseau
+## [section_header] -Achat du courant de traction auprès d'un autre fournisseur que SNCF Réseau
 
 Dans le cas où l'entreprise ferroviaire contracte avec un fournisseur d'énergie électrique, elle indique dans les conditions particulières du contrat d'utilisation de l'infrastructure :
 
-- Le nom de son responsable d'équilibre ;
-- La date de signature du contrat pour la fourniture d'un service de décompte avec Réseau de Transport d'Électricité ;
-- Le gestionnaire d'infrastructure  chargé  de  télé-relever  le  comptage  d'énergie électrique, s'il ne s'agit pas de RTE.
+Le nom de son responsable d'équilibre ;
 
-## -Achat du courant de traction auprès de SNCF Réseau
+La date de signature du contrat pour la fourniture d'un service de décompte avec Réseau de Transport d'Électricité ;
+
+Le gestionnaire d'infrastructure  chargé  de  télé-relever  le  comptage  d'énergie électrique, s'il ne s'agit pas de RTE.
+
+## [section_header] -Achat du courant de traction auprès de SNCF Réseau
 
 Toute entreprise ferroviaire peut demander à SNCF Réseau la fourniture du courant de traction pour l'ensemble de son parc d'engins électriques. L'entreprise ferroviaire est alors redevable de la redevance de fourniture d'énergie électrique dans les conditions de tarification et de facturation décrites aux points 5.4.3 et 5.9.2 et selon les conditions particulières du contrat d'utilisation de l'infrastructure.
 
@@ -3822,70 +4457,79 @@ SNCF Réseau ne propose pas la fourniture partielle du courant de traction pour 
 
 Pour toute demande d'informations sur les modalités et conditions de fourniture du courant de traction ainsi que sur la tarification y afférente, l'entreprise intéressée s'adresse au chargé de compte national ou régional dédié ou, à défaut d'interlocuteur identifié, au guichet unique (point 1.6.1).
 
-## 5.1.6.4 Prestations optionnelles de coordination de la gestion des situations de crise
+<!-- page: 129 -->
+
+## [section_header] 5.1.6.4 Prestations optionnelles de coordination de la gestion des situations de crise
 
 Cinq types de prestations optionnelles sont fournies par SNCF Réseau, sur demande des clients (EF, GI et gestionnaire de gares) :
 
-- -Des exercices et formations au dispositif de gestion opérationnelle des crises ;
-- -La  mise  à  disposition  de  salles  spécifiques  qui  peuvent  être  ouvertes  pour  accueillir  et renseigner les familles et les proches des victimes en cas d'accident ferroviaire grave avec victimes.
-- -Le prolongement du dispositif urgence accident au-delà de 24h ;
-- -Des accès à des postes de travail dans les locaux SNCF Réseaux circulation, dans la limite des possibilités ;
-- -Des accès supplémentaires en salle de crise opérationnelle, dans la limite des possibilités.
+-Des exercices et formations au dispositif de gestion opérationnelle des crises ;
 
-## 5.1.7 PRESTATIONS CONNEXES SUR VOIES PRINCIPALES
+-La  mise  à  disposition  de  salles  spécifiques  qui  peuvent  être  ouvertes  pour  accueillir  et renseigner les familles et les proches des victimes en cas d'accident ferroviaire grave avec victimes.
+
+-Le prolongement du dispositif urgence accident au-delà de 24h ;
+
+-Des accès à des postes de travail dans les locaux SNCF Réseaux circulation, dans la limite des possibilités ;
+
+-Des accès supplémentaires en salle de crise opérationnelle, dans la limite des possibilités.
+
+## [section_header] 5.1.7 PRESTATIONS CONNEXES SUR VOIES PRINCIPALES
 
 Les prestations connexes ne sont pas dues, de droit, aux candidats. La fourniture de ces prestations relève d'un choix de SNCF Réseau. Si ces prestations connexes sont fournies par SNCF Réseau, elles le sont à tout candidat qui en fait la demande.
 
-## 5.1.7.1 Études de faisabilité internationale
+## [section_header] 5.1.7.1 Études de faisabilité internationale
 
 SNCF  Réseau  peut  réaliser  des  études  de  faisabilité  telles  que  définies  au  point  4.2.5.1.  Ces prestations sont facturées dans les conditions prévues au point 5.9.3.1.
 
-## 5.1.7.2 Études préalables à la demande d'avis de transport exceptionnel
+## [section_header] 5.1.7.2 Études préalables à la demande d'avis de transport exceptionnel
 
 SNCF Réseau peut réaliser des études préalables telles que définies au point 4.7.1. Ces prestations sont facturées dans les conditions prévues au point 5.9.3.2.
 
-## 5.1.7.3 Services de communications ferroviaires de liaison radio GSM (GSM-R et GSM-GFU ARES) avec les trains et de téléphonie de pleine voie
+## [section_header] 5.1.7.3 Services de communications ferroviaires de liaison radio GSM (GSM-R et GSM-GFU ARES) avec les trains et de téléphonie de pleine voie
 
 Les entreprises ferroviaires  peuvent  obtenir  (sous  condition  d'éligibilité  et  de  faisabilité)  pour  leurs besoins de communications propres, au-delà des prestations de télécommunications GSM-R (réseau privé), GSM-GFU ARES (réseau opéré) et de téléphonie de pleine voie (SOPRANO) fournies au titre des prestations minimales, des services de télécommunication complémentaires s'appuyant sur ces systèmes GSM-R, GSM-GFU ARES et SOPRANO de SNCF Réseau.
 
 Toutes les demandes concernant les Services de communications ferroviaires, y compris de liaisons avec les trains ou téléphonie de pleine voie, doivent être adressées par les entreprises ferroviaires, qu'elles disposent ou non de terminaux :
 
-- -À leur chargé de compte à la Direction commerciale s'ils en ont un ;
+-À leur chargé de compte à la Direction commerciale s'ils en ont un ;
 
 Ou à défaut :
 
-- -Au guichet unique SNCF Réseau par courriel à l'adresse guichetunique@reseau.sncf.fr, qui transmettra au(x) service(s) concerné(s) de SNCF Réseau pour prise en charge de la demande.
+-Au guichet unique SNCF Réseau par courriel à l'adresse guichetunique@reseau.sncf.fr, qui transmettra au(x) service(s) concerné(s) de SNCF Réseau pour prise en charge de la demande.
 
 Les demandes seront ensuite relayées, après validation de la légitimité de la demande de l'Entreprise Ferroviaire  à  accéder  aux  Services  de  communications  ferroviaires  SNCF  Réseau,  aux  guichets  et interlocuteurs  télécom  en  responsabilité,  qui  sont  chargés  de  cadrer  le  besoin  fonctionnel  et  de proposer la solution la plus appropriée pour y répondre.
 
+<!-- page: 130 -->
+
 Les demandeurs seront également accompagnés dans le déploiement et la mise en exploitation de la solution retenue.
 
-- Services de communications ferroviaires sur réseau GSM-R privé (pupitres et portatifs)
+Services de communications ferroviaires sur réseau GSM-R privé (pupitres et portatifs)
 
 Ces services portent sur :
 
-- -les services de communications ferroviaires sur capacité résiduelle Priorité 4 (dites GSM-R P4) sur pupitres et portatifs ;
-- -la fourniture et la mise en service de portatifs durcis aux interférences, homologués pour un usage sur le réseau GSM-R du Réseau Ferré National, paramétrés et cyber-sécurisés, dotés de cartes SIM GSM-R pré-intégrées et configurées
+-les services de communications ferroviaires sur capacité résiduelle Priorité 4 (dites GSM-R P4) sur pupitres et portatifs ;
+
+-la fourniture et la mise en service de portatifs durcis aux interférences, homologués pour un usage sur le réseau GSM-R du Réseau Ferré National, paramétrés et cyber-sécurisés, dotés de cartes SIM GSM-R pré-intégrées et configurées
 
 Ces services sont disponibles sur les lignes couvertes en GSM-R. Cependant, dans certains cas, les pupitres peuvent être déportés hors couverture GSM-R. Toute demande de déploiement est soumise à des prérequis d'éligibilité et de faisabilité par SNCF Réseau.
 
-- Services de communications ferroviaires de commodité sur le système GSM-GFU ARES opéré :
+Services de communications ferroviaires de commodité sur le système GSM-GFU ARES opéré :
 
 Il s'agit de prestations complémentaires pour l'usage du service ARES pour des besoins de commodité, de service, de management, de formation (et non uniquement pour les appels d'urgence ARES).
 
 Ces services sont disponibles sur toutes les lignes inscrites ARES. Toute souscription est soumise à des prérequis d'éligibilité et de faisabilité par SNCF Réseau.
 
-## 5.1.7.4 Service de communications ferroviaires dites « de veille »
+## [section_header] 5.1.7.4 Service de communications ferroviaires dites « de veille »
 
 Le service de communications ferroviaires dites « de veille » permet notamment de communiquer entre les équipes chargées de man  uvrer des trains et le poste d'aiguillage. Ce service peut être partagé par les différents exploitants du site. Les conditions d'utilisation de ce service radio sont définies dans les consignes locales d'exploitation (CLE).
 
 Toutes les demandes concernant les services de communications ferroviaires, y compris celles dites « de  veille »,  doivent  être  adressées  par  les  Entreprises  Ferroviaires,  qu'elles  disposent  ou  non  de terminaux :
 
-- -À leur chargé de compte à la Direction commerciale SNCF Réseau s'ils en ont un ;
+-À leur chargé de compte à la Direction commerciale SNCF Réseau s'ils en ont un ;
 
 ou à défaut :
 
-- -Au guichet unique SNCF Réseau par courriel à l'adresse guichetunique@reseau.sncf.fr, qui transmettra au(x) service(s) concerné(s) de SNCF Réseau pour prise en charge de la demande.
+-Au guichet unique SNCF Réseau par courriel à l'adresse guichetunique@reseau.sncf.fr, qui transmettra au(x) service(s) concerné(s) de SNCF Réseau pour prise en charge de la demande.
 
 Les demandes seront ensuite relayées, après validation de la légitimité de la demande de l'entreprise ferroviaire  à  accéder  aux  Services  de  communications  ferroviaires  SNCF  Réseau,  aux  guichets  et interlocuteurs  télécom  en  responsabilité,  qui  sont  chargés  de  cadrer  le  besoin  fonctionnel  et  de proposer la solution la plus appropriée pour y répondre.
 
@@ -3893,9 +4537,11 @@ Les demandeurs seront également accompagnés dans le déploiement et la mise en
 
 L'entreprise ferroviaire, de son côté, devra se munir de terminaux homologués par SNCF Réseau. Elle devra ensuite programmer les terminaux homologués pour accéder au groupe d'utilisateurs du service de communications dites « de veille » soit par ses propres moyens soit en commandant une prestation de programmation proposée par SNCF Réseau.
 
+<!-- page: 131 -->
+
 L'accès et l'utilisation de ce service sont tarifés dans les conditions définies au point 5.5.1.4.
 
-## 5.1.7.5 Déclaration des fréquences radioélectriques de  man  uvres exploitées par l'entreprise ferroviaire et délivrance de l'attestation de compatibilité
+## [section_header] 5.1.7.5 Déclaration des fréquences radioélectriques de  man  uvres exploitées par l'entreprise ferroviaire et délivrance de l'attestation de compatibilité
 
 En application du document d'exploitation « Liaisons radio de man  uvre » (RFN-IG-IF 06 A-14-n°002), disponible sur la page « Documents Techniques cités dans le DRR » du site internet de SNCF Réseau, l'entreprise ferroviaire déclare au Guichet Unique Radio (GUR) les fréquences de man  uvres qui lui ont été allouées par l'ARCEP.
 
@@ -3909,49 +4555,51 @@ L'attestation  de  compatibilité  des  fréquences  est  délivrée  sous  un  
 
 Afin d'orienter toute demande à l'ARCEP de licence d'exploitation de fréquences radioélectriques, il est conseillé aux entreprises ferroviaires de contacter le GUR préalablement. L'étude de compatibilité est tarifée à l'entreprise ferroviaire dans les conditions définies au point 5.5.1.5.
 
-## 5.1.8 PRESTATIONS DIVERSES
+## [section_header] 5.1.8 PRESTATIONS DIVERSES
 
 Ces prestations commerciales sont non-régulées.
 
-## 5.1.8.1 Acheminement de l'énergie électrique (RCTE - Composante B)
+## [section_header] 5.1.8.1 Acheminement de l'énergie électrique (RCTE - Composante B)
 
 SNCF Réseau garantit également l'acheminement de l'énergie électrique sur les réseaux d'électricité jusqu'aux bornes d'entrée haute tension des sous-stations de SNCF Réseau.
 
-## 5.1.8.2 Services proposés dans le catalogue d'Offres de services
+## [section_header] 5.1.8.2 Services proposés dans le catalogue d'Offres de services
 
 SNCF Réseau propose un catalogue rassemblant l'ensemble de ses offres de services (y compris celles faisant partie des prestations minimales). Ces offres sont regroupées en six (6) gammes :
 
-## ● Études et Conseils
+## [section_header] ● Études et Conseils
 
 SNCF Réseau propose des analyses et avis techniques sur les projets de circulation.
 
-## ● Data et SI
+## [section_header] ● Data et SI
 
 SNCF Réseau propose la mise à disposition de données et de systèmes d'information accessibles et exploitables tout au long du parcours du client.
 
-## ● Compatibilité du matériel roulant
+## [section_header] ● Compatibilité du matériel roulant
 
 SNCF Réseau propose d'aider le client à vérifier que ses matériels roulants soient bien compatibles avec l'infrastructure ferroviaire et d'identifier, le cas échéant, des solutions.
 
-## ● Sillons
+## [section_header] ● Sillons
 
 SNCF Réseau propose d'aider à concrétiser les plans de transport du client en fournissant une offre de sillons adaptés, standardisés et robustes.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 132 -->
 
-## ● Installations de services
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+
+## [section_header] ● Installations de services
 
 SNCF Réseau propose de répondre aux besoins en stationnement, en maintenance ou en énergie, depuis la gare de départ jusqu'à la gare d'arrivée.
 
-## ● Circulation
+## [section_header] ● Circulation
 
 SNCF Réseau propose d'assurer la meilleure fluidité des circulations et de faire arriver chaque train à sa destination à l'heure et en toute sécurité.
 
-## 5.1.8.3 Autres prestations
+## [section_header] 5.1.8.3 Autres prestations
 
 SNCF Réseau peut être amené à fournir des prestations autres à la demande des clients.
 
-## 5.2 PRINCIPES DE TARIFICATION
+## [section_header] 5.2 PRINCIPES DE TARIFICATION
 
 L'utilisation du réseau ferré national donne lieu, en application du Code des transports, à la perception par SNCF Réseau de redevances. Ces redevances, leurs modalités de calcul et de perception ont été déterminées en application dudécret modifié n° 2003-194 du 7 mars 2003 relatif à l'utilisation du réseau ferroviaire et du décret n ° 97-446 du 5 mai 1997 relatif aux redevances d'utilisation du réseau ferré national.
 
@@ -3965,14 +4613,21 @@ Les  trains  d'approvisionnement  de  chantiers  et  d'acheminement  de  matéri
 
 La tarification adoptée par SNCF Réseau, en accord avec le cadre défini par l'État et la réglementation, est  cohérente  avec  l'analyse  économique  et  respecte  la  capacité  contributive  des  entreprises ferroviaires. À ce titre, la tarification respecte les principes suivants :
 
-- -s'adapter  aux  logiques  d'organisation  de  marché  existantes  en  proposant  à  cet  égard  la structure  la  plus  appropriée,  de  manière  à  envoyer  les  bons  signaux  économiques  aux différentes parties prenantes (État, AOM et transporteur) ;
-- -permettre à SNCF Réseau de recouvrer son coût marginal (le CDI) ;
-- -contribuer à couvrir tout ou partie des coûts fixes de SNCF Réseau (au-delà du CDI) ;
-- -inciter à la bonne utilisation du réseau.
+-s'adapter  aux  logiques  d'organisation  de  marché  existantes  en  proposant  à  cet  égard  la structure  la  plus  appropriée,  de  manière  à  envoyer  les  bons  signaux  économiques  aux différentes parties prenantes (État, AOM et transporteur) ;
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+-permettre à SNCF Réseau de recouvrer son coût marginal (le CDI) ;
+
+-contribuer à couvrir tout ou partie des coûts fixes de SNCF Réseau (au-delà du CDI) ;
+
+-inciter à la bonne utilisation du réseau.
+
+<!-- page: 133 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 En synthèse, le tableau ci-dessous présente l'affectation des coûts par redevance.
+
+### [TABLE]
 
 | Type de redevance                                                                             | Type de redevance                                                                   | Typologie des coûts                                                                                                                                                                          |
 |-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3988,9 +4643,11 @@ Par ailleurs deux logiques d'organisation des marchés coexistent. Il existe des
 
 SNCF Réseau distingue les segments de marchés, regroupés en trois grandes catégories d'activités :
 
-- 1) Voyageurs non conventionné,
-- 2) Voyageurs conventionné,
-- 3) Fret,
+Voyageurs non conventionné,
+
+Voyageurs conventionné,
+
+Fret,
 
 Ces catégories d'activité sont détaillées au point 5.3.4.
 
@@ -4000,32 +4657,37 @@ Pour plus d'information sur les principes de tarification, se référer à l'ann
 
 Cas spécifique de la tarification des trams-trains : à défaut d'une convention spécifique signée avec SNCF Réseau avant avril A-1 et applicable pour l'HDS A, les dispositions tarifaires générales du DRR s'appliquent aux trams-trains.
 
-## 5.3 REDEVANCES POUR LES PRESTATIONS MINIMALES
+## [section_header] 5.3 REDEVANCES POUR LES PRESTATIONS MINIMALES
 
 Les prestations minimales fournies par SNCF Réseau aux candidats sont décrites au point 5.1.5.
 
 SNCF Réseau perçoit des redevances d'infrastructure pour les prestations minimales d'un montant au moins égal au coût directement imputable à l'exploitation du service ferroviaire.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 134 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 Il existe trois redevances fondées sur le coût directement imputable (CDI) des circulations.
 
-- -La redevance de circulation (RC), décrite au point 5.3.1, qui recouvre la somme des coûts marginaux  d'entretien,  d'exploitation  et  de  renouvellement  des  voies  (hors  installations électriques), est applicable à tous les convois pour leur circulation sur les voies principales du RFN ;
-- -La redevance de circulation électrique (RCE), décrite au point 5.3.2, qui recouvre la somme des  coûts  marginaux  d'entretien  et  de  renouvellement  des  installations  électriques,  est applicable aux convois à traction électrique pour leur circulation sur ces voies ;
-- -La  redevance  concernant  la  couverture  des  pertes  des  systèmes  électriques  (RCTE  composante A), décrite au point 5.3.3, est applicable aux convois à traction électrique pour leur circulation sur ces voies.
+-La redevance de circulation (RC), décrite au point 5.3.1, qui recouvre la somme des coûts marginaux  d'entretien,  d'exploitation  et  de  renouvellement  des  voies  (hors  installations électriques), est applicable à tous les convois pour leur circulation sur les voies principales du RFN ;
+
+-La redevance de circulation électrique (RCE), décrite au point 5.3.2, qui recouvre la somme des  coûts  marginaux  d'entretien  et  de  renouvellement  des  installations  électriques,  est applicable aux convois à traction électrique pour leur circulation sur ces voies ;
+
+-La  redevance  concernant  la  couverture  des  pertes  des  systèmes  électriques  (RCTE  composante A), décrite au point 5.3.3, est applicable aux convois à traction électrique pour leur circulation sur ces voies.
 
 SNCF Réseau peut, afin de procéder au recouvrement total des coûts encourus par lui et si le marché s'y prête, percevoir des majorations des redevances d'infrastructure pour des segments particuliers de marché. Il existe deux types de majorations :
 
-- -La redevance de marché (RM), décrite au point 5.3.4, pour laquelle SNCF Réseau a défini une liste  de  segments  de  marché  et  un  niveau  de  majoration  associé,  est  applicable  aux réservations de capacités sur les voies principales du RFN ;
-- -La redevance d'accès (RA), décrite au point 5.3.5, est applicable aux activités conventionnées en tant que forfait pour leur accès au réseau.
+-La redevance de marché (RM), décrite au point 5.3.4, pour laquelle SNCF Réseau a défini une liste  de  segments  de  marché  et  un  niveau  de  majoration  associé,  est  applicable  aux réservations de capacités sur les voies principales du RFN ;
+
+-La redevance d'accès (RA), décrite au point 5.3.5, est applicable aux activités conventionnées en tant que forfait pour leur accès au réseau.
 
 SNCF Réseau peut fixer ou maintenir des redevances adaptées […] lorsqu'à la demande d'un tiers public ou privé des aménagements particuliers sont réalisés pour améliorer les performances offertes par le réseau ferré national, ou pour répondre aux besoins du demandeur. Ces redevances sont :
 
-- -Les redevances particulières (RP) tenant compte de l'investissement réalisé par SNCF Réseau, décrites au point 5.3.6.
+-Les redevances particulières (RP) tenant compte de l'investissement réalisé par SNCF Réseau, décrites au point 5.3.6.
 
 SNCF Réseau peut également percevoir au titre de la rareté des capacités, une redevance [...] durant les  périodes  de  saturation  constatées  ou  prévisibles  sur  les  sections  de  l'infrastructure  déclarées saturées. Cette redevance correspond à :
 
-- -La redevance de saturation (RS), décrite au point 5.3.7, qui, applicable à toutes les activités, incite à adapter les demandes de sillons en cas de saturation prévisible puis constatée.
+-La redevance de saturation (RS), décrite au point 5.3.7, qui, applicable à toutes les activités, incite à adapter les demandes de sillons en cas de saturation prévisible puis constatée.
 
 Les règles de facturation de ces différentes redevances sont décrites au point 5.9.
 
@@ -4035,23 +4697,27 @@ Le barème des prestations minimales (PM) pour l'HDS 2025 est présenté dans l'
 
 Sur la période 2024-2026, l'évolution des redevances payées au titre des prestations minimales est préalablement définie pour les activités non conventionnées et fret. Les règles de calculs et les indices retenus sont précisés dans l'annexe 5.1.1.
 
-## 5.3.1 REDEVANCE DE CIRCULATION (RC)
+## [section_header] 5.3.1 REDEVANCE DE CIRCULATION (RC)
 
 La redevance de circulation (RC) est acquittée pour la circulation des trains sur les voies principales du RFN. La formule est distincte pour les activités voyageurs et l'activité fret.
 
 Pour les trains de voyageurs, le barème de la RC est présenté en annexes 5.2.1 et 5.2.2.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 135 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 Son calcul est fondé sur la formule suivante :
 
-## RC = (Prix unitaire à la tonne-kilomètre x tonnage circulé x distance de circulation) + (Prix unitaire au train-kilomètre x distance de circulation)
+## [section_header] RC = (Prix unitaire à la tonne-kilomètre x tonnage circulé x distance de circulation) + (Prix unitaire au train-kilomètre x distance de circulation)
 
 Avec :
 
-- -Prix unitaire à la tonne-kilomètre : prix kilométrique par millier de tonnes brutes complètes (TBC) (en é HT par kTBC-km) ;
-- -Tonnage circulé : masse du train circulant sur le réseau exprimé en tonnes brutes complètes (TBC) déclaré par l'entreprise ferroviaire divisé par 1000 ;
-- -Prix unitaire au train-kilomètre : prix kilométrique par train (en é HT par train-km).
+-Prix unitaire à la tonne-kilomètre : prix kilométrique par millier de tonnes brutes complètes (TBC) (en é HT par kTBC-km) ;
+
+-Tonnage circulé : masse du train circulant sur le réseau exprimé en tonnes brutes complètes (TBC) déclaré par l'entreprise ferroviaire divisé par 1000 ;
+
+-Prix unitaire au train-kilomètre : prix kilométrique par train (en é HT par train-km).
 
 Le barème de la RC varie en fonction des catégories de trafic suivantes : trains de voyageurs circulant sur  ligne  classique  et  trains  de  voyageurs  circulant  sur  ligne  à  grande  vitesse.  Le  transport d'automobiles (auto-trains) fait l'objet d'un barème distinct.
 
@@ -4061,23 +4727,25 @@ Pour les trains de fret, le barème de la RC nette, correspondant au prix payé 
 
 Son calcul est fondé sur la formule suivante :
 
-## RC = Prix kilométrique de circulation (PKC) x distance de circulation
+## [section_header] RC = Prix kilométrique de circulation (PKC) x distance de circulation
 
 Avec :
 
-- -PKC (en train-km) pour le  fret varie en fonction de la classe de tonnage correspondant au tonnage circulé (masse du train circulant sur le réseau exprimé en tonnes brutes complètes déclaré par l'entreprise ferroviaire).
+-PKC (en train-km) pour le  fret varie en fonction de la classe de tonnage correspondant au tonnage circulé (masse du train circulant sur le réseau exprimé en tonnes brutes complètes déclaré par l'entreprise ferroviaire).
 
 Pour les trains de voyageurs circulant sur ligne classique et les trains de fret, afin de prendre en compte les spécificités du mode de financement des lignes de dessertes fines du territoire, le barème de la RC varie également en fonction de la catégorie UIC de la ligne circulée, celles-ci étant regroupées en deux catégories tarifaires : les lignes UIC 2 à 6 et les lignes UIC 7 à 9. Pour le calcul de la RC, sont considérées en UIC tarifaire 2 à 6 les lignes dont le renouvellement est à la charge de SNCF Réseau, incluant les 14 lignes dont le renouvellement revient à la charge de SNCF Réseau à compter de 2024 14 , et ce quel que soit la classification UIC de maintenance. Sont considérées en UIC tarifaire 7 à 9 les lignes dont le renouvellement n'est pas à la charge de SNCF Réseau (hors caténaires et Equipement d'Alimentation des Lignes Electrifiées), et ce quel que soit la classification UIC de maintenance. La tarification de la RC s'appuie ainsi sur la liste des sections de ligne du réseau ferré national publiée en  annexe 5.6 qui précise la catégorie UIC tarifaire et le type de ligne retenus pour la facturation, l'origine et la fin de chaque section de ligne.
 
-## 5.3.2 REDEVANCE DE CIRCULATION ÉLECTRIQUE (RCE)
+## [section_header] 5.3.2 REDEVANCE DE CIRCULATION ÉLECTRIQUE (RCE)
 
 L'usage des installations de traction électrique se traduit par la facturation, pour chaque circulation électrique  qui  emprunte  le  réseau,  d'une  redevance  égale  au  produit  de  la  distance  (précisée  à
 
 14 Il  s ' agit des lignes Lison -Cherbourg, Rennes -St Malo, L'Arbresle -Le  Coteau, Sarthonay -Bourg, Crépy-en-Valois -Laon, Blainville -Remiremont, St-Dié -Raon l ' Etape, Caen -Tours, La-Roche-Sur-Yon -Bordeaux, Coutras -Bussière-Galant, Bourges -Montluçon, Nevers -Montchanin, Foix -Latour-de-Carol, Brive-la-Gaillarde -Rodez.
 
+<!-- page: 136 -->
+
 l'hectomètre)  parcourue  sur  le  RFN  sur  les  voies  principales  et  du  prix  unitaire  (en  euros  HT  par kilomètre électrique et par convoi) indiqué en  annexe 5.2.
 
-## 5.3.3 REDEVANCE POUR LE TRANSPORT ET LA DISTRIBUTION DE L'ENERGIE DE TRACTION (RCTE - COMPOSANTE A)
+## [section_header] 5.3.3 REDEVANCE POUR LE TRANSPORT ET LA DISTRIBUTION DE L'ENERGIE DE TRACTION (RCTE - COMPOSANTE A)
 
 La composante A de la redevance pour le transport et la distribution de l'énergie de traction dite « RCTE » couvre les charges de fourniture de l'énergie électrique au titre de la compensation des pertes des  systèmes  électriques  depuis  les  sous-stations  jusqu'aux  points  de  captage  des  trains.  Le  prix unitaire est fixé en é par kWh. La méthode d'élaboration du barème est détaillée dans l'annexe 5.1.2.
 
@@ -4087,7 +4755,7 @@ Pour l'année civile 2025 (du 1er janvier 2025 au 31 décembre 2025), le tarif d
 
 Nota : Sur la période du 15 décembre 2024 au 31 décembre 2024 (inclus), les dispositifs de l'horaire de service 2024 restent en vigueur.
 
-## 5.3.4 REDEVANCE DE MARCHE (RM)
+## [section_header] 5.3.4 REDEVANCE DE MARCHE (RM)
 
 La redevance de marché est due par tout client attributaire de la capacité, selon le segment de marché auquel son sillon est rattaché.
 
@@ -4095,7 +4763,7 @@ Un sillon est caractérisé soit commercial soit non commercial.
 
 Un sillon dit non commercial, également appelé sillon technique, regroupe les circulations à vide, les mouvements techniques et les hauts-le-pied.
 
-Un  sillon  dit  commercial  est  un  sillon  à  charge.  Sont  également  considérés  comme  des  sillons commerciaux les trains d'essais &amp; AEF ainsi que les trains de travaux.
+Un  sillon  dit  commercial  est  un  sillon  à  charge.  Sont  également  considérés  comme  des  sillons commerciaux les trains d'essais & AEF ainsi que les trains de travaux.
 
 Sur l'activité voyageurs non conventionnée, un sillon commercial est soumis à la RM ; un sillon non commercial est exonéré de RM.
 
@@ -4109,44 +4777,49 @@ La RM s'applique aux activités voyageurs. Aucune RM n'est appliquée aux activi
 
 15 SNCF Réseau peut fournir sur demande la liste des coordonnées techniques de ces points de mesure. Il est précisé que la liste des coordonnées techniques des points de mesure pourra être modifiée par SNCF Réseau en cours d'horaire de service, sans que cela ne requiert l'avis préalable des candidats, pour tenir compte des modifications du réseau, de sa description technique dans les outils de traçage des sillons ou pour corriger des points de mesure (longueurs) n'assurant pas la facturation correcte de la section élémentaire considérée.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 137 -->
 
-## 5.3.4.1 Activités voyageurs non conventionnées
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+
+## [section_header] 5.3.4.1 Activités voyageurs non conventionnées
 
 Le calcul de la redevance de marché est fondé sur la formule suivante :
 
-## RM = PKM x C1 x C2 x longueur des SEL
+## [section_header] RM = PKM x C1 x C2 x longueur des SEL
 
 Avec :
 
-- -PKM : le prix kilométrique de marché en euros HT par sillon-kilomètre
-- -C1 : coefficient de modulation horaire, applicable pour les activités TAGV sur LGV
-- -C2 : coefficient de modulation à l'emport théorique, applicable pour les activités TAGV sur LGV
+-PKM : le prix kilométrique de marché en euros HT par sillon-kilomètre
+
+-C1 : coefficient de modulation horaire, applicable pour les activités TAGV sur LGV
+
+-C2 : coefficient de modulation à l'emport théorique, applicable pour les activités TAGV sur LGV
 
 Le barème des PKM ainsi que des coefficients de modulation pour les segments de marché voyageurs non conventionnées est présenté en annexe 5.2.2.
 
 Le PKM des activités voyageurs non conventionnées est différencié par segment de marché selon la segmentation suivante.
 
-<!-- image -->
-
-- Pour la facturation, les sillons commerciaux « TAGV » sont rattachés à un segment de marché (domestique A, B, C/D, E ou segment international) en fonction de leur origine / destination, de leur type de convoi trafic (TCT), du numéro de circulation 16 .
+Pour la facturation, les sillons commerciaux « TAGV » sont rattachés à un segment de marché (domestique A, B, C/D, E ou segment international) en fonction de leur origine / destination, de leur type de convoi trafic (TCT), du numéro de circulation 16 .
 
 Ainsi, un sillon commercial TAGV est considéré comme « radial » :
 
-- -lorsque son origine ou sa destination est l'une des gares suivantes : Paris-Austerlitz, Paris-Bercy, Paris-Est, Paris-Gare-de-Lyon, Paris-Montparnasse, Paris-Nord et Paris-Vaugirard ;
-- -ou lorsque son origine et sa destination n'est pas l'une des gares parisiennes ci-dessus mais fait partie d'un train radial bi-tranche.
+-lorsque son origine ou sa destination est l'une des gares suivantes : Paris-Austerlitz, Paris-Bercy, Paris-Est, Paris-Gare-de-Lyon, Paris-Montparnasse, Paris-Nord et Paris-Vaugirard ;
+
+-ou lorsque son origine et sa destination n'est pas l'une des gares parisiennes ci-dessus mais fait partie d'un train radial bi-tranche.
 
 Un  sillon  commercial  TAGV  est  considéré  comme  « intersecteur »  lorsque  son  origine  et  sa destination ne sont pas l'une des gares parisiennes listées ci-dessus.
 
 Les intersecteurs internationaux sont de deux types :
 
-- -Les intersecteurs internationaux de type 2 qui empruntent une infrastructure récente de type tunnel vers la Grande-Bretagne et l'Espagne ;
+-Les intersecteurs internationaux de type 2 qui empruntent une infrastructure récente de type tunnel vers la Grande-Bretagne et l'Espagne ;
 
 16 SNCF Réseau tient à disposition des entreprises ferroviaires la correspondance des circulations et des segments de marché.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 138 -->
 
-- -Les intersecteurs internationaux de type 1 sont, par exclusion, tous les autres intersecteurs internationaux.
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+
+-Les intersecteurs internationaux de type 1 sont, par exclusion, tous les autres intersecteurs internationaux.
 
 Si un train effectue un trajet passant par plusieurs segments de marché (par exemple : Paris-Lyon Part Dieu-Marseille ou Paris-Arras-Lille), la tarification RM LGV appliquée est la moyenne pondérée aux sillon-km LGV des sillons unitaires des marchés desservis. Des exemples de calcul sont indiqués en annexe 5.1.1.
 
@@ -4154,8 +4827,9 @@ De même, une tarification spécifique des sillons internationaux est appliquée
 
 Le  document  technique  sur  l'affectation  des  numéros  de  sillons  aux  axes  de  marché  précise  les modalités d'affectation des sillons TAGV pour les sillons commerciaux.
 
-- -Modulations du prix kilométrique de la redevance de marché LGV : 2 modulations sont appliquées
-- Modulation C1 de la redevance de marché LGV suivant l'horaire
+-Modulations du prix kilométrique de la redevance de marché LGV : 2 modulations sont appliquées
+
+Modulation C1 de la redevance de marché LGV suivant l'horaire
 
 La redevance de marché LGV est fonction du type de jour et de l'heure de départ théorique du sillon 17 , suivant 4 groupes : heures creuses (HC), heures normales (HN), heures pleines (HP) et heures d'hyperpointe (HH)
 
@@ -4163,9 +4837,13 @@ Par rapport au tarif de l'heure normale (HN), les sillons dont le départ est en
 
 17  Pour les trains internationaux à l'import, la modulation horaire applicable correspond au jour et à l'heure de prise en charge du sillon dans les systèmes d'information de SNCF Réseau
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 139 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 Cette modulation s'applique à tous les axes TAGV.
+
+### [TABLE]
 
 | Définition du type de modulation par tranche horaire   | Définition du type de modulation par tranche horaire   | Définition du type de modulation par tranche horaire   | Définition du type de modulation par tranche horaire   | Définition du type de modulation par tranche horaire   |
 |--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
@@ -4195,11 +4873,11 @@ Cette modulation s'applique à tous les axes TAGV.
 |                                                        | [ 22:00:00 - 23:00:00 [                                | HC                                                     | HC                                                     | HC                                                     |
 |                                                        | [ 23:00:00 - 00:00:00 [                                | HC                                                     | HC                                                     | HC                                                     |
 
-- Modulation C2 de la redevance de marche LGV selon la capacité d'emport
+Modulation C2 de la redevance de marche LGV selon la capacité d'emport
 
 La redevance de marché dépend également, pour tous les segments de marché TAGV, des caractéristiques du matériel roulant, suivant la densité globale du nombre de sièges par m², ainsi que le nombre de sièges par gamme (premium ou standard) suivant la formule suivante :
 
-## C2 = coefficient premium suivant densité totale x nombre sièges premium / nombre sièges total + coefficient standard suivant densité totale x nombre sièges standard / nombre sièges total
+## [section_header] C2 = coefficient premium suivant densité totale x nombre sièges premium / nombre sièges total + coefficient standard suivant densité totale x nombre sièges standard / nombre sièges total
 
 Les  gammes  premium  et  standard  se  distinguent  par  le  niveau  de  confort  offert  aux voyageurs.  Ainsi  la  gamme  premium  correspond  aux  premières  classes  et  gammes assimilées, et la gamme standard aux secondes classes et gammes assimilées.
 
@@ -4207,26 +4885,39 @@ Par défaut, tout matériel est considéré avoir une densité inférieure ou é
 
 Les  coefficients  premium  et  standard,  ainsi  que  le  nombre  de  sièges  par  gamme  et  la densité  globale  de  nombre  de  sièges  par  m²  par  matériel  roulant  sont  disponibles  en annexes 5.1.1 et 5.2.2.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 140 -->
 
-- Conformément  à  la  loi  pour  un  nouveau  pacte  ferroviaire,  le  PKM  est  nul  pour  les  TAGV domestiques à charge empruntant les SEL sur lignes classiques éligibles à l'« aménagement du territoire » spécifiées dans l'annexe 5.5.
-- Les sillons « autres trains non-conventionnés » sont rattachés à un segment de marché en fonction de la nature de leur trafic : trains de jour non aptes à la grande vitesse, trains de nuit non aptes à la  grande  vitesse,  transport  d'automobiles  (auto-trains),  trains  historiques  et  touristiques,  trains d'essais et AEF.
-- trains de jour non aptes à la grande vitesse : un train non TAGV de jour est un train circulant en journée sur ligne classique sur les sillons commerciaux et non commerciaux au départ et/ou à l'arrivée de France. Par défaut, tout train non conventionné et non TAGV sera considéré « train de jour » si les conditions ne sont pas remplies pour le classifier comme « train de nuit », « auto-train », « train historique et touristique » ou « train d'essai et AEF » ;
-- trains de nuit non aptes à la grande vitesse : un train de nuit est un train circulant la nuit sur ligne classique et ayant les caractéristiques suivantes :
-- o le  train  est  composé  en  tout  ou  partie  de  voitures  de  voyageurs  munies  de couchettes ou sièges inclinables ;
-- o le train commercial circule plus de 5h30 pendant la nuit (a minima entre 23h30 du jour J et 5h du jour J+1, fuseau horaire français, en considérant l'intégralité du parcours pour les trains internationaux);
-- o le  périmètre  concerné  est  celui  des  sillons  commerciaux  au  départ  et/ou  à l'arrivée de France.
-- -transport d'automobiles (auto-trains) : un auto-train est un train permettant aux voyageurs de faire transporter, généralement la nuit, leurs véhicules (automobiles et motocycles) entre deux gares  du  réseau  ferré,  sur  les  sillons  commerciaux  et  non  commerciaux  au  départ  et/ou  à l'arrivée de France ;
-- -trains historiques et touristiques : un train historique et touristique est un train circulant sur des sections de ligne dédiées aux véhicules ferroviaires touristiques ou historiques et régies par des règles particulières en matière de sécurité, par convention conclue avec SNCF Réseau. Ce type de train n'a pas pour objet d'assurer un service régulier de transport de personnes mais d'offrir aux passagers une visite à caractère patrimonial et de loisirs. Le train doit être composé de matériel à vocation uniquement historique et touristique (locomotives à vapeur, locomotives reformées du service public, autorails anciens, voitures ou wagons anciens), ne pouvant circuler qu'à un maximum de 50 km/h ;
-- -trains  d'essais  et  AEF  :  les  trains  d'essais  et  Agences  d'Essais  Ferroviaire  assurent  les circulations de tests techniques du matériel roulant avant son homologation.
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+
+Conformément  à  la  loi  pour  un  nouveau  pacte  ferroviaire,  le  PKM  est  nul  pour  les  TAGV domestiques à charge empruntant les SEL sur lignes classiques éligibles à l'« aménagement du territoire » spécifiées dans l'annexe 5.5.
+
+Les sillons « autres trains non-conventionnés » sont rattachés à un segment de marché en fonction de la nature de leur trafic : trains de jour non aptes à la grande vitesse, trains de nuit non aptes à la  grande  vitesse,  transport  d'automobiles  (auto-trains),  trains  historiques  et  touristiques,  trains d'essais et AEF.
+
+trains de jour non aptes à la grande vitesse : un train non TAGV de jour est un train circulant en journée sur ligne classique sur les sillons commerciaux et non commerciaux au départ et/ou à l'arrivée de France. Par défaut, tout train non conventionné et non TAGV sera considéré « train de jour » si les conditions ne sont pas remplies pour le classifier comme « train de nuit », « auto-train », « train historique et touristique » ou « train d'essai et AEF » ;
+
+trains de nuit non aptes à la grande vitesse : un train de nuit est un train circulant la nuit sur ligne classique et ayant les caractéristiques suivantes :
+
+o le  train  est  composé  en  tout  ou  partie  de  voitures  de  voyageurs  munies  de couchettes ou sièges inclinables ;
+
+o le train commercial circule plus de 5h30 pendant la nuit (a minima entre 23h30 du jour J et 5h du jour J+1, fuseau horaire français, en considérant l'intégralité du parcours pour les trains internationaux);
+
+o le  périmètre  concerné  est  celui  des  sillons  commerciaux  au  départ  et/ou  à l'arrivée de France.
+
+-transport d'automobiles (auto-trains) : un auto-train est un train permettant aux voyageurs de faire transporter, généralement la nuit, leurs véhicules (automobiles et motocycles) entre deux gares  du  réseau  ferré,  sur  les  sillons  commerciaux  et  non  commerciaux  au  départ  et/ou  à l'arrivée de France ;
+
+-trains historiques et touristiques : un train historique et touristique est un train circulant sur des sections de ligne dédiées aux véhicules ferroviaires touristiques ou historiques et régies par des règles particulières en matière de sécurité, par convention conclue avec SNCF Réseau. Ce type de train n'a pas pour objet d'assurer un service régulier de transport de personnes mais d'offrir aux passagers une visite à caractère patrimonial et de loisirs. Le train doit être composé de matériel à vocation uniquement historique et touristique (locomotives à vapeur, locomotives reformées du service public, autorails anciens, voitures ou wagons anciens), ne pouvant circuler qu'à un maximum de 50 km/h ;
+
+-trains  d'essais  et  AEF  :  les  trains  d'essais  et  Agences  d'Essais  Ferroviaire  assurent  les circulations de tests techniques du matériel roulant avant son homologation.
 
 Le document technique sur l'affectation des numéros de sillons aux axes de marché, disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau, précise les modalités d'affectation des sillons des autres trains non conventionnés.
 
-## 5.3.4.2 Activités voyageurs conventionnées
+## [section_header] 5.3.4.2 Activités voyageurs conventionnées
 
 La redevance de marché est fixée de manière forfaitaire par autorité organisatrice de la mobilité, sur la base  d'un  volume  de  sillon-kilomètres  commerciaux  de  référence.  Le  barème  de  la  RM  pour  les
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 141 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 segments de marché voyageurs conventionnées ainsi que le volume de skm commerciaux de référence sont présentés en annexe 5.2.1.
 
@@ -4237,6 +4928,8 @@ Par ailleurs, SNCF Réseau tiendra compte dans le projet tarifaire du cycle 2027
 En outre, SNCF Réseau se réserve le droit de procéder à une actualisation du montant de la redevance de marché en cas de transfert de ligne entre AOM et/ou en cas de transfert de ligne prévue à l'article L2111-1-1 du code des transports.
 
 Les volumes de skm commerciaux de référence retenus pour chaque HDS sont les suivants :
+
+### [TABLE]
 
 | Autorité Organisatrice de la Mobilité   | HDS 2023   | HDS 2024   | HDS 2025   | HDS 2026   |
 |-----------------------------------------|------------|------------|------------|------------|
@@ -4256,26 +4949,33 @@ Les volumes de skm commerciaux de référence retenus pour chaque HDS sont les s
 
 La redevance de marché de chaque segment est répartie par transporteurs opérant pour le compte de l'AOM  suivant  une  méthodologie  concertée  entre  les  parties,  ou  par  défaut  au  prorata  des  skm commerciaux prévisionnels.
 
-## 5.3.5 REDEVANCE D'ACCES (RA)
+## [section_header] 5.3.5 REDEVANCE D'ACCES (RA)
 
 La  redevance  d'accès  (RA)  est  fixée  par  segment  de  marché,  pour  les  services  de  transport  de voyageurs conventionnés effectués dans le cadre d'un contrat conclu par une autorité organisatrice de la mobilité (AOM). Le barème de la RA est indiqué en  annexe 5.2.
 
-## 5.3.6 REDEVANCES PARTICULIERES (RP)
+## [section_header] 5.3.6 REDEVANCES PARTICULIERES (RP)
 
 Les redevances additionnelles pour l'usage des infrastructures mentionnées ci-dessous sont définies spécifiquement afin de tenir compte de l'investissement réalisé par SNCF Réseau sur ces infrastructures ou du déficit (entretien, exploitation) de SNCF Réseau lié à ces projets.
 
-- -Redevance pour l'usage par les trains fret de la section "Montérolier-Buchy-Motteville" ;
+-Redevance pour l'usage par les trains fret de la section "Montérolier-Buchy-Motteville" ;
 
-- -Redevance pour l'usage par les trains fret hors trains d'autoroute ferroviaire de la ligne "SaintPierre-d'Albigny-Modane Frontière" ;
-- -Redevance pour l'usage par les trains de l'autoroute ferroviaire alpine de la ligne "Saint-Pierred'Albigny-Modane Frontière" ;
-- -Redevance pour l'usage par les trains aptes à la grande vitesse du raccordement court de Mulhouse ;
-- -Redevance particulière liée au projet Cornavin-Eaux Vives-Annemasse ;
-- -Redevance particulière liée au projet Modernisation Serqueux-Gisors.
-- -Redevance particulière liée au projet LGV+ Paris-Lyon.
+<!-- page: 142 -->
+
+-Redevance pour l'usage par les trains fret hors trains d'autoroute ferroviaire de la ligne "SaintPierre-d'Albigny-Modane Frontière" ;
+
+-Redevance pour l'usage par les trains de l'autoroute ferroviaire alpine de la ligne "Saint-Pierred'Albigny-Modane Frontière" ;
+
+-Redevance pour l'usage par les trains aptes à la grande vitesse du raccordement court de Mulhouse ;
+
+-Redevance particulière liée au projet Cornavin-Eaux Vives-Annemasse ;
+
+-Redevance particulière liée au projet Modernisation Serqueux-Gisors.
+
+-Redevance particulière liée au projet LGV+ Paris-Lyon.
 
 Le barème de ces redevances particulières est présenté en  annexe 5.2.
 
-## 5.3.7 REDEVANCE DE SATURATION (RS)
+## [section_header] 5.3.7 REDEVANCE DE SATURATION (RS)
 
 En cas de saturation prévisible puis de saturation constatée par SNCF Réseau en septembre de A-1, les sillons basés sur les horaires théoriques empruntant ces sections de ligne aux heures théoriques de saturation constatée seront facturés du montant de la redevance de saturation, en sus des redevances d'utilisation de l'infrastructure.
 
@@ -4283,25 +4983,27 @@ En cas d'attribution du sillon sur une section de ligne déclarée prévisible p
 
 La redevance de saturation ne s'appliquera pas sur les horaires de service 2024-2026.
 
-## 5.4 REDEVANCES POUR LES PRESTATIONS COMPLEMENTAIRES SUR VOIES PRINCIPALES
+## [section_header] 5.4 REDEVANCES POUR LES PRESTATIONS COMPLEMENTAIRES SUR VOIES PRINCIPALES
 
 La  fourniture  de  prestations  complémentaires  donne  lieu  à  facturation  par  SNCF  Réseau  des redevances dont les conditions de calcul sont précisées ci-après et les modalités de facturation au point 5.9.2 Les tarifs sont consultables en  annexe 5.4 sauf pour les tarifs SI consultables en annexe 5.3.
 
-## 5.4.1 REDEVANCES POUR LES PRESTATIONS COMPLEMENTAIRES DE SERVICES SI
+## [section_header] 5.4.1 REDEVANCES POUR LES PRESTATIONS COMPLEMENTAIRES DE SERVICES SI
 
 Toute demande de prestation de services de système d'information (SI) d'un candidat, au-delà de ce qui a été défini comme prestations minimales dans l'annexe 5.3, ou portant sur un service SI qui n'est pas considéré dans le catalogue des services SI comme strictement nécessaire à l'activité du candidat, fait  l'objet  d'une  tarification  telle  que  définie  dans  l'annexe  5.3  Pour  les  services  existants  cette tarification est inflatée entre l'HDS 2024 et l'HDS 2025 selon l'indice Syntec de mai 2022 à mai 2023. Pour la formation au service SI la tarification est inflatée entre l'HDS 2024 et l'HDS 2025 selon l'indice ICHT de décembre 2021 à décembre 2022.
 
 Les prestations de l'HDS A sont octroyées sur la base des volumes de train-kms de l'HDS A-1.  Les candidats  demandeurs  de  capacité  n'ayant  pas  circulé  au  cours  de  l'HDS  A-1  (nouveaux  entrants, reprise d'activité…) peuvent bénéficier de prestations minimales en A sur la base de leurs prévisions de  circulations  dûment  justifiées,  avec  régularisation  (à  la  hausse  ou  à  la  baisse)  par  rapport  aux données de circulations réelles en cas d'écart avéré. Dans le cas d'absence de commande effective de sillons, l'article 11.4 des conditions générales du contrat d'utilisation des SI s'applique.
 
+<!-- page: 143 -->
+
 En cas d'événement exceptionnel de longue durée impactant fortement les volumes de trafic (tels que des mouvements sociaux de grande ampleur), les volumes de trains-km pris en compte dans le contrat correspondront à ceux réalisés au cours de l'HDS A-2 (nota : et non ceux de A-1, comme usuellement).
 
-## 5.4.2 REDEVANCE POUR L'OUVERTURE SUPPLÉMENTAIRE DES LIGNES, GARES ET POSTES NON OUVERTS EN PERMANENCE
+## [section_header] 5.4.2 REDEVANCE POUR L'OUVERTURE SUPPLÉMENTAIRE DES LIGNES, GARES ET POSTES NON OUVERTS EN PERMANENCE
 
 Lorsque SNCF Réseau peut répondre favorablement à une DTS ou à une DSA impliquant une ouverture supplémentaire par rapport à la  notification  définitive  des  heures  d'ouverture  des  lignes,  gares  et postes non ouverts en permanence, cette ouverture supplémentaire donne lieu à facturation sur la base du coût d'un agent de SNCF Réseau. Le prix de la redevance pour l'ouverture supplémentaire des lignes, gares et postes non ouverts en permanence est indiqué en  annexe 5.4. Le prix de ces prestations évolue en fonction de l'indice prévisionnel IPCH publié par la banque de France en juin 2024 pour l'HDS 2025.
 
 Toute  prestation  d'ouverture  supplémentaire  de  lignes,  gares  ou  de  postes  non  ouverts  en permanence fait l'objet d'un accord spécifique conclu entre SNCF Réseau et l'entreprise ferroviaire.
 
-## 5.4.3 REDEVANCE POUR LA FOURNITURE DU COURANT DE TRACTION
+## [section_header] 5.4.3 REDEVANCE POUR LA FOURNITURE DU COURANT DE TRACTION
 
 Le tarif de la RFE est basé sur les prix d'électricité que SNCF Réseau aura contractualisés avec son (ses) fournisseur(s) pour l'année 2025 et inclut également des frais annexes. Des précisions sur la méthode d'élaboration du barème sont indiquées dans l'annexe 5.1.2.
 
@@ -4309,9 +5011,11 @@ Les  entreprises  ferroviaires  qui  font  le  choix  de  SNCF  Réseau  comme  
 
 Outre les dispositions précisées au point 5.1.6.3, une entreprise ferroviaire doit :
 
-- -Réaliser et assurer le bon paramétrage dans DECOFER de l'ensemble des engins électriques équipés (y compris les engins loués) afin de permettre le bon déroulement du processus de télé-relevage des informations de consommations ;
-- -Permettre à RTE de contrôler tout équipement de ce parc, à tout moment ;
-- -Déclarer  pour  les  engins  dont  l'activité  reste  transfrontalière,  le  dispositif  de  télé-relevage communiquant avec DECOFER
+-Réaliser et assurer le bon paramétrage dans DECOFER de l'ensemble des engins électriques équipés (y compris les engins loués) afin de permettre le bon déroulement du processus de télé-relevage des informations de consommations ;
+
+-Permettre à RTE de contrôler tout équipement de ce parc, à tout moment ;
+
+-Déclarer  pour  les  engins  dont  l'activité  reste  transfrontalière,  le  dispositif  de  télé-relevage communiquant avec DECOFER
 
 Un contrat de prestation de décompte ferroviaire entre l'EF et RTE doit être établi pour acter de la télérelève de ses compteurs par DECOFER, du calcul du décompte de l'EF, et de la publication des consommations de l'EF auprès de SNCF Réseau.
 
@@ -4321,11 +5025,15 @@ NOTA : Sur la période du 15 décembre 2024 au 31 décembre 2024 (inclus), les t
 
 Le tarif de la RFE s'applique aux entreprises ferroviaires ayant pris l'engagement d ' approvisionnement  en  courant  de  traction  auprès  de  SNCF  Réseau  pour  leur  parc  d ' engins électriques équipés totalement ou en partie de dispositif de comptage télé-relevable.
 
+<!-- page: 144 -->
+
 Le processus d'adhésion à la RFE pour l'année 2025 est le suivant :
 
--  SNCF Réseau annoncera aux entreprises ferroviaires un tarif maximum indicatif au plus tard le 30 novembre 2023. Les entreprises ferroviaires qui souhaitent adhérer à la RFE devront le signifier à SNCF Réseau au plus tard le 31 janvier 2024 ;
--  Dans le cas où une entreprise ferroviaire demande entre le 01 février 2024 et le 31 octobre 2024 à SNCF Réseau de bénéficier de la prestation de fourniture de courant de traction, les conditions et tarif susvisés s'appliqueront de la même façon à cette entreprise ferroviaire. Toutefois, si cette nouvelle adhésion vient entraîner l'atteinte des limites contractuelles liées au volume de consommation globale annuelle convenu par SNCF Réseau avec son ou ses fournisseurs d'énergie, l'entreprise ferroviaire pourra être redevable de pénalités spécifiques, dans la limite des pénalités dues par SNCF Réseau à son ou ses fournisseurs d'énergie ;
--  Dans le cas où une entreprise ferroviaire demande postérieurement au 31 octobre 2024 à SNCF Réseau de bénéficier de la prestation de fourniture de courant de traction, l'entreprise ferroviaire pourra être redevable d'une pénalité correspondante aux surcoûts supportés par SNCF Réseau auprès de son ou ses fournisseurs d'énergie en raison de cet approvisionnement tardif  (incluant  notamment  les  pénalités  dues  par  SNCF  Réseau  à  son  ou  ses  fournisseurs d'énergie  en  cas  d'atteinte  des  limites  contractuelles  liées  au  volume  de  consommation globale annuelle).
+ SNCF Réseau annoncera aux entreprises ferroviaires un tarif maximum indicatif au plus tard le 30 novembre 2023. Les entreprises ferroviaires qui souhaitent adhérer à la RFE devront le signifier à SNCF Réseau au plus tard le 31 janvier 2024 ;
+
+ Dans le cas où une entreprise ferroviaire demande entre le 01 février 2024 et le 31 octobre 2024 à SNCF Réseau de bénéficier de la prestation de fourniture de courant de traction, les conditions et tarif susvisés s'appliqueront de la même façon à cette entreprise ferroviaire. Toutefois, si cette nouvelle adhésion vient entraîner l'atteinte des limites contractuelles liées au volume de consommation globale annuelle convenu par SNCF Réseau avec son ou ses fournisseurs d'énergie, l'entreprise ferroviaire pourra être redevable de pénalités spécifiques, dans la limite des pénalités dues par SNCF Réseau à son ou ses fournisseurs d'énergie ;
+
+ Dans le cas où une entreprise ferroviaire demande postérieurement au 31 octobre 2024 à SNCF Réseau de bénéficier de la prestation de fourniture de courant de traction, l'entreprise ferroviaire pourra être redevable d'une pénalité correspondante aux surcoûts supportés par SNCF Réseau auprès de son ou ses fournisseurs d'énergie en raison de cet approvisionnement tardif  (incluant  notamment  les  pénalités  dues  par  SNCF  Réseau  à  son  ou  ses  fournisseurs d'énergie  en  cas  d'atteinte  des  limites  contractuelles  liées  au  volume  de  consommation globale annuelle).
 
 Dans le cas où SNCF Réseau ne serait plus en mesure de garantir le prix maximum indicatif initialement donné, SNCF Réseau annoncera un nouveau prix maximum indicatif aux entreprises ferroviaires ayant manifesté leur volonté d'adhérer à la RFE, qui auront alors deux (2) mois pour confirmer ou infirmer leur adhésion. A défaut d ' une réponse, l'adhésion sera réputée confirmée. En cas d'infirmation de leur adhésion, aucune pénalité ne sera facturée.
 
@@ -4333,31 +5041,35 @@ Les  entreprises  ferroviaires  souhaitant  adhérer  à  la  RFE  doivent  comm
 
 Les conditions de sortie de la RFE pour l'année 2025 sont les suivantes :
 
--  En cas de résiliation par l'entreprise ferroviaire avant le début de l'année 2025 (hors cas de résiliation  lié  à  une  révision  à  la  hausse  du  tarif  maximum  indicatif),  celle-ci  pourra  être redevable d ' une pénalité, dans la limite de la pénalité due par SNCF Réseau à son ou ses fournisseurs d'énergie au titre d'une modification de l'engagement sur les volumes du fait de cette entreprise ferroviaire ;
--  En  cas  d'une  résiliation  anticipée  par  l'entreprise  ferroviaire  au  cours  de  l'année  2025, moyennant le respect d'un préavis de deux (2) mois, une pénalité pour résiliation anticipée est appliquée. Elle est calculée sur la base de la moyenne de la consommation des trois derniers mois de fourniture par SNCF Réseau, multipliée par le nombre de mois restants à courir sur l'année 2025, dans la limite des pénalités dues par SNCF Réseau à son ou ses fournisseurs d'énergie.
+ En cas de résiliation par l'entreprise ferroviaire avant le début de l'année 2025 (hors cas de résiliation  lié  à  une  révision  à  la  hausse  du  tarif  maximum  indicatif),  celle-ci  pourra  être redevable d ' une pénalité, dans la limite de la pénalité due par SNCF Réseau à son ou ses fournisseurs d'énergie au titre d'une modification de l'engagement sur les volumes du fait de cette entreprise ferroviaire ;
 
-## 5.4.4 REDEVANCE  POUR  LA  PRESTATION  OPTIONNELLE  DE  COORDINATION  DE  LA GESTION DES SITUATIONS DE CRISE
+ En  cas  d'une  résiliation  anticipée  par  l'entreprise  ferroviaire  au  cours  de  l'année  2025, moyennant le respect d'un préavis de deux (2) mois, une pénalité pour résiliation anticipée est appliquée. Elle est calculée sur la base de la moyenne de la consommation des trois derniers mois de fourniture par SNCF Réseau, multipliée par le nombre de mois restants à courir sur l'année 2025, dans la limite des pénalités dues par SNCF Réseau à son ou ses fournisseurs d'énergie.
+
+## [section_header] 5.4.4 REDEVANCE  POUR  LA  PRESTATION  OPTIONNELLE  DE  COORDINATION  DE  LA GESTION DES SITUATIONS DE CRISE
 
 La fourniture par SNCF Réseau de prestations optionnelles de coordination de la gestion des situations de crise telles que définies au point 5.1.6.4 se traduit par la facturation de redevances prévues en annexe 5.4. Le prix de ces prestations évolue en fonction de l'indice prévisionnel IPCH publié par la banque de France en juin 2024 pour l'HDS 2025.
 
-## 5.5 REDEVANCES  POUR  LES  PRESTATIONS  CONNEXES  SUR VOIES PRINCIPALES ET LES PRESTATIONS DIVERSES
+<!-- page: 145 -->
 
-## 5.5.1 REDEVANCES POUR LES PRESTATIONS CONNEXES SUR VOIES PRINCIPALES
+## [section_header] 5.5 REDEVANCES  POUR  LES  PRESTATIONS  CONNEXES  SUR VOIES PRINCIPALES ET LES PRESTATIONS DIVERSES
+
+## [section_header] 5.5.1 REDEVANCES POUR LES PRESTATIONS CONNEXES SUR VOIES PRINCIPALES
 
 Le prix de ces prestations évolue en fonction de l'indice prévisionnel IPCH pour l'année 2025 publié par la banque de France en juin 2024.
 
-## 5.5.1.1 Redevance pour la réalisation d'une étude de faisabilité internationale
+## [section_header] 5.5.1.1 Redevance pour la réalisation d'une étude de faisabilité internationale
 
 Chaque réponse de SNCF Réseau à une demande d'étude de faisabilité internationale, telles que définies au point 5.1.7.1, se traduit par la facturation d'une redevance dont le montant est égal, en euros HT, au prix indiqué en  annexe 5.4.
 
-## 5.5.1.2 Redevance pour la réalisation d'études préalables à la demande d'ATE pour les TEPE La réalisation d'études préalables à la demande d'avis de transport exceptionnel (point 5.1.7.2) :
+## [section_header] 5.5.1.2 Redevance pour la réalisation d'études préalables à la demande d'ATE pour les TEPE La réalisation d'études préalables à la demande d'avis de transport exceptionnel (point 5.1.7.2) :
 
-- -ne donne pas lieu à facturation supplémentaire pour les transports exceptionnels effectués sur les lignes n'excédant pas les possibilités offertes par le contour « N » (voir la carte des « Lignes ouvertes  aux  études  de  transports  exceptionnels »,  disponible  sur  la  page  « Documents Techniques cités dans le DRR » du site internet de SNCF Réseau) ;
-- -donne  lieu à facturation supplémentaire  dans  les autres cas (transport exceptionnel particulièrement encombrant - TEPE) selon un tarif indiqué en  annexe 5.4 Un délai d'étude est fourni en réponse à chaque demande.
+-ne donne pas lieu à facturation supplémentaire pour les transports exceptionnels effectués sur les lignes n'excédant pas les possibilités offertes par le contour « N » (voir la carte des « Lignes ouvertes  aux  études  de  transports  exceptionnels »,  disponible  sur  la  page  « Documents Techniques cités dans le DRR » du site internet de SNCF Réseau) ;
 
-## 5.5.1.3 Redevance pour les services de communications ferroviaires de liaison radio GSM (GSM-R et GSM-GFU ARES) avec les trains
+-donne  lieu à facturation supplémentaire  dans  les autres cas (transport exceptionnel particulièrement encombrant - TEPE) selon un tarif indiqué en  annexe 5.4 Un délai d'étude est fourni en réponse à chaque demande.
 
-- Services de communications ferroviaires sur réseau GSM-R privé
+## [section_header] 5.5.1.3 Redevance pour les services de communications ferroviaires de liaison radio GSM (GSM-R et GSM-GFU ARES) avec les trains
+
+Services de communications ferroviaires sur réseau GSM-R privé
 
 L'usage du GSM-R Priorité 4 fait l'objet d'une redevance de base composée des frais d'accès (incluant uniquement la mise à disposition, l'installation et le paramétrage de ces pupitres) et d'un forfait annuel par pupitre.
 
@@ -4371,25 +5083,27 @@ En outre, un maintien en conditions opérationnelles du service amélioré par r
 
 Outre la fourniture de pupitres GSM-R, peut être également envisagée, sur souscription à l'offre de service adéquate, soumise à une redevance spécifique, la mise à disposition de portatifs homologués, paramétrés  et  cyber-sécurisés,  dotés  de  cartes  SIM  GSM-R  pré-intégrées,  qui  selon  leur  profil  de paramétrage, permettent d'établir des communications GSM-R ou GSM-R P4.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 146 -->
 
-- Services de communications ferroviaires de commodité sur le réseau GSM-GFU ARES opéré
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+
+Services de communications ferroviaires de commodité sur le réseau GSM-GFU ARES opéré
 
 L'usage du service GSM-GFU ARES pour des besoins de commodité, de service, de management, de formation ainsi que la mise à disposition de portatifs homologués pour un usage sur le système GSMGFU ARES font également l'objet de redevances.
 
 Ces différentes redevances sont présentées en  annexe 5.4.
 
-## 5.5.1.4 Redevances pour l'accès et l'utilisation du service de communications ferroviaires dites « de veille »
+## [section_header] 5.5.1.4 Redevances pour l'accès et l'utilisation du service de communications ferroviaires dites « de veille »
 
 La mise à disposition d'une liaison de veille radio dans les conditions du point 5.1.7.4, fait l'objet des redevances présentées en  annexe 5.4
 
-## 5.5.1.5 Redevance  pour  l'étude  et  la  délivrance  de  l'attestation  de  compatibilité  des fréquences radioélectriques
+## [section_header] 5.5.1.5 Redevance  pour  l'étude  et  la  délivrance  de  l'attestation  de  compatibilité  des fréquences radioélectriques
 
 La  demande  d'utilisation  par  une  entreprise  ferroviaire  de  ses  propres  fréquences  radio  pour  son utilisation propre sur le RFN se traduit par la facturation d'une étude de compatibilité et de l'attestation de compatibilité des fréquences correspondantes, dans les conditions définies en  annexe 5.4.
 
-## 5.5.2 REDEVANCES POUR LES PRESTATIONS DIVERSES
+## [section_header] 5.5.2 REDEVANCES POUR LES PRESTATIONS DIVERSES
 
-## 5.5.2.1 RCTE - Composante B
+## [section_header] 5.5.2.1 RCTE - Composante B
 
 La composante B de la redevance pour le transport et la distribution de l'énergie de traction dite « RCTE » couvre l'acheminement de l'énergie électrique sur les réseaux d'électricité et les frais associés. Cette redevance est acquittée pour tous les engins circulant en mode électrique sur le réseau ferré national indépendamment du choix de leur fournisseur d'électricité par les entreprises ferroviaires.
 
@@ -4403,25 +5117,33 @@ Toutefois,  le  tarif  de  la  RCTE  -  composante  B  pourra  être  revu,  et 
 
 NOTA : Sur la période du 15 décembre 2024 au 31 décembre 2024 (inclus), les tarifs de l'horaire de service 2024 restent en vigueur.
 
-## 5.5.2.2 Redevances pour autres prestations
+## [section_header] 5.5.2.2 Redevances pour autres prestations
 
 Les prix correspondants sont établis sur devis. La prestation se fait alors dans les conditions prévues par  le  contrat  conclu  avec  le  demandeur.  Toute  demande  formulée  par  les  clients  autres  que  les demandeurs de capacité sera traitée au cas par cas.
 
-## 5.6 PENALITES ET DISPOSITIFS INCITATIFS
+## [section_header] 5.6 PENALITES ET DISPOSITIFS INCITATIFS
 
 Le présent sous-chapitre concerne les 6 dispositifs incitatifs suivants :
 
-- -Les accords-cadres (sur une base pluriannuelle), visés au point 3.3.1 ;
-- -Le dispositif incitatif réciproque (annexe 5.8) ;
+-Les accords-cadres (sur une base pluriannuelle), visés au point 3.3.1 ;
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+-Le dispositif incitatif réciproque (annexe 5.8) ;
 
-- -La pénalité de renonciation tardive ;
-- -La pénalité de non-circulation ;
-- -La pénalité pour non-utilisation des capacités travaux ;
-- -La pénalité pour retard de traitement des DTS, DSA et DSDM.
+<!-- page: 147 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+
+-La pénalité de renonciation tardive ;
+
+-La pénalité de non-circulation ;
+
+-La pénalité pour non-utilisation des capacités travaux ;
+
+-La pénalité pour retard de traitement des DTS, DSA et DSDM.
 
 Chacun de ces dispositifs suit une temporalité propre telle que représentée dans le schéma ci-dessous.
+
+### [TABLE]
 
 |                                                      | Publication                                                              | Certification                                                            | Début HDS                                                                | 17h Départ du sillon                                                     |                                                                       |
 |------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
@@ -4435,27 +5157,35 @@ Chacun de ces dispositifs suit une temporalité propre telle que représentée d
 
 L'ensemble de ces dispositifs incitatifs visent  à garantir  d'une  part,  la  stabilité des  demandes  côté clients et d'autre part, la stabilité et la qualité de la réponse de SNCF Réseau. Un objectif d'optimisation de l'allocation des capacités est ainsi recherché.
 
-## 5.6.1 PENALITES POUR MODIFICATION DES SILLONS PAR LE CANDIDAT
+## [section_header] 5.6.1 PENALITES POUR MODIFICATION DES SILLONS PAR LE CANDIDAT
 
 Les dispositifs visant à pénaliser les modifications par le candidat d'un sillon-jour ayant fait l'objet d'une attribution par SNCF Réseau sont :
 
-- -Les accords-cadres ;
-- -Le dispositif incitatif réciproque.
-- Dans le cadre du dispositif accord-cadre : le candidat s'engage à commander à SNCF Réseau le nombre de sillons-jours correspondant aux caractéristiques de la capacité d'infrastructure dans les tolérances et diminué de la franchise, et s'engage à maintenir sa commande en l'état jusqu'à la date de certification, en novembre A-1.
-- Dans le cadre du dispositif incitatif réciproque : les demandes de modification ayant entrainé une modification effective du plan de transport par le candidat sont pénalisées. Voir l'annexe 5.8.
+-Les accords-cadres ;
 
-## 5.6.2 PENALITES POUR MODIFICATION DES SILLONS PAR SNCF RESEAU
+-Le dispositif incitatif réciproque.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+Dans le cadre du dispositif accord-cadre : le candidat s'engage à commander à SNCF Réseau le nombre de sillons-jours correspondant aux caractéristiques de la capacité d'infrastructure dans les tolérances et diminué de la franchise, et s'engage à maintenir sa commande en l'état jusqu'à la date de certification, en novembre A-1.
+
+Dans le cadre du dispositif incitatif réciproque : les demandes de modification ayant entrainé une modification effective du plan de transport par le candidat sont pénalisées. Voir l'annexe 5.8.
+
+## [section_header] 5.6.2 PENALITES POUR MODIFICATION DES SILLONS PAR SNCF RESEAU
+
+<!-- page: 148 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 Les dispositifs concernés par une modification de sillon par SNCF Réseau sont :
 
-- -Les accords-cadres ;
-- -Le dispositif incitatif réciproque.
-- Dans le cadre du dispositif accord-cadre : SNCF Réseau s'engage à attribuer au candidat ayant conclu  un  accord-cadre,  la  capacité  d'infrastructure  conformément  aux  termes  du  contrat  pour l'HDS considéré.
-- Dans le cadre du dispositif incitatif réciproque : les demandes de modification importante par SNCF Réseau sont pénalisées. Voir l'annexe 5.8.
+-Les accords-cadres ;
 
-## 5.6.3 PENALITES POUR NON-UTILISATION
+-Le dispositif incitatif réciproque.
+
+Dans le cadre du dispositif accord-cadre : SNCF Réseau s'engage à attribuer au candidat ayant conclu  un  accord-cadre,  la  capacité  d'infrastructure  conformément  aux  termes  du  contrat  pour l'HDS considéré.
+
+Dans le cadre du dispositif incitatif réciproque : les demandes de modification importante par SNCF Réseau sont pénalisées. Voir l'annexe 5.8.
+
+## [section_header] 5.6.3 PENALITES POUR NON-UTILISATION
 
 Le dispositif concerné par une non-utilisation du sillon attribué au candidat est la pénalité de noncirculation.
 
@@ -4467,31 +5197,39 @@ Pour les activités voyageurs conventionnées, les skm du sillon-jour sont bien 
 
 Le candidat est exonéré de cette pénalité dans les cas de force majeure, tels que définis à l'article 21 des conditions générales du contrat d'utilisation de l'infrastructure et du contrat d'attribution de sillons (annexe 3.1 du DRR).
 
-## 5.6.4 PENALITES POUR ANNULATION DE SILLON
+## [section_header] 5.6.4 PENALITES POUR ANNULATION DE SILLON
 
 5.6.4.1 Les dispositifs concernés par l'annulation de sillon par le candidat sont :
 
-- -Les accords-cadres ;
-- -Le dispositif incitatif réciproque ;
-- -La pénalité de renonciation tardive.
-- Dans le cadre du dispositif accord-cadre : le candidat s'engage à commander à SNCF Réseau le nombre de sillons-jours correspondant aux caractéristiques de la capacité d'infrastructure dans les tolérances et diminué de la franchise, et s'engage à maintenir sa commande en l'état jusqu'à la date de certification, en novembre A-1.
-- Dans le cadre du dispositif incitatif réciproque, les règles définies dans l'annexe 5.8 s'appliquent.
-- La pénalité de renonciation tardive est appliquée en cas de renonciation par le candidat, à partir de J-1 17h, à un sillon-jour attribué. Cette pénalité est appliquée à l'attributaire du sillon-jour, de 1 é le skm pour les activités fret et de 3,3 é le skm pour les activités voyageurs. Les redevances assises sur la réservation comme sur la circulation ne sont pas dues. Pour les activités voyageurs conventionnées, les skm du sillon-jour annulé ne sont pas compatibilisés pour les paramètres de calcul de la régularisation du forfait visé au point 5.3.4.2.
+-Les accords-cadres ;
+
+-Le dispositif incitatif réciproque ;
+
+-La pénalité de renonciation tardive.
+
+Dans le cadre du dispositif accord-cadre : le candidat s'engage à commander à SNCF Réseau le nombre de sillons-jours correspondant aux caractéristiques de la capacité d'infrastructure dans les tolérances et diminué de la franchise, et s'engage à maintenir sa commande en l'état jusqu'à la date de certification, en novembre A-1.
+
+Dans le cadre du dispositif incitatif réciproque, les règles définies dans l'annexe 5.8 s'appliquent.
+
+La pénalité de renonciation tardive est appliquée en cas de renonciation par le candidat, à partir de J-1 17h, à un sillon-jour attribué. Cette pénalité est appliquée à l'attributaire du sillon-jour, de 1 é le skm pour les activités fret et de 3,3 é le skm pour les activités voyageurs. Les redevances assises sur la réservation comme sur la circulation ne sont pas dues. Pour les activités voyageurs conventionnées, les skm du sillon-jour annulé ne sont pas compatibilisés pour les paramètres de calcul de la régularisation du forfait visé au point 5.3.4.2.
+
+<!-- page: 149 -->
 
 Le candidat est exonéré de cette pénalité dans les cas de force majeure, tels que définis à l'article 21 des conditions générales du contrat d'utilisation de l'infrastructure et du contrat d'attribution de sillons (annexe 3.1 du DRR).
 
-## 5.6.4.2 Les dispositifs concernés par l'annulation de sillon par SNCF Réseau sont :
+## [section_header] 5.6.4.2 Les dispositifs concernés par l'annulation de sillon par SNCF Réseau sont :
 
-- -Dans le cadre des accords-cadres, les règles définies dans l'accord-cadre conclu entre SNCF Réseau et le client accord-cadre s'appliquent
-- -Dans  le  cadre  du  dispositif  incitatif  réciproque,  les  règles  définies  dans  l'annexe 5.8 s'appliquent.
+-Dans le cadre des accords-cadres, les règles définies dans l'accord-cadre conclu entre SNCF Réseau et le client accord-cadre s'appliquent
 
-## 5.6.5. PENALITES POUR NON-UTILISATION DES CAPACITES TRAVAUX
+-Dans  le  cadre  du  dispositif  incitatif  réciproque,  les  règles  définies  dans  l'annexe 5.8 s'appliquent.
+
+## [section_header] 5.6.5. PENALITES POUR NON-UTILISATION DES CAPACITES TRAVAUX
 
 A compter de septembre 2024, SNCF Réseau met en place un mécanisme de pénalités pour la nonutilisation  en  opérationnel  des  capacités  travaux  qui  ont  fait  l'objet  par  SNCF  Réseau  d'une confirmation  à  S-5.  Ce  mécanisme  a  vocation  à  inciter  SNCF  Réseau  à  mieux  dimensionner  la programmation  de  ses  capacité-travaux  et  leur  restitution  au  profit  des  commandes  de  capacités commerciales.
 
 SNCF Réseau a pour objectif cible, pour l'HDS 2030, de réduire à 10% la part des fenêtres-jours confirmées à S-5 mais non utilisées à J.
 
-## 5.6.4.3 Périmètre d'application
+## [section_header] 5.6.4.3 Périmètre d'application
 
 Ce mécanisme est calculé à partir d'un indicateur mesurant le taux d'utilisation à J des capacitéstravaux qui ont été confirmées à l'AHT à S-5.
 
@@ -4503,21 +5241,27 @@ Ce mécanisme est déployé sur la totalité des infrapôles.
 
 A compter de l'HDS 2025, sont exclues du dispositif pénalitaire les fenêtres-travaux non utilisées en raison de circonstances extérieures à SNCF Réseau et indépendante de sa volonté à savoir :
 
-- -Les cas relevant de la Force Majeure : les catastrophes naturelles ou phénomènes climatiques d'une ampleur exceptionnelle, les mouvements sociaux interprofessionnels, les cas relevant d'une demande externe d'une autorité publique (comme la convention TFUD du Ministère des Armées pour la circulation en priorité de trains pour des question de défense) ;
-- -Les cas relevant de l'aspect sécurité, correspondant à des opérations travaux (encadrées par des référentiels techniques) qui nécessitent des conditions climatiques spécifiques pour leur réalisation effective ;
-- -Les  cas  relevant  d'une situation  exceptionnelle,  comme  la  non-réalisation  des  travaux programmés au profit des circulations commerciales fortement impactées lors de situations perturbées (incident très important, détournement d'un axe chargé, etc…).
+-Les cas relevant de la Force Majeure : les catastrophes naturelles ou phénomènes climatiques d'une ampleur exceptionnelle, les mouvements sociaux interprofessionnels, les cas relevant d'une demande externe d'une autorité publique (comme la convention TFUD du Ministère des Armées pour la circulation en priorité de trains pour des question de défense) ;
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+-Les cas relevant de l'aspect sécurité, correspondant à des opérations travaux (encadrées par des référentiels techniques) qui nécessitent des conditions climatiques spécifiques pour leur réalisation effective ;
+
+-Les  cas  relevant  d'une situation  exceptionnelle,  comme  la  non-réalisation  des  travaux programmés au profit des circulations commerciales fortement impactées lors de situations perturbées (incident très important, détournement d'un axe chargé, etc…).
+
+<!-- page: 150 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 Ces cas d'exonération seront précisés dans le document technique intitulé « Cas d'exonération du mécanisme de pénalités pour non-utilisation des capacités travaux », disponible sur la page internet « Documents techniques disponibles dans le DRR ».
 
 SNCF Réseau effectue un contrôle de niveau 1 pour le suivi de ces cas d'exonération et s'assure de leur traçabilité sur la base de justificatifs précis (à savoir, avis météorologiques, préavis de mouvements sociaux interprofessionnels, justificatifs de demandes externes, etc).
 
-## 5.6.4.4 Calcul des pénalités
+## [section_header] 5.6.4.4 Calcul des pénalités
 
 Le  montant  des  pénalités  s'appuie  sur  un  barème  unitaire  auquel  sont  appliqués  des  coefficients différenciant.
 
 Ce barème unitaire de pénalité est défini pour chaque HDS et est progressif afin de rendre le dispositif plus incitatif.
+
+### [TABLE]
 
 | HDS             | 2024   | 2025   | 2026   | 2027   | 2028   | 2029   | 2030   |
 |-----------------|--------|--------|--------|--------|--------|--------|--------|
@@ -4525,35 +5269,51 @@ Ce barème unitaire de pénalité est défini pour chaque HDS et est progressif 
 
 Des coefficients différenciant sont appliqués à ce barème unitaire pour tenir compte :
 
-- -du type de fenêtre-jour :
-- générique ;
-- déformée entre 2h-6h ;
-- déformée supérieure à 6h.
-- -de l'étendue géographique de cette fenêtre-jour :
-- tranche 1 (T1): entre [0 et 10 [ km ;
-- tranche 2 (T2): entre [10 et 20 [ km ;
-- tranche 3 (T3): supérieure ou égale à 20 km.
+-du type de fenêtre-jour :
+
+générique ;
+
+déformée entre 2h-6h ;
+
+déformée supérieure à 6h.
+
+-de l'étendue géographique de cette fenêtre-jour :
+
+tranche 1 (T1): entre [0 et 10 [ km ;
+
+tranche 2 (T2): entre [10 et 20 [ km ;
+
+tranche 3 (T3): supérieure ou égale à 20 km.
 
 Sur  cette  base,  le  montant  de  pénalité  pour  une  fenêtre-jour  donnée  est  calculée  de  la  manière suivante :
 
 𝑀𝑜𝑛𝑡𝑎𝑛𝑡 𝑝é𝑛𝑎𝑙𝑖𝑡é 𝑑 ′ 𝑢𝑛𝑒 𝑓𝑒𝑛ê𝑡𝑟𝑒 - 𝑗𝑜𝑢𝑟 = 𝑉 ( 𝑡𝑦𝑝𝑒 𝑑𝑒 𝑓𝑒𝑛ê𝑡𝑟𝑒-𝑗𝑜𝑢𝑟 ) ∗ 𝑈 ( 𝑙𝑜𝑛𝑔𝑢𝑒𝑢𝑟 ) ∗ 𝐵𝑎𝑟è𝑚𝑒 𝑢𝑛𝑖𝑡𝑎𝑖𝑟𝑒
 
-- -« V (type de fenêtre-jour) » étant la Variable pour différentier le montant en fonction du type de la fenêtre-jour
-- V (Générique) : 0,5
-- V (Déformée 2h - 6h) : 2 x V (Générique) - soit 1
-- V (Déformée supérieure à 6h) : 4 x V (Générique) - soit 2
-- -« U  (longueur) »  étant  la  Variable  pour  différentier  le  montant  en  fonction  de  l'étendue géographique de la fenêtre-jour
-- U (T1) : 0,5
+-« V (type de fenêtre-jour) » étant la Variable pour différentier le montant en fonction du type de la fenêtre-jour
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+V (Générique) : 0,5
 
-- U (T2) : 2 x U (T1) - soit 1
+V (Déformée 2h - 6h) : 2 x V (Générique) - soit 1
 
-- U (T3) : 4 x U (T1)) - soit 2
+V (Déformée supérieure à 6h) : 4 x V (Générique) - soit 2
 
-- -« Barème unitaire » étant le barème unitaire progressif relatif à l'année considérée
+-« U  (longueur) »  étant  la  Variable  pour  différentier  le  montant  en  fonction  de  l'étendue géographique de la fenêtre-jour
+
+U (T1) : 0,5
+
+<!-- page: 151 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+
+U (T2) : 2 x U (T1) - soit 1
+
+U (T3) : 4 x U (T1)) - soit 2
+
+-« Barème unitaire » étant le barème unitaire progressif relatif à l'année considérée
 
 Les barèmes applicables pour l'HDS 2025 et les barèmes cibles pour l'HDS 2030 sont les suivants :
+
+### [TABLE]
 
 | HDS 2025                 | HDS 2025          | HDS 2025           | HDS 2025          |
 |--------------------------|-------------------|--------------------|-------------------|
@@ -4562,13 +5322,13 @@ Les barèmes applicables pour l'HDS 2025 et les barèmes cibles pour l'HDS 2030 
 | Déformée 2h - 6h         | 29,5 é            | 59 é               | 118 é             |
 | Déformée supérieure à 6h | 59 é              | 118 é              | 236 é             |
 
-## 5.6.4.5 Abattement
+## [section_header] 5.6.4.5 Abattement
 
 SNCF Réseau s'est fixé un objectif cible de réduire à 10% la part des fenêtres-jours confirmées à S-5 mais non utilisées à J, correspondant à une part incompressible au service de la résilience et de la robustesse du système ferroviaire.
 
 En conséquence, SNCF Réseau appliquera un abattement global par HDS de 10% sur le nombre de fenêtre-jours  confirmées  non  utilisées  relevant  du  périmètre  d'application  du  mécanisme.  Cet abattement est calculé en multipliant 10% de fenêtres-jours d'un HDS considéré par le barème unitaire dudit HDS, appliqué en déduction du montant total de pénalités due pour cet HDS et réparti sur les pénalités brutes dues à chacun des demandeurs de capacités concernés (au prorata de sa part des pénalités brutes).
 
-## 5.6.4.6 Reversement des pénalités
+## [section_header] 5.6.4.6 Reversement des pénalités
 
 Le montant total des pénalités dues, déduction faite de l'abattement, sera calculé annuellement.
 
@@ -4580,7 +5340,7 @@ L'abattement global est ensuite appliqué à chaque candidat demandeur de capaci
 
 Ainsi les formules suivantes sont appliquées pour chaque candidat demandeur de capacité CAK :
 
-<!-- formula-not-decoded -->
+### [TABLE]
 
 | HDS 2030                 | HDS 2030          | HDS 2030           | HDS 2030          |
 |--------------------------|-------------------|--------------------|-------------------|
@@ -4589,57 +5349,73 @@ Ainsi les formules suivantes sont appliquées pour chaque candidat demandeur de 
 | Déformée 2h - 6h         | 74 é              | 148 é              | 296 é             |
 | Déformée supérieure à 6h | 148 é             | 296 é              | 592 é             |
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 152 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 NOTA : Pour application de ces formules, sont considérées de nuit :
 
-- -Les fenêtres-jours de travaux prévues au moins partiellement sur la période [23h30 ; 5h]
-- -Les circulations s'effectuant au moins partiellement sur la période [23h30 ; 5h] et l'intégralité de leurs trains-kilomètres associés
+-Les fenêtres-jours de travaux prévues au moins partiellement sur la période [23h30 ; 5h]
+
+-Les circulations s'effectuant au moins partiellement sur la période [23h30 ; 5h] et l'intégralité de leurs trains-kilomètres associés
 
 Le paiement des pénalités dues sera réalisé au premier trimestre de l'HDS A+1.
 
-## 5.6.6 PENALITES POUR RETARD TRAITEMENT DES DTS, DSA ET DSDM
+## [section_header] 5.6.6 PENALITES POUR RETARD TRAITEMENT DES DTS, DSA ET DSDM
 
 A compter de l'horaire de service 2025, en cas de non-réponse par SNCF Réseau dans les délais réglementaires aux demandes tardives au service (DTS), aux demandes de sillon en adaptation (DSA, y compris celles traitées dans le cadre des comités techniques horaires) et aux demandes de sillon de dernière minute (DSDM), le mécanisme de pénalités suivant est proposé.
 
-## 5.6.6.1 Mécanisme appliqué par défaut
+## [section_header] 5.6.6.1 Mécanisme appliqué par défaut
 
 Lorsque le demandeur n'a pas expressément demandé, avant la publication de l'horaire de service A (en septembre A-1), à ce que SNCF Réseau poursuive sa recherche de solutions au-delà des délais réglementaires applicables pour les demandes de sillons-jours déposées postérieurement à la date de clôture des demandes au service (point 4.2.3, le mécanisme de pénalités suivant est mis en  uvre.
 
 Dans ce cas, et exception faite des cas de force majeure tels que définis à l'article 21 des conditions générales du contrat d'utilisation de l'infrastructure, la pénalité est calculée pour chaque demandeur à l'issue du service annuel A selon la formule suivante :
 
-## (T*a+U*b+V*c)*X/W
+## [section_header] (T*a+U*b+V*c)*X/W
 
-- -« T » étant le nombre de sillons-jours commandés par le demandeur considéré dans le cadre des Demandes Tardives au Service (DTS) pour le service annuel A, sans réponse à la date prévue à l'article 4.2.3 du DRR
-- -« U » étant le nombre de sillons-jours commandés par le demandeur considéré dans le cadre des Demandes de sillons en adaptation (DSA) pour le service annuel A, sans réponse à la date prévue à l'article 4.2.3 du DRR
-- -« V »  étant le  nombre de sillons-jours commandés par le demandeur considéré dans des Demandes de sillons de dernière minute (DSDM) pour le service annuel A, sans réponse à la date prévue à l'article 4.2.3 du DRR
-- -« W » étant le nombre des sillons-jours objets des commandes du demandeur considéré (en sommant les régimes de toutes les DS, DTS, DSA, DSDM) pour le service annuel A.
-- -« X » étant le nombre des circulations effectivement facturées au demandeur considéré pour le service annuel A
-- -« a » étant une variable dont le montant est fixé à 3 é pour l'HDS 2025
-- -« b » étant une variable dont le montant est fixé à 2 é pour l'HDS 2025
-- -« c « étant une variable dont le montant est fixé à 1 é pour l'HDS 2025
+-« T » étant le nombre de sillons-jours commandés par le demandeur considéré dans le cadre des Demandes Tardives au Service (DTS) pour le service annuel A, sans réponse à la date prévue à l'article 4.2.3 du DRR
 
-## 5.6.6.2 Mécanisme alternatif appliqué sur option du demandeur de capacité
+-« U » étant le nombre de sillons-jours commandés par le demandeur considéré dans le cadre des Demandes de sillons en adaptation (DSA) pour le service annuel A, sans réponse à la date prévue à l'article 4.2.3 du DRR
+
+-« V »  étant le  nombre de sillons-jours commandés par le demandeur considéré dans des Demandes de sillons de dernière minute (DSDM) pour le service annuel A, sans réponse à la date prévue à l'article 4.2.3 du DRR
+
+-« W » étant le nombre des sillons-jours objets des commandes du demandeur considéré (en sommant les régimes de toutes les DS, DTS, DSA, DSDM) pour le service annuel A.
+
+-« X » étant le nombre des circulations effectivement facturées au demandeur considéré pour le service annuel A
+
+-« a » étant une variable dont le montant est fixé à 3 é pour l'HDS 2025
+
+-« b » étant une variable dont le montant est fixé à 2 é pour l'HDS 2025
+
+-« c « étant une variable dont le montant est fixé à 1 é pour l'HDS 2025
+
+## [section_header] 5.6.6.2 Mécanisme alternatif appliqué sur option du demandeur de capacité
 
 Suite  à  la  sollicitation  du  Pôle  Relation  Client  Sillon,  lorsque  le  demandeur  a  répondu,  avant  la publication de l'horaire de service A en septembre A-1, qu'il souhaite que SNCF Réseau poursuive sa recherche de solutions au-delà des délais réglementaires applicables pour les demandes de sillonsjours  déposées  postérieurement  à  la  date  de  clôture  des  demandes  au  service  (point  4.2.3),  le mécanisme de pénalités suivant est mis en  uvre.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 153 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 Dans ce cas, et exception faite des cas de force majeure tels que définis à l'article 21 des conditions générales du contrat d'utilisation de l'infrastructure, la pénalité est calculée pour chaque demandeur à l'issue du service annuel A, selon la formule suivante :
 
-## (K+L) x X/W x d
+## [section_header] (K+L) x X/W x d
 
-- -« K » étant le nombre de sillons-jours commandés par le demandeur considéré en DTS pour le service annuel A, sans réponse commerciale à la fin de l'horaire de service A
-- -« L » étant le nombre de sillons-jours commandés par le demandeur considéré en DSA pour le service annuel A, sans réponse commerciale à la fin de l'horaire de service A
-- -« W » étant le nombre des sillons-jours objets des commandes du demandeur considéré (en sommant les régimes de toutes les DS, DTS, DSA, DSDM) pour le service annuel A
-- -« X » étant le nombre de circulations effectivement facturées au demandeur considéré pour le service annuel A
-- -« d »  étant une variable dont le montant est fixé à 3 é pour l'HDS 2025
+-« K » étant le nombre de sillons-jours commandés par le demandeur considéré en DTS pour le service annuel A, sans réponse commerciale à la fin de l'horaire de service A
+
+-« L » étant le nombre de sillons-jours commandés par le demandeur considéré en DSA pour le service annuel A, sans réponse commerciale à la fin de l'horaire de service A
+
+-« W » étant le nombre des sillons-jours objets des commandes du demandeur considéré (en sommant les régimes de toutes les DS, DTS, DSA, DSDM) pour le service annuel A
+
+-« X » étant le nombre de circulations effectivement facturées au demandeur considéré pour le service annuel A
+
+-« d »  étant une variable dont le montant est fixé à 3 é pour l'HDS 2025
 
 Ainsi,  pour  les  demandeurs  de  capacité  ayant  opté  pour  ce  mécanisme  alternatif,  SNCF  Réseau n'abandonnera pas sa recherche de solution à l'expiration du délai de réponse des DTS ou DSA, et ce jusqu'à la transmission d'une réponse définitive dans l'interface unifiée GESICO-DSDM.
 
 Le mécanisme alternatif n'est pas applicable aux DSDM.
 
-## 5.6.6.3 Principes de gestion appliqués
+## [section_header] 5.6.6.3 Principes de gestion appliqués
 
 Toute demande reçue dans l'interface unifiée GESICO-DSDM est prise en compte, même si elle fait l'objet d'une annulation par le demandeur par la suite.
 
@@ -4649,35 +5425,47 @@ SNCF Réseau rappellera, avant la publication de l'horaire de service de l'anné
 
 Il  est  possible,  pour  chaque  demandeur,  de  solliciter  une  application  différentiée  selon  le  type  de demande (DTS ou DSA). Dans ce cas, les deux mécanismes de pénalité s'appliqueront mais les valeurs K, L, T, U seront ainsi modifiées :
 
-- -Si le demandeur opte pour le mécanisme alternatif pour les DTS, alors T = 0
-- -Si le demandeur conserve le mécanisme de base pour les DTS, alors K = 0
-- -Si le demandeur opte pour le mécanisme alternatif pour les DSA, alors U = 0
-- -Si le demandeur conserve le mécanisme de base pour les DSA, alors L = 0
+-Si le demandeur opte pour le mécanisme alternatif pour les DTS, alors T = 0
 
-## 5.6.7 AUTRES DISPOSITIFS INCITATIFS ET D'AIDES
+-Si le demandeur conserve le mécanisme de base pour les DTS, alors K = 0
 
-## 5.6.7.1 Aides au développement des trafics
+-Si le demandeur opte pour le mécanisme alternatif pour les DSA, alors U = 0
+
+-Si le demandeur conserve le mécanisme de base pour les DSA, alors L = 0
+
+## [section_header] 5.6.7 AUTRES DISPOSITIFS INCITATIFS ET D'AIDES
+
+## [section_header] 5.6.7.1 Aides au développement des trafics
 
 Conformément aux dispositions prévues par l'article 33 du décret n° 2003-194 modifié, SNCF Réseau met  en  place  un  système  de  réduction  des  redevances  afin  d'encourager  le  développement  de nouveaux services ferroviaires.
 
 Pour  bénéficier  de  cette  mesure,  l'entreprise  ferroviaire  ou  tout  autre  demandeur  de  capacités intéressé, ci-après le « candidat », doit proposer un nouveau service répondant aux critères cumulatifs suivants :
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 154 -->
 
-1. Le nouveau service doit être un trafic commercial de voyageurs non conventionné par une autorité organisatrice.
-2. Le nouveau service doit être réalisé (partiellement ou en totalité) sur une infrastructure dont SNCF Réseau est le gestionnaire.
-3. Le nouveau service doit correspondre à une évolution à la hausse de la politique de desserte(s) existante(s)  du  candidat  considéré  (sans  considération  des  politiques  de  dessertes  d'autres candidats) se matérialisant soit :
-- par un allongement sur le réseau ferré national de la longueur d'un sillon déjà existant ;
-- par la création d'un service sur ligne classique parallèlement à un service existant sur LGV ;
-- par  la  création  d'une  nouvelle  origine/destination  (O/D),  sous  réserve  que  cette dernière ne soit pas le raccourcissement d'une O/D déjà existante, ni la modification de dessertes (arrêts intermédiaires) d'une O/D déjà existante.
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+
+Le nouveau service doit être un trafic commercial de voyageurs non conventionné par une autorité organisatrice.
+
+Le nouveau service doit être réalisé (partiellement ou en totalité) sur une infrastructure dont SNCF Réseau est le gestionnaire.
+
+Le nouveau service doit correspondre à une évolution à la hausse de la politique de desserte(s) existante(s)  du  candidat  considéré  (sans  considération  des  politiques  de  dessertes  d'autres candidats) se matérialisant soit :
+
+par un allongement sur le réseau ferré national de la longueur d'un sillon déjà existant ;
+
+par la création d'un service sur ligne classique parallèlement à un service existant sur LGV ;
+
+par  la  création  d'une  nouvelle  origine/destination  (O/D),  sous  réserve  que  cette dernière ne soit pas le raccourcissement d'une O/D déjà existante, ni la modification de dessertes (arrêts intermédiaires) d'une O/D déjà existante.
 
 La hausse de la politique de desserte(s) est validée en comparant la commande pour la phase de construction de l'horaire de service faite sur l'année N avec celle faite l'année N-1 par le candidat considéré.
 
 Cette comparaison porte :
 
-- -sur l'ensemble des segments de marché concernés du candidat sollicitant l'aide et concernés par l'impact de ce nouveau service ;
-- -sur l'ensemble des segments de marché concernés de toute entreprise détenant directement ou indirectement une partie du capital du candidat sollicitant l'aide ;
-- -sur l'ensemble des segments de marché concernés de toute entreprise détenue directement ou indirectement par le candidat sollicitant l'aide.
+-sur l'ensemble des segments de marché concernés du candidat sollicitant l'aide et concernés par l'impact de ce nouveau service ;
+
+-sur l'ensemble des segments de marché concernés de toute entreprise détenant directement ou indirectement une partie du capital du candidat sollicitant l'aide ;
+
+-sur l'ensemble des segments de marché concernés de toute entreprise détenue directement ou indirectement par le candidat sollicitant l'aide.
 
 Il convient de noter que dans le cas de l'allongement d'un sillon existant, ou d'une induction de trafic sur ligne classique impliquant un changement de segment de marché, l'analyse sera effectuée aux bornes des deux segments de marché sur le périmètre d'activité du candidat concerné.
 
@@ -4689,28 +5477,33 @@ Seule une entreprise de plein exercice disposant d'une personnalité juridique p
 
 Le candidat souhaitant bénéficier de l'aide ne peut :
 
-- -avoir une partie de son capital détenu, directement ou indirectement, par une entreprise effectuant, ayant effectué ou contrôlant une entité ayant effectué, un service similaire lors des trois précédents HDS ;
-- -présenter  comme  un  nouveau  service,  éligible  à  l'aide,  un  service  préexistant  dont  la réalisation lui a été confiée par une autre entité.
+-avoir une partie de son capital détenu, directement ou indirectement, par une entreprise effectuant, ayant effectué ou contrôlant une entité ayant effectué, un service similaire lors des trois précédents HDS ;
+
+-présenter  comme  un  nouveau  service,  éligible  à  l'aide,  un  service  préexistant  dont  la réalisation lui a été confiée par une autre entité.
 
 SNCF Réseau se réserve la possibilité de refuser l'attribution de l'aide si l'entité candidate a procédé à des man  uvres dans le seul but de bénéficier de la mesure, sans effectivement remplir l'une des conditions fixées par le  décret  n°  2003-194 (développement de nouveaux services ferroviaires ou utilisation de lignes considérablement sous-utilisées).
 
+<!-- page: 155 -->
+
 Le nouveau service ne doit pas entrer dans le champ d'application du dispositif de tarification négociée visé au point 5.6.7.2.
 
-## Montant et durée de l'aide
+## [section_header] Montant et durée de l'aide
 
 Dans le cas :
 
-- -de l'allongement de la longueur d'un sillon déjà existant, l'aide ne portera que sur la partie prolongée ;
-- -de la création d'une nouvelle O/D, l'aide s'appliquera sur la totalité du sillon.
+-de l'allongement de la longueur d'un sillon déjà existant, l'aide ne portera que sur la partie prolongée ;
+
+-de la création d'une nouvelle O/D, l'aide s'appliquera sur la totalité du sillon.
 
 Le montant de l'aide est égal à :
 
-- --10% de la redevance de marché sur LGV
-- --20% de la redevance de marché sur ligne classique
+--10% de la redevance de marché sur LGV
+
+--20% de la redevance de marché sur ligne classique
 
 sur une durée de deux ans.
 
-## Modalités
+## [section_header] Modalités
 
 Le candidat qui souhaite bénéficier du dispositif doit se rapprocher de son chargé de compte afin que celui-ci lui communique le formulaire d'analyse à remplir par ses soins. Le candidat adresse ensuite sa demande accompagnée d'une étude de marché, par courrier recommandé, au Directeur commercial de SNCF Réseau, avant la date limite de commande au lot pour la phase de construction de l'horaire de service le 08 avril 2024.
 
@@ -4724,9 +5517,11 @@ Le report de la réalisation du nouveau service par le candidat destinataire de 
 
 Dans le cas d'une demande tardive de la part du candidat (courrier recommandé envoyé entre avril A1 et avril A, après la date limite de commande au lot pour la phase de construction de l'horaire de service A), SNCF Réseau analyse les critères d'éligibilité de la demande et répond au candidat par courrier recommandé dans un délai de 6 mois. En cas d'éligibilité, SNCF Réseau accorde au candidat l'attribution de l'aide au développement sur une durée d'un an seulement au lieu de deux (accord sur l'équivalent de la 2 ème année du dispositif).
 
-## 5.6.7.2 Tarification négociée
+## [section_header] 5.6.7.2 Tarification négociée
 
 Depuis l'HDS 2021 et afin d'accompagner l'ouverture du marché voyageurs, SNCF Réseau met en place  un  processus  de  tarification  négociée  (auparavant  appelé  tarification  différenciée)  pour  tout nouvel  opérateur  sur  un  segment  de  marché,  opérant  dans  le  cadre  de  l'activité  voyageurs  non conventionnée et portant sur la tarification de la redevance de marché. Ce processus est proposé dans le cadre de l'application de l'article L2133-2 du Code des transports.
+
+<!-- page: 156 -->
 
 Modalités : Douze (12) mois avant le début de l'exploitation envisagée par le client, celui-ci adresse sa demande de tarification négociée. Après signature d'un accord de confidentialité et au plus tard neuf (9)  mois  avant  le  début  de  l'exploitation  du  service  concerné, le client adresse  à SNCF  Réseau les éléments requis tels qu'ils sont définis en annexe 5.1.3. Après analyse par ses services des perspectives de l'entreprise, SNCF Réseau proposera un niveau de tarification négociée pour une période transitoire (2 ans + 1 année selon réexamen).
 
@@ -4736,7 +5531,7 @@ La méthodologie d'analyse qui a abouti à l'estimation du niveau des tarifs né
 
 La tarification négociée n'est pas cumulable avec le dispositif d'aide au développement des trafics visé au point 5.6.7.1.
 
-## 5.6.7.3 Prise en compte de l'aménagement du territoire
+## [section_header] 5.6.7.3 Prise en compte de l'aménagement du territoire
 
 La loi du 27 juin 2018 sur le nouveau pacte ferroviaire impose à SNCF Réseau de tenir compte dans la tarification TAGV, des dessertes ferroviaires pertinentes en matière d'aménagement du territoire ( article L. 211-25 du Code des transports ).
 
@@ -4748,15 +5543,17 @@ La tarification proposée dans le cadre de l'aménagement du territoire pour les
 
 Les  sillons  internationaux  (au  sens  origine-destination),  ainsi  que  les  sillons  à  vide,  ne  sont  pas concernés par la tarification « aménagement du territoire ».
 
-## 5.6.7.4 Dispositif incitant à la déclaration de la composition réelle des convois.
+## [section_header] 5.6.7.4 Dispositif incitant à la déclaration de la composition réelle des convois.
 
 Afin d'inciter les entreprises ferroviaires à respecter l'obligation de déclaration de composition réelle des convois avant leur circulation décrite au point 6.2.2.1, lorsqu'une EF n'aura pas respecté un (1) mois M l'obligation de déclaration pour plus de 1% de ses départs (origine ou lieu de remaniement), arrondis à l'entier supérieur avec un minimum de 5, SNCF Réseau l'avertira le mois M+1 et pourra décider de retenir le mois M+2 les convois avant départ, dans l'attente de réception de la déclaration de leur composition réelle via le flux informatique ou l'interface DINAMIC. Concernant la facturation de la redevance de circulation à l'unité d'  uvre du tonnage, cette tolérance de 1 % ne s'applique pas.
 
-## 5.7 SYSTÈME D'AMÉLIORATION DES PERFORMANCES
+## [section_header] 5.7 SYSTÈME D'AMÉLIORATION DES PERFORMANCES
 
-## 5.7.1 PRINCIPES GÉNÉRAUX ET OBJECTIFS
+## [section_header] 5.7.1 PRINCIPES GÉNÉRAUX ET OBJECTIFS
 
 Le  système  d'amélioration  des  performances  (SAP),  prévu  par  l'article  34  du  décret  n°  2003-194 transposant l'article 35 de la directive 2012/34/UE, est un dispositif incitatif s'appliquant de manière bilatérale entre SNCF Réseau et les entreprises ferroviaires (EF) dans les conditions précisées ci-après. En place depuis l'horaire de service 2014, il a pour objet d'inciter le gestionnaire d'infrastructure (GI)
+
+<!-- page: 157 -->
 
 et  les  EF  à  améliorer  la  performance  des  circulations  afin  d'optimiser  l'exploitation  du  réseau  et d'améliorer la qualité de service offerte à ses utilisateurs.
 
@@ -4766,36 +5563,43 @@ Le SAP est l'occasion pour SNCF Réseau de donner aux EF une vision claire et li
 
 Le SAP est susceptible de voir ses paramètres techniques et économiques évoluer sur la base des travaux et des décisions pouvant être prises par le comité du SAP (COSAP).
 
-## 5.7.2 SUIVI DE LA PERFORMANCE
+## [section_header] 5.7.2 SUIVI DE LA PERFORMANCE
 
-- Le SAP s'applique à toutes les EF (ou activités de l'EF) qui circulent sur le réseau ferré national, dès lors que celles-ci parcourent au moins 200.000 trains-kilomètres pour un segment d'activité sur une année civile complète. Dès qu'une EF atteint le seuil minimal d'assujettissement au SAP pour le segment d'activité concerné, une phase de « marche à blanc » s'impose automatiquement à elle sur ce segment d'activité.
+Le SAP s'applique à toutes les EF (ou activités de l'EF) qui circulent sur le réseau ferré national, dès lors que celles-ci parcourent au moins 200.000 trains-kilomètres pour un segment d'activité sur une année civile complète. Dès qu'une EF atteint le seuil minimal d'assujettissement au SAP pour le segment d'activité concerné, une phase de « marche à blanc » s'impose automatiquement à elle sur ce segment d'activité.
 
 En phase de marche à blanc, sur le segment d'activité concerné, l'EF n'est pas objectivée (ni le GI dans le cadre de la relation bilatérale avec l'EF) sur ses niveaux de performance, ni redevable de malus financier.
 
-- Le  périmètre  des  circulations  prises  en  compte  dans  le  SAP  est  l'ensemble  des  «  circulations commerciales à charge », telles que codifiées dans le SI BREHAT. Les marches d'ordre technique, ainsi que les circulations des trams-trains notamment, sont exclues du périmètre.
-- Les  «  pertes  de  temps  »  entrant  dans  le  calcul  des  indicateurs  SAP  sont  les  minutes  perdues identifiées et justifiées dans le SI BREHAT, à partir de cinq (5) minutes.
+Le  périmètre  des  circulations  prises  en  compte  dans  le  SAP  est  l'ensemble  des  «  circulations commerciales à charge », telles que codifiées dans le SI BREHAT. Les marches d'ordre technique, ainsi que les circulations des trams-trains notamment, sont exclues du périmètre.
+
+Les  «  pertes  de  temps  »  entrant  dans  le  calcul  des  indicateurs  SAP  sont  les  minutes  perdues identifiées et justifiées dans le SI BREHAT, à partir de cinq (5) minutes.
 
 Le document d'application « Directives de justification des retards dans Bréhat » (RFN-IG-TR 04 C-01-n°002), disponible sur la page «Documents Techniques cités dans le DRR » du site internet de SNCF Réseau, précise les règles d'affectation de la responsabilité des pertes de temps au GI ou à l'EF.
 
-- Depuis  le  1er  janvier  2020,  les  pertes  de  temps  affectées  à  Gares  &amp;  Connexions  (filiale  de SNCF Réseau) sont prises en compte dans le périmètre du GI.
-- La mesure de la performance retenue est l'agrégation des pertes de temps à partir de cinq (5) minutes  (nombre  de  minutes  perdues)  subies  sur  le  parcours  de  l'ensemble  des  circulations commerciales de chaque EF, rapportées aux distances parcourues (nombre de trains-km parcourus par toutes les circulations commerciales, y compris celles qui n'ont pas de perte de temps) au cours d'une année civile.
+Depuis  le  1er  janvier  2020,  les  pertes  de  temps  affectées  à  Gares  &  Connexions  (filiale  de SNCF Réseau) sont prises en compte dans le périmètre du GI.
+
+La mesure de la performance retenue est l'agrégation des pertes de temps à partir de cinq (5) minutes  (nombre  de  minutes  perdues)  subies  sur  le  parcours  de  l'ensemble  des  circulations commerciales de chaque EF, rapportées aux distances parcourues (nombre de trains-km parcourus par toutes les circulations commerciales, y compris celles qui n'ont pas de perte de temps) au cours d'une année civile.
 
 Les indicateurs de performance SAP de l'EF et du GI vis-à-vis de chaque EF, exprimés en ratios « minutes perdues/100 km », sont calculés comme suit :
 
-- -« Ratio SAP EF » : part des minutes perdues imputables à l'EF, rapportée au nombre de trainskilomètres parcourus par l'EF ;
-- -« Ratio SAP GI vis-à-vis de l'EF » : part des minutes perdues imputables au GI, rapportée au nombre de trains-kilomètres parcourus par l'EF.
+-« Ratio SAP EF » : part des minutes perdues imputables à l'EF, rapportée au nombre de trainskilomètres parcourus par l'EF ;
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+-« Ratio SAP GI vis-à-vis de l'EF » : part des minutes perdues imputables au GI, rapportée au nombre de trains-kilomètres parcourus par l'EF.
 
-- La mise en  uvre du SAP repose sur la fixation d'objectifs d'amélioration annuels, exprimés en minutes perdues aux 100 km. Les objectifs « SAP EF » et « SAP GI » de l'année civile A sont calculés au cours du premier trimestre de l'année civile A sur la base des résultats de l'année civile A-1 et suivant la méthode de calcul validée par le COSAP.  Ils sont actés par le COSAP lors du premier COSAP de l'année A.
+<!-- page: 158 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+
+La mise en  uvre du SAP repose sur la fixation d'objectifs d'amélioration annuels, exprimés en minutes perdues aux 100 km. Les objectifs « SAP EF » et « SAP GI » de l'année civile A sont calculés au cours du premier trimestre de l'année civile A sur la base des résultats de l'année civile A-1 et suivant la méthode de calcul validée par le COSAP.  Ils sont actés par le COSAP lors du premier COSAP de l'année A.
 
 Ils  sont  communiqués  à  chaque  EF,  pour  ce  qui  la  concerne,  par  courrier  électronique,  avec demande d'accord formel par mail. En l'absence de réponse de l'entreprise ferroviaire dans les 30 jours qui suivent, ils sont réputés acceptés de plein droit par elle.  En cas de désaccord sur le résultat du calcul de l'objectif proposé par le GI, un échange bilatéral entre le GI et l'EF est engagé pour fiabiliser ensemble le résultat du calcul de l'objectif et le valider.
 
-## 5.7.3 MODELE FINANCIER
+## [section_header] 5.7.3 MODELE FINANCIER
 
 L'écart entre la performance réalisée et l'objectif de performance est mesuré et partagé plusieurs fois par an avec chaque EF.
 
 Pour chacune des relations bilatérales EF/GI, en cas de non atteinte de l'objectif annuel de l'EF et/ou du GI, chaque minute supplémentaire par rapport à l'objectif de l'acteur EF et/ou GI donne lieu à l'application d'un malus. Pour chaque acteur n'ayant pas atteint son objectif, le montant de malus correspondant est calculé sur la base du barème présenté ci-après, multiplié par le nombre de minutes perdues au-delà de son objectif.
+
+### [TABLE]
 
 | Barème des malus applicables à SNCF Réseau en fonction du segment d'activité de l'EF concernée   | Barème des malus applicables à SNCF Réseau en fonction du segment d'activité de l'EF concernée   | Barème des malus applicables à SNCF Réseau en fonction du segment d'activité de l'EF concernée   |
 |--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -4809,34 +5613,51 @@ Pour chacune des relations bilatérales EF/GI, en cas de non atteinte de l'objec
 | Gestionnaire d'infrastructure                                                                    | Mode de calcul du malus                                                                          | Prix unitaire (en é )                                                                            |
 | SNCF Réseau                                                                                      | Tarif par minute perdue au-delà de l'objectif                                                    | 2,50                                                                                             |
 
-- Pour chaque relation bilatérale EF/GI, le montant des malus à facturer est calculé en appliquant le montant plafond sur la base du différentiel entre les montants bruts de malus dus par les deux acteurs (règle du « solde net » : malus de l'un, moins malus de l'autre). C'est donc l'acteur dont la performance se dégrade le plus qui est redevable d'un malus à l'autre, jusqu'à concurrence du plafond.
+Pour chaque relation bilatérale EF/GI, le montant des malus à facturer est calculé en appliquant le montant plafond sur la base du différentiel entre les montants bruts de malus dus par les deux acteurs (règle du « solde net » : malus de l'un, moins malus de l'autre). C'est donc l'acteur dont la performance se dégrade le plus qui est redevable d'un malus à l'autre, jusqu'à concurrence du plafond.
 
 La facturation des malus s'effectue annuellement au cours du début d'année A+1, sur la base des données de mesure de la performance réelle des circulations de l'année civile A.
 
+<!-- page: 159 -->
+
 Depuis la mise en  uvre du SAP en 2014, le COSAP a décidé d'appliquer des abattements dégressifs sur le montant du plafond des malus SAP en fonction de la trajectoire financière pluriannuelle qu'il a définie.
 
-- -2014 : abattement de 75% sur le plafond cible de 0,5% * (montant RR + RC de 2013)
-- -2015 : abattement de 75% sur le plafond cible de 0,5% * (montant RR + RC de 2014)
-- -2016 : abattement de 50% sur le plafond cible de 0,5% * (montant RR + RC de 2015)
-- -2017 : abattement de 50% sur le plafond cible de 0,5% * (montant RR + RC de 2016)
-- -2018 : abattement de 50% sur le plafond cible de 0,5% * (montant RR + RC de 2017)
-- -2019 : abattement de 50% sur le plafond cible de 0,5% * (montant RR + RM + RC de 2018)
-- -2020 : abattement de 50% sur le plafond cible de 0,5% * (montant RM + RC de 2019)
-- -2021 : abattement de 50% sur le plafond cible de 0,5% * (montant RM + RC de 2020)
-- -2022 : abattement de 40% sur le plafond cible de 0,5% * (montant RM + RC de 2021)
-- -2023 : abattement de 30% sur le plafond cible de 0,5% * (montant RM + RC de 2022)
-- -2024 : abattement de 25% sur le plafond cible de 0,5% * (montant RM + RC de 2023)
-- -2025 : abattement de 20% sur le plafond cible de 0,5% * (montant RM + RC de 2024)
-- -2026 : abattement de 15% sur le plafond cible de 0,5% * (montant RM + RC de 2025)
-- -2027 : abattement de 10% sur le plafond cible de 0,5% * (montant RM + RC de 2026)
-- -2028 : abattement de 5% sur le plafond cible de 0,5% * (montant RM + RC de 2027)
-- -2029 et au-delà : plus d'abattement sur le plafond cible
+-2014 : abattement de 75% sur le plafond cible de 0,5% * (montant RR + RC de 2013)
 
-## NOTA : Le montant de RC pris en compte intègre la compensation fret.
+-2015 : abattement de 75% sur le plafond cible de 0,5% * (montant RR + RC de 2014)
+
+-2016 : abattement de 50% sur le plafond cible de 0,5% * (montant RR + RC de 2015)
+
+-2017 : abattement de 50% sur le plafond cible de 0,5% * (montant RR + RC de 2016)
+
+-2018 : abattement de 50% sur le plafond cible de 0,5% * (montant RR + RC de 2017)
+
+-2019 : abattement de 50% sur le plafond cible de 0,5% * (montant RR + RM + RC de 2018)
+
+-2020 : abattement de 50% sur le plafond cible de 0,5% * (montant RM + RC de 2019)
+
+-2021 : abattement de 50% sur le plafond cible de 0,5% * (montant RM + RC de 2020)
+
+-2022 : abattement de 40% sur le plafond cible de 0,5% * (montant RM + RC de 2021)
+
+-2023 : abattement de 30% sur le plafond cible de 0,5% * (montant RM + RC de 2022)
+
+-2024 : abattement de 25% sur le plafond cible de 0,5% * (montant RM + RC de 2023)
+
+-2025 : abattement de 20% sur le plafond cible de 0,5% * (montant RM + RC de 2024)
+
+-2026 : abattement de 15% sur le plafond cible de 0,5% * (montant RM + RC de 2025)
+
+-2027 : abattement de 10% sur le plafond cible de 0,5% * (montant RM + RC de 2026)
+
+-2028 : abattement de 5% sur le plafond cible de 0,5% * (montant RM + RC de 2027)
+
+-2029 et au-delà : plus d'abattement sur le plafond cible
+
+## [section_header] NOTA : Le montant de RC pris en compte intègre la compensation fret.
 
 Cette  trajectoire  est  susceptible  d'être  révisée  (accélération  ou  ralentissement)  par  le  COSAP  en fonction de la maturité des différents acteurs.
 
-## 5.7.4 GOUVERNANCE ET RESOLUTION DES CONFLITS
+## [section_header] 5.7.4 GOUVERNANCE ET RESOLUTION DES CONFLITS
 
 Le SAP s'appuie sur un organe de gouvernance, le COSAP, composé à parité égale de représentants du GI et des EF (9 membres pour chaque collège), d'un membre de l'ART (membre invité permanent pouvant prendre part aux discussions et non au vote) et présidé par  une  personne  indépendante désignée par les services de l'État.
 
@@ -4852,15 +5673,21 @@ Ce référentiel décrit en particulier les principes généraux du dispositif, 
 
 Il  présente  également,  en  annexes,  la  charte  de  fonctionnement  du  COSAP  et  la  charte  de fonctionnement de la commission d'arbitrage du SAP (l'instance de règlement des litiges dans le cadre du SAP).
 
-## 5.8 ÉVOLUTION DES BAREMES
+<!-- page: 160 -->
+
+## [section_header] 5.8 ÉVOLUTION DES BAREMES
 
 La  tarification  pluriannuelle  répond  à  un  besoin  du  marché  de  prévisibilité  des  redevances  et  de stabilité de la tarification. Aussi SNCF Réseau propose de maintenir la structure des redevances sur le cycle tarifaire concerné et de faire évoluer les redevances selon des indices connus.
 
 SNCF Réseau propose un mécanisme d'évolution tarifaire des prestations minimales s'appuyant sur trois composantes :
 
-- Une composante inflation prévisionnelle reflétée par l'indice des prix à la consommation harmonisé (IPCH) publié par la Banque de France en juin A-1 au titre de la prévision d'évolution de l'inflation pour l'année A pour les HDS 2025 et 2026 ;
-- Un terme fixe visant à accélérer la couverture du coût complet du réseau :
-- Un rattrapage de l'écart d'inflation, à la hausse comme à la baisse, entre l'inflation prévisionnelle intégrée dans les barèmes et l'inflation réellement constatée sur la période 2024-2026, applicable à  l'ensemble  des  activités  (voyageur  conventionné  /  voyageur  non  conventionné  /  Fret).  Ainsi, l'écart d'inflation constaté sur l'HDS 2024 sera répercuté dans les barèmes de l'HDS 2026. Les écarts d'inflation constatés sur les HDS 2025 et 2026 seront, quant à eux, répercutés sur le cycle tarifaire suivant en 2027-2029.
+Une composante inflation prévisionnelle reflétée par l'indice des prix à la consommation harmonisé (IPCH) publié par la Banque de France en juin A-1 au titre de la prévision d'évolution de l'inflation pour l'année A pour les HDS 2025 et 2026 ;
+
+Un terme fixe visant à accélérer la couverture du coût complet du réseau :
+
+Un rattrapage de l'écart d'inflation, à la hausse comme à la baisse, entre l'inflation prévisionnelle intégrée dans les barèmes et l'inflation réellement constatée sur la période 2024-2026, applicable à  l'ensemble  des  activités  (voyageur  conventionné  /  voyageur  non  conventionné  /  Fret).  Ainsi, l'écart d'inflation constaté sur l'HDS 2024 sera répercuté dans les barèmes de l'HDS 2026. Les écarts d'inflation constatés sur les HDS 2025 et 2026 seront, quant à eux, répercutés sur le cycle tarifaire suivant en 2027-2029.
+
+### [TABLE]
 
 | Segment                            | HDS 2025   | HDS 2026   |
 |------------------------------------|------------|------------|
@@ -4868,9 +5695,13 @@ SNCF Réseau propose un mécanisme d'évolution tarifaire des prestations minima
 | Activité voyageur non conventionné | +0.8%      | /          |
 | Activité Fret                      | /          | /          |
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 161 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 Les barèmes des prestations minimales évolueront de la manière suivante entre 2024 et 2025 :
+
+### [TABLE]
 
 | Type de redevance                                                                             | Activités voyageurs non conventionnées                             | Activités voyageurs conventionnées                                 | Activités fret                                                                                                               |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -4882,9 +5713,13 @@ Les barèmes des prestations minimales évolueront de la manière suivante entre
 | Redevance particulière (RP)                                                                   | IPCH 2025 Banque de France juin 2024                               | IPCH 2025 Banque de France juin 2024                               | IPCH 2025 Banque de France juin 2024                                                                                         |
 | Redevance de saturation (RS)                                                                  | Non applicable                                                     | Non applicable                                                     | Non applicable                                                                                                               |
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 162 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 Les barèmes des prestations minimales évolueront de la manière suivante entre 2025 et 2026 :
+
+### [TABLE]
 
 | Type de redevance                                                                             | Activités voyageurs non conventionnées                                                              | Activités voyageurs conventionnées                                                                         | Activités fret                                                                                                                                                       |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -4896,7 +5731,7 @@ Les barèmes des prestations minimales évolueront de la manière suivante entre
 | Redevance particulière (RP)                                                                   | IPCH 2026 Banque de France juin 2025 + régularisation écart d'inflation 2024                        | IPCH 2026 Banque de France juin 2025 + régularisation écart d'inflation 2024                               | IPCH 2026 Banque de France juin 2025 + régularisation écart d'inflation 2024                                                                                         |
 | Redevance de saturation (RS)                                                                  | Non applicable                                                                                      | Non applicable                                                                                             | Non applicable                                                                                                                                                       |
 
-## 5.9 MODALITES DE FACTURATION
+## [section_header] 5.9 MODALITES DE FACTURATION
 
 Les factures sont adressées par SNCF Réseau dans les conditions définies dans le contrat conclu avec le client.
 
@@ -4904,9 +5739,13 @@ Toutes les factures de redevances comportent l'indication des montants hors taxe
 
 La date d'échéance pour les factures des redevances est de quarante (40) jours à compter de la date d'émission de la facture.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 163 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 Le tableau suivant résume les différents échéanciers de facturation par type de redevance.
+
+### [TABLE]
 
 | Types de redevance pour les prestations réalisées au cours d'un (1) mois M                                                                                                                                                                        | Novembre de l'année A-1   | M-2                     | M-1                     | M (mois de prestation)   | M+1                       | A+1                       |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------------------|-------------------------|--------------------------|---------------------------|---------------------------|
@@ -4928,33 +5767,37 @@ Le tableau suivant résume les différents échéanciers de facturation par type
 | Autres prestations sur devis                                                                                                                                                                                                                      | Facture au fil de l'eau   | Facture au fil de l'eau | Facture au fil de l'eau | Facture au fil de l'eau  | Facture au fil de l'eau   | Facture au fil de l'eau   |
 | RCTE - Composante B                                                                                                                                                                                                                               |                           |                         |                         |                          | Facture                   | Facture de régularisation |
 
-## 5.9.1 FACTURATION DES PRESTATIONS MINIMALES
+## [section_header] 5.9.1 FACTURATION DES PRESTATIONS MINIMALES
 
 Les redevances pour les prestations minimales, décrites au point 5.3, sont facturées suivant les règles décrites ci-après. Les modalités de facturation sont adaptées au fur et à mesure du développement du système d'information de SNCF Réseau et des modalités transitoires peuvent donc être prévues dans le contrat conclu avec SNCF Réseau.
 
-## 5.9.1.1 Redevance de circulation (RC)
+## [section_header] 5.9.1.1 Redevance de circulation (RC)
 
-## ● Dispositif applicable aux entreprises ferroviaires ou autres candidats de voyageurs
+## [section_header] ● Dispositif applicable aux entreprises ferroviaires ou autres candidats de voyageurs
 
 La facturation de la redevance de circulation (RC) est acquittée par l'attributaire du sillon, entreprise ferroviaire ou autre candidat le cas échéant.
 
+<!-- page: 164 -->
+
 Pour un (1) mois de prestation M, la RC facturée porte sur les circulations fiabilisées dont la date de départ est courant le mois M. Ces circulations englobent :
 
-- -les circulations captées par le système de suivi des circulations de SNCF Réseau ;
-- -les circulations réputées avoir été effectuées.
+-les circulations captées par le système de suivi des circulations de SNCF Réseau ;
+
+-les circulations réputées avoir été effectuées.
 
 Ces dernières vérifient à la fois les deux critères ci-dessous :
 
-- -elles n'ont pas été annulées par l'EF ;
-- -elles n'ont pas fait l'objet d'un déclaratif de non-circulation par l'EF à travers l'interface unifiée GESICO-DSDM, dans les 24h suivant leur date de départ théorique.
+-elles n'ont pas été annulées par l'EF ;
+
+-elles n'ont pas fait l'objet d'un déclaratif de non-circulation par l'EF à travers l'interface unifiée GESICO-DSDM, dans les 24h suivant leur date de départ théorique.
 
 La facture de RC est émise à partir du vingt (20) du mois (M+1) pour les circulations du mois M. Pour certaines circulations, la facturation de leur RC interviendra les mois suivants, dans un délai maximal de douze (12) mois (cas de fiabilisation tardive par exemple).
 
-## Unités d'  uvre de facturation de la RC
+## [section_header] Unités d'  uvre de facturation de la RC
 
 Les  deux  unités  d'  uvre  utiles  à  la  facturation  de  la  RC  sont  la  tonne  brute  complète  et  le  trainkilomètre.  L'information  de  la  tonne  brute  complète  correspond  à  celle  que  l'entreprise  ferroviaire déclare dans sa déclaration de la composition réelle du convoi. Les entreprises ferroviaires doivent déclarer la masse à vide pour leurs circulations non commerciales et la masse totale à charge de leurs circulations  commerciales.  À  cet  égard,  la  table  des  matériels  roulants  voyageurs  avec  les  masses totales attendues est reprise en annexe 5.7.
 
-## Cas d'absence de tonnage
+## [section_header] Cas d'absence de tonnage
 
 En cas d'absence de déclaration de tonnage par l'entreprise ferroviaire pour une circulation ou du rejet de la déclaration de la composition réelle du convoi, le barème de RC correspondant à son parcours multiplié par le tonnage maximum de référence des activités Voyageurs sera appliqué.
 
@@ -4962,46 +5805,51 @@ Les règles de gestion de la donnée tonnage utilisée pour facturer ainsi que l
 
 SNCF Réseau se réserve le droit de contrôler la donnée tonnage saisie dans la déclaration de composition réelle des convois et d'opérer la régularisation de la tarification afférente.
 
-## ● Dispositif applicable aux entreprises ou autres candidats de fret
+## [section_header] ● Dispositif applicable aux entreprises ou autres candidats de fret
 
 La redevance de circulation (RC) est acquittée par l'attributaire du sillon, entreprise ferroviaire ou autre candidat le cas échéant, selon les modalités suivantes, en deux temps :
 
-## 1) Une facture d'acompte en novembre 2024
+## [section_header] 1) Une facture d'acompte en novembre 2024
 
 Un acompte est facturé à l'attributaire du sillon sur la base des sillons-jours attribués par SNCF Réseau en réponse aux demandes au service pour tous les services de transport de fret :
 
-- -pour les trains HLP, l'acompte correspond à 15% de la RC nette du tarif de la première classe de tonnage [1 - 350 T [;
-- -pour les autres trains, l'acompte correspond à 15% de la RC nette du tarif de la quatrième classe de tonnage [1 050 - 1 550 T [. Cette classe est prépondérante parmi les circulations.
+-pour les trains HLP, l'acompte correspond à 15% de la RC nette du tarif de la première classe de tonnage [1 - 350 T [;
+
+-pour les autres trains, l'acompte correspond à 15% de la RC nette du tarif de la quatrième classe de tonnage [1 050 - 1 550 T [. Cette classe est prépondérante parmi les circulations.
 
 Les tarifs de RC retenus pour le calcul de l'acompte sont ceux des barèmes sur lignes UIC 2-6, qui concentrent 90% des circulations.
 
 Précisément, la base de calcul pour cet acompte est la réponse en sillons-jours attribués à la date de publication  de  l'horaire  de  service  hormis  les  sillons-jours  pour  lesquels  le  client  attributaire  aura formulé  une  demande  de  modification  (*)  ou  de  suppression  en  cours  de  traitement,  entre  le 9 septembre 2024 et le 31 octobre 2024 dans le cadre des échanges prévus à l'issue de la publication de l'horaire de service. Ceci doit permettre une meilleure prise en compte du plan de transport du client.
 
+<!-- page: 165 -->
+
 (*) La modification s'entend ici comme impactant ou pouvant impacter le tracé du sillon-jour concerné (par exemple, suite à une modification du convoi, du parcours ou des horaires).
 
 Le montant de cet acompte est facturé sur la base du barème applicable et est ventilé par mois de prestation. L'acompte est remboursé mensuellement, en même temps que la facturation de la RC pour le mois de prestation (M).
 
-## 2) Une facture à partir du 20 (M+1)
+## [section_header] 2) Une facture à partir du 20 (M+1)
 
 Le montant de RC est acquitté par l'attributaire du sillon.
 
 Pour un mois de prestation M, la RC facturée porte sur les circulations fiabilisées dont la date de départ est courant le mois M. Ces circulations englobent :
 
-- -les circulations captées par le système de suivi des circulations de SNCF Réseau ;
-- -les circulations réputées avoir été effectuées.
+-les circulations captées par le système de suivi des circulations de SNCF Réseau ;
+
+-les circulations réputées avoir été effectuées.
 
 Ces dernières vérifient à la fois les deux critères ci-dessous :
 
-- -elles n'ont pas été annulées par l'EF ;
-- -elles n'ont pas fait l'objet d'un déclaratif de non-circulation par l'EF à travers l'interface unifiée GESICO-DSDM, dans les 24h suivant leur date de départ théorique.
+-elles n'ont pas été annulées par l'EF ;
+
+-elles n'ont pas fait l'objet d'un déclaratif de non-circulation par l'EF à travers l'interface unifiée GESICO-DSDM, dans les 24h suivant leur date de départ théorique.
 
 Pour  certaines  circulations,  la  facturation  de  leur  RC  interviendra  les  mois  suivants,  dans  un  délai maximal de douze (12) mois (cas de fiabilisation tardive par exemple).
 
-## Unités d'  uvre de facturation de la RC
+## [section_header] Unités d'  uvre de facturation de la RC
 
 Les  deux  unités  d'  uvre  utiles  à  la  facturation  de  la  RC  sont  la  tonne  brute  complète  et  le  trainkilomètre.  L'information  de  la  TBC  correspond  à  celle  que  l'entreprise  ferroviaire  déclare  dans  sa déclaration de la composition réelle du convoi. Les entreprises ferroviaires fret devront déclarer la masse totale réelle du train (locomotive + matériel remorqué + chargement). Cette information de TBC permettra d'affecter chaque train à l'une des cinq classes de tonnage définies dans le barème de la RC.
 
-## Cas d'absence de tonnage
+## [section_header] Cas d'absence de tonnage
 
 En cas d'absence de déclaration de tonnage par l'entreprise ferroviaire pour une circulation ou du rejet de la déclaration de la composition réelle du convoi, le tarif de RC au barème de la classe de tonnage maximale des activités Fret sera appliqué.
 
@@ -5009,24 +5857,27 @@ Les règles de gestion de la donnée tonnage utilisée pour facturer ainsi que l
 
 SNCF Réseau se réserve le droit de contrôler la donnée tonnage saisie dans la déclaration de composition réelle des convois et d'opérer la régularisation de la tarification afférente.
 
-## Renonciation à la réservation ou non circulation de sillons-jours attribués / Pénalité
+## [section_header] Renonciation à la réservation ou non circulation de sillons-jours attribués / Pénalité
 
 En cas de renonciation avant J et H, dans les conditions ci-dessous, J étant la date programmée pour l'utilisation du sillon-jour et H l'heure de départ, SNCF Réseau régularise le montant de la RC perçu au titre de l'acompte :
 
-- -En cas de renonciation avant J-1 17h, si le sillon-jour est inclus dans le périmètre incitatif réciproque (IR), le dispositif décrit en annexe 5.8 s'applique.
-- -En cas de renonciation à partir de J-1 17h, la pénalité de renonciation tardive est appliquée à l'attributaire du sillon-jour, de 1 é le skm pour les activités fret. Les redevances assises sur la réservation comme sur la circulation ne sont pas dues.
+<!-- page: 166 -->
+
+-En cas de renonciation avant J-1 17h, si le sillon-jour est inclus dans le périmètre incitatif réciproque (IR), le dispositif décrit en annexe 5.8 s'applique.
+
+-En cas de renonciation à partir de J-1 17h, la pénalité de renonciation tardive est appliquée à l'attributaire du sillon-jour, de 1 é le skm pour les activités fret. Les redevances assises sur la réservation comme sur la circulation ne sont pas dues.
 
 En cas de non-circulation la pénalité de non-circulation est appliquée à l'attributaire du sillon-jour, de 1,08 é le tkm pour les activités fret. Cette pénalité est cumulable avec les redevances assises sur la réservation. Les redevances assises sur la circulation, comme la redevance de circulation, ne sont pas dues.
 
 Le candidat est exonéré de la pénalité de renonciation tardive et de la pénalité de non-circulation dans les cas de force majeure, tels que définis à l'article 21 des conditions générales du contrat d'utilisation de l'infrastructure et du contrat d'attribution de sillons.
 
-## 5.9.1.2 Redevance de circulation électrique (RCE)
+## [section_header] 5.9.1.2 Redevance de circulation électrique (RCE)
 
 Pour  un  mois  de  prestation  M,  les  circulations  relatives  aux  sillons  attribués  avec  type  de  motrice électrique et dont la date de départ est courant du mois M sont prises en compte dans le calcul du montant de cette redevance.
 
 La facturation de cette redevance est réalisée en même temps que celle de la RC en (M+1). Elle est acquittée par l'attributaire du sillon, entreprise ferroviaire ou autre candidat le cas échéant.
 
-## 5.9.1.3 Redevance pour le transport et la distribution de l'énergie de traction (RCTE)
+## [section_header] 5.9.1.3 Redevance pour le transport et la distribution de l'énergie de traction (RCTE)
 
 La facturation de la RCTE (composantes A et B) est réalisée en (M+1).
 
@@ -5036,162 +5887,177 @@ Les charges d'acheminement de l'énergie électrique relevant de la composante B
 
 5.9.1.4 Redevance de marché (RM) applicable aux EF ou autres candidats voyageurs
 
-## ● Dispositif  applicable  aux  entreprises  ferroviaires  ou  autres  candidats  de  voyageurs  non conventionnés
+## [section_header] ● Dispositif  applicable  aux  entreprises  ferroviaires  ou  autres  candidats  de  voyageurs  non conventionnés
 
 La redevance de marché est acquittée par le client attributaire de la capacité, en trois temps :
 
-## 1) Une facture d'acompte en novembre 2024
+## [section_header] 1) Une facture d'acompte en novembre 2024
 
 Un  acompte  de  15%  du  montant  de  la  RM  est  facturé  sur  la  base  des  sillons-jours  attribués  par SNCF Réseau en réponse aux demandes au service pour tous les services de transport voyageurs.
 
 Précisément, la base de calcul pour cet acompte est la réponse en sillons-jours attribués à la date de publication  de  l'horaire  de  service  hormis  les  sillons-jours  pour  lesquels  le  client  attributaire  aura formulé  une  demande  de  modification  (*)  ou  de  suppression  en  cours  de  traitement,  entre  le  9 septembre 2024 et le 31 octobre 2024 dans le cadre des échanges prévus à l'issue de la publication de l'horaire de service. Ceci doit permettre une meilleure prise en compte du plan de transport du client.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 167 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 (*) La modification s'entend ici comme impactant ou pouvant impacter le tracé du sillon-jour concerné (par exemple, suite à une modification du convoi, du parcours ou des horaires).
 
 Le montant de cet acompte est facturé sur la base du barème applicable et est ventilé par mois de prestation.  Pour  l'activité  TAGV,  la  valorisation  de  l'acompte  est  basée  sur  les  caractéristiques  de l'engin de référence du sillon en version US.
 
-## 2) Une facture de provision en (M-2) est émise pour les prestations du mois M (pour les sillonsjours dont la date de départ est courant le mois M).
+## [section_header] 2) Une facture de provision en (M-2) est émise pour les prestations du mois M (pour les sillonsjours dont la date de départ est courant le mois M).
 
 Cette facture est calculée sur la base des sillons-jours attribués et de leur taux d'utilisation estimé au vu de l'activité passée. En outre, la part mensuelle de l'acompte sur le mois M est déduite de la facture de provision. Pour l'activité TAGV, la valorisation de la provision est basée sur les caractéristiques de l'engin de référence du sillon en version US.
 
-## 3) Une facture de régularisation à partir du 10 du mois (M+1) est établie sur la base des sillonsjours arrêtée le même jour.
+## [section_header] 3) Une facture de régularisation à partir du 10 du mois (M+1) est établie sur la base des sillonsjours arrêtée le même jour.
 
 Le montant provisionnel déjà facturé en (M-2) est déduit de la facture de régularisation. Pour l'activité TAGV, le montant de régularisation de la redevance de marché tient compte de l'emport théorique basé sur les caractéristiques de l'engin de référence du sillon ainsi que sur la composition (US ou UM).
 
 Le nombre de rames (unité simple (US) ou unité multiple (UM)) est déduit du tonnage déclaré (dans le délai de déclaration précisé dans le document technique « Règles de gestion de la donnée tonnage »)).  Ainsi  un  train  est  considéré en UM pour un tonnage déclaré ⩾ à  550  tonnes et en US pour un tonnage déclaré inférieur à 550 tonnes. Cependant les rames non sécables, avec un tonnage déclaré supérieur  ou  égal  à  550  tonnes,  seront  considérés  US.  Si  le  tonnage  n'a  pas  été  déclaré  ou  la déclaration rejetée, la composition UM s'applique.
 
-<!-- image -->
-
-## Renonciation à la réservation ou non circulation de sillons-jours attribués / Pénalité
+## [section_header] Renonciation à la réservation ou non circulation de sillons-jours attribués / Pénalité
 
 En cas de renonciation avant J et H, dans les conditions ci-dessous, J étant la date programmée pour l'utilisation du sillon-jour et H l'heure de départ, SNCF Réseau régularise le montant de la RM perçu au titre de l'acompte et de la facture de provision :
 
-- -En cas de renonciation, avant J-1 17h, si le sillon-jour est inclus dans le périmètre incitatif réciproque (IR), le dispositif décrit en annexe 5.8 s'applique.
-- -En cas de renonciation à partir de J-1 17h, la pénalité de renonciation tardive est appliquée à l'attributaire du sillon-jour, de 3,3 é le  skm pour les activités voyageurs. Les redevances assises sur la réservation comme sur la circulation ne sont pas dues.
+-En cas de renonciation, avant J-1 17h, si le sillon-jour est inclus dans le périmètre incitatif réciproque (IR), le dispositif décrit en annexe 5.8 s'applique.
+
+-En cas de renonciation à partir de J-1 17h, la pénalité de renonciation tardive est appliquée à l'attributaire du sillon-jour, de 3,3 é le  skm pour les activités voyageurs. Les redevances assises sur la réservation comme sur la circulation ne sont pas dues.
 
 En cas de non-circulation, la pénalité de non-circulation est appliquée à l'attributaire du sillon-jour, de 3,6 é le tkm pour les activités voyageurs. Cette pénalité est cumulable avec les redevances assises sur la réservation, comme la redevance de marché.  Les redevances assises sur la circulation, comme la redevance de circulation, ne sont pas dues.
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+<!-- page: 168 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 Le candidat est exonéré de la pénalité de renonciation tardive et de la pénalité de non-circulation dans les cas de force majeure, tels que définis à l'article 21 des conditions générales du contrat d'utilisation de l'infrastructure et du contrat d'attribution de sillons (annexe 3.1 du DRR).
 
-- Dispositif applicable aux entreprises ferroviaires ou autres candidats de voyageurs conventionnés
+Dispositif applicable aux entreprises ferroviaires ou autres candidats de voyageurs conventionnés
 
 La redevance de marché est acquittée par le client attributaire de la capacité, en trois temps :
 
-## 1) Une facture d'acompte en novembre 2024
+## [section_header] 1) Une facture d'acompte en novembre 2024
 
 Un acompte de 15% du montant forfaitaire pour l'HDS 2025 par AOM de la RM est facturé à chaque client conformément à la méthodologie décrite au point 5.3.4.2.
 
-## 2) Une facture de provision en (M-2) est émise pour les prestations du mois M
+## [section_header] 2) Une facture de provision en (M-2) est émise pour les prestations du mois M
 
 Cette facture est calculée comme le douzième du montant forfaitaire pour l'HDS 2025 par AOM. Elle est facturée à chaque client conformément à la méthodologie décrite au point 5.3.4.2 En outre, un douzième de l'acompte est déduite de la facture de provision.
 
-## 3) Une facture de régularisation à partir du premier trimestre de A+1
+## [section_header] 3) Une facture de régularisation à partir du premier trimestre de A+1
 
 Un bilan des sillon km réalisés est effectué. Suivant l'écart entre ce bilan et le volume de référence, une régularisation pourra être appliquée, suivant les conditions prévues au point  5.3.4.2 Les montants provisionnels déjà facturés seront déduits. La facture de régularisation est facturée à chaque client conformément à la méthodologie décrite au point 5.3.4.2.
 
 En outre, SNCF Réseau se réserve le droit de procéder à une actualisation du montant de la redevance de marché en cas de transfert de ligne entre AOM et/ou en cas de transfert de ligne prévue à l'article L2111-1-1 du Code des transports.
 
-## Renonciation à la réservation ou non circulation de sillons-jours attribués / Pénalité
+## [section_header] Renonciation à la réservation ou non circulation de sillons-jours attribués / Pénalité
 
 En cas de renonciation avant J et H, dans les conditions ci-dessous, J étant la date programmée pour l'utilisation du sillon-jour et H l'heure de départ, SNCF Réseau régularise le montant de la RM perçu au titre de l'acompte et de la facture de provision :
 
-- -En cas de renonciation, avant J-1 17h, si le sillon-jour est inclus dans le périmètre incitatif réciproque (IR), le dispositif décrit en annexe 5.8 s'applique.
-- -En cas de renonciation à partir de J-1 17h, la pénalité de renonciation tardive est appliquée à l'attributaire du sillon-jour, de 3,3 é le  skm pour les activités voyageurs. Les redevances assises sur la réservation comme sur la circulation ne sont pas dues. Les skm du sillon-jour annulé ne sont compatibilisés pour les paramètres de calcul de la régularisation du forfait visé au point 5.3.4.2.
+-En cas de renonciation, avant J-1 17h, si le sillon-jour est inclus dans le périmètre incitatif réciproque (IR), le dispositif décrit en annexe 5.8 s'applique.
+
+-En cas de renonciation à partir de J-1 17h, la pénalité de renonciation tardive est appliquée à l'attributaire du sillon-jour, de 3,3 é le  skm pour les activités voyageurs. Les redevances assises sur la réservation comme sur la circulation ne sont pas dues. Les skm du sillon-jour annulé ne sont compatibilisés pour les paramètres de calcul de la régularisation du forfait visé au point 5.3.4.2.
 
 En cas de non-circulation, la pénalité de non-circulation est appliquée à l'attributaire du sillon-jour, de 3,6 é le tkm pour les activités voyageurs. Cette pénalité est cumulable avec les redevances assises sur la réservation. Les redevances assises sur la circulation, comme la redevance de circulation, ne sont pas dues. Les skm du sillon-jour sont bien compatibilisés pour les paramètres de calcul de la régularisation du forfait visé au point 5.3.4.2.
 
 Le candidat est exonéré de la pénalité de renonciation tardive et de la pénalité de non-circulation dans les cas de force majeure, tels que définis à l'article 21 des conditions générales du contrat d'utilisation de l'infrastructure et du contrat d'attribution de sillons.
 
-## 5.9.1.5 Redevance d'accès (RA)
+## [section_header] 5.9.1.5 Redevance d'accès (RA)
 
 Le montant de la redevance d'accès est acquitté mensuellement par douzième, à terme à échoir, par Ile de France Mobilités pour l'activité voyageurs conventionnée par l'AOM Ile de France Mobilités, par l'Etat pour l'activité voyageurs conventionnée par l'AOM Etat et au titre des régions pour les activités voyageurs  conventionnées  par  des  AOM,  hors  AOM  Ile  de  France  Mobilités  et  Etat.  Les  factures doivent être acquittées au plus tard le 15 de chaque mois, de décembre 2024 à novembre 2025.
 
-## 5.9.1.6 Redevances particulières (RP)
+<!-- page: 169 -->
+
+## [section_header] 5.9.1.6 Redevances particulières (RP)
 
 Les  redevances  particulières,  listées  au  point  5.3.6,  sont  facturées  aux  clients  attributaires  de  la capacité.
 
 La facturation de ces redevances se fait en 2 étapes :
 
-- -Une première facture de provision en (M-2);
-- -Une seconde de régularisation en (M+1).
+-Une première facture de provision en (M-2);
 
-## 5.9.1.7 Redevances de saturation (RS)
+-Une seconde de régularisation en (M+1).
+
+## [section_header] 5.9.1.7 Redevances de saturation (RS)
 
 La  redevance  de  saturation  est  acquittée  par  l'attributaire  du  sillon,  entreprise  ferroviaire  ou  autre candidat. La redevance est facturée sur la base du sillon théorique, selon l'heure théorique de passage aux PR considérés, à une fréquence mensuelle.
 
 En cas d'attribution du sillon sur une section de ligne déclarée prévisible puis en saturation constatée, l'ensemble  des  redevances  lié  au  sillon  (hors  redevances  liées  à  la  circulation) est exigible immédiatement.  En  cas  d'annulation  ou  de  modification  substantielle  par  le  client  postérieure  à l'attribution, le montant de ces redevances reste dû à 100%.
 
-## 5.9.2 FACTURATION DES PRESTATIONS COMPLÉMENTAIRES SUR VOIES PRINCIPALES
+## [section_header] 5.9.2 FACTURATION DES PRESTATIONS COMPLÉMENTAIRES SUR VOIES PRINCIPALES
 
 Les redevances pour les prestations complémentaires sur voies principales décrites au point 5.4 sont acquittées suivant les modalités ci-dessous.
 
-## 5.9.2.1 Redevance pour les prestations complémentaires de service SI
+## [section_header] 5.9.2.1 Redevance pour les prestations complémentaires de service SI
 
 Les accès aux services SI sont facturés annuellement à terme échu (avril A+1) au candidat. Les tarifs étant fixés pour un HDS, le calcul du prix d'un accès créé ou supprimé en cours d'HDS se fait au prorata temporis. Pour tout accès ouvert ou supprimé le mois M, le mois entier est dû.
 
 Les formations aux services SI sont facturées au fil de l'eau, sur la base des prestations réalisées dans les conditions définies au catalogue des formations SI.
 
-## 5.9.2.2 Redevance pour l'ouverture supplémentaires des lignes, gares et postes non ouverts en permanence
+## [section_header] 5.9.2.2 Redevance pour l'ouverture supplémentaires des lignes, gares et postes non ouverts en permanence
 
 La  facturation  de  cette  redevance  se  fait  trimestriellement,  sur  la  base  des  devis  fournis  par SNCF Réseau et acceptés par le client.
 
-## 5.9.2.3 Redevance pour la fourniture de courant de traction électrique (RFE)
+## [section_header] 5.9.2.3 Redevance pour la fourniture de courant de traction électrique (RFE)
 
 Cette  redevance  ne  concerne  que  les  clients  «  entreprises  ferroviaires  »  qui  font  le  choix  de s'approvisionner en électricité de traction chez SNCF Réseau.
 
 Pour un mois de prestation M, le montant de cette redevance prend en compte :
 
-- -Pour la partie du parc télérelevé par DECOFER ou par un autre système de télé-relevage communiquant avec DECOFER, la consommation en kWh relative au mois M ;
-- -Et par défaut pour la partie du parc non télérelevé, la consommation estimée en kWh des circulations réelles de l'ensemble du parc électrique concerné, établies à partir du journal de circulation fourni par ORES, dont la date de départ est courant le mois M.
+-Pour la partie du parc télérelevé par DECOFER ou par un autre système de télé-relevage communiquant avec DECOFER, la consommation en kWh relative au mois M ;
 
-## CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
+-Et par défaut pour la partie du parc non télérelevé, la consommation estimée en kWh des circulations réelles de l'ensemble du parc électrique concerné, établies à partir du journal de circulation fourni par ORES, dont la date de départ est courant le mois M.
+
+<!-- page: 170 -->
+
+## [section_header] CHAPITRE 5 - SERVICES ET TARIFICATION CHAPITRE 5 - SERVICES ET TARIFICATION
 
 Dans le cas où une entreprise ferroviaire résilie de façon anticipée son engagement d'approvisionnement  en  courant  de  traction  auprès  de  SNCF  Réseau,  une  pénalité  est  facturée conformément au point 5.4.3, le mois suivant la fin du préavis.
 
-- 5.9.2.4 Redevance pour prestation optionnelle de coordination de gestion des situations de crise
+5.9.2.4 Redevance pour prestation optionnelle de coordination de gestion des situations de crise
 
 La facturation de cette redevance se fait au fil de l'eau sur la base des prestations réalisées.
 
-## 5.9.3 FACTURATION DES PRESTATIONS CONNEXES SUR VOIES PRINCIPALES
+## [section_header] 5.9.3 FACTURATION DES PRESTATIONS CONNEXES SUR VOIES PRINCIPALES
 
-- 5.9.3.1 Redevance pour la réalisation d'études de faisabilité internationale
+5.9.3.1 Redevance pour la réalisation d'études de faisabilité internationale
 
 La facturation de cette redevance se fait au fil de l'eau sur la base des études réalisées.
 
-- 5.9.3.2 Redevance pour la réalisation d'études préalables à la demande d'ATE pour les TEPE La facturation de cette redevance se fait au fil de l'eau sur la base des études réalisées.
-- 5.9.3.3 Redevance pour les services de communications ferroviaires de liaison radio GSM (GSM-R et GSM-GFU ARES) avec les trains.
+5.9.3.2 Redevance pour la réalisation d'études préalables à la demande d'ATE pour les TEPE La facturation de cette redevance se fait au fil de l'eau sur la base des études réalisées.
+
+5.9.3.3 Redevance pour les services de communications ferroviaires de liaison radio GSM (GSM-R et GSM-GFU ARES) avec les trains.
 
 Les modalités de facturation des redevances pour les différents services GSM-R et GSM-GFU sont précisées dans le contrat spécifique conclu entre SNCF Réseau et l'entreprise ferroviaire.
 
-- 5.9.3.4 Redevance pour les services de communications ferroviaires dites « de veille »
+5.9.3.4 Redevance pour les services de communications ferroviaires dites « de veille »
 
 Ces redevances sont facturées annuellement courant janvier A+1 à l'entreprise ferroviaire, sur la base du nombre de liaisons de veille radio locale ouvertes durant l'horaire de service A.
 
-- 5.9.3.5 Redevance  pour  l'étude  et  la  délivrance  de  l'attestation  de  compatibilité  des fréquences radioélectriques
+5.9.3.5 Redevance  pour  l'étude  et  la  délivrance  de  l'attestation  de  compatibilité  des fréquences radioélectriques
 
 L'étude de compatibilité et l'attestation de compatibilité des fréquences sont facturées annuellement courant janvier A+1 à l'entreprise ferroviaire, sur la base du nombre d'études et d'attestations réalisées durant l'horaire de service A.
 
-## 5.9.4 FACTURATION DES PRESTATIONS DIVERSES
+## [section_header] 5.9.4 FACTURATION DES PRESTATIONS DIVERSES
 
-- 5.9.4.1 Remboursement des coûts de transport et de distribution de l'énergie de traction et des frais associés (RCTE - composante B)
+5.9.4.1 Remboursement des coûts de transport et de distribution de l'énergie de traction et des frais associés (RCTE - composante B)
 
 Les modalités de facturation de la RCTE (composante B) sont décrites au point 5.9.1.3.
 
-## 5.9.4.2 Redevances pour autres prestations
+## [section_header] 5.9.4.2 Redevances pour autres prestations
 
 Le mode de facturation des autres prestations de SNCF Réseau est prévu par le contrat conclu avec le client.
 
-## 5.9.5 CONDITIONS DE RÈGLEMENT ET DE CONTESTATION DES FACTURES
+## [section_header] 5.9.5 CONDITIONS DE RÈGLEMENT ET DE CONTESTATION DES FACTURES
 
 Les conditions de règlement et de contestation des factures figurent dans les conditions générales applicables  aux  contrats  d'utilisation  de  l'infrastructure  du  réseau  ferré  national  et  aux  contrats d'attribution de sillons sur le réseau ferré national (annexe 3.1).
 
-## CHAPITRE 6 EXPLOITATION FERROVIAIRE
+<!-- page: 171 -->
 
-## LISTE DES PRINCIPAUX SYSTEMES D'INFORMATION « CIRCULATION » OUVERTS AUX ENTREPRISES FERROVIAIRES
+## [section_header] CHAPITRE 6 EXPLOITATION FERROVIAIRE
+
+## [section_header] LISTE DES PRINCIPAUX SYSTEMES D'INFORMATION « CIRCULATION » OUVERTS AUX ENTREPRISES FERROVIAIRES
+
+### [TABLE]
 
 | ARTIC                       | Avis de restriction temporaire d'information aux conducteurs pour les incidents de circulation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5203,20 +6069,23 @@ Les conditions de règlement et de contestation des factures figurent dans les c
 | ORE                         | Observatoire de la régularité                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | SEE-TRAINS                  | Graphiques espace-temps (théoriques et réels)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-## 6.1 OBLIGATIONS DU GI ET DES AUTRES EXPLOITANTS FERROVIAIRES
+<!-- page: 172 -->
+
+## [section_header] 6.1 OBLIGATIONS DU GI ET DES AUTRES EXPLOITANTS FERROVIAIRES
 
 Ce chapitre décrit les principes relatifs à la gestion opérationnelle des circulations sur le réseau ferré national ainsi que les principales règles et procédures y concourant.
 
-L'application de l'ensemble de ces règles est opposable à SNCF Réseau (ci-après désigné dans ce chapitre « SGC » signifiant service chargé de la gestion des circulations) et aux exploitants ferroviaires (comprenant notamment les entreprises ferroviaires, le gestionnaire des gares « Gares &amp; Connexions » et autres GI).
+L'application de l'ensemble de ces règles est opposable à SNCF Réseau (ci-après désigné dans ce chapitre « SGC » signifiant service chargé de la gestion des circulations) et aux exploitants ferroviaires (comprenant notamment les entreprises ferroviaires, le gestionnaire des gares « Gares & Connexions » et autres GI).
 
 Ce chapitre tient notamment compte des règles en vigueur et de l'expérience de l'exploitation du réseau ferré national, il est donc amené à évoluer chaque année.
 
 La gestion opérationnelle des circulations comporte deux phases successives au cours desquelles sont mises en  uvre des dispositions spécifiques :
 
-1. Une phase opérationnelle (de J-1 17 heures jusqu'à J, 23h59) comprenant les dispositions liées à la circulation effective du train sur le réseau ferré national (point 6.3) ;
-2. Une phase post-opérationnelle (à partir de J+1) intégrant les dispositions liées à l'analyse des résultats opérationnels et au retour d'expérience (point 6.8).
+Une phase opérationnelle (de J-1 17 heures jusqu'à J, 23h59) comprenant les dispositions liées à la circulation effective du train sur le réseau ferré national (point 6.3) ;
 
-## 6.1.1 RELATIONS ENTRE SNCF RESEAU ET LES EXPLOITANTS FERROVIAIRES
+Une phase post-opérationnelle (à partir de J+1) intégrant les dispositions liées à l'analyse des résultats opérationnels et au retour d'expérience (point 6.8).
+
+## [section_header] 6.1.1 RELATIONS ENTRE SNCF RESEAU ET LES EXPLOITANTS FERROVIAIRES
 
 La relation entre SNCF Réseau et les EF se fait à travers la gestion opérationnelle des circulations. Celle-ci a pour but d'assurer la circulation des trains, des mouvements de man  uvre guidée et non guidée,  conformément  au  graphique  de  circulation  validé  par  SNCF Réseau  et  aux  conditions générales au contrat d'utilisation de l'infrastructure du RFN reprises en annexe 3.1.
 
@@ -5226,36 +6095,39 @@ Les processus de décision ne peuvent être mis en  uvre que par du personnel 
 
 Les informations relatives  à  la  circulation  théorique  (telle  que  prévue  au  graphique  de  circulation), prévisionnelle (prenant en compte la situation connue au moment de l'établissement de la prévision) et réelle des trains sont accessibles à tous les utilisateurs du réseau, de même que celles collectées dans le cadre du service d'information des EF sur la circulation de leurs trains.
 
-## 6.1.2 OBLIGATIONS DU SGC
+## [section_header] 6.1.2 OBLIGATIONS DU SGC
 
 Le SGC gère les circulations en application des réglementations en vigueur, en mettant en  uvre un système de production spécifique dénommé système de production de la circulation.
 
 Ce système permet d'exploiter l'ensemble des infrastructures de manière conforme au graphique de circulation et de manière non discriminatoire vis à vis des EF et des autres exploitants.
 
-## 6.1.2.1 Informations à la disposition du SGC
+## [section_header] 6.1.2.1 Informations à la disposition du SGC
 
 Le SGC dispose de la liste actuelle des EF en possession d'un certificat de sécurité valide pour accéder au  système  ferroviaire  national,  et  notamment  les  lignes,  les  services  de  transport  et  les  matériels roulants  exploités  par  ces  EF.  Il  en  est  de  même  pour  les  entreprises  ferroviaires  disposant  d'un certificat de sécurité unique délivré par l'autorité nationale de sécurité d'un Etat limitrophe (ou par l'agence de l'Union européenne pour les chemins de fer sur un domaine d'exploitation incluant cet Etat membre), dont le domaine d'exploitation porte sur le réseau de cet Etat membre avec extension de validité jusqu'à une gare frontière située sur le territoire national.
 
+<!-- page: 173 -->
+
 Le  SGC  a  également  connaissance  des  dispositions  particulières  ayant  un  impact  sur  la  gestion opérationnelle  des  circulations  qui  pourraient  figurer  dans  les  conditions  particulières  du  contrat d'utilisation de l'infrastructure.
 
-## 6.1.2.2 Mise à disposition de l'EF de l'ensemble des informations nécessaires à la circulation sur la ligne concernée
+## [section_header] 6.1.2.2 Mise à disposition de l'EF de l'ensemble des informations nécessaires à la circulation sur la ligne concernée
 
 Le graphique de circulation, comportant « sillons » et « capacités travaux », est réputé être connu des EF via SEE TRAINS. L'application e-HOUAT précise les informations « composition » et « horaires » associées à chaque sillon.
 
 Conformément aux modalités d'exploitation du réseau ferré national et en complément, notamment de la documentation d'exploitation et d'utilisation du réseau publiée sur DocExplore (point 3.4.7) et sur la page «Documents techniques cités dans le DRR » du site internet de SNCF Réseau, le SGC fournit en temps utile aux EF :
 
-- -Par  courriel  :  la  liste,  les  coordonnées,  les  conditions  d'appel  et  les  missions  des correspondants  du  SGC  pouvant  être  joints  par  l'EF,  au  cours  des  phases  « avant circulation » (guichet capacité) et opérationnelle (ces listes sont distribuées a minima deux (2) fois par an ou en cas d'actualisation) ;
-- -Via le SI ARTIC (abonnement obligatoire pour les EF circulant sur le RFN) : les restrictions (notamment limitations de vitesse) liées aux modifications de l'infrastructure (voie, traction électrique...), qu'elles soient permanentes ou temporaires.
+-Par  courriel  :  la  liste,  les  coordonnées,  les  conditions  d'appel  et  les  missions  des correspondants  du  SGC  pouvant  être  joints  par  l'EF,  au  cours  des  phases  « avant circulation » (guichet capacité) et opérationnelle (ces listes sont distribuées a minima deux (2) fois par an ou en cas d'actualisation) ;
 
-## 6.1.3 OBLIGATIONS DES EF
+-Via le SI ARTIC (abonnement obligatoire pour les EF circulant sur le RFN) : les restrictions (notamment limitations de vitesse) liées aux modifications de l'infrastructure (voie, traction électrique...), qu'elles soient permanentes ou temporaires.
 
-## 6.1.3.1 Désignation du correspondant opérationnel
+## [section_header] 6.1.3 OBLIGATIONS DES EF
+
+## [section_header] 6.1.3.1 Désignation du correspondant opérationnel
 
 Chaque EF  est  tenue  de  désigner  un  interlocuteur  unique  à  SNCF  Réseau.  S'il  y  a  lieu,  elle  peut désigner un interlocuteur différent pour chaque niveau du système de production de la circulation.
 
 Les EF doivent tenir à jour la liste de leurs correspondants opérationnels et aviser le SGC de toute évolution par le biais de l'adresse électronique suivante correspondants-operationnelsef@reseau.sncf.fr.
 
-## 6.1.3.2 Documentation à fournir
+## [section_header] 6.1.3.2 Documentation à fournir
 
 Préalablement  à  l'utilisation  d'un  matériel  roulant  de  voyageurs,  chaque  EF  notifie  aux  centres  de secours de la sécurité civile des départements traversés les dispositifs techniques d'intervention (DTI) à utiliser pour ce matériel.
 
@@ -5263,9 +6135,11 @@ De  même,  simultanément  à  la  mise  en  circulation  de  nouveaux  matéri
 
 A ce titre, les EF doivent transmettre ces informations à l'adresse électronique suivante relevage.dcf@sncf.fr.
 
-## 6.1.4 INFORMATIONS RELATIVES AU SUIVI DES TRAINS
+## [section_header] 6.1.4 INFORMATIONS RELATIVES AU SUIVI DES TRAINS
 
 Dans le cadre de sa mission de gestion opérationnelle des circulations, le SGC assure le suivi des trains et  fournit  aux  EF  les  informations  utiles  sur  les  conditions  de  circulation  de  leurs  trains  (accidents, incidents, limitations inopinées de vitesse…).
+
+<!-- page: 174 -->
 
 Afin de permettre aux acteurs opérationnels de prendre les mesures adaptées, par anticipation, de façon à réduire les conséquences sur le plan de transport, et à mieux informer les clients, un service de partage de l'information en direct (outil SPID) est déployé.
 
@@ -5275,9 +6149,9 @@ Le contenu et les modalités de transmission des différentes informations sont 
 
 De plus, SNCF Réseau met à disposition des EF l'information provenant des dispositifs de détection d'anomalies (détecteurs de boites chaudes, stations de détections de défauts des roues par exemple).
 
-## 6.1.5 TRAÇABILITÉ DES INFORMATIONS ET DES DÉCISIONS
+## [section_header] 6.1.5 TRAÇABILITÉ DES INFORMATIONS ET DES DÉCISIONS
 
-## 6.1.5.1 Principes
+## [section_header] 6.1.5.1 Principes
 
 Les  échanges  entre  le  personnel  désigné  de  l'EF  et  les  agents  du  SGC  chargés  de  la  gestion opérationnelle des circulations sont permanents, notamment entre le personnel opérationnel de l'EF d'une part, et les agents des postes d'aiguillage ou de régulation/coordination d'autre part.
 
@@ -5285,7 +6159,7 @@ Il  en  est  de  même pour les échanges entre le personnel désigné de l'EF e
 
 Ces échanges ne font normalement pas l'objet de traçabilité, mais cette dernière peut néanmoins être requise  lors  des  échanges  entre  les  acteurs  opérationnels  de  l'EF  désignés  par  elle  comme  ses représentants  et  ceux  de  SNCF  Réseau,  lorsqu'ils  résultent  d'obligations  d'information  ou  valent notification de la documentation d'exploitation ou d'utilisation du réseau (point 6.1.3.2). Il peut s'agir par exemple des cas de proposition de détournement, d'annonce de trains transportant des matières radioactives, d'annonces de trains longs…
 
-## 6.1.5.2 Enregistrement des communications avec le SGC et les centraux sous-stations
+## [section_header] 6.1.5.2 Enregistrement des communications avec le SGC et les centraux sous-stations
 
 Dans le cadre de la gestion opérationnelle de la circulation, les acteurs opérationnels de SNCF Réseau (CNOC,  COGC,  agents  des  postes  d'aiguillage…)  et  les  centraux  sous-stations  procèdent  à l'enregistrement  de  toutes  les  communications  en  lien  avec  l'exploitation  effectuées  à  partir  des téléphones de service, de la radio sol-train ou de la radio locale d'entreprise. Ces enregistrements constituent un traitement de données à caractère personnel portant sur les conversations des salariés des EF, ce traitement ayant pour finalité de concourir au maintien et à l'amélioration du niveau de sécurité de l'exploitation ferroviaire.
 
@@ -5297,20 +6171,25 @@ Ils sont susceptibles d'être écoutés non seulement par des personnes autoris�
 
 Il  appartient  à  chaque  EF  de  prendre  toutes  dispositions  pour  informer  son  personnel  de l'enregistrement des communications avec les acteurs opérationnels de SNCF RESEAU et des droits susmentionnés. Considérant l'objet pour lequel SNCF RÉSEAU accepte que les EF puissent accéder à
 
+<!-- page: 175 -->
+
 ces enregistrements, SNCF Réseau rend compte, en toute transparence, à la demande de l'EPSF, des autorisations d'accès aux enregistrements accordées aux EF par le SGC.
 
-## 6.2 PRINCIPES D'EXPLOITATION
+## [section_header] 6.2 PRINCIPES D'EXPLOITATION
 
 Les principales missions de gestion opérationnelle des circulations de SNCF Réseau sont les suivantes :
 
-- -Le tracé d'itinéraires, hormis la man  uvre d'installations de sécurité considérées comme simples ;
-- -Le suivi et l'ordonnancement des circulations, réalisées pour l'essentiel dans les centres opérationnels de gestion des circulations (COGC, CNOC) ;
-- -La veille opérationnelle de sécurité, la prise de mesures conservatoires en cas d'incidents ou de risque potentiel pour la sécurité, ainsi que l'information des autorités externes ;
-- -La coordination de la gestion des situations de crise (document technique « Coordination de la gestion des situations de crise »).
+-Le tracé d'itinéraires, hormis la man  uvre d'installations de sécurité considérées comme simples ;
+
+-Le suivi et l'ordonnancement des circulations, réalisées pour l'essentiel dans les centres opérationnels de gestion des circulations (COGC, CNOC) ;
+
+-La veille opérationnelle de sécurité, la prise de mesures conservatoires en cas d'incidents ou de risque potentiel pour la sécurité, ainsi que l'information des autorités externes ;
+
+-La coordination de la gestion des situations de crise (document technique « Coordination de la gestion des situations de crise »).
 
 Les règles détaillées sont décrites dans le document d'utilisation du réseau «  Règles de la GOC » dont  la  prise  de  connaissance  est  indispensable  en  complément  de  ce  chapitre  6.  Il  est  cité  de nombreuses fois dans le présent document.
 
-## 6.2.1 LANGUE
+## [section_header] 6.2.1 LANGUE
 
 La langue utilisée dans le cadre de la gestion opérationnelle des circulations est la langue française, sauf sur certaines sections frontières où l'usage d'une autre langue peut être prévu. Les consignes locales  d'exploitation  de  ces  sections  précisent  la  langue  dans  laquelle  ces  communications  sont effectuées.
 
@@ -5320,9 +6199,9 @@ Ces  connaissances  doivent  lui  permettre  de  communiquer  activement  et  ef
 
 Le conducteur doit notamment être capable d'utiliser les messages et la méthode de communication spécifiés dans les STI « Exploitation ».
 
-## 6.2.2 OPERATIONS PREALABLES À LA CIRCULATION DES TRAINS
+## [section_header] 6.2.2 OPERATIONS PREALABLES À LA CIRCULATION DES TRAINS
 
-## 6.2.2.1 Déclaration de composition réelle du convoi par l'EF
+## [section_header] 6.2.2.1 Déclaration de composition réelle du convoi par l'EF
 
 Les EF doivent obligatoirement mettre à disposition des opérateurs de la circulation les informations sur la composition réelle des trains qu'elles font circuler chaque jour dans les sillons attribués.
 
@@ -5331,6 +6210,8 @@ La liste des données à déclarer (tonnage réel, transports particuliers de ty
 La déclaration de composition réelle du train doit être effectuée avant le départ de la circulation (et à chaque remaniement), suffisamment à temps pour permettre le départ dans de bonnes conditions.
 
 Elle doit être réalisée via un flux informatique normé STI ou via l'interface du SI DINAMIC (qui est alimenté par les données HOUAT et dispose ainsi de l'ensemble des sillons devant circuler un jour donné), par les EF fret et voyageurs. Les déclarations non conformes tant sur le format que sur le contenu seront considérées comme n'ayant pas été effectuées.
+
+<!-- page: 176 -->
 
 Les EF utilisant le flux devront utiliser a minima les versions françaises des messages TCO 2.1.6 pour les activités fret et PTC 2.1.6 pour les activités voyageurs. Le contenu de ces messages est présenté dans un fichier téléchargeable sur la page «Documents cités dans le DRR » du site SNCF Réseau. Tout changement de version de message sera notifié par SNCF Réseau avec un préavis minimum de six (6) mois.
 
@@ -5344,7 +6225,7 @@ Lorsque SNCF Réseau constate ou est informé que les caractéristiques ou la co
 
 Afin  d'inciter  les  EF  au  respect  de  l'obligation  de  déclaration  de  composition  réelle  des  trains,  un dispositif de possible retenue de train avant départ est défini au point 5.6.7.4.
 
-## 6.2.2.2 Demande d'acceptation de non-conformité
+## [section_header] 6.2.2.2 Demande d'acceptation de non-conformité
 
 Dès lors que l'EF détecte avant départ une possible dégradation de la performance du sillon ou une modification liée à un arrêt, elle doit demander l'acceptation de la circulation de son train au SGC, au moyen du processus de demande d'acceptation de non-conformité (DANC).
 
@@ -5356,19 +6237,23 @@ Le SGC peut refuser la DANC, en particulier si les conséquences en termes de ci
 
 Ce processus est décrit dans le texte «  Règles de la GOC ».
 
-## 6.2.2.3 Modifications liées au régime et horaires du sillon
+## [section_header] 6.2.2.3 Modifications liées au régime et horaires du sillon
 
 Par principe, le train circule conformément aux particularités associées au sillon alloué.
 
 En cas de divergence entre le régime, l'itinéraire ou les horaires du sillon et la circulation effective d'un train dans ce sillon, il appartient à l'EF de demander à SNCF Réseau la modification du régime du sillon, suivant l'un des cas ci-après :
 
-- -La  régularisation  (totale  ou  partielle) :  cas d'un train inscrit dans un  sillon facultatif et circulant effectivement sur tout ou partie du parcours du sillon facultatif ;
-- -La dérégularisation (totale ou partielle) : cas d'un train régulier ne circulant pas sur tout ou partie du parcours du sillon régulier, le sillon sur le parcours non utilisé restant réservé et devenant facultatif le jour considéré ;
+-La  régularisation  (totale  ou  partielle) :  cas d'un train inscrit dans un  sillon facultatif et circulant effectivement sur tout ou partie du parcours du sillon facultatif ;
 
-- -La suppression (totale ou partielle) : cas d'un sillon, régulier ou facultatif, supprimé sur tout ou partie du parcours pour un jour considéré. La capacité correspondante n'est alors plus maintenue à la disposition de l'EF ;
-- -La substitution : cas du sillon à substituer pour le tracé d'un nouveau sillon demandé, à condition que les caractéristiques du train du sillon demandé soient identiques à celles du sillon à substituer. Le demandeur précise dans ce cas les caractéristiques obligatoires et en particulier l'origine et le terminus du sillon à créer.
+-La dérégularisation (totale ou partielle) : cas d'un train régulier ne circulant pas sur tout ou partie du parcours du sillon régulier, le sillon sur le parcours non utilisé restant réservé et devenant facultatif le jour considéré ;
 
-## 6.2.2.4 Opérations non prévues au sillon (mouvement de man  uvre guidé, mouvement non tracé de man  uvre non guidé, croisement de rames, train plus long que prévu…)
+<!-- page: 177 -->
+
+-La suppression (totale ou partielle) : cas d'un sillon, régulier ou facultatif, supprimé sur tout ou partie du parcours pour un jour considéré. La capacité correspondante n'est alors plus maintenue à la disposition de l'EF ;
+
+-La substitution : cas du sillon à substituer pour le tracé d'un nouveau sillon demandé, à condition que les caractéristiques du train du sillon demandé soient identiques à celles du sillon à substituer. Le demandeur précise dans ce cas les caractéristiques obligatoires et en particulier l'origine et le terminus du sillon à créer.
+
+## [section_header] 6.2.2.4 Opérations non prévues au sillon (mouvement de man  uvre guidé, mouvement non tracé de man  uvre non guidé, croisement de rames, train plus long que prévu…)
 
 La préparation du train au point origine du sillon ainsi que les opérations effectuées lors des arrêts en cours de route et à l'arrivée au point terminus du sillon peuvent nécessiter l'exécution par l'EF de services de man  uvre (y compris la man  uvre des installations de sécurité) par ses propres moyens.
 
@@ -5386,21 +6271,27 @@ Outre une description fonctionnelle des installations utiles à la production de
 
 Ces règles, établies en concertation avec les Entreprises Ferroviaires utilisant le site, s'imposent à tous les utilisateurs.
 
-## 6.3 REGLES DE LA GESTION OPERATIONNELLE DES CIRCULATIONS
+## [section_header] 6.3 REGLES DE LA GESTION OPERATIONNELLE DES CIRCULATIONS
 
-## 6.3.1 PRINCIPES
+## [section_header] 6.3.1 PRINCIPES
 
 La  gestion  opérationnelle  des  circulations  est  organisée  par  le  SGC  à  différents  niveaux  de responsabilité :
 
-- -Un  niveau  local  :  postes  de  commande  contrôle  des  installations  d'aiguillage  et  de signalisation, secteurs circulations (SC) (*) ;
-- -Un niveau territorial : le centre opérationnel de gestion des circulations (COGC) (*) ;
-- -Un niveau national : le centre national des opérations circulation (CNOC).
+-Un  niveau  local  :  postes  de  commande  contrôle  des  installations  d'aiguillage  et  de signalisation, secteurs circulations (SC) (*) ;
 
-## CHAPITRE 6 - EXPLOITATION FERROVIAIRE
+-Un niveau territorial : le centre opérationnel de gestion des circulations (COGC) (*) ;
+
+-Un niveau national : le centre national des opérations circulation (CNOC).
+
+<!-- page: 178 -->
+
+## [section_header] CHAPITRE 6 - EXPLOITATION FERROVIAIRE
 
 (*)  :  les  niveaux  «  local  »  et  «  territorial  »  peuvent  être  regroupés  physiquement  en  commande centralisée  du  réseau  (CCR)  et  équivalent.  Certaines  fonctions  ont  alors  une  autre  dénomination précisée dans le texte.
 
 Le tableau ci-dessous fixe pour chacun des niveaux de responsabilité les missions lui incombant. Cellesci étant ensuite décrites plus finement :
+
+### [TABLE]
 
 | Mission   | Structure et Acteur                        | Local (Poste d'aiguillage)   | Local (Poste d'aiguillage)   | Territorial (COGC, CCR ou equivalent)   | Territorial (COGC, CCR ou equivalent)   | National (CNoC)              | National (CNoC)            |
 |-----------|--------------------------------------------|------------------------------|------------------------------|-----------------------------------------|-----------------------------------------|------------------------------|----------------------------|
@@ -5411,7 +6302,15 @@ Le tableau ci-dessous fixe pour chacun des niveaux de responsabilité les missio
 | 4         | Regulation                                 |                              | o                            |                                         |                                         |                              |                            |
 | 5         | Coordination d'axe                         |                              |                              |                                         |                                         |                              |                            |
 
-## 6.3.1.1 Commande des installations
+(1) Acteur en charge des décisions du SGC
+
+X Mission exercée par un responsable unique d = Mission déleguee
+
+Mission systematique assurée a differents niveaux de responsabilité
+
+O Mission assuree en tant que de besoin
+
+## [section_header] 6.3.1.1 Commande des installations
 
 L'agent-circulation  (AC)  organise  la  circulation  sur  son  secteur-circulation  (SC)  et  anticipe  son déroulement de manière à pouvoir prendre les mesures imposées par les circonstances ou provoquer leur mise en  uvre selon qu'elles sont de son niveau de compétence ou non. Dans certains postes, l'agent-circulation est renforcé d'un ou plusieurs aiguilleurs. Dans les grands ensembles ferroviaires, l'agent-circulation peut être placé sous l'autorité d'un chef circulation (CCL).
 
@@ -5419,36 +6318,39 @@ Dans les cas précisés par les consignes locales d'exploitation, la man  uvre
 
 L'agent-circulation  ou  le  chef  circulation  possèdent  des  moyens  de  liaison  qui  leur  permettent  de joindre les convois de l'EF ou d'être joints par eux (soit de manière permanente par la radio sol-train sur  les  lignes  où  ce  dispositif  est  installé,  soit  de  manière  ponctuelle  par  les  différents  téléphones implantés le long des voies).
 
-## 6.3.1.2 Suivi actif de la circulation et reporting
+## [section_header] 6.3.1.2 Suivi actif de la circulation et reporting
 
 Ces missions fondamentales conditionnent la qualité du service fourni par la gestion opérationnelle des  circulations  et  la  fourniture  des  services  obligatoires  aux  EF,  notamment  l'information  sur  la circulation de leurs trains.  Permanentes et systématiques, elles sont confiées à tous les niveaux de production et adaptées aux besoins de l'exploitation du réseau dans le respect des normes de service applicables sur le réseau.
 
 Le  suivi  actif  consiste  à  confronter  en  permanence  le  sillon  théorique  et  sa  circulation  réelle  pour détecter les écarts, d'en analyser leurs impacts et de trouver des solutions.
 
+<!-- page: 179 -->
+
 Les acteurs réalisant cette mission :
 
-## ● L'agent-circulation (ou le chef de ligne sur les lignes où cette fonction existe, ou le chef circulation)
+## [section_header] ● L'agent-circulation (ou le chef de ligne sur les lignes où cette fonction existe, ou le chef circulation)
 
 Grâce aux indications des moyens mis à sa disposition permettant de connaître la circulation réelle, il confronte les résultats obtenus à la situation théorique pour déterminer les écarts, expliciter leur origine (selon sa connaissance) et réagir selon ses prérogatives en la matière (différentes selon qu'il est situé ou non sur ligne régulée, et soumis ou non à coordination locale).
 
-- o Sur ligne régulée, le régulateur assure la mission de suivi actif de la circulation de manière autonome, par délégation du Coordonnateur du COGC, et alerte au besoin ce dernier.
-- o Sur  LGV,  par  délégation  du  Coordonnateur  National,  le  CODAX  réalise  le  suivi  actif  de  la circulation.
+o Sur ligne régulée, le régulateur assure la mission de suivi actif de la circulation de manière autonome, par délégation du Coordonnateur du COGC, et alerte au besoin ce dernier.
+
+o Sur  LGV,  par  délégation  du  Coordonnateur  National,  le  CODAX  réalise  le  suivi  actif  de  la circulation.
 
 Les acteurs assurant un suivi global permanent :
 
-## ● Le coordonnateur du COGC
+## [section_header] ● Le coordonnateur du COGC
 
 Il  exerce un suivi permanent, exploitant les indications fournies par ses outils et les avis reçus pour exercer une surveillance précise sur une zone d'action de son territoire opérationnel (COGC, CCR...). Il  est  notamment  à  l'origine  du  déclenchement  de  processus  opérationnels  tels  que  rétention, détournement,  mise  en  uvre  des  règles  de  restriction  de  capacité,  engagement  de  moyens  de secours  ou  de  relevage  éventuellement  mis  à  disposition  par  les  EF,  demande  d'intervention extérieure, avis, etc… Il est l'un des interlocuteurs du conducteur en cas de retard en ligne.
 
-## ● Le coordonnateur national
+## [section_header] ● Le coordonnateur national
 
 Au sein du CNOC, il exerce un suivi permanent global sur l'ensemble du réseau ferré national et réagit aux avis reçus (généralement d'un coordonnateur du COGC) pour exercer une surveillance plus précise sur une zone critique nécessitant une intervention à son niveau. Il est à l'origine du déclenchement de processus  conséquents  tels  que  le  pilotage  direct  d'un  incident  à  impact  supra  territorial,  la coordination des mesures à prendre par les COGC, les avis...
 
-## 6.3.1.3 Coordination locale
+## [section_header] 6.3.1.3 Coordination locale
 
 Dans certains ensembles ferroviaires à forte densité de trafic, la gestion opérationnelle des circulations ne peut être effectuée de manière efficace par le régulateur. Ces ensembles constituent des centrescirculation (ou secteur de coordination (SCo) en CCR ou équivalent) dans lesquels la coordination de la circulation est exercée par un chef circulation (CCL). L'exercice de cette mission implique un suivi actif de la circulation sur l'ensemble ferroviaire concerné.
 
-## 6.3.1.4 Régulation
+## [section_header] 6.3.1.4 Régulation
 
 Sur les lignes les plus chargées du réseau où les enjeux ne peuvent se satisfaire des résultats de la seule  mission  de  suivi  actif  exercé  par  le  coordonnateur  du  COGC,  il  est  adjoint  à  celui-ci  un  ou plusieurs régulateurs.
 
@@ -5456,7 +6358,9 @@ Ceux-ci prennent en charge sur leurs zones le suivi et l'ordonnancement des circ
 
 En complément de cette action préventive, le régulateur est chargé de prendre les mesures palliatives lors  d'événements  contrariant  la  circulation.  Il  assure  également  les  missions  de  sécurité  que  la réglementation met à sa charge.
 
-## 6.3.1.5 Missions au sein du CNOC
+<!-- page: 180 -->
+
+## [section_header] 6.3.1.5 Missions au sein du CNOC
 
 Sur les Lignes à Grandes Vitesse et les axes du réseau où le trafic de longue distance est important et constitue un enjeu fort, il peut être nécessaire d'adjoindre au coordonnateur national du CNOC un coordinateur d'axe (CODAX).
 
@@ -5470,7 +6374,7 @@ Le Superviseur TLP, en relation directe avec l'ensemble des CRC et les opérateu
 
 L'ensemble de ces circulations est repéré et visible par tous les COGC dans l'outil GALITE.
 
-## 6.3.2 GESTION OPERATIONNELLE EN SITUATION NORMALE
+## [section_header] 6.3.2 GESTION OPERATIONNELLE EN SITUATION NORMALE
 
 En  situation  nominale,  le  graphique  de  circulation  est  mis  en  uvre  par  les  agents-circulation  qui établissent les itinéraires prévus et accordent les travaux en temps utile.
 
@@ -5478,7 +6382,7 @@ La robustesse de l'exploitation ferroviaire nécessite de minimiser et de maîtr
 
 La  réalisation  fluide  de  la  circulation  théorique  peut  être  contrariée  par  un  certain  nombre d'événements  affectant  les  infrastructures,  la  production  propre  des  EF  et  par  des  événements extérieurs au réseau. La fluidité de la circulation appelle alors des interventions basées sur l'application des règles d'exploitation décrites dans les articles suivants et plus précisément dans le document « Règles de la GOC ».
 
-## 6.3.2.1 Mise en  uvre par le SGC de l'acheminement des circulations
+## [section_header] 6.3.2.1 Mise en  uvre par le SGC de l'acheminement des circulations
 
 Le SGC met en place les organisations décrites au point 6.3.1 ci-dessus et y affecte les moyens lui permettant de réaliser la circulation sur la base des capacités allouées à l'EF par SNCF Réseau, et des aléas normaux de l'exploitation.
 
@@ -5486,7 +6390,9 @@ Cette  préparation  concerne  notamment  l'ouverture  des  lignes  (comprenant 
 
 Le SGC met en  uvre une organisation particulière pour les aléas importants de circulation.
 
-## A. La déclaration train prêt / train non prêt
+<!-- page: 181 -->
+
+## [section_header] A. La déclaration train prêt / train non prêt
 
 Tout train prêt à accéder au RFN pour la première fois via un sillon, après les arrêts en cours de route si  modification de la composition, doit, outre la déclaration de composition réelle décrite au point 6.2.2.1 ci-dessus, faire l'objet d'une « déclaration de train prêt » au SGC, auprès du secteur circulation autorisant l'accès au RFN. La déclaration de train prêt a pour but de signaler au SGC qu'il peut prendre en charge (ou reprendre en charge après un arrêt) la circulation du train.
 
@@ -5494,29 +6400,41 @@ Sur certains sites, désignés dans les consignes locales d'exploitation, la dé
 
 Courant 2025, dans les sites pour lesquels la consigne locale d'exploitation le prévoit et selon les modalités correspondantes, l'EF doit utiliser le message « Train Ready Message » , via un flux SI dans l'Interface Commune, pour les déclarations de train prêt et les déclarations de train non prêt, selon les règlements UE n° 1305/2014 CE du 11 décembre 2014 (STI TAF) et n° 454/2011 CE du 5 mai 2011 (STI TAP).
 
-## B. Départ à l'heure (H00)
+## [section_header] B. Départ à l'heure (H00)
 
-Le management de la ponctualité au départ et de la régularité des trains concoure à la robustesse de l'exploitation et à la performance du système ferroviaire. Pour être à l'heure, chaque seconde compte : elle  se  mesure  à  0  minute.  Cette  robustesse  se  travaille  à  chaque  étape  du  parcours,  à  toutes  les échelles de temps et est conditionnée par la performance de l'ensemble des acteurs impliqués : SNCF Réseau, SNCF Gares &amp; Connexions et les EF. Dans ce cadre, neuf (9) standards ont été définis et chaque EF s'engage à les respecter afin de garantir le départ à l'heure de ses trains dans les complexes voyageurs.
+Le management de la ponctualité au départ et de la régularité des trains concoure à la robustesse de l'exploitation et à la performance du système ferroviaire. Pour être à l'heure, chaque seconde compte : elle  se  mesure  à  0  minute.  Cette  robustesse  se  travaille  à  chaque  étape  du  parcours,  à  toutes  les échelles de temps et est conditionnée par la performance de l'ensemble des acteurs impliqués : SNCF Réseau, SNCF Gares & Connexions et les EF. Dans ce cadre, neuf (9) standards ont été définis et chaque EF s'engage à les respecter afin de garantir le départ à l'heure de ses trains dans les complexes voyageurs.
 
 Ces  standards  (ci-après  désignés  « standards  H00  Système  Gare  +  Ligne »)  sont  décrits  dans  le document « Livret des 9 standards Gare Ligne H00 Système », qui précise les attendus et les différents niveaux de maturité. Ce document est publié sur la page « Documents techniques cités dans le DRR ».
 
-- Les standards de conception
--  Recueil d'exploitation
--  Robus'test
--  Horairisation des mouvements locaux
--  GOV H00
-- Les standards H00 opérationnels
--  Mesure
--  Rituels intermétiers
--  Chronogramme
--  Main courante
--  Supervision du complexe
+Les standards de conception
+
+ Recueil d'exploitation
+
+ Robus'test
+
+ Horairisation des mouvements locaux
+
+ GOV H00
+
+Les standards H00 opérationnels
+
+ Mesure
+
+ Rituels intermétiers
+
+ Chronogramme
+
+ Main courante
+
+ Supervision du complexe
 
 Le contenu des standards, leur déploiement et les objectifs associés sont pilotés par SNCF Réseau et leur mise en  uvre implique tous les acteurs du système sur site et sur les territoires.
 
 Pour améliorer la performance d'exploitation, via notamment le déploiement de ces standards, SNCF Réseau  propose  également  des  prestations  optionnelles,  décrites  dans  le  catalogue  d'offres  de services.
 
-## C. Acceptation de la circulation d'un train en avance
+<!-- page: 182 -->
+
+## [section_header] C. Acceptation de la circulation d'un train en avance
 
 La  circulation  d'un  train  en  avance  est  soumise  aux  prescriptions  de  sécurité  prévues  par  la réglementation technique de sécurité et la documentation d'exploitation.
 
@@ -5524,10 +6442,11 @@ La circulation d'un train en avance fait l'objet d'un accord explicite du SGC qu
 
 L'avantage résultant de la circulation en avance ne doit pas être source de perturbations par ailleurs. De plus, elle ne garantit pas la conservation de cette avance jusqu'à destination.
 
-## D. Acceptation d'un train remis en retard du fait de l'EF, au départ de la gare origine du sillon
+## [section_header] D. Acceptation d'un train remis en retard du fait de l'EF, au départ de la gare origine du sillon
 
-- Lorsque  le  retard  est  inférieur  à  cinq  (5)  minutes  au  départ  de  la  gare  origine  du  sillon, l'acheminement est en principe garanti.
-- Lorsque le retard est supérieur à cinq (5) minutes sans excéder trois heures, le SGC s'efforce de minimiser  les  conséquences  du  retard  et  d'insérer  le  train  retardé  dans  la  circulation.  Cette recherche gagne en efficacité si l'EF a pu préaviser le SGC du retard et estimer son ampleur.
+Lorsque  le  retard  est  inférieur  à  cinq  (5)  minutes  au  départ  de  la  gare  origine  du  sillon, l'acheminement est en principe garanti.
+
+Lorsque le retard est supérieur à cinq (5) minutes sans excéder trois heures, le SGC s'efforce de minimiser  les  conséquences  du  retard  et  d'insérer  le  train  retardé  dans  la  circulation.  Cette recherche gagne en efficacité si l'EF a pu préaviser le SGC du retard et estimer son ampleur.
 
 Cette  concertation  préalable,  pour  autant  que  l'estimation  de  l'ampleur  du  retard  soit  fiable, permet  au  SGC  d'organiser  au  mieux  l'inscription  du  train  retardé  dans  le  graphique  et  de déterminer un horaire probable d'arrivée au terminus ou à un point intermédiaire.
 
@@ -5539,24 +6458,27 @@ Le train est inséré le moment venu dans la circulation, compte tenu de l'appli
 
 Dans le cas d'une détresse, le SGC doit s'efforcer de faire circuler au plus tôt le train ayant porté le secours.
 
-- Lorsque le retard est supérieur à trois (3) heures (du fait de l'EF), le droit au sillon est perdu et le SGC le supprime. Le demandeur de capacité désirant faire circuler le train doit alors présenter une demande d'un nouveau sillon. Cette règle n'est pas applicable aux trains en provenance du réseau ferré d'un autre pays et remis en retard au point de contact avec le réseau ferré national. Dans certains  cas  appropriés  (particularité  de  transport,  longs  parcours,  adaptabilité  à  un  contexte pandémique, environnemental ou social, transport de matières radioactives…), le SGC peut, après demande d'une EF, surseoir à l'application de la règle de suppression d'office en cas de retard supérieur à trois (3) heures.
+Lorsque le retard est supérieur à trois (3) heures (du fait de l'EF), le droit au sillon est perdu et le SGC le supprime. Le demandeur de capacité désirant faire circuler le train doit alors présenter une demande d'un nouveau sillon. Cette règle n'est pas applicable aux trains en provenance du réseau ferré d'un autre pays et remis en retard au point de contact avec le réseau ferré national. Dans certains  cas  appropriés  (particularité  de  transport,  longs  parcours,  adaptabilité  à  un  contexte pandémique, environnemental ou social, transport de matières radioactives…), le SGC peut, après demande d'une EF, surseoir à l'application de la règle de suppression d'office en cas de retard supérieur à trois (3) heures.
 
 Dans le cas d'un train en provenance d'un GI étranger et remis avec un retard maximum de dixhuit (18) heures, le sillon n'est pas supprimé d'office et le SGC ne revendique pas une nouvelle demande de sillon. Toutefois, le SGC s'assurera que le numéro de sillon ne génère pas un doublon.
 
-## E. Respect des conditions de remorque
+## [section_header] E. Respect des conditions de remorque
 
 Un train doit respecter les conditions de remorque garantissant une remise en marche en tout point de  la  section  de  ligne  donnée  sauf  exceptions  concertées  avec  le  SGC  et  reprises  dans  les renseignements  techniques  (RT).  Le  SGC  pourra  imposer  des  contraintes  supplémentaires  en  cas d'aléas (point 6.8.5).
 
+<!-- page: 183 -->
+
 Les conditions d'acceptation sont définies, sur une section de ligne donnée, par le respect :
 
-- -D'une charge maximale pour un train assuré avec du matériel ordinaire ;
-- -D'une motorisation minimale pour un train assuré avec du matériel spécialisé.
+-D'une charge maximale pour un train assuré avec du matériel ordinaire ;
+
+-D'une motorisation minimale pour un train assuré avec du matériel spécialisé.
 
 L'EF est informée qu'en cas de risque grave ou imminent lié au non-respect des règles de sécurité, le SGC peut décider d'immobiliser un train à titre conservatoire et doit alors en informer sans délai l'EPSF.
 
 Lorsque la dégradation de la performance d'un train par rapport au sillon réservé intervient en cours de  circulation,  le  conducteur  doit  aviser  le  SGC.  Celui-ci  en  étudie  l'impact  prévisible  et  les conséquences sur le graphique de circulation. Le SGC peut autoriser la poursuite de la circulation du train (avec retard, voire en proposant détournement) ou décider de le garer. Toute opération réalisée en cours de route, ayant une incidence sur la vitesse des circulations (essai de frein dynamique par exemple), doit être portée à la connaissance du SGC.
 
-## F. Itinéraires équivalents
+## [section_header] F. Itinéraires équivalents
 
 Le SGC fait circuler les trains par l'itinéraire prévu dans le tracé horaire du sillon attribué.
 
@@ -5564,41 +6486,53 @@ Toutefois,  à  l'intérieur  des  n  uds  ferroviaires  et  sur  les  lignes 
 
 En conséquence, les EF doivent être en capacité (connaissance de ligne, compatibilité du matériel roulant, masse de tracé…) d'emprunter l'ensemble de ces itinéraires. Pour ce faire, elles doivent se conformer  aux  prescriptions  des  renseignements  techniques  de  chaque  ligne  considérée  où  sont précisées les limites maximales sur les aspects suivants :
 
-- -Freinage des trains ;
-- -Conditions particulières de traction ;
-- -Masse maximale des trains ;
-- -Longueur maximale particulière des trains
+-Freinage des trains ;
+
+-Conditions particulières de traction ;
+
+-Masse maximale des trains ;
+
+-Longueur maximale particulière des trains
 
 Cela implique notamment que dans le cadre de deux (2) itinéraires équivalents ayant une masse de tracé maximale différente, l'EF doit se conformer au seuil le plus bas afin d'être en mesure d'emprunter l'un ou l'autre des deux itinéraires.
 
-## 6.3.2.2 Règles d'exploitation lorsque les conditions théoriques de circulation ne peuvent pas être assurées
+## [section_header] 6.3.2.2 Règles d'exploitation lorsque les conditions théoriques de circulation ne peuvent pas être assurées
 
 Tout événement avéré ou potentiel perturbant la compatibilité entre trains, ou entre trains et travaux, fait l'objet d'une détection et d'un diagnostic des conflits de la part des acteurs en charge de la veille active de la circulation.
 
-## ● Priorité de circulation entre trains
+## [section_header] ● Priorité de circulation entre trains
 
 Lors d'un conflit de circulation, des trains empruntant des sillons compatibles lors de la construction du graphique, circulent de telle manière qu'ils se gênent ou vont inévitablement se gêner.
 
-## CHAPITRE 6 - EXPLOITATION FERROVIAIRE
+<!-- page: 184 -->
+
+## [section_header] CHAPITRE 6 - EXPLOITATION FERROVIAIRE
 
 Le SGC décide, le cas échéant, d'un nouvel ordonnancement de ces trains, c'est-à-dire la modification de l'ordre dans lequel ils vont circuler.
 
 Les principes d'application de règles de priorité sont les suivants :
 
-- -L'ordonnancement ne  s'applique  que  si  celui-ci  est  physiquement  possible  (infrastructure permettant le dépassement des trains).
-- -Un train est considéré à l'heure si son retard est inférieur à cinq (5) minutes.
-- -Un train à l'heure ne peut être désheuré pour un train en retard, notamment un train de marchandises empruntant un corridor de fret.
+-L'ordonnancement ne  s'applique  que  si  celui-ci  est  physiquement  possible  (infrastructure permettant le dépassement des trains).
+
+-Un train est considéré à l'heure si son retard est inférieur à cinq (5) minutes.
+
+-Un train à l'heure ne peut être désheuré pour un train en retard, notamment un train de marchandises empruntant un corridor de fret.
 
 Cette règle n'est cependant pas absolue et le SGC peut y déroger dans l'intérêt global du trafic pour garantir la performance du système, lorsque l'application des règles précédentes devient impossible, du fait d'une dégradation significative du débit et de la fluidité du trafic qu'elles entrainent.
 
 Le traitement non discriminatoire des EF par le SGC se traduit par les règles de priorité dans les cas suivants :
 
-- -Conflits entre trains d'EF différentes :
-- Si les trains en conflit sont tous en retard, ils sont classés par ordre décroissant de vitesse (c'est la vitesse moyenne résultant du service assuré par les trains sur la section de ligne concernée qui est prise en compte).
-- En cas de nouvelle équivalence, la priorité est accordée au train transportant des voyageurs par rapport à celui n'en transportant pas.
-- Puis, en cas de nouvelle équivalence, priorité est donnée au train international.
-- Enfin, en cas de nouvelle équivalence, priorité est donnée au train dont l'horaire théorique est antérieur à celui du second (respect de l'ordre théorique).
-- -Conflits entre trains d'une même EF (dont la production est répartie entre plusieurs entités opérant chacune de manière plus ou moins autonome sur un service de transport) :
+-Conflits entre trains d'EF différentes :
+
+Si les trains en conflit sont tous en retard, ils sont classés par ordre décroissant de vitesse (c'est la vitesse moyenne résultant du service assuré par les trains sur la section de ligne concernée qui est prise en compte).
+
+En cas de nouvelle équivalence, la priorité est accordée au train transportant des voyageurs par rapport à celui n'en transportant pas.
+
+Puis, en cas de nouvelle équivalence, priorité est donnée au train international.
+
+Enfin, en cas de nouvelle équivalence, priorité est donnée au train dont l'horaire théorique est antérieur à celui du second (respect de l'ordre théorique).
+
+-Conflits entre trains d'une même EF (dont la production est répartie entre plusieurs entités opérant chacune de manière plus ou moins autonome sur un service de transport) :
 
 L'ordonnancement est réalisé selon les principes communiqués au préalable (pour un horaire de  service)  par  l'EF  concernée,  dans  la  mesure  où  ils  n'entraînent  pas  de  réduction  de  la capacité  du  réseau  et  qu'ils  sont  validés  par  le  SGC.  A  défaut  de  communication  de  tels principes, le SGC applique les règles définies ci-dessus.
 
@@ -5612,15 +6546,19 @@ Le document « Règles de la GOC » donne des précisions sur l'application de c
 
 Par ailleurs, certains trains de fret peuvent faire l'objet d'une priorisation. Il s'agit de trains de fret ayant une importance d'intérêt général pour la nation :
 
-- -Pour l'industrie (risque d'arrêt de la production).
+-Pour l'industrie (risque d'arrêt de la production).
 
-- -Pour les personnes (besoins alimentaires de première nécessité, produits frais…).
-- -Pour la santé (risque d'épidémie lié à l'usage de l'eau…).
-- -Pour des contraintes de sûreté (matières dangereuses)
+<!-- page: 185 -->
+
+-Pour les personnes (besoins alimentaires de première nécessité, produits frais…).
+
+-Pour la santé (risque d'épidémie lié à l'usage de l'eau…).
+
+-Pour des contraintes de sûreté (matières dangereuses)
 
 La circulation de ces trains se fait en cohérence avec les ouvertures des postes d'aiguillage et, en accord avec les entreprises ferroviaires concernées, en ayant recours à de possibles regroupements des trains, en batterie ou sur des périodes limitées.
 
-## ● Priorité de circulation entre trains et travaux
+## [section_header] ● Priorité de circulation entre trains et travaux
 
 Hors cas de force majeure, les capacités travaux sont normalement allouées suivant l'horaire prévu.
 
@@ -5630,18 +6568,21 @@ Par ailleurs, le mainteneur, qu'il soit SNCF Réseau ou autre GI, définit tous 
 
 Enfin, hors blanc travaux, relève de dérangement ou situation exceptionnelle, la circulation de trains de travaux sur LGV n'est pas autorisée entre les circulations de trains commerciaux.
 
-## 6.3.3 SITUATIONS PERTURBÉES ET CRISES
+## [section_header] 6.3.3 SITUATIONS PERTURBÉES ET CRISES
 
 Tout incident ou perturbation sur le RFN ne se transforme pas nécessairement en crise ferroviaire. Il convient donc de distinguer les situations perturbées et les situations de crise.
 
 La  gestion  des  situations  perturbées  et  des  crises  fait  l'objet  d'un  pilotage  et  d'une  coordination spécifiques  portant  sur  des  organisations,  des  modes  de  fonctionnement  et  des  processus  qui permettent de répondre à quatre enjeux :
 
-- -Le retour à une production ferroviaire nominale dans les meilleurs délais.
-- -La mise en place d'un dispositif efficace de prise en charge et d'information de la clientèle.
-- -L'alerte  et  l'information  en  continu  des  représentants  institutionnels  partenaires  et  de l'opinion.
-- -L'efficacité du travail avec les services publics dans les situations d'urgence.
+-Le retour à une production ferroviaire nominale dans les meilleurs délais.
 
-## 6.3.3.1 Situations perturbées
+-La mise en place d'un dispositif efficace de prise en charge et d'information de la clientèle.
+
+-L'alerte  et  l'information  en  continu  des  représentants  institutionnels  partenaires  et  de l'opinion.
+
+-L'efficacité du travail avec les services publics dans les situations d'urgence.
+
+## [section_header] 6.3.3.1 Situations perturbées
 
 Une  situation  perturbée  est  un  incident  avec  répercussion  sur  le  plan  de  transport  dont  les conséquences restent mineures et dont la gestion relève des organismes opérationnels permanents.
 
@@ -5649,25 +6590,29 @@ Le pilotage des situations perturbées relève de SNCF Réseau et ne génère pa
 
 Lorsqu'un incident survient sur le RFN, un pilote d'incident est désigné au sein du service en charge de  la  gestion  opérationnelle  des  circulations.  Il  décide  à  la  fois  de  la  stratégie  de  gestion  de  la perturbation de la circulation et de celle du retour à la situation nominale. Il informe les exploitants ferroviaires et les niveaux supérieurs du service en charge de la gestion opérationnelle des circulations.
 
+<!-- page: 186 -->
+
 Le SGC doit mesurer rapidement l'impact de toute perturbation du trafic sur le réseau ferré national, et son évolution probable. Il doit établir les prévisions de retour à la situation nominale ou à un stade intermédiaire stabilisé qu'il communique aux EF.
 
 Pour faciliter le retour à la situation nominale et optimiser la circulation, des scénarios sont établis par les EF.
 
 Ne sont pas considérés comme des incidents, au sens de ce présent point, les conflits de circulation entre trains en dehors de tout incident.
 
-## 6.3.3.2 Situations de crise
+## [section_header] 6.3.3.2 Situations de crise
 
 Une situation de crise ferroviaire se caractérise par :
 
-- -Une  perturbation  importante  de  l'exploitation  ferroviaire  occasionnant  des  dégradations majeures sur les plans de transport des EF, associée à un fort degré d'incertitude quant au retour à la situation nominale dans des délais rapides.
-- -Un risque élevé d'impact sur la clientèle et/ou l'image du système ferroviaire.
+-Une  perturbation  importante  de  l'exploitation  ferroviaire  occasionnant  des  dégradations majeures sur les plans de transport des EF, associée à un fort degré d'incertitude quant au retour à la situation nominale dans des délais rapides.
+
+-Un risque élevé d'impact sur la clientèle et/ou l'image du système ferroviaire.
 
 La gravité des incidents est évaluée sur une échelle d'un (1) à six (6). Une situation de crise est établie à  partir  du  niveau  2.  Une  ou  plusieurs  salles  de  crise  sont  ouvertes  afin  d'orienter  le  pilotage  de l'incident en prenant en compte les intérêts des GI, GG et EF concernés.
 
 SNCF Réseau assure la coordination opérationnelle de la gestion des crises au sein de salles de crise opérationnelles. Cette coordination est systématiquement réalisée en distanciel et en présentiel (dans la limite des possibilités d'accueil). Il existe deux niveaux de salles de crise opérationnelles :
 
-- -Les salles territoriales, réparties selon une maille définie par SNCF Réseau ;
-- -Une salle nationale, également appelée salle de crise du CNOF.
+-Les salles territoriales, réparties selon une maille définie par SNCF Réseau ;
+
+-Une salle nationale, également appelée salle de crise du CNOF.
 
 Les  principes  de  la  coordination  de  la  gestion  de  crise  sont  décrits  au  Chapitre  5  -  Services  et tarification  et  dans  le  document  technique  « Coordination  de  la  gestion  des  situations  de  crise », disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau. Chaque salle de crise opérationnelle est dirigée par un représentant de SNCF Réseau rapidement mobilisable,  le  dirigeant  territorial  opérationnel  (DTO)  pour  les  salles  territoriales  ou  le  directeur national des opérations (DNO) pour la salle de crise du CNOF. Elle réunit en distanciel ou en présentiel les représentants des EF, du gestionnaire des gares (GG) et des GI concernés par une crise, ainsi que les  représentants  des  différents  métiers  et  directions  de  SNCF  Réseau  :  circulation  ferroviaire  et maintenance de l'infrastructure. Un même représentant peut recevoir plusieurs mandats.
 
@@ -5675,9 +6620,11 @@ Les salles de crise ne se substituent pas aux équipes opérationnelles des GI, 
 
 Afin d'assurer un traitement efficace d'une crise dans ses différentes composantes, les salles de crise mettent en  uvre les  standards et principes majeurs de la gestion de crise. Les décisions sont en principe adoptées par consensus. A défaut le DTO (ou le DNO en cas d'activation de la salle du CNOF) décide des mesures à prendre dans l'intérêt du système. Ces décisions s'imposent aux membres et aux équipes opérationnelles de SNCF Réseau, des GI, GG et EF. Les salles opérationnelles assurent un traitement global de la crise en veillant à l'équilibre des différents intérêts en présence des GI, GG et EF. La recherche de cet équilibre peut parfois conduire à écarter l'application systématique des règles énoncées au présent chapitre 6.
 
+<!-- page: 187 -->
+
 Les  autres  gestionnaires  d'infrastructure  et  le  gestionnaire  des  gares  peuvent  aussi  adhérer  à  ce dispositif de coordination de gestion des crises.
 
-## 6.3.3.3 Impact et évolution probable
+## [section_header] 6.3.3.3 Impact et évolution probable
 
 Le déroulement de la circulation des trains reste connu des EF en vertu du service d'information de localisation.
 
@@ -5691,7 +6638,7 @@ L'EF peut aussi en informer le SGC via le message « Train Running Interruption 
 
 L'écoulement perturbé de la circulation s'effectue selon les règles d'exploitation décrites précédemment (point 6.3.2).
 
-## 6.3.3.4 « Stop Circulation »
+## [section_header] 6.3.3.4 « Stop Circulation »
 
 Le « Stop circulation » est une phase (décidée) de la gestion d'une crise pendant laquelle une partie de la circulation est stoppée. C'est une pause voulue, à l'initiative du pilote d'incident de la salle de crise  territoriale  ou  nationale  (en  fonction  du  niveau  de  gravité)  pour  atteindre  plusieurs  objectifs intermédiaires. Le « Stop circulation » peut donc être mis en  uvre par le DNO à partir d'un incident quoté G3.
 
@@ -5701,11 +6648,13 @@ Il  appartient au pilote de la crise de mettre un terme à cette phase de « Sto
 
 La traçabilité des décisions et l'information aux EF se fera par l'intermédiaire de CIF.
 
-## 6.3.3.5 Gestion opérationnelle des situations d'urgence
+## [section_header] 6.3.3.5 Gestion opérationnelle des situations d'urgence
 
 En cas d'accident ou d'incident grave, SNCF Réseau et les EF doivent prendre les mesures immédiates nécessaires pour assurer la sécurité des usagers, des équipes de secours, des personnels, des tiers et des circulations ferroviaires ainsi que la protection de l'environnement.
 
 Afin  de  gérer  les  situations  d'urgence,  chaque  établissement  local  du  service  gestionnaire  des circulations a établi  en  concertation  avec  les  autorités  administratives  compétentes  un  plan d'intervention et de sécurité (PIS) selon les exigences de l'arrêté du 12 aout 2008 (*). Des annexes au PIS  décrivent  les  sites  susceptibles  de  présenter  des  risques  particuliers  au  regard  des  conditions d'exploitation, des particularités de l'infrastructure ou des difficultés d'accès. C'est le cas en particulier pour les plans d'urgence internes (PUI) relatifs au transport de marchandises dangereuses.
+
+<!-- page: 188 -->
 
 Ce plan est distribué à chaque exploitant ferroviaire concerné. Les exploitants ferroviaires sont tenus d'adapter leur organisation aux exigences de ces plans.
 
@@ -5713,9 +6662,11 @@ Selon le type de l'événement de sécurité au sens de l'arrêté du 12 aout 20
 
 Le  PIS  doit  être  alimenté  de  la  description  des  organisations  mises  en  place  par  les  exploitants ferroviaires et des moyens humains, matériels et techniques qu'ils mettent en  uvre ou à disposition pour répondre aux sollicitations du service gestionnaire des circulations et notamment :
 
-- -Les  locaux,  moyens  humains,  matériels  et  techniques  qu'elles  mettent  en  uvre  ou  à disposition ;
-- -L'organisation et les modalités d'information et de prise en charge des familles ;
-- -L'organisation de l'information, de l'avitaillement ou de l'évacuation des voyageurs.
+-Les  locaux,  moyens  humains,  matériels  et  techniques  qu'elles  mettent  en  uvre  ou  à disposition ;
+
+-L'organisation et les modalités d'information et de prise en charge des familles ;
+
+-L'organisation de l'information, de l'avitaillement ou de l'évacuation des voyageurs.
 
 Un dispositif de remplacement et de permanence des dirigeants doit permettre d'assurer la continuité du service, afin de poursuivre la gestion des situations d'urgence.
 
@@ -5723,7 +6674,7 @@ La représentation d'une EF sur un événement est assurée par cette EF ou une 
 
 (*) : Arrêté du 12 août 2008 pris en application des articles 45 et 46 du décret n°2019-525 du 27 mai 2019 relatif à la sécurité et l'interopérabilité du système ferroviaire.
 
-## 6.3.3.6 Constatation des faits en cas d'accident, d'incident ou de situation présentant un risque grave et imminent
+## [section_header] 6.3.3.6 Constatation des faits en cas d'accident, d'incident ou de situation présentant un risque grave et imminent
 
 Afin de relever les faits en cas d'accident, d'incident ou de situation présentant un risque grave et imminent, un relevé de constatations immédiates (RCI) doit être établi de manière contradictoire entre les représentants de SNCF Réseau ayant fait l'objet d'une habilitation et les représentants désignés de chaque EF concernée.
 
@@ -5731,7 +6682,7 @@ Il  précise  au  plus  tôt  la  nature  de  l'évènement  en  cause,  ses  ci
 
 SNCF Réseau peut faire appel à des « experts » dans les conditions fixées par le document RFN-IG-TR 04 D-03-n°001 « Incidents et accidents - Avis - Mesures conservatoires et Enquête ».
 
-## 6.3.4 MESURES PARTICULIÈRES À PRENDRE EN CAS DE PERTURBATIONS INTERNATIONALES
+## [section_header] 6.3.4 MESURES PARTICULIÈRES À PRENDRE EN CAS DE PERTURBATIONS INTERNATIONALES
 
 a. Une perturbation internationale est une perturbation prévue ou imprévue, d'une durée estimée à trois (3) jours ou plus, ayant un impact élevé sur la régularité et la production du RFN.
 
@@ -5741,68 +6692,77 @@ c. Les EF sont invitées à élaborer leurs propres plans de circulation s'ils n
 
 d. Pour les exploitants ferroviaires répondant aux conditions d'accès sur le réseau national :
 
-- -Lorsqu'un incident nécessite un détournement déplaçant le point frontière, des conférences téléphoniques sont mises en place par SNCF Réseau avec les GI voisins en vue de coordonner le trafic (dénommées « salle de crise virtuelle »). Des communications en anglais y sont aussi
+-Lorsqu'un incident nécessite un détournement déplaçant le point frontière, des conférences téléphoniques sont mises en place par SNCF Réseau avec les GI voisins en vue de coordonner le trafic (dénommées « salle de crise virtuelle »). Des communications en anglais y sont aussi
 
-## CHAPITRE 6 - EXPLOITATION FERROVIAIRE
+<!-- page: 189 -->
+
+## [section_header] CHAPITRE 6 - EXPLOITATION FERROVIAIRE
 
 possibles. RailNetEurope a créé une liste des coordonnées des points de contacts des GI européens.
 
-- -Lorsque l'incident ne nécessite pas un détournement déplaçant le point frontière, il n'est pas nécessaire  en  règle  générale  de  recourir  à  la  salle  de  crise  virtuelle.  Si  nécessaire,  une coordination bilatérale normale peut être utilisée.
-- -Les itinéraires empruntant un autre point frontière que celui initialement prévu sont définis en  concertation  inter  GI  avec  évaluation  de  leur  capacité  conformément  au  présent document,  puis  portés  à  la  connaissance  des  EF  internationales  comme  "itinéraire  de déviation".
-- -Une cellule d'adaptation ad hoc est déployée par SNCF Réseau le temps de la perturbation en  vue  de  faciliter  le  traitement  des  demandes  de  sillons  de  dernière  minute  des  EF autorisées.
+-Lorsque l'incident ne nécessite pas un détournement déplaçant le point frontière, il n'est pas nécessaire  en  règle  générale  de  recourir  à  la  salle  de  crise  virtuelle.  Si  nécessaire,  une coordination bilatérale normale peut être utilisée.
 
-## 6.4 OUTILS D'INFORMATION ET DE SUIVI DES TRAINS
+-Les itinéraires empruntant un autre point frontière que celui initialement prévu sont définis en  concertation  inter  GI  avec  évaluation  de  leur  capacité  conformément  au  présent document,  puis  portés  à  la  connaissance  des  EF  internationales  comme  "itinéraire  de déviation".
 
-## 6.4.1 OUTILS NATIONAUX
+-Une cellule d'adaptation ad hoc est déployée par SNCF Réseau le temps de la perturbation en  vue  de  faciliter  le  traitement  des  demandes  de  sillons  de  dernière  minute  des  EF autorisées.
 
-- SEE-TRAINS
+## [section_header] 6.4 OUTILS D'INFORMATION ET DE SUIVI DES TRAINS
+
+## [section_header] 6.4.1 OUTILS NATIONAUX
+
+SEE-TRAINS
 
 Permet de visualiser le graphique théorique et réel des sillons et des planches travaux.
 
-- ORE
+ORE
 
 Permet de consulter en temps différé (J+1) les données de circulation, les retards et leurs motifs et extraire les données.
 
-- DINAMIC
+DINAMIC
 
 Dispositif d'interface et de dialogue entre les EF et GI matérialisant des informations sur la circulation (composition réelle, demande d'acceptation de non-conformité…)
 
-- COEUR INCIDENT FERROVIAIRE QUI REGROUPE :
-- -DURANDAL 2
+COEUR INCIDENT FERROVIAIRE QUI REGROUPE :
+
+-DURANDAL 2
 
 Outil de partage des exploitants ferroviaires pour la gestion des situations perturbées et des crises. Assure la traçabilité des décisions.
 
-- -SPID
+-SPID
 
 Outil de partage des acteurs opérationnels pour prendre les mesures adaptées avec anticipation, afin de réduire les conséquences sur le plan de transport, et une meilleure information. Permet de consulter en temps réel les données de circulation, les retards et leurs motifs.
 
-- -@ BOR : Bulletin d'Ouverture du Réseau
+-@ BOR : Bulletin d'Ouverture du Réseau
 
 Cartographie des capacités de circulation sur le RFN en période de mouvement social.
 
-- -ISITRAC
+-ISITRAC
 
 Inventaire temps réel des circulations du jour au service de la supervision, de l'information et de la coordination de la gestion de la crise
 
-- -DBC
+<!-- page: 190 -->
+
+-DBC
 
 Cartographie et état des lieux des Détecteurs de Boîtes Chaudes.
 
-- -SYNTHESE
--  CIRCULATION : permet de consulter en temps réel le parcours réel d'une circulation, ses retards et leurs motifs.
--  INCIDENT : permet de consulter en temps réel les informations d'un incident ainsi que l'ensemble des circulations qu'il a impactées.
+-SYNTHESE
 
-## 6.4.2 OUTILS INTERNATIONAUX
+ CIRCULATION : permet de consulter en temps réel le parcours réel d'une circulation, ses retards et leurs motifs.
 
-## ● TIS
+ INCIDENT : permet de consulter en temps réel les informations d'un incident ainsi que l'ensemble des circulations qu'il a impactées.
+
+## [section_header] 6.4.2 OUTILS INTERNATIONAUX
+
+## [section_header] ● TIS
 
 Outil concernant la gestion des trains internationaux et délivrant les données de circulation en temps réel. Ces données sont issues des systèmes d'information de chaque pays.
 
-## 6.5 REGLES DE MAINTIEN DE LA DISPONIBILITÉ DU RESEAU
+## [section_header] 6.5 REGLES DE MAINTIEN DE LA DISPONIBILITÉ DU RESEAU
 
-## 6.5.1 GESTION DE LA RESTRICTION DE CAPACITE
+## [section_header] 6.5.1 GESTION DE LA RESTRICTION DE CAPACITE
 
-## ● Garage des trains
+## [section_header] ● Garage des trains
 
 En cas d'aléas, lorsque la circulation des trains n'est plus possible ni par l'itinéraire prévu ni par un itinéraire  équivalent  ou  de  détournement,  le  SGC  peut  garer  certains  trains.  Il  informe  alors  l'EF concernée en lui indiquant les prévisions de remise en circulation du ou des trains concernés ainsi que les  éventuelles  restrictions  liées  à  la  reprise  ultérieure  des  trains.  Si  la  situation  le  permet,  le  SGC consulte l'EF sur le choix du site de garage.
 
@@ -5810,16 +6770,21 @@ Lorsqu'un train fait l'objet d'un garage en cours de route non prévu au sillon,
 
 Au-delà de ce délai :
 
-- -le sillon est supprimé :
-- o Sur le parcours restant, circulation en marche indéterminée sur décision du SGC, après entente  avec  l'EF,  en  l'absence  d'incompatibilité  avec  une  prescription  de  sécurité (demande de MI par l'EF avec attribution par le SGC d'un numéro de MI) ;
-- o Sinon, l'EF doit faire une nouvelle demande de sillon au départ du point de garage, notamment en cas de prescription de sécurité (TE, matières radioactives…).
-- -Cependant, sur décision du SGC et après entente avec l'EF, le sillon peut être conservé à condition que le numéro de sillon ne soit pas déjà utilisé et ne génère pas de doublon. Une attention particulière est portée lors de sa remise en circulation (prescription de sécurité, outils,  avis  AC…).   Par  ailleurs,  les  règles  de  circulation  des  trains  en  retard  restent applicables.
+-le sillon est supprimé :
+
+o Sur le parcours restant, circulation en marche indéterminée sur décision du SGC, après entente  avec  l'EF,  en  l'absence  d'incompatibilité  avec  une  prescription  de  sécurité (demande de MI par l'EF avec attribution par le SGC d'un numéro de MI) ;
+
+o Sinon, l'EF doit faire une nouvelle demande de sillon au départ du point de garage, notamment en cas de prescription de sécurité (TE, matières radioactives…).
+
+-Cependant, sur décision du SGC et après entente avec l'EF, le sillon peut être conservé à condition que le numéro de sillon ne soit pas déjà utilisé et ne génère pas de doublon. Une attention particulière est portée lors de sa remise en circulation (prescription de sécurité, outils,  avis  AC…).   Par  ailleurs,  les  règles  de  circulation  des  trains  en  retard  restent applicables.
 
 En cas de garage non prévu et relevant de la responsabilité du SGC, l'EF ayant besoin d'un sillon de dernière minute (SDM) pour repartir du point de garage a priorité dans le traitement de sa demande. L'EF devra le signaler dans sa demande, en indiquant le numéro d'incident BREHAT concerné. Cette règle sera applicable à la modification du texte RFN IG TR1 B1 n°1 « Capacité de dernière minute ».
 
+<!-- page: 191 -->
+
 Une EF peut faire appel à SNCF Réseau pour une prestation de man  uvre d'installations de sécurité simples en vue du dégarage de son train ou autre prestation, suite à aléa de circulation, dans les conditions décrites dans le présent document.
 
-## ● Détournements
+## [section_header] ● Détournements
 
 Lorsqu'une indisponibilité temporaire du réseau affecte la capacité et la circulation des trains, le SGC peut proposer aux EF, selon la nature de l'événement, sa localisation et sa durée prévisible, le recours au détournement de tout ou partie des circulations concernées.
 
@@ -5827,7 +6792,7 @@ Sur l'itinéraire de détournement, les trains détournés sont insérés dans l
 
 Le processus de détournement est repris dans le document « Règles de la GOC ».
 
-## ● Restrictions de capacité
+## [section_header] ● Restrictions de capacité
 
 En cas d'incident important engendrant des restrictions de capacité affectant le débit prévu, c'est à dire entraînant l'impossibilité d'écouler tout le trafic prévu, il est appliqué aux trains non encore en circulation et devant emprunter l'itinéraire ou le point restreint, une règle de répartition de la capacité résiduelle. La règle s'applique aussi bien à l'itinéraire restreint qu'aux itinéraires utilisés pour écouler le trafic.
 
@@ -5837,7 +6802,7 @@ Lorsque le délai de réponse imparti à chaque EF est dépassé, le SGC décide
 
 Les autres sillons excédentaires sont alors supprimés par le SGC qui établit également un graphique de crise se substituant au graphique de circulation théorique. La recherche du débit maximum peut prévaloir sur les règles de priorité entre trains décrites ci-dessus.
 
-## 6.5.2 REGLE DE DEPANNAGE D'UN TRAIN
+## [section_header] 6.5.2 REGLE DE DEPANNAGE D'UN TRAIN
 
 Un train immobilisé par une panne sur voie principale doit faire l'objet d'une demande de secours dans un  délai  maximum  de  quinze  (15)  minutes.  Le  conducteur  devra  avant  toute  visite  donner  ses coordonnées téléphoniques à l'opérateur du SGC concerné.
 
@@ -5847,7 +6812,9 @@ Ce délai de quinze (15) minutes est destiné à couvrir les opérations de diag
 
 Cette  règle  peut  être  adaptée  sur  certains  secteurs  du  réseau  et  figure  dans  ce  cas  dans  la documentation d'exploitation.
 
-## 6.5.3 REGLE DE MISE À DISPOSITION DE MOYENS DES EF POUR RÉTABLIR LA CAPACITÉ D'INFRASTRUCTURE
+<!-- page: 192 -->
+
+## [section_header] 6.5.3 REGLE DE MISE À DISPOSITION DE MOYENS DES EF POUR RÉTABLIR LA CAPACITÉ D'INFRASTRUCTURE
 
 Lorsqu'il est  nécessaire d'aller secourir un train en  panne ou d'engager des moyens de réparation urgente des infrastructures, le SGC est fondé à imposer aux EF la mise à disposition des moyens adaptés nécessaires au dégagement du RFN (par exemple, secours à un train en panne, acheminement de moyens matériels et humains destinés à la remise en état urgente de l'infrastructure, de moyens de relevage).
 
@@ -5857,7 +6824,7 @@ Les modalités de remise à disposition des moyens des EF sont concertées et fo
 
 Le document «  Règles de la GOC » décrit plus précisément ce processus.
 
-## 6.5.4 RELEVAGE
+## [section_header] 6.5.4 RELEVAGE
 
 Dans le cadre de sa mission de dégagement du RFN, le SGC assure le relevage du matériel roulant déraillé.
 
@@ -5879,31 +6846,45 @@ Seuls les agrès de dégagement validés par SNCF Réseau sont admis pour tout a
 
 Si d'autres agrès devaient être utilisés, en amont d'une opération ou d'une prestation de relevage, la procédure d'analyse est appliquée en s'appuyant sur les normes suivantes :
 
-- -NF F58002 pour le gabarit bas des obstacles
+-NF F58002 pour le gabarit bas des obstacles
 
-## CHAPITRE 6 - EXPLOITATION FERROVIAIRE
+<!-- page: 193 -->
 
-- -NF EN13977 pour les caractéristiques d'un outillage lorry manipulable à la main
-- -NF EN15955 et NF EN15954 selon les chapitres concernés pour :
-- o Interaction avec l'infrastructure
-- o Roues lorrys/ contraintes limites dans les rails
-- o Profils de roues lorrys ferroviaires
-- o Charge admissible aux roues
-- o Actionnement des aiguilles talonnables
-- o Dispositif de maintien de l'écartement
-- -NF EN 15663 pour le bilan des masses
+## [section_header] CHAPITRE 6 - EXPLOITATION FERROVIAIRE
+
+-NF EN13977 pour les caractéristiques d'un outillage lorry manipulable à la main
+
+-NF EN15955 et NF EN15954 selon les chapitres concernés pour :
+
+o Interaction avec l'infrastructure
+
+o Roues lorrys/ contraintes limites dans les rails
+
+o Profils de roues lorrys ferroviaires
+
+o Charge admissible aux roues
+
+o Actionnement des aiguilles talonnables
+
+o Dispositif de maintien de l'écartement
+
+-NF EN 15663 pour le bilan des masses
 
 Pour permettre cette analyse, le demandeur devra transmettre :
 
-- -les données techniques (profil de voie, charges, interfaçage avec engin concerné, profil de roue, conditions d'assemblage, bilans masses et CMU, ...) ;
-- -les études techniques avec plans, dessins et notes de calcul ;
+-les données techniques (profil de voie, charges, interfaçage avec engin concerné, profil de roue, conditions d'assemblage, bilans masses et CMU, ...) ;
+
+-les études techniques avec plans, dessins et notes de calcul ;
 
 pour permettre une éventuelle validation par SNCF Réseau qui saisira pour étude et analyse les services compétents :
 
-- o pour  étudier  l'outillage  concerné  et  le  comportement  dynamique  notamment lorsqu'il supporte un véhicule ferroviaire ;
-- o conformément à la norme NF 00800, et dans le cadre de l'application du texte IN 2802 Homologation des outillages  destinés  à  la  maintenance  des  voies  et  des caténaires, qui concerne tout outillage guidé par le rail, afin d'évaluer la conformité des outillages à la règlementation en vigueur.
-- -la réalisation de prototype (en cas de conception d'un nouvel outillage de dégagement) ;
-- -les essais sur le terrain et reprise éventuelle, afin de s'assurer que ces agrès peuvent être utilisés sans dommages.
+o pour  étudier  l'outillage  concerné  et  le  comportement  dynamique  notamment lorsqu'il supporte un véhicule ferroviaire ;
+
+o conformément à la norme NF 00800, et dans le cadre de l'application du texte IN 2802 Homologation des outillages  destinés  à  la  maintenance  des  voies  et  des caténaires, qui concerne tout outillage guidé par le rail, afin d'évaluer la conformité des outillages à la règlementation en vigueur.
+
+-la réalisation de prototype (en cas de conception d'un nouvel outillage de dégagement) ;
+
+-les essais sur le terrain et reprise éventuelle, afin de s'assurer que ces agrès peuvent être utilisés sans dommages.
 
 La demande  devra  être transmise au pôle dégagement  du  RFN,  par  courriel à l'adresse relevage.dcf@sncf.fr,  et  la  prise  en  charge  des  frais  d'étude  ainsi  que  la  responsabilité  de  cet acheminement seront supportés par l'EF demandeuse.
 
@@ -5911,17 +6892,23 @@ Lors  du  processus,  le  demandeur  doit  se  tenir  disponible  pour  répondr
 
 Conformément aux dispositions du texte RFN-IG-TR 04 D-01-n°012, toute EF devra :
 
-- -préciser sans délai si l'un des véhicules empruntant le RFN possède des pièces soumises aux risques cités ci-dessus à l'adresse électronique suivante relevage.dcf@sncf.fr ;
-- -fournir la documentation de relevage de tous les engins empruntant le RFN sans délai ainsi que  les  mises  à  jour  au  pôle  «  dégagement  du  réseau  »  de  SNCF  Réseau  via  l'adresse relevage.dcf@sncf.fr. Cette documentation de relevage comportera à minima :
-- o la méthodologie de relevage ;
-- o la méthodologie de contrôle permettant de réaliser la visite de type A, réalisée sur les lieux de l'incident, une fois les opérations de relevage achevées, dont le but est de vérifier la capacité des véhicules à être exploités. Cette visite de type A,
+-préciser sans délai si l'un des véhicules empruntant le RFN possède des pièces soumises aux risques cités ci-dessus à l'adresse électronique suivante relevage.dcf@sncf.fr ;
+
+-fournir la documentation de relevage de tous les engins empruntant le RFN sans délai ainsi que  les  mises  à  jour  au  pôle  «  dégagement  du  réseau  »  de  SNCF  Réseau  via  l'adresse relevage.dcf@sncf.fr. Cette documentation de relevage comportera à minima :
+
+o la méthodologie de relevage ;
+
+o la méthodologie de contrôle permettant de réaliser la visite de type A, réalisée sur les lieux de l'incident, une fois les opérations de relevage achevées, dont le but est de vérifier la capacité des véhicules à être exploités. Cette visite de type A,
+
+<!-- page: 194 -->
 
 dont le  compte rendu est remis au représentant de l'EF présent sur place,  est nécessaire  pour  connaitre  les  conditions  d'acheminement  des  véhicules  vers  le point de garage le plus proche.
 
-- o le document technique constructeur de l'engin mentionnant les points de relevage et les masses.
-- -permettre  le  maintien  des  compétences  des  équipes  de  relevage  sur  certains  types  de matériel, en mettant leur matériel à disposition pour réaliser des exercices de relevage.
+o le document technique constructeur de l'engin mentionnant les points de relevage et les masses.
 
-## 6.5.5 MISE  A  DISPOSITION  DU  SGC  DE  MOYENS  DES  EF  POUR  ASSURER  LE  BON FONCTIONNEMENT DES CIRCUITS DE VOIE
+-permettre  le  maintien  des  compétences  des  équipes  de  relevage  sur  certains  types  de matériel, en mettant leur matériel à disposition pour réaliser des exercices de relevage.
+
+## [section_header] 6.5.5 MISE  A  DISPOSITION  DU  SGC  DE  MOYENS  DES  EF  POUR  ASSURER  LE  BON FONCTIONNEMENT DES CIRCUITS DE VOIE
 
 Pour pallier le risque de mauvais fonctionnement des circuits de voie, il est prévu, lors de la conception du service, la circulation de trains désignés sur certains itinéraires, en concertation avec l'EF concernée.
 
@@ -5929,13 +6916,13 @@ En phase opérationnelle, le SGC est en droit d'utiliser toute circulation utile
 
 La perturbation engendrée pour la circulation doit être modérée et le retard qui en découle doit, si possible, être inférieur à trois (3) minutes.
 
-## 6.5.6 RECONNAISSANCE SUITE A UNE INTERRUPTION PROLONGEE DE LIGNE
+## [section_header] 6.5.6 RECONNAISSANCE SUITE A UNE INTERRUPTION PROLONGEE DE LIGNE
 
 L'interruption  prolongée  de  la  circulation  peut  entraîner  des  difficultés  d'exploitation  résultant notamment de la connaissance insuffisante de l'état  de  l'infrastructure  (avaries  à  la  voie,  présence d'obstacle, actes malveillants, intempéries…). Il est alors nécessaire de réaliser une reconnaissance de la ligne concernée avec présence de représentants de la maintenance et des travaux de SNCF Réseau, avant la circulation du premier train commercial.
 
 Afin de réaliser cette reconnaissance, le SGC est fondé à utiliser la règle de mise à disposition décrite au point 6.5.3.
 
-## 6.5.7 VISITE DES INSTALLATIONS DE LA LIGNE OU DEPLACEMENT D'AGENTS POUR LES BESOINS DU SERVICE
+## [section_header] 6.5.7 VISITE DES INSTALLATIONS DE LA LIGNE OU DEPLACEMENT D'AGENTS POUR LES BESOINS DU SERVICE
 
 Afin de faciliter la réalisation des tournées techniques pour vérifications de la ligne, ou l'acheminement sur une zone d'un agent qualifié lors d'un évènement s'opposant à la circulation des trains, les EF accueillent les agents qualifiés appartenant à SNCF Réseau ou un autre GI en mission. Les modalités des  tournées  techniques  sont  stipulées  dans  les  conditions  générales  du  contrat  d'utilisation  de l'infrastructure du réseau ferré national (annexe 3.1).
 
@@ -5943,15 +6930,17 @@ Cette mission, motivée et limitée dans le temps sur une zone géographique str
 
 Les personnes admises à prendre place dans les cabines de conduites, indépendamment des agents autorisés par l'exploitant ferroviaire selon la règle de mise à disposition décrite au point 6.5.2 sont les agents munis d'une autorisation d'accès aux cabines de conduites dans le document RFN OG 01 B-00 n°002 « Accès aux cabines de conduite des trains des exploitants ferroviaires ».
 
-## 6.6 SÛRETÉ
+<!-- page: 195 -->
 
-## 6.6.1 SITUATIONS PERTURBEES POUR FAIT DE SÛRETÉ
+## [section_header] 6.6 SÛRETÉ
+
+## [section_header] 6.6.1 SITUATIONS PERTURBEES POUR FAIT DE SÛRETÉ
 
 Dans le cadre de la sûreté du réseau et de ses utilisateurs, les EF doivent respecter toutes les mesures associées  que  SNCF  Réseau  pourrait  leur  notifier,  en  déclinaison  de  plans  gouvernementaux (VIGIPIRATE…) à l'occasion de la gestion de situations d'urgence ou de la mise en place de mesures conservatoires (colis suspect, alerte à la bombe…).
 
 Le document « Règles de la GOC » apporte des précisions sur la gestion des situations perturbées pour fait de sûreté.
 
-## 6.6.2 EXIGENCES DE SURETE EN LIEN AVEC LE SEJOUR TEMPORAIRE DE WAGONS MD SUR CERTAINS SITES
+## [section_header] 6.6.2 EXIGENCES DE SURETE EN LIEN AVEC LE SEJOUR TEMPORAIRE DE WAGONS MD SUR CERTAINS SITES
 
 Un plan  de  sûreté  spécifique  à  certains  sites  de  séjours  temporaires  de  wagons  de  marchandises dangereuses peut être élaboré par SNCF Réseau.
 
@@ -5961,40 +6950,43 @@ Le plan de sûreté spécifique prescrit un certain nombre d'exigences applicabl
 
 Il  appartient  à  chaque  exploitant  ferroviaire  concerné  d'en  décliner  les  exigences  en  procédures opérationnelles pour son propre personnel.
 
-## 6.6.3 CONTRIBUTIONS DES EF ET DU GESTIONNAIRE DE GARES (GARES &amp; CONNEXIONS)
+## [section_header] 6.6.3 CONTRIBUTIONS DES EF ET DU GESTIONNAIRE DE GARES (GARES & CONNEXIONS)
 
 Le SGC est fondé à demander aux entreprises ferroviaires et au gestionnaire de gares leur contribution, en termes de mise à disposition de moyens matériel, technique ou de personnel, aux exercices sûreté en  vue  de  la  validation  des  procédures  en  déclinaison  de  plans  de  sûreté  ainsi  qu'aux  exercices demandés par les services de l'Etat. Cette contribution s'étend de la préparation à la phase de retour d'expérience, en passant par la réalisation de l'exercice.
 
 Les coûts liés à ces exercices (mise en place de matériels et de personnel …) sont à la charge des entreprises ferroviaires contributrices.
 
-## 6.7 ENQUETES TRINOME PANTO INCIDENTS CATENAIRES
+## [section_header] 6.7 ENQUETES TRINOME PANTO INCIDENTS CATENAIRES
 
-## 6.7.1 LA NOTION D'ENQUETE
+## [section_header] 6.7.1 LA NOTION D'ENQUETE
 
 L'enquête est une procédure visant à prévenir les accidents et incidents. Elle consiste à collecter et analyser des informations, à tirer des conclusions, y compris la détermination des causes et, le cas échéant, à formuler des recommandations en matière de sécurité (article 3 §14 de la directive UE 2016/798 du 11 mai 2016 relatif à la sécurité ferroviaire). L'enquête permet également de garantir la fiabilité et la robustesse du système.
 
 Les  enquêtes  Trinôme  Panto  ne  sont  pas  systématiques  ni  immédiates  mais  lorsqu'elles  sont déclenchées, elles doivent être réalisées au plus proche de la finalisation du RCI.
 
-## 6.7.2 CONSTITUTION D'UN TRINOME PANTO TERRITORIAL
+## [section_header] 6.7.2 CONSTITUTION D'UN TRINOME PANTO TERRITORIAL
 
 Le Trinôme Panto est constitué :
 
-- -d'un expert Matériel représentant l'EF concernée par l'événement.
-- -d'un expert Traction représentant l'EF concernée par l'événement.
+-d'un expert Matériel représentant l'EF concernée par l'événement.
 
-- -d'un expert Caténaire appartenant à SNCF Réseau ou un représentant du GI concerné.
+-d'un expert Traction représentant l'EF concernée par l'événement.
+
+<!-- page: 196 -->
+
+-d'un expert Caténaire appartenant à SNCF Réseau ou un représentant du GI concerné.
 
 Les enquêtes Trinôme Panto sont opposables et font l'objet du document RFN-IG-TR 04 D-03-n°006 « Incidents caténaire Enquêtes Trinômes Panto ».
 
 NOTA : un seul expert peut porter les compétences « Matériel » et « Traction ».
 
-## 6.7.3 DECLENCHEMENT DU TRINOME PANTO
+## [section_header] 6.7.3 DECLENCHEMENT DU TRINOME PANTO
 
 Chaque incident  ayant  eu  de  façon  directe  ou  indirecte  des  conséquences  sur  les  installations  de traction  électrique  et  les  pantographes,  doit  faire  l'objet  d'une  information  à  l'EF  concernée  et  au COGC.
 
 Le  représentant  local  sécurité  (RLS),  pilote  de  l'enquête,  appartenant  à  SNCF  Réseau,  déclenche l'intervention  du  Trinôme  Panto  lorsque  les  éléments  connus  lors  de  la  finalisation  du  RCI  ne  lui permettent pas d'envisager un rapport d'analyse causale conclusif.
 
-## 6.7.4 ABSENCE D'UN REPRESENTANT D'UNE EF A L'ENQUETE TRINOME PANTO
+## [section_header] 6.7.4 ABSENCE D'UN REPRESENTANT D'UNE EF A L'ENQUETE TRINOME PANTO
 
 La  présence  de  l'EF  concernée  à  une  enquête  trinôme  panto  est  obligatoire  lorsque  l'enquête immédiate n'a pas permis de déterminer la cause origine et que le RLS (Représentant Local Sécurité) décide de déclencher l'ouverture d'une enquête trinôme panto. Le correspondant de l'EF concernée doit  être  présent  ou  se  faire  représenter  à  la  réunion  d'ouverture  de  déclenchement  de  l'enquête trinôme  panto  décidée  par  le  RLS.  Les  composantes  matériel  et  traction  d'une  EF  peuvent  être représentées par la même personne, en application du texte « RFN-IG-TR 04 D-03-n°006 ».
 
@@ -6002,9 +6994,9 @@ Les experts sollicités sont à considérer comme un apport de compétences dans
 
 La désignation de l'expert de l'EF concernée est formalisée par une fiche d'appel à expert établie sur la base du modèle repris dans le texte « RFN-IG-TR 04 D-03-n°006 ».
 
-## 6.8 PHASE POST-OPERATIONNELLE
+## [section_header] 6.8 PHASE POST-OPERATIONNELLE
 
-## 6.8.1 MANAGEMENT DE LA PERFORMANCE D'EXPLOITATION
+## [section_header] 6.8.1 MANAGEMENT DE LA PERFORMANCE D'EXPLOITATION
 
 Le  management  de  la  régularité  vise  l'amélioration  continue  de  la  performance  globale  de l'exploitation. A ce titre, le SGC coordonne l'ensemble du système ferroviaire et pilote aux différents niveaux organisationnels les instances quotidiennes, hebdomadaires et mensuelles sur les différents maillages (territorial, axe, national), avec les méthodes de l'excellence opérationnelle. Ces instances sont décrites notamment dans le texte RFN-IG-OG-01 B -00-N°001 (OP 00515) « Management de la performance de l'exploitation », en cours d'évolution.
 
@@ -6012,11 +7004,13 @@ L'analyse des événements perturbateurs s'appuie sur la collecte d'informations
 
 Un nouvel espace d'analyse des données de régularité (tableaux de bords, …), ouvert aux EF et acteurs de SNCF Réseau est créé : l'Observatoire de la régularité (ORE), en remplacement de e-Bréhat.
 
-## 6.8.2 VEILLE  SECURITE  -  RETOUR  D'EXPERIENCE  SUR  LES  CONDITIONS  REELLES  DE CIRCULATION
+## [section_header] 6.8.2 VEILLE  SECURITE  -  RETOUR  D'EXPERIENCE  SUR  LES  CONDITIONS  REELLES  DE CIRCULATION
 
 Afin d'assurer sa mission de surveillance opérationnelle de l'exploitation du RFN, SNCF Réseau doit être informé de la survenance de tout événement présentant des risques pour la sécurité sur le RFN.
 
-## CHAPITRE 6 - EXPLOITATION FERROVIAIRE
+<!-- page: 197 -->
+
+## [section_header] CHAPITRE 6 - EXPLOITATION FERROVIAIRE
 
 Pour ce faire, SNCF Réseau a mis en place une veille sécurité du système ferroviaire qui s'intègre dans son dispositif général de la gestion de la sécurité.
 
@@ -6024,42 +7018,59 @@ De plus, chaque EF devant garantir la sécurité de sa propre production effectu
 
 De  même,  SNCF  Réseau  doit  aussi  porter  à  la  connaissance  de  l'EF  toute  non-conformité  de  la responsabilité de l'EF, constatée aussi bien dans l'application des consignes et instructions de sécurité que dans l'état technique de son matériel roulant. La veille sécurité consiste à :
 
-- -Collecter et enregistrer les données ;
-- -Assurer le suivi des indicateurs de sécurité ;
-- -Examiner les accidents, quasi-accidents, incidents et signes avant-coureurs de performances insuffisantes ;
-- -Analyser les résultats enregistrés ;
-- -Aviser les entreprises ferroviaires des événements susceptibles de les concerner ;
-- -Communiquer les résultats.
+-Collecter et enregistrer les données ;
+
+-Assurer le suivi des indicateurs de sécurité ;
+
+-Examiner les accidents, quasi-accidents, incidents et signes avant-coureurs de performances insuffisantes ;
+
+-Analyser les résultats enregistrés ;
+
+-Aviser les entreprises ferroviaires des événements susceptibles de les concerner ;
+
+-Communiquer les résultats.
 
 Cette veille sécurité est complétée d'un dispositif de bouclage.
 
 Au titre des articles103, 106 et 108 du décret n° 2019-525, SNCF Réseau et les EF contribuent à la veille sécurité du système ferroviaire en appliquant notamment les dispositions suivantes :
 
-- -SNCF Réseau informe selon les cas, l'EPSF, le CMVOA ou le BEA-TT, en cas de manquements graves  ou  répétés  d'une  EF  à  la  réglementation  de  sécurité  ou  d'insuffisance  dans  l'état technique de son matériel roulant ;
-- -Les EF signalent les incidents et accidents graves à SNCF Réseau (via le SGC), au BEA-TT et à l'EPSF ;
-- -Les EF communiquent à SNCF Réseau et à l'EPSF, chaque trimestre, la valeur des indicateurs de  sécurité  communs  définis  par  la  directive  n°  2016/798    qui  les  concernent  et  des indicateurs complémentaires éventuellement requis.  La communication à SNCF Réseau des valeurs des indicateurs doit être adressée à la Direction de la Sécurité, Sureté et des Risques de SNCF Réseau.
+-SNCF Réseau informe selon les cas, l'EPSF, le CMVOA ou le BEA-TT, en cas de manquements graves  ou  répétés  d'une  EF  à  la  réglementation  de  sécurité  ou  d'insuffisance  dans  l'état technique de son matériel roulant ;
 
-## 6.8.3 ROLE ET MISSIONS DU RESPONSABLE DU SUIVI DES ECARTS EXPLOITATION
+-Les EF signalent les incidents et accidents graves à SNCF Réseau (via le SGC), au BEA-TT et à l'EPSF ;
+
+-Les EF communiquent à SNCF Réseau et à l'EPSF, chaque trimestre, la valeur des indicateurs de  sécurité  communs  définis  par  la  directive  n°  2016/798    qui  les  concernent  et  des indicateurs complémentaires éventuellement requis.  La communication à SNCF Réseau des valeurs des indicateurs doit être adressée à la Direction de la Sécurité, Sureté et des Risques de SNCF Réseau.
+
+## [section_header] 6.8.3 ROLE ET MISSIONS DU RESPONSABLE DU SUIVI DES ECARTS EXPLOITATION
 
 Le texte RFN-IG-OG-01 B -00-N°001 « Management de la performance de l'exploitation » prévoit que SNCF Réseau assure une veille sur le respect des règles d'exploitation du réseau ferré national (sont exclues de ce périmètre les infractions « sécurité »).
 
 Le responsable du suivi des écarts exploitation (RSEE) recueille les écarts sur les thématiques suivantes :
 
-- -Non-respect du droit au sillon (train circulant sur un sillon alloué à une autre EF, utilisation d'un sillon inexistant…) ;
-- -Absence d'information d'acheminement sur l'enchaînement des trains (notamment sur les gros chantiers et/ou faisceaux relais…) ;
-- -Refus de mise à disposition (point 6.5.3) ;
+-Non-respect du droit au sillon (train circulant sur un sillon alloué à une autre EF, utilisation d'un sillon inexistant…) ;
 
-## CHAPITRE 6 - EXPLOITATION FERROVIAIRE
+-Absence d'information d'acheminement sur l'enchaînement des trains (notamment sur les gros chantiers et/ou faisceaux relais…) ;
 
-- -Prestation  au  sol  défaillante  (absence  d'un  agent  pour  la  man  uvre  des  installations  de sécurité…) ;
-- -Non-respect du délai des demandes de secours (point 6.5.2) ;
-- -Défaut de signalement de non-conformité (point 6.2.2.2) ;
-- -Occupations abusives des voies de service ;
-- -Défaut d'annonce de train long (article 204 du document « Règles de la GOC ») ;
-- -Défaut d'accusés réception d'avis ARTIC, DBC hors service… ;
-- -Défaut de déclaration de composition réelle (point 6.2.2.1 et article 201 - du document « Règles de la GOC ») ;
+-Refus de mise à disposition (point 6.5.3) ;
 
-## 6.8.4 RETOUR D'EXPERIENCE SUR LES CONDITIONS RÉELLES DE CIRCULATION
+<!-- page: 198 -->
+
+## [section_header] CHAPITRE 6 - EXPLOITATION FERROVIAIRE
+
+-Prestation  au  sol  défaillante  (absence  d'un  agent  pour  la  man  uvre  des  installations  de sécurité…) ;
+
+-Non-respect du délai des demandes de secours (point 6.5.2) ;
+
+-Défaut de signalement de non-conformité (point 6.2.2.2) ;
+
+-Occupations abusives des voies de service ;
+
+-Défaut d'annonce de train long (article 204 du document « Règles de la GOC ») ;
+
+-Défaut d'accusés réception d'avis ARTIC, DBC hors service… ;
+
+-Défaut de déclaration de composition réelle (point 6.2.2.1 et article 201 - du document « Règles de la GOC ») ;
+
+## [section_header] 6.8.4 RETOUR D'EXPERIENCE SUR LES CONDITIONS RÉELLES DE CIRCULATION
 
 Deux instances hebdomadaires, le comité de coordination anticipation du réseau Fret (CCAR Fret) et le  comité  de  coordination  anticipation  du  réseau  Voyageurs  (CCAR  Voyageurs)  organisent  des téléconférences  dans  le  cadre  de  la  coordination  de  la  gestion  des  situations  de  crise  et  du management de la performance de l'exploitation.
 
@@ -6067,7 +7078,7 @@ Dans les territoires, ce point hebdomadaire pourra être organisé dans la conti
 
 Un espace partagé et un fichier commun « Alerting » pour l'alimentation de l'ordre du jour du CCAR voyageurs  ainsi  que  l'ensemble  des  ordres  du  jour,  échanges,  relevé  de  décision  et  suivi  de l'amortissement des sujets traités sont disponibles dans l'espace partagé.
 
-## 6.8.5 ANTICIPATION DES EVENEMENTS CLIMATIQUES
+## [section_header] 6.8.5 ANTICIPATION DES EVENEMENTS CLIMATIQUES
 
 Les démarches de prévention des phénomènes saisonniers sont pilotées par le SGC au niveau national et au niveau territorial.
 
@@ -6077,61 +7088,69 @@ Outre le traitement opérationnel des aléas climatiques, il s'agit également d
 
 Suite à l'analyse des retours d'expérience réalisés les années précédentes sur le sujet « patinage/enrayage », le SGC peut être amené, lors des campagnes automnales à demander aux EF fret de limiter le tonnage de leur train ou d'imposer une puissance de traction suffisante (unité multiple au lieu  d'unité  simple  par  exemple)  sur  des  zones  définies  avec  les  EF  pour  éviter  des  problèmes d'adhérence.
 
-## CHAPITRE 7 INSTALLATIONS DE SERVICE
+<!-- page: 199 -->
 
-## 7.1 INTRODUCTION
+## [section_header] CHAPITRE 7 INSTALLATIONS DE SERVICE
 
-## 7.1.1 DISPOSITIONS GENERALES
+## [section_header] 7.1 INTRODUCTION
+
+## [section_header] 7.1.1 DISPOSITIONS GENERALES
 
 Au sens des dispositions de la directive  n°  2012-34  du  21  novembre  2012 établissant un espace ferroviaire unique européen dans sa version modifiée en vigueur, une «installation de service» désigne toute installation (y compris les terrains, bâtiments et équipements) qui a été spécialement aménagée, en totalité ou en partie, pour permettre la fourniture d'un ou plusieurs des services visés à l'annexe II, points  2  (accès  et  services  de  base),  3  (prestations  complémentaires  aux  services  de  base)  et  4 (prestations connexes aux services de base).
 
 La notion « d'exploitant d'installation de service » désigne, quant à elle, toute entité publique ou privée chargée de gérer une ou plusieurs installations de service ou de fournir à des entreprises ferroviaires un ou plusieurs des services visés à l'annexe II, points 2, 3 et 4 de la directive n°2012-34 précitée.
 
-## 7.1.2 TEXTES APPLICABLES
+## [section_header] 7.1.2 TEXTES APPLICABLES
 
 Le présent chapitre du DRR spécifiquement applicable aux installations de service se fonde notamment sur les textes législatifs et réglementaires suivants :
 
-- -Directive  2012/34/UE  du  21  novembre  2012  établissant  un  espace  ferroviaire  unique européen, et directive 2016/2370/UE du 14 décembre 2016 la modifiant ;
-- -Règlement  d'exécution  (UE)  2017/2177  de  la  Commission  du  22  novembre  2017 concernant l'accès aux installations de service et aux services associés au transport ferroviaire ;
-- -Code des transports, partie législative ;
-- -Décret n° 2012-70 du 20 janvier 2012 relatif aux gares de voyageurs et autres infrastructures de services du réseau ferroviaire et le décret  n°2016-1468  du  28  octobre  2016 relatif au réseau ferroviaire et aux services et prestations fournis par les exploitants d'installations de service et portant diverses dispositions en matière de transport ferroviaire, le modifiant.
+-Directive  2012/34/UE  du  21  novembre  2012  établissant  un  espace  ferroviaire  unique européen, et directive 2016/2370/UE du 14 décembre 2016 la modifiant ;
 
-## 7.1.3 CONTACTS
+-Règlement  d'exécution  (UE)  2017/2177  de  la  Commission  du  22  novembre  2017 concernant l'accès aux installations de service et aux services associés au transport ferroviaire ;
 
-## 7.1.3.1 Installations de Service exploitées par SNCF Réseau
+-Code des transports, partie législative ;
+
+-Décret n° 2012-70 du 20 janvier 2012 relatif aux gares de voyageurs et autres infrastructures de services du réseau ferroviaire et le décret  n°2016-1468  du  28  octobre  2016 relatif au réseau ferroviaire et aux services et prestations fournis par les exploitants d'installations de service et portant diverses dispositions en matière de transport ferroviaire, le modifiant.
+
+## [section_header] 7.1.3 CONTACTS
+
+## [section_header] 7.1.3.1 Installations de Service exploitées par SNCF Réseau
 
 Les  clients  souhaitant  des  informations  sur  l'accès  aux  installations  de  service  exploitées  par SNCF Réseau peuvent contacter la plateforme de services aux entreprises ferroviaires (PSEF) :
 
-- par courrier électronique : services.psef@sncf.fr
+par courrier électronique : services.psef@sncf.fr
 
-- par téléphone : +33 (0) 9 80 98 03 29
+par téléphone : +33 (0) 9 80 98 03 29
 
-- via le site internet : www.psef.sncf-reseau.fr
+via le site internet : www.psef.sncf-reseau.fr
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+<!-- page: 200 -->
 
-- -par courrier à l'adresse postale :
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
+
+-par courrier à l'adresse postale :
 
 SNCF Réseau - Direction Générale Clients et Territoires Plateforme de services aux entreprises ferroviaires 12, rue Jean-Philippe RAMEAU CS 80001 93212 LA PLAINE SAINT DENIS Cedex
 
 Ils peuvent également contacter leur chargé de compte s'ils en ont un, ou à défaut le guichet unique par courriel à l'adresse guichetunique@reseau.sncf.fr.
 
-## 7.1.3.2 Installations de service exploitées par d'autres entités que SNCF Réseau
+## [section_header] 7.1.3.2 Installations de service exploitées par d'autres entités que SNCF Réseau
 
 NOTA : Il est précisé que la propriété des installations de service est déconnectée au sens du présent chapitre de leur exploitation. Notamment, certaines installations de SNCF Réseau sont exploitées par des  entités  tierces.  On  ne  parle  dans  le  présent  chapitre  que  des  entités  exploitantes,  pas  des propriétaires.
 
 Au préalable :
 
-- -Il est rappelé que tout exploitant d'installation de service est invité par SNCF Réseau à lui transmettre les informations relatives au service qu'il fournit et à l'installation qu'il gère, soit par le biais d'un lien vers le site Internet qui définit son offre, soit par la transmission d'un document prêt à publier.
-- -Les exploitants d'installations de service sont invités à recourir au formulaire suivant établi par RNE :
+-Il est rappelé que tout exploitant d'installation de service est invité par SNCF Réseau à lui transmettre les informations relatives au service qu'il fournit et à l'installation qu'il gère, soit par le biais d'un lien vers le site Internet qui définit son offre, soit par la transmission d'un document prêt à publier.
 
-[https://rne.eu/wpcontent/uploads/Common\_template\_for\_service\_facility\_information\_c lean.pdf](https://rne.eu/wpcontent/uploads/Common_template_for_service_facility_information_clean.pdf)
+-Les exploitants d'installations de service sont invités à recourir au formulaire suivant établi par RNE :
 
-- -Le délai pour la communication des informations ou du lien à publier dans le DRR, en vue de sa publication avant le début de l'HDS, est fixé au 15 juillet de A-1 pour les HDS A et A+1. Les offres sont publiées simultanément aux parutions des différentes versions du DRR.
+https://rne.eu/wpcontent/uploads/Common_template_for_service_facility_information_c lean.pdf
+
+-Le délai pour la communication des informations ou du lien à publier dans le DRR, en vue de sa publication avant le début de l'HDS, est fixé au 15 juillet de A-1 pour les HDS A et A+1. Les offres sont publiées simultanément aux parutions des différentes versions du DRR.
 
 Ainsi, les clients souhaitant des informations sur l'accès aux installations de service exploitées par des tiers sont invités à contacter les interlocuteurs référencés ci-dessous et à consulter l'annexe 7.11.
 
-## 7.2 VUE D'ENSEMBLE DES INSTALLATIONS DE SERVICE
+## [section_header] 7.2 VUE D'ENSEMBLE DES INSTALLATIONS DE SERVICE
 
 Conformément aux articles 4.1 et 5.1 du règlement d'exécution n°2017-2177 de la Commission européenne  du 22  novembre  2017 concernant l'accès aux installations de service et aux services associés au transport ferroviaire, les exploitants d'installations de service établissent une description des  installations  de  service  et  des  services  dont  ils  sont  responsables  et  mettent  gratuitement  à disposition la description de leurs installations de service en la publiant sur leur portail internet, sur le portail européen commun ou en communiquant à SNCF Réseau les informations utiles prêtes à être publiées dans le DRR.
 
@@ -6139,17 +7158,21 @@ Les informations relatives aux installations de service exploitées par SNCF Ré
 
 Les informations relatives aux installations de service gérées par d'autres exploitants d'installations de service figurent aux points 7.2.1 à 7.2.8 ainsi qu'en annexe 7.11. Elles ont été communiquées par les exploitants des installations de service à SNCF Réseau.
 
+<!-- page: 201 -->
+
 L'EIS est responsable de l'allocation de capacité sur l'installation de service qu'il gère. Dans ce cadre, il  sollicite  au  besoin  SNCF  Réseau  qui  s'engage  à  coopérer,  notamment  en  cas  de  demandes concurrentes.
 
-## 7.2.1 GARES DE VOYAGEURS
+## [section_header] 7.2.1 GARES DE VOYAGEURS
 
-Les  prestations  fournies  en  gares  de  voyageurs  ouvertes  au  public  par  Gares  &amp;  Connexions  et  la tarification associée sont décrites dans le document de référence des gares (DRG) (annexe 7.10).
+Les  prestations  fournies  en  gares  de  voyageurs  ouvertes  au  public  par  Gares  &  Connexions  et  la tarification associée sont décrites dans le document de référence des gares (DRG) (annexe 7.10).
 
-## 7.2.2 TERMINAUX DE MARCHANDISES
+## [section_header] 7.2.2 TERMINAUX DE MARCHANDISES
 
-## 7.2.2.1 Chantiers de transport combiné
+## [section_header] 7.2.2.1 Chantiers de transport combiné
 
 A. Services rendus par les exploitants de chantiers de transport combiné de SNCF Réseau
+
+### [TABLE]
 
 | Exploitant                                                                                                     | Chantiers (en tout ou partie)                                                                    | Site internet ou offre annexée au DRR                 |
 |----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
@@ -6161,7 +7184,11 @@ A. Services rendus par les exploitants de chantiers de transport combiné de SNC
 | Ferovergne 2 rue de l'industrie 63360 GERZAT + 33 (0)4 73 92 74 30                                             | CLERMONT-FERRAND Gerzat                                                                          | Voir annexe 7.11                                      |
 | Perpignan Saint Charles Conteneur Terminal SAEML 320 avenue de Barcelone 66000 PERPIGNAN + 33 (0)4 68 81 96 09 | PERPIGNAN SAINT-CHARLES                                                                          | www.pscct.com/                                        |
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+<!-- page: 202 -->
+
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
+
+### [TABLE]
 
 | SASU SE3M 9 chemin de la Rompure 54250 CHAMPIGNEULLES + 33 (0)3 83 36 27 14   | NANCY CHAMPIGNEULLES   | Infrastructures &#124; CCI Grand Nancy Métropole Meurthe-et-Moselle   |
 |-------------------------------------------------------------------------------|------------------------|-----------------------------------------------------------------------|
@@ -6169,117 +7196,123 @@ A. Services rendus par les exploitants de chantiers de transport combiné de SNC
 
 Cette  liste  est  valable  à  la  date  de  publication  du  présent  document.  Certaines  conventions d'occupation ou de mise à disposition des chantiers ci-dessus arrivant à leur terme au cours de l'horaire de service, les exploitants d'installation de service correspondants sont susceptibles de changer. Le site de Cognac n'a pas d'exploitant connu à la date de publication du présent document. Pour une information actualisée sur ces sites et leurs exploitants, il convient de contacter la PSEF (point 7.1.3.1). D ' autres  informations  sur  les  chantiers  de  transport  combiné  sont  données  ci-dessous  et  dans l'annexe 7.6.3. 
 
-- B. Services rendus par d'autres exploitants
+Services rendus par d'autres exploitants
 
-## ● Services rendus par LDCT
+## [section_header] ● Services rendus par LDCT
 
 LDCT est exploitant du chantier de transport combiné de Dourges.
 
-## ● Services rendus par Novatrans (annexe 7.11)
+## [section_header] ● Services rendus par Novatrans (annexe 7.11)
 
 Outre les services rendus sur les chantiers de transport combiné de SNCF Réseau, Novatrans fournit aux entreprises ferroviaires des services sur les chantiers de transport combiné de Bayonne Mouguerre, Miramas Clésud. Les services sont décrits sur le site  https://novatrans-greenmodal.eu/fr/
 
-## ● Services rendus par VIAA Connect
+## [section_header] ● Services rendus par VIAA Connect
 
 Les services proposés par VIAA Connect sur les chantiers de Bourgneuf Aiton, de Le Boulou, de Sète et de Calais sont décrits sur le site https://www.viia.com/le-reseau/nos-terminaux/.
 
-## ● Services rendus par Cargo Beamer (annexe 7.11)
+## [section_header] ● Services rendus par Cargo Beamer (annexe 7.11)
 
 Cargo Beamer est exploitant du chantier de transport combiné de Calais Beau Marais.
 
 7.2.2.2 Cours marchandises
 
-## ● Services rendus par Mattrappes et Matsud (annexe 7.11)
+## [section_header] ● Services rendus par Mattrappes et Matsud (annexe 7.11)
 
 Mattrapes et Matsud proposent des services de manutention, stockage, pesage pour des matériaux vrac sur la plateforme de Trappes (78).
 
-## 7.2.3 VOIES DE TRI, FORMATION, MAN  UVRE ET GARAGE
+## [section_header] 7.2.3 VOIES DE TRI, FORMATION, MAN  UVRE ET GARAGE
 
-## 7.2.3.1 Services rendus par Normandie Rail Services
+## [section_header] 7.2.3.1 Services rendus par Normandie Rail Services
 
 Les services proposés par Normandie Rail Services sur le parc logistique du Pont de Normandie sont décrits sur le site https://normandie-rail-services.com.
 
-## 7.2.4 INSTALLATIONS D'ENTRETIEN
+<!-- page: 203 -->
 
-## 7.2.4.1 Services rendus par Technis (anciennement Fret SNCF)
+## [section_header] 7.2.4 INSTALLATIONS D'ENTRETIEN
+
+## [section_header] 7.2.4.1 Services rendus par Technis (anciennement Fret SNCF)
 
 Technis fournit aux entreprises ferroviaires l'accès aux installations de service des centres d'entretien de  matériel  roulant  et  aux  services  offerts  dans  ces  installations,  aux  installations  et  équipements permettant l'approvisionnement en sable des matériels roulants ainsi qu'aux passerelles de visite de toiture, dans les conditions définies dans son document de référence de maintenance, consultable sur le site de Technis ou à la demande, à l'adresse : guichet.fret.sncf@sncf.fr.
 
 Le document de référence de maintenance de Technis contient la liste des installations de service accessibles aux entreprises ferroviaires.
 
-## 7.2.4.2 Services rendus par RTM (anciennement RDT13) (annexe 7.11)
+## [section_header] 7.2.4.2 Services rendus par RTM (anciennement RDT13) (annexe 7.11)
 
 RTM est exploitant d'ateliers de maintenance à Arles et Marignane.
 
-## 7.2.4.3 Services rendus par SNCF Voyageurs
+## [section_header] 7.2.4.3 Services rendus par SNCF Voyageurs
 
 SNCF Voyageurs fournit aux entreprises ferroviaires l'accès aux installations de service des centres d'entretien  du  matériel  roulant  et  aux  services  offerts  dans  ces  installations,  aux  installations  et équipements permettant l'approvisionnement en sable des matériels roulants ainsi qu'aux passerelles de  visite  de  toiture,  dans  les  conditions  définies  dans  son  offre  de  référence  de  maintenance, consultable sur le  site de la PSEF.
 
 L'offre de référence de maintenance de SNCF Voyageurs contient la liste des installations de service accessibles aux entreprises ferroviaires. Les demandes de prestations doivent être adressées à la PSEF dont les coordonnées sont indiquées au point 7.1.3.1.
 
-## 7.2.4.4 Services rendus par Captrain France
+## [section_header] 7.2.4.4 Services rendus par Captrain France
 
 Captrain France est exploitant d'installations de maintenance à Montmirail, Saint Avold, la Paloma du Havre, Morcenx (données non actualisées).
 
-## 7.2.4.5 Services rendus par DB Cargo France
+## [section_header] 7.2.4.5 Services rendus par DB Cargo France
 
 DB Cargo France est exploitant d'un atelier de maintenance (légère et lourde) à Alizay (GPS 49.316709 / 1.188205) et propose un tour en fosse (données non actualisées).
 
-## 7.2.4.6 Services rendus par Normandie Rail Services
+## [section_header] 7.2.4.6 Services rendus par Normandie Rail Services
 
 Les services proposés par Normandie Rail Services sur le parc logistique du Pont de Normandie sont décrits sur le site https://normandie-rail-services.com.
 
-## 7.2.5 INSTALLATIONS TECHNIQUES, Y COMPRIS NETTOYAGE ET LAVAGE
+## [section_header] 7.2.5 INSTALLATIONS TECHNIQUES, Y COMPRIS NETTOYAGE ET LAVAGE
 
-## 7.2.5.1 Services rendus par Technis (anciennement Fret SNCF)
+## [section_header] 7.2.5.1 Services rendus par Technis (anciennement Fret SNCF)
 
 Technis fournit aux entreprises ferroviaires l'accès aux installations techniques, y compris nettoyage et lavage,  et  aux  services  offerts  dans  ces  installations,  aux  installations  et  équipements  permettant l'approvisionnement en sable des matériels roulants ainsi qu'aux passerelles de visite de toiture, dans les conditions définies dans son document de référence de maintenance, consultable sur le site de Technis ou à la demande, à l'adresse : guichet.fret.sncf@sncf.fr.
 
 Le document de référence de maintenance de Technis contient la liste des installations de service accessibles aux entreprises ferroviaires.
 
-## 7.2.5.2 Services rendus par SNCF Voyageurs
+<!-- page: 204 -->
+
+## [section_header] 7.2.5.2 Services rendus par SNCF Voyageurs
 
 SNCF Voyageurs fournit  aux  entreprises  ferroviaires  l'accès  aux  installations  techniques,  y  compris nettoyage et lavage, et aux installations et équipements permettant l'approvisionnement en sable des matériels roulants ainsi qu'aux passerelles de visite de toiture, dans les conditions définies dans son offre de référence de maintenance, consultable sur le  site de la PSEF.
 
 L'offre de référence de maintenance de SNCF Voyageurs contient la liste des installations de service accessibles aux entreprises ferroviaires. Les demandes de prestations doivent être adressées à la PSEF dont les coordonnées sont indiquées au point 7.1.3.1.
 
-## 7.2.5.3 Services rendus par Trenitalia France
+## [section_header] 7.2.5.3 Services rendus par Trenitalia France
 
 Trenitalia France propose l'accès à une passerelle de visite à Paris Bercy.
 
-## 7.2.5.4 Services rendus par Normandie Rail Services
+## [section_header] 7.2.5.4 Services rendus par Normandie Rail Services
 
 Les services proposés par Normandie Rail Services sur le parc logistique du Pont de Normandie sont décrits sur le site https://normandie-rail-services.com.
 
-## 7.2.6 INFRASTRUCTURES D'ASSISTANCE
+## [section_header] 7.2.6 INFRASTRUCTURES D'ASSISTANCE
 
 Sans objet
 
-## 7.2.7 INFRASTRUCTURES DE RAVITAILLEMENT EN COMBUSTIBLE
+## [section_header] 7.2.7 INFRASTRUCTURES DE RAVITAILLEMENT EN COMBUSTIBLE
 
-## 7.2.7.1 Services rendus par SNCF Combustible
+## [section_header] 7.2.7.1 Services rendus par SNCF Combustible
 
 SNCF Combustible fournit aux entreprises ferroviaires, dans les conditions définies dans ses offres de référence  les  accès  et  services  relatifs  à  l'utilisation  des  installations  et  équipements  permettant l'approvisionnement en combustible depuis le RFN. Les offres correspondantes ainsi que les données techniques des sites d'approvisionnement sont consultables sur le site de la PSEF. Les demandes de contractualisation  doivent  être  adressées  à  la  PSEF  dont  les  coordonnées  sont  indiquées  au point 7.1.3.1.
 
-## 7.2.7.2 Services rendus par Normandie Rail Services
+## [section_header] 7.2.7.2 Services rendus par Normandie Rail Services
 
 Les services proposés par Normandie Rail Services sur le parc logistique du Pont de Normandie sont décrits sur le site https://normandie-rail-services.com.
 
-## 7.2.8 AUTRES INSTALLATIONS
+## [section_header] 7.2.8 AUTRES INSTALLATIONS
 
-## 7.2.8.1 Services rendus par Europorte Channel
+## [section_header] 7.2.8.1 Services rendus par Europorte Channel
 
 Europorte Channel propose à Fréthun des services de prestations au sol et de gestion ferroviaire.
 
-## 7.2.8.2 Services rendus par Transfesa France (annexe 7.11)
+## [section_header] 7.2.8.2 Services rendus par Transfesa France (annexe 7.11)
 
 Transfesa France, en tant qu'exploitant des sites d'Hendaye et de Cerbère, fournit aux entreprises ferroviaires les services de changement d'essieux entre la France et l'Espagne, tels que définis dans son offre.
 
-## 7.2.8.3 Services rendus par Normandie Rail Services
+## [section_header] 7.2.8.3 Services rendus par Normandie Rail Services
 
 Les services proposés par Normandie Rail Services sur le parc logistique du Pont de Normandie sont décrits sur le site https://normandie-rail-services.com.
 
-## 7.3 INSTALLATIONS DE SERVICE EXPLOITEES PAR SNCF RESEAU
+<!-- page: 205 -->
+
+## [section_header] 7.3 INSTALLATIONS DE SERVICE EXPLOITEES PAR SNCF RESEAU
 
 Conformément à l'article 2111-9 du code des transports, « La société SNCF Réseau a pour mission d'assurer, de façon transparente et non discriminatoire, directement ou par l'intermédiaire de filiales, conformément aux principes du service public et dans le but de promouvoir le transport ferroviaire en France  dans  un  objectif  de  développement  durable,  d'aménagement  du  territoire  et  d'efficacité économique et sociale:
 
@@ -6287,9 +7320,9 @@ Conformément à l'article 2111-9 du code des transports, « La société SNCF R
 
 6° la gestion et la mise en valeur d'installations de service ».
 
-## 7.3.1 DISPOSITIONS COMMUNES
+## [section_header] 7.3.1 DISPOSITIONS COMMUNES
 
-## 7.3.1.1 Règles générales d'utilisation des installations de service
+## [section_header] 7.3.1.1 Règles générales d'utilisation des installations de service
 
 SNCF Réseau offre, dans le cadre des prestations minimales, l'accès par le réseau aux installations de service accessibles depuis le RFN.
 
@@ -6301,30 +7334,37 @@ Cependant, si les candidats souhaitent utiliser les installations de service dan
 
 En particulier, toute opération de maintenance sur le matériel roulant n'est autorisée sur les installations de service :
 
-- -Qu'après accord exprès et préalable de SNCF Réseau au travers d'une convention de mise à disposition,  et  dans  le  respect  des  conditions  liées  à  l'exploitation  des  installations  de maintenance.
-- -Qu'en cas d'urgence dûment justifiée par le candidat.
+-Qu'après accord exprès et préalable de SNCF Réseau au travers d'une convention de mise à disposition,  et  dans  le  respect  des  conditions  liées  à  l'exploitation  des  installations  de maintenance.
+
+-Qu'en cas d'urgence dûment justifiée par le candidat.
 
 Au titre du présent article, ne sont pas considérées comme des interventions de maintenance :
 
-- -Les visites du train (constats, reconnaissance) ;
-- -Les visites techniques ;
-- -Les interventions légères sur le matériel, avec de l'outillage portatif, sans aucun dépôt de matériel ou de matériaux au sol, tels que par exemple réglages, petits nettoyages simples d'accès.
+-Les visites du train (constats, reconnaissance) ;
 
-## 7.3.1.2 Tarification des installations de service
+-Les visites techniques ;
+
+-Les interventions légères sur le matériel, avec de l'outillage portatif, sans aucun dépôt de matériel ou de matériaux au sol, tels que par exemple réglages, petits nettoyages simples d'accès.
+
+## [section_header] 7.3.1.2 Tarification des installations de service
 
 L'article 3 du décret n° 2012-70, dans sa version modifiée par le décret n° 2016-1468 dispose que « la fourniture de chacune des prestations régulées donne lieu à la perception de redevances, dont le montant ne dépasse pas le coût de leur prestation majoré d'un bénéfice raisonnable ».
 
 Les redevances relatives aux prestations régulées rendues sur les installations de service définies ciaprès, dont le barème est présenté en annexe 7.9, s'appliquent pour l'horaire de service 2025.
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+<!-- page: 206 -->
+
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
 
 Pour plus d'information sur les principes de tarification des installations de service, se référer à l'annexe 7.8.
 
-## 7.3.1.3 Facturation
+## [section_header] 7.3.1.3 Facturation
 
 Les modalités de facturation des redevances pour l'usage des installations ferroviaires sont reprises dans le tableau ci-dessous.
 
 En cas d'écart entre l'utilisation contractualisée/déclarée et l'utilisation avérée,  la pénalité  visée  au point 7.3.5.4.2.c s'applique.
+
+### [TABLE]
 
 | Types de redevance pour les prestations réalisées au cours d'un (1) mois M   | Types de redevance pour les prestations réalisées au cours d'un (1) mois M               | Novembre de l'année A-1   | M-2                     | M-1                     | M (mois de prestation)   | M+1                     | A+1                     |
 |------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------|-------------------------|-------------------------|--------------------------|-------------------------|-------------------------|
@@ -6335,46 +7375,67 @@ En cas d'écart entre l'utilisation contractualisée/déclarée et l'utilisation
 | Prestations complément                                                       | Manoeuvre d'installations de sécurité simples                                            | Facture au fil de l'eau   | Facture au fil de l'eau | Facture au fil de l'eau | Facture au fil de l'eau  | Facture au fil de l'eau | Facture au fil de l'eau |
 | Prestations complément                                                       | aires Manoeuvre d'installations de sécurité simples suite à aléa de circulation en ligne | Facture au fil de l'eau   | Facture au fil de l'eau | Facture au fil de l'eau | Facture au fil de l'eau  | Facture au fil de l'eau | Facture au fil de l'eau |
 
-## 7.3.2 GARES
+## [section_header] 7.3.2 GARES
 
-## 7.3.2.1 Informations Générales
+## [section_header] 7.3.2.1 Informations Générales
 
-SNCF Gares &amp; Connexions, filiale de SNCF Réseau, est le gestionnaire unifié des gares.
+SNCF Gares & Connexions, filiale de SNCF Réseau, est le gestionnaire unifié des gares.
 
-Les  services  et  tarifs  proposés  par  SNCF  Gares  &amp;  Connexions  sont  définis  dans  le  document  de référence des gares (DRG) (point 7.2.1).
+Les  services  et  tarifs  proposés  par  SNCF  Gares  &  Connexions  sont  définis  dans  le  document  de référence des gares (DRG) (point 7.2.1).
 
-- 7.3.2.2 Prestations  pouvant  être  fournies  par  SNCF  Réseau  aux  transporteurs  dans  le périmètre de certaines gares de voyageurs
+7.3.2.2 Prestations  pouvant  être  fournies  par  SNCF  Réseau  aux  transporteurs  dans  le périmètre de certaines gares de voyageurs
 
 En  fonction  de  la  disponibilité  des  agents  des  Établissements  Infrastructure  Circulation  (EIC) (disponibilité pouvant varier d'une gare à une autre ainsi que d'un service annuel à un autre), SNCF Réseau peut proposer des prestations spécifiques aux transporteurs dans les gares de voyageurs.
 
 Ces prestations sont réparties en trois domaines d'expertise, chaque prestation pouvant être réalisée par SNCF Réseau de façon indépendante :
 
-- Les prestations relatives à la préparation du train :
-- -Gestion de rame : opérations d'accroches/décroches, essais de frein, bulletins de freinage, man  uvre des aiguilles à pied d'  uvre, etc … nécessaires à la man  uvre ou à l'évolution d'un train ;
+Les prestations relatives à la préparation du train :
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+-Gestion de rame : opérations d'accroches/décroches, essais de frein, bulletins de freinage, man  uvre des aiguilles à pied d'  uvre, etc … nécessaires à la man  uvre ou à l'évolution d'un train ;
 
-- -Préparation technique et commerciale du train :
-- opérations techniques effectuées sur un train à quai ou dans un chantier avant une circulation commerciale ;
-- vérification  de  la  conformité  aux  règles  de  confort  du  train  telles  que  pancartage, fermeture / déverrouillage des portes et fenêtres, etc…
-- -Aide au départ du train : opérations de vérifications jugées nécessaires par le transporteur, préalables à l'autorisation de mise en mouvement ;
-- -Prestations  logistiques :  opérations  de  remplissage  des  sablières,  nettoyage  des  vitres, remplissage en gasoil, plans froid, etc…
-- -Visite avant expédition :
-- vérification qu'aucun voyageur n'est présent dans une rame
-- fermeture des portes d'accès
-- -La supervision transporteur :
-- opérations en pré-opérationnel du bureau d'études escale : aide à la construction du recueil  des  contraintes  en  gare  (en  prenant  en  compte  les  contraintes  non  liées  à l'infrastructure telles  que  gestion  des  flux,  opérations  de  produit  train,  etc.),  préalimentation locale de certains outils, fiches de travail, notes de gare, etc…
-- suivi de la production des ressources en opérationnel du centre opérationnel escale telles  que  l'alimentation  des  systèmes  d'information/  rapports  d'incidents/  suivi régularité de l'escale, le suivi des étapes de la préparation technique et commerciale, etc… ;
-- Les prestations d'accueil spécifiques au transporteur en gare :
-- -Accueil  spécifique  au  train : présence d'un agent au moment de l'embarquement ou du débarquement afin d'accueillir et d'informer les voyageurs pour le compte de l'entreprise ferroviaire (en appui du personnel de l'EF ou par délégation de celle-ci) ;
-- -Mise  en  uvre  de  dispositifs  de  prise  en  charge  particuliers :  bons  taxis,  bons  hôtels, accueil groupe, distribution de plateau repas…
-- Les prestations de billettique :
-- -La vente  de  titres de  transport aux  guichets,  y  compris  l'information  relative  au voyage (renseignement des voyageurs sur leur voyage à l'occasion de la vente d'un titre de transport) et l'après-vente aux guichets ;
-- -La vérification du bon  fonctionnement  et réalisation de l'entretien courant des Distributeurs  Billetterie  Régionale  (DBR),  composteurs  et  valideurs  présents  en  gare  et installés  par  l'entreprise  ferroviaire,  y  compris  l'appel  à  l'entreprise  ferroviaire  en  cas  de dépannage lourd ;
+<!-- page: 207 -->
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
 
-- -La manipulation de fonds dans le cadre de la vente de titres de transport, y compris l'arrêté de caisse et le transfert de la caisse au coffre de la gare.
+-Préparation technique et commerciale du train :
+
+opérations techniques effectuées sur un train à quai ou dans un chantier avant une circulation commerciale ;
+
+vérification  de  la  conformité  aux  règles  de  confort  du  train  telles  que  pancartage, fermeture / déverrouillage des portes et fenêtres, etc…
+
+-Aide au départ du train : opérations de vérifications jugées nécessaires par le transporteur, préalables à l'autorisation de mise en mouvement ;
+
+-Prestations  logistiques :  opérations  de  remplissage  des  sablières,  nettoyage  des  vitres, remplissage en gasoil, plans froid, etc…
+
+-Visite avant expédition :
+
+vérification qu'aucun voyageur n'est présent dans une rame
+
+fermeture des portes d'accès
+
+-La supervision transporteur :
+
+opérations en pré-opérationnel du bureau d'études escale : aide à la construction du recueil  des  contraintes  en  gare  (en  prenant  en  compte  les  contraintes  non  liées  à l'infrastructure telles  que  gestion  des  flux,  opérations  de  produit  train,  etc.),  préalimentation locale de certains outils, fiches de travail, notes de gare, etc…
+
+suivi de la production des ressources en opérationnel du centre opérationnel escale telles  que  l'alimentation  des  systèmes  d'information/  rapports  d'incidents/  suivi régularité de l'escale, le suivi des étapes de la préparation technique et commerciale, etc… ;
+
+Les prestations d'accueil spécifiques au transporteur en gare :
+
+-Accueil  spécifique  au  train : présence d'un agent au moment de l'embarquement ou du débarquement afin d'accueillir et d'informer les voyageurs pour le compte de l'entreprise ferroviaire (en appui du personnel de l'EF ou par délégation de celle-ci) ;
+
+-Mise  en  uvre  de  dispositifs  de  prise  en  charge  particuliers :  bons  taxis,  bons  hôtels, accueil groupe, distribution de plateau repas…
+
+Les prestations de billettique :
+
+-La vente  de  titres de  transport aux  guichets,  y  compris  l'information  relative  au voyage (renseignement des voyageurs sur leur voyage à l'occasion de la vente d'un titre de transport) et l'après-vente aux guichets ;
+
+-La vérification du bon  fonctionnement  et réalisation de l'entretien courant des Distributeurs  Billetterie  Régionale  (DBR),  composteurs  et  valideurs  présents  en  gare  et installés  par  l'entreprise  ferroviaire,  y  compris  l'appel  à  l'entreprise  ferroviaire  en  cas  de dépannage lourd ;
+
+<!-- page: 208 -->
+
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
+
+-La manipulation de fonds dans le cadre de la vente de titres de transport, y compris l'arrêté de caisse et le transfert de la caisse au coffre de la gare.
 
 La fourniture de ces prestations, strictement dépendantes de la disponibilité d'un agent des EIC, donne lieu à la conclusion d'un contrat entre SNCF Réseau et l'entreprise ferroviaire bénéficiaire du service.
 
@@ -6386,28 +7447,31 @@ Pour la billettique, le prix résulte du volume commandé (heure d'ouverture et 
 
 Les modalités de facturation sont précisées dans le contrat spécifique conclu entre SNCF Réseau et l'entreprise ferroviaire.
 
-## 7.3.3 TERMINAUX DE MARCHANDISES
+## [section_header] 7.3.3 TERMINAUX DE MARCHANDISES
 
-## 7.3.3.1 Informations générales
+## [section_header] 7.3.3.1 Informations générales
 
 SNCF Réseau met à disposition de ses clients l'accès et l'usage de plateformes d'échange dédiées au transfert de marchandises entre le mode de transport ferroviaire et le mode de transport routier. Deux types d'installation sont exploitées par SNCF Réseau : les chantiers de transport combiné, dont la liste et la localisation des installations sont présentées en annexe 7.6.3 et les cours de marchandises, dont la liste est établie en annexe 7.6.1 et 7.6.2.
 
-- Un chantier de transport combiné (CTC) se définit comme un espace essentiellement utilisé pour le transport rail/route, qui permet de charger ou décharger les unités de transport intermodal (UTI) par grue mobile ou portique.
-- Une cour de marchandises est un espace qui permet le transbordement de marchandises de la voie ferrée vers un mode routier et inversement.
+Un chantier de transport combiné (CTC) se définit comme un espace essentiellement utilisé pour le transport rail/route, qui permet de charger ou décharger les unités de transport intermodal (UTI) par grue mobile ou portique.
+
+Une cour de marchandises est un espace qui permet le transbordement de marchandises de la voie ferrée vers un mode routier et inversement.
 
 De façon exceptionnelle, temporaire et après accord exprès de SNCF Réseau, un CTC peut être utilisé pour un transbordement rail-route sans UTI, et inversement une cour marchandises peut être utilisée pour des transbordement rail-route d'UTI.
 
-## 7.3.3.2 Services
+## [section_header] 7.3.3.2 Services
 
-- Pour les chantiers de transport combiné, le service de base comprend l'usage des voies ferrées, cours et installations aménagés pour le chargement et le déchargement des marchandises depuis le train, l'accès à la voie publique des véhicules routiers transportant ces marchandises, l'utilisation des  installations  de  traction  électrique,  la  fourniture  des  informations  nécessaires  à  l'utilisation normale du terminal et, le cas échéant, l'utilisation des services de télécommunication dont l'usage est rendu obligatoire par le gestionnaire de l'installation de services.
+Pour les chantiers de transport combiné, le service de base comprend l'usage des voies ferrées, cours et installations aménagés pour le chargement et le déchargement des marchandises depuis le train, l'accès à la voie publique des véhicules routiers transportant ces marchandises, l'utilisation des  installations  de  traction  électrique,  la  fourniture  des  informations  nécessaires  à  l'utilisation normale du terminal et, le cas échéant, l'utilisation des services de télécommunication dont l'usage est rendu obligatoire par le gestionnaire de l'installation de services.
 
 Il couvre également la man  uvre des installations de sécurité nécessaire à l'accès ou à l'utilisation de ces installations de service et que la réglementation réserve au gestionnaire de l'installation de services.
 
 L'usage des halles ou bâtiments situés dans les emprises des chantiers de transport combiné n'est pas compris dans le service de base. Il s'agit de prestations diverses éventuellement fournies par SNCF Réseau sur demande.
 
+<!-- page: 209 -->
+
 Les prestations de manutention/stockage d'UTI sont fournies par les exploitants de chantier de transport combiné identifiés au point 7.2.2.1.
 
-- Pour les cours de marchandises, le service de base comprend l'usage des voies, des quais, cours et  installations  aménagés  pour le chargement et le déchargement des marchandises depuis le train, l'accès à la voie publique des véhicules routiers transportant ces marchandises, l'utilisation des  installations  de  traction  électrique,  la  fourniture  des  informations  nécessaires  à  l'utilisation normale du terminal et, le cas échéant, l'utilisation des services de télécommunication dont l'usage est rendu obligatoire par le gestionnaire de l'installation de services.
+Pour les cours de marchandises, le service de base comprend l'usage des voies, des quais, cours et  installations  aménagés  pour le chargement et le déchargement des marchandises depuis le train, l'accès à la voie publique des véhicules routiers transportant ces marchandises, l'utilisation des  installations  de  traction  électrique,  la  fourniture  des  informations  nécessaires  à  l'utilisation normale du terminal et, le cas échéant, l'utilisation des services de télécommunication dont l'usage est rendu obligatoire par le gestionnaire de l'installation de services.
 
 Il couvre également la man  uvre des installations de sécurité nécessaire à l'accès ou à l'utilisation de ces installations de service et que la réglementation réserve au gestionnaire de l'installation de services.
 
@@ -6415,9 +7479,9 @@ Le  service  de  base  peut  également  comporter  des  prestations  de  progra
 
 L'usage des halles ou bâtiments situés dans les emprises des cours de marchandises n'est pas compris dans le service de base ; il s'agit de prestations diverses éventuellement fournies par SNCF Réseau sur demande.
 
-## 7.3.3.3 Description de l'installation de service
+## [section_header] 7.3.3.3 Description de l'installation de service
 
-## ● Chantiers de transport combiné
+## [section_header] ● Chantiers de transport combiné
 
 Développé pour répondre aux besoins de transport de caisses mobiles, conteneurs et semi-remorques routières (unité de transport intermodal), le transport combiné est un mode de transport intermodal qui utilise le mode routier pour le pré et post acheminement de et vers des chantiers spécialisés et le mode ferroviaire ou fluvial ou maritime sur le parcours principal.
 
@@ -6425,8 +7489,9 @@ Les chantiers de transport combiné de SNCF Réseau sont des espaces dédiés au
 
 Les chantiers de transport combiné de SNCF Réseau sont composés :
 
-- -d'une ou de plusieurs voies ferrées de manutention à l'intérieur du site
-- -et, selon le site, de voies ferrées d'appui au terminal qui leur sont exclusivement dédiées aux fins de man  uvre et de stationnement.
+-d'une ou de plusieurs voies ferrées de manutention à l'intérieur du site
+
+-et, selon le site, de voies ferrées d'appui au terminal qui leur sont exclusivement dédiées aux fins de man  uvre et de stationnement.
 
 Les plateformes routières de ces sites sont spécialement conçues pour la circulation des poids lourds et pour l'utilisation de grues routières dont la charge à l'essieu est particulièrement importante.
 
@@ -6434,16 +7499,21 @@ La liste des chantiers de transport combiné de SNCF Réseau figure en annexe 7.
 
 Les caractéristiques principales des voies des chantiers de transport combiné telles que les numéros d'identification de chaque voie, leur longueur utile, le type d'alimentation, ainsi que les caractéristiques détaillées telles que la restriction de charge de wagon admissible sur la voie, certaines fonctionnalités et services disponibles, les possibilités de réception de marchandises dangereuses et de transports exceptionnels, figurent dans la liste des voies de service commercialisables qui se trouve sur le  site internet de la PSEF.
 
+<!-- page: 210 -->
+
 La PSEF (point 7.1.3.1) doit être consultée pour toute demande concernant la localisation précise des sites concernés et les possibilités offertes.
 
-## ● Cours de marchandises
+## [section_header] ● Cours de marchandises
 
 Les cours de marchandises permettent le transbordement de marchandises du mode ferroviaire au mode routier et vice versa. Elles sont composées :
 
-- -d'une ou de plusieurs voies ferrées de manutention à l'intérieur du site ;
-- -selon le site, de voies ferrées d'appui au terminal qui leur sont exclusivement dédiées, aux fins de man  uvre et de stationnement ;
-- -d'un accès routier permettant aux camions d'accéder au site
-- -et, le cas échéant, de halles, quais ou bâtiments.
+-d'une ou de plusieurs voies ferrées de manutention à l'intérieur du site ;
+
+-selon le site, de voies ferrées d'appui au terminal qui leur sont exclusivement dédiées, aux fins de man  uvre et de stationnement ;
+
+-d'un accès routier permettant aux camions d'accéder au site
+
+-et, le cas échéant, de halles, quais ou bâtiments.
 
 Les  cours  de  marchandises  de  SNCF  Réseau  immédiatement  accessibles,  avec  leur  localisation  et caractéristiques techniques principales, sont listées en annexe 7.6.1.
 
@@ -6451,15 +7521,15 @@ Les cours de marchandises de SNCF Réseau accessibles après diagnostic et remis
 
 Les  caractéristiques  principales  des  voies  ferrées  des  cours  marchandises  telles  que  les  numéros d'identification de chaque voie, leur longueur utile, le type d'alimentation, ainsi que les caractéristiques détaillées telles que la restriction de charge de wagon admissible sur la voie, certaines fonctionnalités et services disponibles, les possibilités de réception de marchandises dangereuses et de transports exceptionnels, figurent dans la liste des voies de service commercialisables qui se trouve sur le  site internet de la PSEF.
 
-## 7.3.3.4 Tarification
+## [section_header] 7.3.3.4 Tarification
 
-## A. Redevances d'usage des chantiers de transport combiné
+## [section_header] A. Redevances d'usage des chantiers de transport combiné
 
 L'usage des installations ferroviaires des chantiers de transport combiné se traduit par la facturation d'une redevance par train accédant au terminal de transport combiné. Cette redevance est identique pour l'ensemble des sites.
 
-## B. Redevances d'usage des cours de marchandises
+## [section_header] B. Redevances d'usage des cours de marchandises
 
-## ● Cours de marchandises immédiatement accessibles
+## [section_header] ● Cours de marchandises immédiatement accessibles
 
 L'usage  des  cours  de  marchandises  immédiatement  accessibles  se  traduit  par  la  facturation  d'une redevance par train accédant au terminal. Cette redevance est identique pour l'ensemble des sites.
 
@@ -6467,14 +7537,17 @@ Pour  chaque  installation  demandée,  l'entreprise  ferroviaire  choisit  entr
 
 L'usage des cours de marchandises implique deux types de tarifications :
 
-- -La tarification systématique qui correspond à la redevance d'usage courant du site (tarif unique pour  l'ensemble  des  sites) ;  en  outre,  pour  les  offres  dites  «  open  »,  elle  comprend  une redevance forfaitaire de programmation ;
+-La tarification systématique qui correspond à la redevance d'usage courant du site (tarif unique pour  l'ensemble  des  sites) ;  en  outre,  pour  les  offres  dites  «  open  »,  elle  comprend  une redevance forfaitaire de programmation ;
 
-- -La tarification additionnelle qui correspond aux redevances de reprogrammation des tranches horaires,  quel  que  soit  le  contrat,  ferme  ou  open.  Les  tarifs  sont  forfaitaires  pour  la reprogrammation.
-- Cours de marchandises accessibles après diagnostic et remise en état éventuelle
+<!-- page: 211 -->
+
+-La tarification additionnelle qui correspond aux redevances de reprogrammation des tranches horaires,  quel  que  soit  le  contrat,  ferme  ou  open.  Les  tarifs  sont  forfaitaires  pour  la reprogrammation.
+
+Cours de marchandises accessibles après diagnostic et remise en état éventuelle
 
 Le tarif  est  établi  sur  la  base  de  la  redevance  d'usage  des  cours  de  marchandises immédiatement accessibles, le cas échéant complété du montant des travaux de remise en état. SNCF Réseau fournit un devis de ce tarif qui doit être préalablement accepté par l'entreprise ferroviaire avant le début de la prestation. Un calendrier de réalisation des travaux et d'accessibilité au site est également fourni et doit être accepté par le demandeur.
 
-## 7.3.3.5 Conditions d'accès
+## [section_header] 7.3.3.5 Conditions d'accès
 
 L'accès aux installations ferroviaires des terminaux de marchandises est conditionné à l'application des conditions contractuelles communes aux contrats d'utilisation des installations de service (annexe 7.1) et à la conclusion d'un contrat national pour l'utilisation des cours de marchandises (annexe 7.3) ou d'un contrat national pour l'utilisation des chantiers de transport combiné (annexe 7.4).
 
@@ -6488,38 +7561,49 @@ Les offres de service des exploitants des chantiers de transport combiné, propr
 
 Les  entreprises  ferroviaires  et  autres  candidats  doivent  s'adresser  à  ces  derniers  concernant  leurs besoins en manutention / stockage d'UTI.
 
-## 7.3.3.6 Allocation de capacité
+## [section_header] 7.3.3.6 Allocation de capacité
 
 Les demandes d'utilisation des terminaux de marchandises se font dans le même calendrier que celui des voies de service (point 7.3.5.6). Le calendrier des réponses de SNCF Réseau aux demandes est également aligné sur celui des voies de service.
 
 Les demandes d'accès concurrentes aux terminaux de marchandises font l'objet d'une coordination avec les demandeurs de capacité. Cette coordination débouche, si nécessaire, sur la mise au point d'une charte locale d'exploitation décrivant les espace-temps alloués à chaque demandeur.
 
-- Dans le cas où les demandes ne peuvent être satisfaites à l'issue de la procédure de coordination, les critères suivants guideront l'arbitrage par SNCF  Réseau  (sans ordre de priorité ou d'importance) :
-- -quand l'information est disponible, utilisation effective des terminaux en A-1 en comparaison avec la capacité demandée ;
-- -nombre de jours d'utilisation prévisionnelle, fréquence et saisonnalité ;
-- -motivation et justification de la demande ;
-- -réajustement de la capacité attribuée en cas de perte de marché en cours d'année ;
-- -origine de la demande : initiative du demandeur ou adaptation pour une cause GI ;
+Dans le cas où les demandes ne peuvent être satisfaites à l'issue de la procédure de coordination, les critères suivants guideront l'arbitrage par SNCF  Réseau  (sans ordre de priorité ou d'importance) :
 
-- -ordre chronologique d'arrivée des demandes, pour les demandes tardives et en cours d'HDS ;
-- -longueur du parcours en ligne ;
-- -complexité et impact global du thème de man  uvre sur le complexe ferroviaire.
-- A l'issue de l'arbitrage par SNCF Réseau, cette dernière et le demandeur qui n'a pas pu voir sa demande satisfaite déterminent ensemble s'il existe des alternatives viables permettant d'exécuter le service concerné dans des conditions économiquement acceptables.
-- Lorsqu'à  l'issue  de  la  procédure,  SNCF  Réseau  et  le  demandeur  concluent  qu'il  n'existe  pas d'alternative viable et qu'il n'est pas possible de satisfaire la demande, cette dernière est rejetée.
+-quand l'information est disponible, utilisation effective des terminaux en A-1 en comparaison avec la capacité demandée ;
 
-## 7.3.4 SITES DE TRI A LA GRAVITE
+-nombre de jours d'utilisation prévisionnelle, fréquence et saisonnalité ;
 
-## 7.3.4.1 Informations générales
+-motivation et justification de la demande ;
+
+-réajustement de la capacité attribuée en cas de perte de marché en cours d'année ;
+
+-origine de la demande : initiative du demandeur ou adaptation pour une cause GI ;
+
+<!-- page: 212 -->
+
+-ordre chronologique d'arrivée des demandes, pour les demandes tardives et en cours d'HDS ;
+
+-longueur du parcours en ligne ;
+
+-complexité et impact global du thème de man  uvre sur le complexe ferroviaire.
+
+A l'issue de l'arbitrage par SNCF Réseau, cette dernière et le demandeur qui n'a pas pu voir sa demande satisfaite déterminent ensemble s'il existe des alternatives viables permettant d'exécuter le service concerné dans des conditions économiquement acceptables.
+
+Lorsqu'à  l'issue  de  la  procédure,  SNCF  Réseau  et  le  demandeur  concluent  qu'il  n'existe  pas d'alternative viable et qu'il n'est pas possible de satisfaire la demande, cette dernière est rejetée.
+
+## [section_header] 7.3.4 SITES DE TRI A LA GRAVITE
+
+## [section_header] 7.3.4.1 Informations générales
 
 Les installations de tri à la gravité désignent les sites d'exploitation disposant d'un système spécifique permettant de trier les wagons par gravité.
 
-## 7.3.4.2 Services
+## [section_header] 7.3.4.2 Services
 
 Le service de base rendu sur les sites de tri à la gravité (usage de la fonctionnalité de tri à la gravité) consiste en l'utilisation des buttes de triage ainsi qu'aux prestations de débranchement et de freinage des coupons.
 
-## Ce service ne comprend pas l'utilisation des voies de service en amont et en aval de la bosse.
+## [section_header] Ce service ne comprend pas l'utilisation des voies de service en amont et en aval de la bosse.
 
-## 7.3.4.3 Description de l'installation de service
+## [section_header] 7.3.4.3 Description de l'installation de service
 
 Les sites de tri à la gravité sont composés d'une bosse, de systèmes de freinage automatisés ou semiautomatisés et de voies de service permettant le tri des wagons et la recomposition des wagons en trains du lotissement.
 
@@ -6527,9 +7611,9 @@ Les sites de tri à la gravité en activité sont Le Bourget, Miramas, Sibelin e
 
 Les caractéristiques principales des sites de tri à la gravité telles que les numéros d'identification de chaque voie, leur longueur utile, ainsi que les caractéristiques détaillées telles que la restriction de charge de wagon admissible sur la voie, certaines fonctionnalités et services disponibles, les possibilités de réception de marchandises dangereuses et de transports exceptionnels, figurent sur le site internet de la PSEF dans le fichier des voies de service commercialisables.
 
-## 7.3.4.4 Tarification
+## [section_header] 7.3.4.4 Tarification
 
-## ● Redevance pour l'usage de la fonctionnalité de tri à la gravité
+## [section_header] ● Redevance pour l'usage de la fonctionnalité de tri à la gravité
 
 La  redevance  pour  l'usage  de  la  fonctionnalité  de  tri  à  la  gravité  couvre  à  la  fois  l'usage  des infrastructures spécifiques et les prestations correspondantes liées à la fonctionnalité de tri à la gravité.
 
@@ -6537,25 +7621,27 @@ L'utilisation des voies de service en amont et en aval de la bosse n'est pas com
 
 La prestation d'usage de la fonctionnalité de tri à la gravité fait l'objet d'une déclaration par l'entreprise ferroviaire.
 
-L'entreprise ferroviaire s'engage à déclarer à SNCF Réseau, pour chaque mois M, cette prestation, les trains accédant à cette fonctionnalité, par courriel à l'adresse dmc\_valorisation\_ventes@reseau.sncf.fr au plus tard le vingt (20) du mois M+1.
+L'entreprise ferroviaire s'engage à déclarer à SNCF Réseau, pour chaque mois M, cette prestation, les trains accédant à cette fonctionnalité, par courriel à l'adresse dmc_valorisation_ventes@reseau.sncf.fr au plus tard le vingt (20) du mois M+1.
+
+<!-- page: 213 -->
 
 La redevance est facturée à la fin du mois M+1 sur la base de la déclaration de l'entreprise ferroviaire reprenant les données réelles concernant le nombre de trains accédant aux sites de tri à la gravité, au plus tard le vingt (20) du mois M +1 pour l'ensemble de ce mois M.
 
-## ● Redevance pour l'usage courant des voies de service amont et aval de la gravité
+## [section_header] ● Redevance pour l'usage courant des voies de service amont et aval de la gravité
 
 L'usage courant des voies de service des sites de tri à la gravité donne lieu à la facturation de la redevance définie au point 7.3.5.4.
 
-## 7.3.4.5 Conditions d'accès
+## [section_header] 7.3.4.5 Conditions d'accès
 
 Les conditions d'accès aux sites de tri à la gravité sont définies au point 7.3.5.5 ci-après (à l'exception des mises à disposition d'espaces industriels qui ne s'appliquent pas au tri à la gravité).
 
-## 7.3.4.6 Allocation de capacité
+## [section_header] 7.3.4.6 Allocation de capacité
 
 Les modalités de demandes et de réponses aux demandes d'accès aux sites de tri à la gravité sont identiques à celles des voies de service et définies au point 7.3.5.6.
 
-## 7.3.5 VOIES DE SERVICE
+## [section_header] 7.3.5 VOIES DE SERVICE
 
-## 7.3.5.1 Informations générales
+## [section_header] 7.3.5.1 Informations générales
 
 L'infrastructure de SNCF Réseau dispose de voies de services affectées, de manière générale, à la production des entreprises ferroviaires hors sillon et aux besoins du gestionnaire d'infrastructure pour l'exploitation et la maintenance du réseau.
 
@@ -6565,139 +7651,167 @@ SNCF Réseau distingue les voies de service en fonction de leur utilisation, qui
 
 Cette distinction se fait, en principe, de la façon suivante.
 
-## ● Les voies non commercialisables sont en règle générale :
+## [section_header] ● Les voies non commercialisables sont en règle générale :
 
-- -Les voies affectées exclusivement à la gestion opérationnelle des circulations, dénommées voies « VGC », dont l'objet est de permettre de gérer les aléas de production de SNCF Réseau ou de fluidifier les circulations, notamment :
-- les aléas de circulations,
-- les opérations de rebroussement,
-- la réception des trains en provenance des voies principales,
-- la préparation des départs vers les voies principales et arrêts-circulation,
-- la détection de boîtes chaudes,
-- les besoins ponctuels et inopinés de stationnement court (&lt;30 min) décidés par SNCF Réseau.
-- -Par nature, une utilisation de ce type de voie pour les besoins cités ci-dessus ne peut faire l'objet d'une facturation de redevance au titre des installations de service. En outre, ces voies  ne  doivent  pas  servir  pour  les  man  uvres  et  le  stationnement  des  entreprises ferroviaires dans un cadre différent de celui décrit ci-dessus.
+-Les voies affectées exclusivement à la gestion opérationnelle des circulations, dénommées voies « VGC », dont l'objet est de permettre de gérer les aléas de production de SNCF Réseau ou de fluidifier les circulations, notamment :
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+les aléas de circulations,
 
-- -Enfin,  lors  d'aléas  de  production  ou  de  travaux  inopinés,  le  service  de  gestion  des circulations de SNCF Réseau peut décider de retenir les trains ou proposer des itinéraires et stationnement alternatifs. Si un stationnement était prévu contractuellement (au titre de l'usage courant décrit ci-après) et que SNCF Réseau n'a pas pu honorer la demande de l'Entreprise Ferroviaire pour cause d'aléas de production alors, le stationnement alternatif proposé par SNCF Réseau ne fera pas l'objet d'une facturation supplémentaire.
-- -Les voies affectées exclusivement de manière permanente aux besoins de maintenance de l'infrastructure.
-- Les voies commercialisables sont en règle générale :
-- -Voies affectées à un usage courant
-- Les voies de service destinées à un usage courant sont les suivantes : voies de travail, affectées à la production des entreprises ferroviaires hors sillon (garage, tri, man  uvre et  formation  de  trains,  stationnement  temporaire  amont  et  aval  de  ces  opérations, relais…) ;
-- Les voies de garage, affectées au stationnement temporaire des véhicules ferroviaires entre deux missions (voies seules sans intervention sur le matériel roulant, à l'exception des interventions visées au point 7.3.1.1 ci-dessus) ;
-- Les  voies  de  travail  et/ou  de  garage  auxquelles  sont  associés  un  foncier  et/ou  un équipement fixe, le tout constituant un espace industriel.
-- Les voies de gestion des circulations « VGC » à usage mixte : certaines voies de gestion des circulations sont dites « mixtes » car elles ne sont pas affectées exclusivement aux besoins du service de gestion des circulations de SNCF Réseau. Dans ce cas, elles peuvent  faire  l'objet  d'une  utilisation  par  une  Entreprise  Ferroviaire  à  des  fins  de man  uvre ou de stationnement long (&gt; 30min), sous réserve de l'accord du service de gestion des circulations de SNCF Réseau. Ces voies sont en général accessibles depuis les  voies  principales  et  situées  sur  les  faisceaux  réception,  relais,  attente  départ  et formation des sites de triage.
+les opérations de rebroussement,
+
+la réception des trains en provenance des voies principales,
+
+la préparation des départs vers les voies principales et arrêts-circulation,
+
+la détection de boîtes chaudes,
+
+les besoins ponctuels et inopinés de stationnement court (<30 min) décidés par SNCF Réseau.
+
+-Par nature, une utilisation de ce type de voie pour les besoins cités ci-dessus ne peut faire l'objet d'une facturation de redevance au titre des installations de service. En outre, ces voies  ne  doivent  pas  servir  pour  les  man  uvres  et  le  stationnement  des  entreprises ferroviaires dans un cadre différent de celui décrit ci-dessus.
+
+<!-- page: 214 -->
+
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
+
+-Enfin,  lors  d'aléas  de  production  ou  de  travaux  inopinés,  le  service  de  gestion  des circulations de SNCF Réseau peut décider de retenir les trains ou proposer des itinéraires et stationnement alternatifs. Si un stationnement était prévu contractuellement (au titre de l'usage courant décrit ci-après) et que SNCF Réseau n'a pas pu honorer la demande de l'Entreprise Ferroviaire pour cause d'aléas de production alors, le stationnement alternatif proposé par SNCF Réseau ne fera pas l'objet d'une facturation supplémentaire.
+
+-Les voies affectées exclusivement de manière permanente aux besoins de maintenance de l'infrastructure.
+
+Les voies commercialisables sont en règle générale :
+
+-Voies affectées à un usage courant
+
+Les voies de service destinées à un usage courant sont les suivantes : voies de travail, affectées à la production des entreprises ferroviaires hors sillon (garage, tri, man  uvre et  formation  de  trains,  stationnement  temporaire  amont  et  aval  de  ces  opérations, relais…) ;
+
+Les voies de garage, affectées au stationnement temporaire des véhicules ferroviaires entre deux missions (voies seules sans intervention sur le matériel roulant, à l'exception des interventions visées au point 7.3.1.1 ci-dessus) ;
+
+Les  voies  de  travail  et/ou  de  garage  auxquelles  sont  associés  un  foncier  et/ou  un équipement fixe, le tout constituant un espace industriel.
+
+Les voies de gestion des circulations « VGC » à usage mixte : certaines voies de gestion des circulations sont dites « mixtes » car elles ne sont pas affectées exclusivement aux besoins du service de gestion des circulations de SNCF Réseau. Dans ce cas, elles peuvent  faire  l'objet  d'une  utilisation  par  une  Entreprise  Ferroviaire  à  des  fins  de man  uvre ou de stationnement long (> 30min), sous réserve de l'accord du service de gestion des circulations de SNCF Réseau. Ces voies sont en général accessibles depuis les  voies  principales  et  situées  sur  les  faisceaux  réception,  relais,  attente  départ  et formation des sites de triage.
 
 L'utilisation des voies VGC mixtes par les entreprises ferroviaires pourra être facturée au même titre qu'une utilisation courante de voie de service en fonction de la durée d'utilisation effectivement constatée. La durée de stationnement maximale sur VGC mixtes est inscrite dans chaque Consigne Locale d'Exploitation (CLE) et dépend de la contrainte capacitaire propre à chaque site. Les durées peuvent varier de 30 minutes à 36 heures sur certains sites.
 
 Dans  le  cas  d'un  stationnement  d'une  Entreprise  Ferroviaire  au-delà  du  temps maximum  prévu dans la CLE (pouvant notamment  occasionner des goulets d'étranglement  des  circulations),  l'Entreprise  Ferroviaire  se  verra  appliquer  une pénalité de suroccupation par le Service de Gestion des Circulations de SNCF Réseau.
 
-- Le processus d'allocation décrit au point 7.3.5.6 ne s'applique pas à l'utilisation des voies VGC mixtes telle que décrite ci-dessus.
+Le processus d'allocation décrit au point 7.3.5.6 ne s'applique pas à l'utilisation des voies VGC mixtes telle que décrite ci-dessus.
 
 SNCF Réseau peut  également  proposer  aux  entreprises  ferroviaires  voyageurs,  en  supplétif  de  la prestation de garage, une prestation de remisage de matériel roulant voyageurs de nuit sur les voies principales des gares de voyageurs. Cette prestation de remisage de matériel voyageurs de nuit sur voie principale en gares de voyageurs est décrite au point 7.3.5.7 ci-après.
 
-## 7.3.5.2 Services
+<!-- page: 215 -->
 
-## ● Voies commercialisables affectées à un usage courant
+## [section_header] 7.3.5.2 Services
+
+## [section_header] ● Voies commercialisables affectées à un usage courant
 
 Les voies de service destinées à un usage courant sont définies au point 7.3.5.1. Elles peuvent être utilisées par plusieurs entreprises ferroviaires et, à l'exception des VGC et des voies auxquelles sont associés un foncier et/ou un équipement fixe, font l'objet du processus d'allocation de capacité décrit au point 7.3.5.6.
 
 Il existe deux modalités d'utilisation des voies de service pour usage courant, à savoir :
 
-- -L'utilisation  récurrente,  qui  correspond  à  une  utilisation  régulière  sur  une  période  donnée (a minima  la  même  réservation  un  (1)  jour  par  semaine  pendant  un  (1)  mois),  qui  peut s'appliquer à chacune des utilisations ci-avant ; une utilisation permanente 7j/7 et 24h/24 sur la durée de l'HDS entre dans cette catégorie ;
-- -L'utilisation  ponctuelle,  qui  correspond  à  toute  autre  utilisation,  au  fil  de  l'eau,  qui  ne s'applique  pas  à  l'allocation  d'un  espace  industriel.  L'utilisation  des  VGC  entre  dans  cette catégorie.
+-L'utilisation  récurrente,  qui  correspond  à  une  utilisation  régulière  sur  une  période  donnée (a minima  la  même  réservation  un  (1)  jour  par  semaine  pendant  un  (1)  mois),  qui  peut s'appliquer à chacune des utilisations ci-avant ; une utilisation permanente 7j/7 et 24h/24 sur la durée de l'HDS entre dans cette catégorie ;
 
-## ● Voies faisant l'objet d'une occupation sans mouvements ferroviaires réguliers
+-L'utilisation  ponctuelle,  qui  correspond  à  toute  autre  utilisation,  au  fil  de  l'eau,  qui  ne s'applique  pas  à  l'allocation  d'un  espace  industriel.  L'utilisation  des  VGC  entre  dans  cette catégorie.
+
+## [section_header] ● Voies faisant l'objet d'une occupation sans mouvements ferroviaires réguliers
 
 D'autres voies de service, commercialisables ou non, peuvent également être proposées par SNCF Réseau sur demande de candidats désirant une occupation sans mouvements ferroviaires réguliers (voir point 7.4.2.1).
 
-## 7.3.5.3 Description de l'installation de service
+## [section_header] 7.3.5.3 Description de l'installation de service
 
 Pour chacun de ces sites, la liste des voies de service commercialisables ainsi que leurs caractéristiques principales  telles  que  les  numéros  d'identification  de  chaque  voie,  leur  longueur  utile,  le  type d'alimentation, ainsi que leurs caractéristiques détaillées telles que la restriction de charge de wagon admissible sur la voie, les possibilités de réception de marchandises dangereuses et de transports exceptionnels, figurent sur le site internet de la PSEF, dans les rubriques « Produits et services » et « Offre N+1 ».
 
 Est également présentée en annexe 7.7 la liste des sites non inutilisés depuis plus de 2 ans et ne faisant l'objet  d'aucun  potentiel  commercial  identifié  à  la  date  de  publication  du  DRR.  Cette  liste  est également consultable sur le site internet de la PSEF dans un fichier (« Sites inutilisés depuis plus de 2 ans et ne faisant l'objet d'aucun potentiel commercial identifié ») qui sera enrichi à court terme avec le nombre de voies du site. A défaut de demandes, ces voies sont susceptibles de faire l'objet d'une reconversion.
 
-## 7.3.5.4 Tarification
+## [section_header] 7.3.5.4 Tarification
 
-## 7.3.5.4.1. Redevance
+## [section_header] 7.3.5.4.1. Redevance
 
 L'usage courant des voies de service, y compris les VGC par des trains, locomotives ou wagons, donne lieu à l'application d'une redevance binôme, avec :
 
-- -une composante A due pour chaque train accédant ;
-- -une composante B due pour chaque jour d'usage en fonction de la longueur utile des voies.
+-une composante A due pour chaque train accédant ;
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+-une composante B due pour chaque jour d'usage en fonction de la longueur utile des voies.
+
+<!-- page: 216 -->
+
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
 
 Pour un mois donné, le montant de la composante A est calculé en fonction d'un montant forfaitaire, distinct entre activités Fret et Voyageurs et du nombre de trains accédant. Précisément, ce montant obéit à la règle ci-dessous :
 
-## Composante A = Montant forfaitaire * nombre de trains ayant accédé au site dans le mois
+## [section_header] Composante A = Montant forfaitaire * nombre de trains ayant accédé au site dans le mois
 
 De même, le montant de la composante B est calculé en fonction de la longueur utile de la voie, du nombre de jours d'utilisation dans le mois et du prix unitaire (annexe 7.9), distinct entre activités Fret et Voyageurs. Précisément, pour une voie donnée, ce montant obéit à la règle ci-dessous :
 
-## Composante B =Longueur utile de la voie en km * nombre de jours d'utilisation dans le mois * prix unitaire
+## [section_header] Composante B =Longueur utile de la voie en km * nombre de jours d'utilisation dans le mois * prix unitaire
 
 Au total, le client paiera pour un mois donné et pour un site donné :
 
-## Redevance = composante A + composante B
+## [section_header] Redevance = composante A + composante B
 
 Lorsque les voies de service sont associées à une surface foncière pour former un espace industriel, les redevances suivantes sont ajoutées à celles indiquées ci-avant :
 
-- -Redevance foncière hors surfaces sous voies ferrées (non prises en compte dans le calcul de la redevance) ;
-- -Impôts et taxes ;
-- -Charges éventuelles d'amortissement.
+-Redevance foncière hors surfaces sous voies ferrées (non prises en compte dans le calcul de la redevance) ;
+
+-Impôts et taxes ;
+
+-Charges éventuelles d'amortissement.
 
 Pour l'occupation des voies de service sans mouvements ferroviaires réguliers, il convient de prendre contact avec la PSEF pour connaître les modalités de tarification et de facturation.
 
 7.3.5.4.2. Modalités de facturation
 
-## a. Voies de service utilisées de façon récurrente et faisant l'objet d'un contrat local
+## [section_header] a. Voies de service utilisées de façon récurrente et faisant l'objet d'un contrat local
 
 Les  voies  de  service  faisant  l'objet  d'une  contractualisation  pour  une  utilisation  récurrente  seront facturées selon les dispositions prévues aux contrats. En conséquence, elles ne seront plus à inscrire dans le fichier déclaratif mensuel des voies de service.
 
 La facturation des redevances a lieu pour chaque mois M en début de mois M.
 
-## b. Voies de service utilisées ponctuellement et faisant l'objet d'un déclaratif par le candidat
+## [section_header] b. Voies de service utilisées ponctuellement et faisant l'objet d'un déclaratif par le candidat
 
 Les voies de service utilisées ponctuellement (y compris les VGC) ne font pas l'objet d'un contrat local. Le montant facturé est déterminé par SNCF Réseau sur la base de la déclaration du client reprenant les données réelles concernant les trains ayant accédé aux voies de service au plus tard le vingt (20) du mois (M + 1). La déclaration s'effectue via un modèle de fichier déclaratif transmis à l'EF par SNCF Réseau et expliquant la procédure à suivre.
 
 Ces voies faisant l'objet d'un déclaratif d'utilisation en M+1 pour le mois M, la facturation a lieu en fin de mois M+1.
 
-## c. Ecart constaté entre la capacité contractualisée et/ou déclarée et l'utilisation réelle
+## [section_header] c. Ecart constaté entre la capacité contractualisée et/ou déclarée et l'utilisation réelle
 
 Dans les deux situations ci-dessus, en cas d'écart entre la capacité contractualisée et/ou déclarée avec l'utilisation  réelle  mesurée  au  travers  des  systèmes  d'information  de  gestion  opérationnelle  des circulations (notamment données GOST), SNCF Réseau applique de plein droit à l'entreprise ferroviaire concernée une pénalité, égale à deux (2) fois le montant de la redevance d'usage due.
 
+<!-- page: 217 -->
+
 En cas de suroccupation des VGC (temps de stationnement au-delà du temps inscrit à la CLE) et pour éviter la saturation du réseau sur certains sites contraints, SNCF Réseau appliquera de plein droit une pénalité financière égale à 4 fois le montant de la redevance d'usage due.
 
-## d. Cas particuliers de l'utilisation de voies de service par des véhicules en stationnement de longue durée n'ayant pas fait l'objet de contractualisation.
+## [section_header] d. Cas particuliers de l'utilisation de voies de service par des véhicules en stationnement de longue durée n'ayant pas fait l'objet de contractualisation.
 
 Cette utilisation est facturée à l'entreprise ferroviaire qui a déposé le(s) véhicule(s) jusqu'à son (leur) enlèvement. La pénalité visée au point 7.3.5.4.2.c s'applique.
 
 7.3.5.4.3. Redevances des prestations complémentaires régulées sur installations de service
 
-## ● Redevance pour la prestation d'assistance à la circulation des trains TEPE sur les sites de voies de service
+## [section_header] ● Redevance pour la prestation d'assistance à la circulation des trains TEPE sur les sites de voies de service
 
 Dans le cadre de l'usage des voies de service par les trains de transport exceptionnel particulièrement encombrant (TEPE), la redevance pour la prestation d'assistance à la circulation de ces trains est établie sur la base du coût de tout aménagement ou travail particulier occasionné.
 
 La facturation de la redevance correspondante se fait au fil de l'eau, sur la base d'un devis fourni par SNCF Réseau et accepté par le client avant le début de la prestation.
 
-## 7.3.5.5 Conditions d'accès
+## [section_header] 7.3.5.5 Conditions d'accès
 
 Les demandes d'utilisation de linéaires de voies de service sont adressées à la PSEF ou au guichet unique, suivant la procédure d'allocation décrite au point 7.3.5.6.
 
 Le document RFN-IG-TR-1 A 00-n°004 « Utilisation des voies de service », complété par les consignes locales  d'exploitation  (CLE),  accessibles  dans  DocExplore,  précisent  les  principes  et  les  conditions d'utilisation pour chaque voie de service.
 
-## ● Pour un besoin récurrent, il est nécessaire de procéder :
+## [section_header] ● Pour un besoin récurrent, il est nécessaire de procéder :
 
 A la signature d'un contrat national voies de service (annexe 7.2) et d'un contrat local pour une durée d'utilisation maximale sur un horaire de service, pour une utilisation en voie de travail et/ou de garage et  sans  intervention  sur  le  matériel  roulant.  Les  conditions  contractuelles  communes  aux  contrats d'utilisation des installations de service s'appliquent (annexe 7.1).
 
 A la signature d'une convention de mise à disposition (CMD) pour l'utilisation d'un espace industriel (conditions  générales  en  annexe  7.5).  La  CMD  n'a  pas  de  durée  minimale.  En  revanche,  sa  durée maximale est en principe de cinq (5) ans (durée initiale de trois (3) ans, reconductible pour un (1) an, dans la limite de deux (2) fois). La durée peut être modulée en fonction des investissements réalisés par  le  bénéficiaire  de  la  CMD.  La  CMD  est  conclue  dans  l'optique  de  réaliser  du  stationnement dynamique et des interventions sur le matériel roulant, notamment pour y effectuer des opérations de maintenance légère ou de préparation de wagons ou voitures.
 
-- Pour  une  utilisation  des  voies  pour  un  besoin  ponctuel  (y  compris  utilisation  des  VGC),  il  est nécessaire  de  procéder  à  la  signature  d'un  contrat  national  voies  de  service  (annexe  7.2). L'utilisateur devra ensuite procéder par déclaratif, dans les conditions prévues en son article VI. Les conditions contractuelles communes aux contrats d'utilisation des installations de service (annexe 7.1) s'appliquent.
+Pour  une  utilisation  des  voies  pour  un  besoin  ponctuel  (y  compris  utilisation  des  VGC),  il  est nécessaire  de  procéder  à  la  signature  d'un  contrat  national  voies  de  service  (annexe  7.2). L'utilisateur devra ensuite procéder par déclaratif, dans les conditions prévues en son article VI. Les conditions contractuelles communes aux contrats d'utilisation des installations de service (annexe 7.1) s'appliquent.
 
-## 7.3.5.6 Allocation de capacité
+## [section_header] 7.3.5.6 Allocation de capacité
 
 Les  procédures  d'allocation  décrites  ci-après  viennent  préciser  les  dispositions  du  règlement d'exécution n°2017/2177 de la Commission européenne du 22 novembre 2017 concernant l'accès aux installations de service et aux services associés au transport ferroviaire.
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+<!-- page: 218 -->
+
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
 
 La procédure d'allocation de capacité sur voies de service pour usage courant s'adresse aux candidats, ci-après le « demandeur ».
 
@@ -6711,27 +7825,27 @@ Pour  les  sites  équipés  de  l'outil  GOST,  qui  permet  aux  entreprises  
 
 A noter  qu'une  demande  de  capacité  exprimée  moins  de  cinq  (5)  jours  avant  la  date  d'utilisation demandée se traite en opérationnel directement entre le demandeur et les services de SNCF Réseau en charge de la gestion des circulations. L'utilisateur procède ensuite par déclaratif, conformément au point 7.3.5.4.2.
 
-## a. Formalisation de la demande
+## [section_header] a. Formalisation de la demande
 
 Toute  demande  d'allocation  de  voie  de  service  doit  impérativement  être  communiquée  par  le demandeur au moyen d'une fiche d'expression de besoins, groupés ou ponctuels. Un modèle est disponible sur le site internet de la PSEF. Toute demande d'allocation de voie de service s'entend pour une durée définie ou, par défaut et au maximum, le temps d'un horaire de service.
 
-## b. Calendrier d'instruction des demandes
+## [section_header] b. Calendrier d'instruction des demandes
 
 Le calendrier se décompose en 3 grandes périodes de demandes telles qu'exposées ci-dessous (les demandes ad hoc sont un sous-ensemble des demandes tardives) :
 
-<!-- image -->
-
-## c. Processus de traitement des demandes
+## [section_header] c. Processus de traitement des demandes
 
 Le demandeur envoie son expression de besoin à SNCF Réseau (PSEF) qui, après vérification de sa complétude, délivrera un accusé de réception à l'entreprise ferroviaire sous sept (7) jours ouvrés (sauf circonstances  exceptionnelles).  Le  délai  imparti  à  SNCF  Réseau  pour  fournir  une  réponse  au demandeur commencera à courir à compter de la date de réception par la  PSEF de la demande complète.
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+<!-- page: 219 -->
+
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
 
 L'instruction se fait par les services compétents de SNCF Réseau, en territoire (Direction Territoriale, EIC notamment).
 
-<!-- image -->
-
 Le calendrier des réponses au demandeur est organisé de la façon suivante :
+
+### [TABLE]
 
 | Délais de réponse aux demandes ne nécessitant pas de coordination                                                                                                                                | Délais de réponse aux demandes ne nécessitant pas de coordination                                                                                                                                | Délais de réponse aux demandes ne nécessitant pas de coordination                                                                                                                                |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6743,55 +7857,75 @@ Le calendrier des réponses au demandeur est organisé de la façon suivante :
 
 (*) au sens du règlement d'exécution 2017/2177, une demande couplée à une demande ad hoc de sillon pour un sillon individuel, soit, dans ce cas, 1 demande ponctuelle, 1 seul train accédant.
 
-## d. Modalités de traitement des demandes
+## [section_header] d. Modalités de traitement des demandes
 
 Les demandes initiales sont compilées avant d'être traitées globalement par SNCF Réseau. En cas de demande de modification d'une demande initiale avant le quinze (15) juin A-1, la modification est intégrée dans la demande initiale d'origine par le demandeur.
 
 Les demandes complémentaires et les demandes tardives sont traitées dans leur ordre d'arrivée Pour toutes les demandes :
 
-- -En cas de réduction de la capacité demandée, la réduction est intégrée dans la demande d'origine.
-- -En  cas  de  demande  de  capacité  supplémentaire,  cette  demande  est  traitée  comme  une nouvelle demande, selon calendrier ci-avant en c.
+<!-- page: 220 -->
+
+-En cas de réduction de la capacité demandée, la réduction est intégrée dans la demande d'origine.
+
+-En  cas  de  demande  de  capacité  supplémentaire,  cette  demande  est  traitée  comme  une nouvelle demande, selon calendrier ci-avant en c.
 
 SNCF Réseau se base sur les éléments fournis par le demandeur dans son expression de besoin, et notamment les caractéristiques du convoi, pour rechercher les voies répondant au mieux à la demande exprimée, tout en gardant le souci d'ajuster au mieux la ressource au besoin pour ne pas entretenir d'installations qui ne seraient pas utilisées.
 
 SNCF Réseau intègre les possibilités de l'infrastructure, à savoir notamment :
 
-- -La destination première des voies tel que décrite dans les documents locaux d'exploitation ;
-- -Les autres caractéristiques du site (état des voies, plan des voies, électrification, aptitude aux charges, types d'outils de gestion opérationnelle des circulations, etc.) ;
-- -Les modalités d'exploitation des sites (consignes locales d'exploitation notamment) ;
-- -Les travaux prévus.
+-La destination première des voies tel que décrite dans les documents locaux d'exploitation ;
 
-## SNCF  Réseau  intègre  également  les  besoins  et  les  services  opérés  par  les  autres  entreprises ferroviaires et les autres acteurs du site, qui recouvrent notamment :
+-Les autres caractéristiques du site (état des voies, plan des voies, électrification, aptitude aux charges, types d'outils de gestion opérationnelle des circulations, etc.) ;
 
-- -La saisonnalité de l'activité (certaines voies n'étant utilisées par leurs bénéficiaires que durant des périodes prédéfinies de l'année, de sorte qu'il peut être pertinent de retenir un système de gestion souple) ;
-- -Les  caractéristiques  du  matériel  roulant  (matériel  moteur  et  matériel  remorqué :  mode  de traction, gabarit, charge, etc.) ;
-- -La nature des transports effectués (marchandises dangereuses, transports exceptionnels etc.) ;
-- -La nature des opérations effectuées par les entreprises ferroviaires (outre les mouvements de tri ou  man  uvres, entretien léger, besoins particuliers tels l'approvisionnement en combustible, etc.) ;
-- -L'articulation, en termes d'exploitation, de l'ensemble des trois familles de critères, ce point comportant évidemment l'agencement des demandes des entreprises ferroviaires entre elles, ainsi que de leurs programmes de travail, de même que les règles de sécurité inhérentes à l'exploitation du site (par exemple la concomitance d'exploitation).
+-Les modalités d'exploitation des sites (consignes locales d'exploitation notamment) ;
 
-## e. Principes de coordination des demandes
+-Les travaux prévus.
+
+## [section_header] SNCF  Réseau  intègre  également  les  besoins  et  les  services  opérés  par  les  autres  entreprises ferroviaires et les autres acteurs du site, qui recouvrent notamment :
+
+-La saisonnalité de l'activité (certaines voies n'étant utilisées par leurs bénéficiaires que durant des périodes prédéfinies de l'année, de sorte qu'il peut être pertinent de retenir un système de gestion souple) ;
+
+-Les  caractéristiques  du  matériel  roulant  (matériel  moteur  et  matériel  remorqué :  mode  de traction, gabarit, charge, etc.) ;
+
+-La nature des transports effectués (marchandises dangereuses, transports exceptionnels etc.) ;
+
+-La nature des opérations effectuées par les entreprises ferroviaires (outre les mouvements de tri ou  man  uvres, entretien léger, besoins particuliers tels l'approvisionnement en combustible, etc.) ;
+
+-L'articulation, en termes d'exploitation, de l'ensemble des trois familles de critères, ce point comportant évidemment l'agencement des demandes des entreprises ferroviaires entre elles, ainsi que de leurs programmes de travail, de même que les règles de sécurité inhérentes à l'exploitation du site (par exemple la concomitance d'exploitation).
+
+## [section_header] e. Principes de coordination des demandes
 
 En  cas  de  demandes  concurrentes,  SNCF  Réseau  coordonne  les  demandes  en  concertant  avec l'ensemble des demandeurs, avec l'objectif que chacun puisse travailler dans de bonnes conditions et en phase avec son marché.
 
 Toute modification des droits d'accès déjà accordés est soumise à l'accord du candidat concerné.
 
-## f. Méthode de répartition des capacités en cas de conflit résiduel
+## [section_header] f. Méthode de répartition des capacités en cas de conflit résiduel
 
 Dans le cas où les demandes ne peuvent être satisfaites à l'issue de la procédure de coordination, les critères suivants guideront l'arbitrage par SNCF Réseau (sans ordre de priorité ou d'importance) :
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+<!-- page: 221 -->
 
-- -Quand l'information est disponible, utilisation effective des voies en A-1 en comparaison avec la capacité demandée ;
-- -La destination des voies de service (généralement connue par la dénomination usuelle des sites) demandées en fonction de l'activité prévue sur ces voies ;
-- -Nombre de jours d'utilisation prévisionnelle, fréquence et saisonnalité ;
-- -Motivation et justification de la demande ;
-- -Réajustement de la capacité attribuée en cas de perte de marché en cours d'année ;
-- -Origine de la demande : initiative du demandeur ou adaptation pour une cause relative au gestionnaire d'infrastructure ;
-- -Ordre  chronologique  d'arrivée  des  demandes,  pour  les  demandes  complémentaires  et tardives ;
-- -Longueur du parcours en ligne ;
-- -Complexité et impact global du thème de man  uvre sur le complexe ferroviaire.
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
 
-## g. Modalités de réponse au demandeur
+-Quand l'information est disponible, utilisation effective des voies en A-1 en comparaison avec la capacité demandée ;
+
+-La destination des voies de service (généralement connue par la dénomination usuelle des sites) demandées en fonction de l'activité prévue sur ces voies ;
+
+-Nombre de jours d'utilisation prévisionnelle, fréquence et saisonnalité ;
+
+-Motivation et justification de la demande ;
+
+-Réajustement de la capacité attribuée en cas de perte de marché en cours d'année ;
+
+-Origine de la demande : initiative du demandeur ou adaptation pour une cause relative au gestionnaire d'infrastructure ;
+
+-Ordre  chronologique  d'arrivée  des  demandes,  pour  les  demandes  complémentaires  et tardives ;
+
+-Longueur du parcours en ligne ;
+
+-Complexité et impact global du thème de man  uvre sur le complexe ferroviaire.
+
+## [section_header] g. Modalités de réponse au demandeur
 
 Quatre types de réponses sont possibles :
 
@@ -6799,20 +7933,21 @@ Quatre types de réponses sont possibles :
 
 2.  Attribution  partielle  de  la  capacité  :  La capacité souhaitée par le demandeur est partiellement disponible.  La  capacité  disponible  est  par  conséquent  attribuée.  Le  process  décrit  au  point  1 s'applique. Concernant la capacité restante demandée et non attribuée en premier lieu, deux cas sont possibles :
 
-- -La capacité restante sollicitée par le demandeur est en conflit avec d'autres demandes et dans ce cas le process décrit au point 3 ci-dessous s'applique ;
-- -Le demandeur est seul sur le site, mais la capacité globale commerciale du site est atteinte et SNCF Réseau ne peut honorer la demande. SNCF Réseau et le demandeur déterminent alors ensemble s'il existe des alternatives viables permettant d'exécuter le service concerné dans des conditions économiquement acceptables.
+-La capacité restante sollicitée par le demandeur est en conflit avec d'autres demandes et dans ce cas le process décrit au point 3 ci-dessous s'applique ;
+
+-Le demandeur est seul sur le site, mais la capacité globale commerciale du site est atteinte et SNCF Réseau ne peut honorer la demande. SNCF Réseau et le demandeur déterminent alors ensemble s'il existe des alternatives viables permettant d'exécuter le service concerné dans des conditions économiquement acceptables.
 
 3. À l'étude : Certaines demandes de capacité peuvent entrer en conflit les unes avec les autres. Dans ce cas, SNCF Réseau, via la direction territoriale concernée, organise une (ou plusieurs) réunion(s) de concertation  dans  un  délai  maximal  de  trente  (30)  jours  calendaires  (suivant  la  date  à  laquelle SNCF Réseau a communiqué sa réponse) avec toutes les parties concernées par ce conflit. A noter que cette réunion peut être engagée en amont de la réponse formelle au demandeur, dès détection du conflit.
 
 Il est alors demandé à chacun de transmettre à son chargé de compte, selon un modèle type fourni par SNCF Réseau disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau, le programme détaillé de son activité prévue sur les voies de service demandées au plus tard sept (7) jours calendaires avant la tenue de la réunion de concertation. Si un demandeur ne
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+<!-- page: 222 -->
+
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
 
 fournit pas son programme détaillé ou fournit un programme non correctement renseigné, la capacité demandée ne lui sera pas attribuée.
 
 À  l'issue  de  la  dernière  réunion  de  concertation,  la  réponse  finale  d'arbitrage  sera  transmise  par SNCF Réseau aux parties prenantes sous quinze (15) jours calendaires. SNCF Réseau et le demandeur qui n'a pas pu voir sa demande satisfaite déterminent ensemble s'il existe des alternatives viables permettant d'exécuter le service concerné dans des conditions économiquement acceptables.
-
-<!-- image -->
 
 4. Rejet : Lorsqu'à l'issue de la procédure, SNCF Réseau et le demandeur concluent qu'il n'existe pas d'alternative viable et qu'il n'est pas possible de satisfaire la demande, cette dernière est rejetée.
 
@@ -6820,42 +7955,51 @@ Pour tous les types de réponses, le document opposable entre le demandeur et SN
 
 Les contrats sont établis à partir des capacités allouées par SNCF Réseau (attribution totale ou partielle de la capacité), sauf réserve formulée dans un délai de quinze (15) jours à compter de la notification de la réponse.
 
-## h. Besoin de capacité pour travaux sur voies de service
+## [section_header] h. Besoin de capacité pour travaux sur voies de service
 
 Sauf  cas  d'urgence  et  de  nécessité  absolue,  les  travaux  (entretien,  renouvellement  ou  réparation) concernant ces voies sont programmés dans les périodes où elles ne sont pas utilisées. Lorsqu'il est impossible de connaître par avance l'utilisation réelle des voies ou que la  consistance des travaux prévus  nécessite  un  temps  ou  un  espace  plus  important  que  celui  disponible,  les  travaux  sont programmés en lien avec  la gestion  opérationnelle  des  circulations  et  les  travaux  sont  réalisés  en accord  avec  les  entreprises  ferroviaires,  auxquelles  il  est  octroyé  un  préavis  suffisant  pour  leur permettre d'adapter leur production ; les entreprises ferroviaires sont invitées à favoriser la réalisation des travaux, dans le but d'assurer la pérennité de l'infrastructure et in fine des services de transport.
 
-## i. Mise en place de comités de site
+<!-- page: 223 -->
+
+## [section_header] i. Mise en place de comités de site
 
 Dans le cadre de la coordination des demandes, SNCF Réseau peut mettre en place un comité de site pérenne ou temporaire dont la vocation est de favoriser la concertation sur les attributions de capacité et l'optimisation générale de l'usage des sites qui le nécessitent.
 
 Il  réunit,  selon  une  périodicité  qu'il  définit  au  regard  des  besoins  de  coordination,  les  entreprises ferroviaires opérant sur le site et les éventuels nouveaux demandeurs de capacités, SNCF Réseau ainsi que ses services  ayant  également des besoins de capacités  sur voies de  service. Il fonctionne par recherche de consensus, les décisions étant prises par SNCF Réseau. L'arbitrage final sera motivé et transmis aux parties prenantes via le compte-rendu de la réunion de concertation ou par tout autre document écrit.
 
-## j. Restitution de capacités de voies de service
+## [section_header] j. Restitution de capacités de voies de service
 
 Une entreprise ferroviaire a la possibilité de restituer ses capacités de voies de service à tout moment au moyen de la « fiche de restitution de voies de service » dont un exemplaire est disponible sur la page « Documents techniques cités dans le DRR » du site internet de SNCF Réseau.
 
-## k. Reporting
+## [section_header] k. Reporting
 
 Une synthèse annuelle d'affectation des voies de service peut être établie à la demande du candidat.
 
 Par ailleurs, pour les sites sur lesquels un comité de site est institué, SNCF Réseau organise le cas échéant une réunion de site annuelle avec les candidats concernés d'une part, et ses services en charge de la gestion opérationnelle des circulations sur le réseau ferré national et ceux en charge de l'entretien de l'infrastructure d'autre part, abordant les points suivants :
 
-- -Le REX de l'utilisation de site ;
-- -L'expression des besoins du candidat d'une part et des services en charge de l'entretien de l'infrastructure au sein de SNCF Réseau d'autre part ;
-- -L'état des voies et leur classification ;
-- -La planification de la maintenance à A+1 dans la mesure du possible ;
-- -La revue des consignes locales d'exploitation ;
-- -La revue des allocations de capacité.
+-Le REX de l'utilisation de site ;
 
-## l. Sites équipés de GOST
+-L'expression des besoins du candidat d'une part et des services en charge de l'entretien de l'infrastructure au sein de SNCF Réseau d'autre part ;
+
+-L'état des voies et leur classification ;
+
+-La planification de la maintenance à A+1 dans la mesure du possible ;
+
+-La revue des consignes locales d'exploitation ;
+
+-La revue des allocations de capacité.
+
+## [section_header] l. Sites équipés de GOST
 
 Pour les sites équipés de l'outil informatique GOST, la répartition des capacités en blocs de voies de service entre les EF, telle qu'elle a été décidée à l'issue de la procédure d'allocation par arbitrage du GI, est intégrée directement à l'outil GOST par SNCF Réseau avant le début de l'horaire de service.
 
 En phase d'adaptation de l'horaire de service, les demandes de restitution ou d'attribution de capacité doivent faire l'objet d'une requête de l'entreprise ferroviaire via l'outil GOST (accès via un lien internet communiqué aux entreprises ferroviaires concernées). SNCF Réseau alloue les capacités sous réserve de la disponibilité sur le site et du respect des procédures sécuritaires en application au moment de la demande.
 
+<!-- page: 224 -->
+
 Afin d'assurer une utilisation optimale de la capacité du site par les clients qui en ont besoin, il est demandé aux entreprises ferroviaires d'annuler les réservations des voies de service qu'elles projettent de ne pas utiliser, de préférence plus de deux (2) mois calendaires avant la date d'utilisation envisagée et au plus tard sept (7) jours calendaires avant.
 
-## 7.3.5.7 Prestation de remisage de matériel roulant voyageurs de nuit sur les voies principales des gares de voyageurs
+## [section_header] 7.3.5.7 Prestation de remisage de matériel roulant voyageurs de nuit sur les voies principales des gares de voyageurs
 
 En complément de la prestation d'usage courant des voies de service, SNCF Réseau propose aux entreprises  ferroviaires  voyageurs  qui  le  demandent  et  sous  leur  responsabilité,  sous  réserve  de possibilité  technique  et  d'exploitation,  de  pouvoir  stationner,  la  nuit,  leurs  rames  sur  les  voies principales en gare de voyageurs.
 
@@ -6871,12 +8015,15 @@ En cas de demandes concurrentes pour des besoins de remisage sur voies principal
 
 Dans le  cas  de  conflit  résiduel  sur  cette  prestation,  SNCF  Réseau  applique  les  critères  de  priorité suivants, dans l'ordre :
 
-- -La priorité est tout d'abord donnée au demandeur pour lequel il n'existe pas de voie sur un faisceau de voies de service appartenant à SNCF Réseau techniquement apte à recevoir le matériel considéré ;
-- -La priorité est ensuite donnée au demandeur qui préserve le mieux la capacité du graphique d'occupation des voies. (équilibre entre les heures d'arrivée le soir et de départ le matin encombrement sur la période considérée).
+-La priorité est tout d'abord donnée au demandeur pour lequel il n'existe pas de voie sur un faisceau de voies de service appartenant à SNCF Réseau techniquement apte à recevoir le matériel considéré ;
+
+-La priorité est ensuite donnée au demandeur qui préserve le mieux la capacité du graphique d'occupation des voies. (équilibre entre les heures d'arrivée le soir et de départ le matin encombrement sur la période considérée).
 
 L'utilisation effective de ces voies principales en gare pour des besoins de remisage dans les conditions mentionnées  ci-dessus  fait  l'objet  d'un  déclaratif  par  les  entreprises  ferroviaires  concernées.  Ces modalités applicables pour l'horaire de service 2025 sont susceptibles d'évoluer pour les horaires de services ultérieurs.
 
 La  prestation  est  proposée  dans  les  gares  de  voyageurs  dont  la  liste  figure  dans  le  document  de référence  des  gares,  selon  les  modalités  décrites  dans  les  recueils  d'exploitation  des  gares structurantes/non-structurantes, lorsqu'ils existent.
+
+<!-- page: 225 -->
 
 Le  remisage  de  nuit  de  matériel  roulant  sur  les  voies  principales  des  gares  de  voyageurs  fait l'objet d'une redevance présentée en annexe 7.9.
 
@@ -6888,35 +8035,39 @@ Pour la facturation de la composante B de ladite redevance, la longueur utile de
 
 Trois cas de figure sont à distinguer concernant la facturation de la prestation :
 
-- -Si le remisage de nuit sur les voies principales en gare de voyageurs est demandé par une entreprise ferroviaire et que SNCF Réseau y répond favorablement, la prestation est facturée de ladite redevance.
-- -Si le remisage de nuit sur les voies principales en gare de voyageurs est demandé par une entreprise ferroviaire et que SNCF Réseau y répond par du stationnement sur voies de service, la facturation est établie au regard de la redevance d'usage courant sur voies de service pour les activités voyageurs.
-- -Si l'entreprise ferroviaire demande à stationner sur voies de service et que SNCF Réseau n'a pas d'autre choix que la faire stationner de nuit sur les voies principales en gare de voyageurs, l'entreprise ferroviaire sera facturée de la redevance pour usage courant des voies de service pour les activités voyageurs.
+-Si le remisage de nuit sur les voies principales en gare de voyageurs est demandé par une entreprise ferroviaire et que SNCF Réseau y répond favorablement, la prestation est facturée de ladite redevance.
 
-## 7.3.6 INSTALLATIONS D'ENTRETIEN
+-Si le remisage de nuit sur les voies principales en gare de voyageurs est demandé par une entreprise ferroviaire et que SNCF Réseau y répond par du stationnement sur voies de service, la facturation est établie au regard de la redevance d'usage courant sur voies de service pour les activités voyageurs.
 
-Sans objet
+-Si l'entreprise ferroviaire demande à stationner sur voies de service et que SNCF Réseau n'a pas d'autre choix que la faire stationner de nuit sur les voies principales en gare de voyageurs, l'entreprise ferroviaire sera facturée de la redevance pour usage courant des voies de service pour les activités voyageurs.
 
-## 7.3.7 AUTRES INSTALLATIONS TECHNIQUES
+## [section_header] 7.3.6 INSTALLATIONS D'ENTRETIEN
 
 Sans objet
 
-## 7.3.8 INFRASTRUCTURES FERROVIAIRES PORTUAIRES ET MARITIMES
+## [section_header] 7.3.7 AUTRES INSTALLATIONS TECHNIQUES
 
-## 7.3.8.1 Informations Générales
+Sans objet
+
+## [section_header] 7.3.8 INFRASTRUCTURES FERROVIAIRES PORTUAIRES ET MARITIMES
+
+## [section_header] 7.3.8.1 Informations Générales
 
 La liste  des  gestionnaires  d'infrastructures  des  réseaux  limitrophes  au  RFN,  dont  les  infrastructures ferroviaires portuaires et maritimes, est reprise au point 1.6.4.
 
-## 7.3.9 MOYENS D'ASSISTANCE
+## [section_header] 7.3.9 MOYENS D'ASSISTANCE
 
-## 7.3.9.1 Informations générales
+## [section_header] 7.3.9.1 Informations générales
 
 Comme  précisé  dans  le  chapitre  6  -  Exploitation  ferroviaire,  dans  le  cadre  de  sa  mission  de dégagement des parties du réseau ferroviaire et des installations de service gérées et exploitées par SNCF Réseau, SNCF Réseau assure le relevage du matériel roulant déraillé. SNCF Réseau est par ailleurs  fondé  à  imposer  aux  entreprises  ferroviaire  la  mise  à  disposition  des  moyens  adaptés nécessaires au dégagement des parties du réseau ferroviaire et des installations de service gérées et exploitées  par  SNCF  Réseau.  Cette  prestation  est  comprise  dans  la  tarification  des  prestations minimales.
 
+<!-- page: 226 -->
+
 En dehors de ces parties du réseau ferroviaire et des installations de service gérées et exploitées par SNCF Réseau, le gestionnaire d'infrastructure propose une prestation de relevage (point 7.4.1.3).
 
-## 7.3.10 COMBUSTIBLE
+## [section_header] 7.3.10 COMBUSTIBLE
 
-## 7.3.10.1 Informations générales
+## [section_header] 7.3.10.1 Informations générales
 
 L'approvisionnement en combustible doit s'effectuer en priorité dans les installations existantes de distribution de combustible : station-service ou aire d'avitaillement déjà existantes sur le site, que cette installation appartienne à SNCF Réseau ou non.
 
@@ -6926,19 +8077,19 @@ L'article est sans objet concernant la fourniture de combustible.
 
 Dans ce cadre, SNCF Réseau peut, en fonction de la capacité disponible, mettre à disposition des espaces industriels permettant à  une entreprise ferroviaire d'organiser  son propre avitaillement en combustible.
 
-## 7.3.10.2 Services
+## [section_header] 7.3.10.2 Services
 
 Fourniture de voie ferrée et de foncier associé permettant à une entreprise ferroviaire d'organiser son approvisionnement en combustible.
 
-## 7.3.10.3 Description de l'installation de service
+## [section_header] 7.3.10.3 Description de l'installation de service
 
 L'installation de service est constituée d'une ou de plusieurs voies de service, d'une aire d'avitaillement construite ou non, d'un accès routier.
 
-## 7.3.10.4 Tarification
+## [section_header] 7.3.10.4 Tarification
 
-## Voir point 7.3.5.4.1.
+## [section_header] Voir point 7.3.5.4.1.
 
-## 7.3.10.5 Conditions d'accès
+## [section_header] 7.3.10.5 Conditions d'accès
 
 En vue de l'aménagement d'une aire d'avitaillement sur une voie de service, non électrifiée, du RFN (avec  convention de mise  à disposition), une étude de faisabilité doit être réalisée par l'entreprise ferroviaire demandeuse afin de présenter à SNCF Réseau son projet, pour notamment garantir que la demande est dûment justifiée (absence d'installations à proximité, indisponibilité des installations les jours ou heures souhaitées…) et que les dispositions réglementaires liées à ce type d'installations sont respectées.
 
@@ -6948,7 +8099,9 @@ Si elle le souhaite, l'entreprise ferroviaire peut demander à SNCF Réseau la r
 
 Si SNCF Réseau a la capacité de réaliser cette étude, un devis sera proposé à l'entreprise ferroviaire précisant les livrables, le tarif et le délai prévisionnel de réalisation de l'étude. Si l'entreprise ferroviaire valide la proposition, la facturation de la prestation se fera sur la base du devis signé, éventuellement adapté en cours de réalisation si nécessaire. Le devis sera établi au regard du temps nécessaire pour réaliser l'étude, et des frais supplémentaires éventuellement engagés (sondages ou déplacements sur place par exemple). Chaque aire d'avitaillement devra se situer sur une voie de service non électrifiée apte  à  ces  opérations  d'approvisionnement.  Cet  emplacement  devra  comporter  un  accès  routier compatible avec les caractéristiques des véhicules de livraison et les contraintes d'exploitation du site.
 
-## 7.3.10.6 Allocation de capacité
+<!-- page: 227 -->
+
+## [section_header] 7.3.10.6 Allocation de capacité
 
 A partir de l'étude de faisabilité transmise par l'entreprise ferroviaire, SNCF Réseau vérifie la conformité du projet. Cette vérification de la conformité est réalisée à titre gratuit par SNCF Réseau. SNCF Réseau se  réserve  la  possibilité  de  refuser  toute  installation  qui  ne  répondrait  pas  à  l'une  des  obligations figurant ci-après.
 
@@ -6964,23 +8117,25 @@ Quel  que  soit  le  lieu  d'approvisionnement,  l'entreprise  ferroviaire  dét
 
 L'entreprise ferroviaire devra justifier à SNCF Réseau le respect des normes environnementales liées à son activité de  distribution de  combustible  (respect des seuils, vérifications périodiques et réglementaires, etc…).
 
-## 7.4 AUTRES  SERVICES  RENDUS  SUR  LES  INSTALLATIONS  DE SERVICE
+## [section_header] 7.4 AUTRES  SERVICES  RENDUS  SUR  LES  INSTALLATIONS  DE SERVICE
 
 Ces prestations ne sont pas dues, de droit, aux candidats. La fourniture de ces prestations relève d'un choix  de  SNCF  Réseau.  Si  ces  prestations  sont  proposées  par  SNCF  Réseau,  elles  le  sont  à  tout candidat qui en fait la demande.
 
-## 7.4.1 PRESTATIONS CONNEXES FOURNIES SUR INSTALLATIONS DE SERVICE
+## [section_header] 7.4.1 PRESTATIONS CONNEXES FOURNIES SUR INSTALLATIONS DE SERVICE
 
-## 7.4.1.1 Radio locale d'entreprise
+## [section_header] 7.4.1.1 Radio locale d'entreprise
 
 L'offre  radio  locale  d'entreprise  (RLE)  est  une  offre  de  services  facultative  de  radiocommunications privées professionnelles accessible à l'ensemble des entreprises ferroviaires. Cette offre permet de répondre aux besoins de communications simples de type « commodité » pour des agents en gare de voyageurs et sur certaines installations de service. Sur ces dernières, le service peut également être utilisé  pour des communications de « man  uvres » dans le cadre de la production ferroviaire. Les radios mises à disposition permettent notamment, au travers de fréquences et de réseaux dédiés, d'établir des communications instantanées individuelles ou en appels de groupes. Des télécommandes spécifiques offrent également d'autres fonctionnalités.
+
+<!-- page: 228 -->
 
 Cette  prestation  concerne  les  seules  communications  entre  les  agents  d'une  même  entreprise ferroviaire et non les communications entre les agents d'une entreprise ferroviaire et les agents de SNCF Réseau.
 
 Les demandes concernant cette prestation peuvent être adressées à Offre.rle@sncf.fr.
 
-## 7.4.2 PRESTATIONS DIVERSES FOURNIES SUR INSTALLATIONS DE SERVICE
+## [section_header] 7.4.2 PRESTATIONS DIVERSES FOURNIES SUR INSTALLATIONS DE SERVICE
 
-## 7.4.2.1 Consignation caténaire -prestation régulée
+## [section_header] 7.4.2.1 Consignation caténaire -prestation régulée
 
 Les entreprises ferroviaires peuvent être amenées à solliciter les services de SNCF Réseau pour mettre hors tension la caténaire afin qu'elles puissent intervenir sur leur matériel pour une raison qui leur est imputable (trappe ouverte, bâche flottante...).
 
@@ -6994,16 +8149,19 @@ Dans  le  cas  d'une  demande  simple,  SNCF  Réseau  propose  sous  5  jours  
 
 La prestation fait l'objet d'un devis  établi par la PSEF et ne peut être réalisée qu'après accord du demandeur sur le devis présenté. Les devis sont établis à partir :
 
-- -des coûts relatifs au traitement administratif de la demande,
-- -des coûts de l'agent ou des agents mobilisés pour l'intervention sur site.
+-des coûts relatifs au traitement administratif de la demande,
+
+-des coûts de l'agent ou des agents mobilisés pour l'intervention sur site.
 
 La facturation est établie par la PSEF sur la base du devis accepté.
 
-## 7.4.2.2 Occupation des voies de service sans mouvements ferroviaires réguliers - prestation non régulée
+## [section_header] 7.4.2.2 Occupation des voies de service sans mouvements ferroviaires réguliers - prestation non régulée
 
 Des voies de service peuvent également être mises à disposition par SNCF Réseau à des candidats pour une occupation sans mouvements ferroviaires réguliers.
 
 Toute personne titulaire d'un droit d'accès au réseau ferré national (entreprise ferroviaire ou autres candidats) ou toute autre partie (embranchés, détenteurs ou propriétaires de matériels roulants, …) peut demander, auprès de la PSEF, du guichet unique de SNCF Réseau ou de son chargé de compte national ou régional (point 1.6), la mise à disposition de voies de service pour une occupation sans mouvements ferroviaires réguliers (à distinguer de l'usage courant décrit au point 7.3.5).
+
+<!-- page: 229 -->
 
 Les voies généralement retenues pour une occupation sans mouvements ferroviaires réguliers sont les voies non commercialisables et les voies non entretenues régulièrement.
 
@@ -7011,8 +8169,9 @@ Ces prestations de mise à disposition exclusive de voies de service ne relèven
 
 Ces mises à disposition sont conclues :
 
-- -pour une durée maximale d'un (1) an et sans mouvements ferroviaires réguliers, à des fins exclusives de stationnements de longue durée de matériel non utilisé (wagons en chômage, matériel en attente de radiation…) et sans intervention sur celui-ci ;
-- -pour  une  durée  maximale  de  cinq  (5)  ans  et  sans  mouvements  ferroviaires  réguliers, notamment celles attenant à une emprise foncière également mise à disposition, et qui sont utilisées notamment pour le stationnement de matériel radié.
+-pour une durée maximale d'un (1) an et sans mouvements ferroviaires réguliers, à des fins exclusives de stationnements de longue durée de matériel non utilisé (wagons en chômage, matériel en attente de radiation…) et sans intervention sur celui-ci ;
+
+-pour  une  durée  maximale  de  cinq  (5)  ans  et  sans  mouvements  ferroviaires  réguliers, notamment celles attenant à une emprise foncière également mise à disposition, et qui sont utilisées notamment pour le stationnement de matériel radié.
 
 SNCF Réseau accèdera à cette demande sous réserve de la disponibilité des capacités au regard de leur environnement et du respect du droit d'accès au réseau ferré national garanti aux utilisateurs de l'espace considéré.
 
@@ -7022,7 +8181,7 @@ Le prix de cette prestation spécifique sera établi au cas par cas et défini d
 
 (*)  NOTA :  SNCF  Réseau  peut  toutefois  résilier  à  tout  moment,  dans  le  respect  des  dispositions contractuelles relatives au préavis, la convention portant mise à disposition exclusive et temporaire de voies de service et ce pour tout motif d'intérêt général ou pour des besoins ferroviaires, notamment dans le cas où une entreprise solliciterait ces voies pour un usage courant. Lorsque cela est possible et pertinent, SNCF Réseau étudiera en lien avec le titulaire de la convention une solution alternative de repli dans des conditions économiques raisonnables, au vu des besoins d'exploitation de l'entreprise.
 
-## 7.4.2.3 Utilisation par les embranchés de voies de service - prestation régulée
+## [section_header] 7.4.2.3 Utilisation par les embranchés de voies de service - prestation régulée
 
 Un embranché peut utiliser, pour améliorer les conditions de son exploitation ferroviaire (man  uvres), des voies de service raccordées à son embranchement particulier.
 
@@ -7032,9 +8191,11 @@ Dans le cas où l'embranché intervient dans le cadre du certificat de sécurit�
 
 Dans le cas où l'embranché intervient « en son nom », il doit :
 
-- -obtenir  une  autorisation  de  circulation  auprès  de  SNCF  Réseau  conformément  aux dispositions des règles d'exploitation particulières RFN-IG-TR 01 A-00-n°005 (OP 00516) « Man  uvres  d'embranchés  sur  le  réseau  ferré  national  »  et  RFN-CG-MR 03  A-00-n°002 précité ;
+-obtenir  une  autorisation  de  circulation  auprès  de  SNCF  Réseau  conformément  aux dispositions des règles d'exploitation particulières RFN-IG-TR 01 A-00-n°005 (OP 00516) « Man  uvres  d'embranchés  sur  le  réseau  ferré  national  »  et  RFN-CG-MR 03  A-00-n°002 précité ;
 
-- -signer une convention d'utilisation des voies de service ou voies principales qui précise les modalités et les conditions financières de cette utilisation en s'adressant à SNCF Réseau.
+<!-- page: 230 -->
+
+-signer une convention d'utilisation des voies de service ou voies principales qui précise les modalités et les conditions financières de cette utilisation en s'adressant à SNCF Réseau.
 
 La tarification applicable est celle de l'usage courant des voies de service applicable aux services de transports de fret, décrit au point 7.3.5.4.
 
@@ -7042,13 +8203,13 @@ Aucune autorisation ne sera délivrée par SNCF Réseau pour toute demande de ci
 
 Dans les deux cas précédents, l'agrément du matériel roulant par SNCF Réseau n'est pas nécessaire si le matériel roulant dispose d'une autorisation délivrée par l'EPSF ou l'ERA dans le domaine d'utilisation correspondant à la circulation.
 
-## 7.4.2.4 Man  uvre d'installations de sécurité simples - prestation régulée
+## [section_header] 7.4.2.4 Man  uvre d'installations de sécurité simples - prestation régulée
 
 Conformément à l'alinéa 2 de  l'art. 17 de l'arrêté du 9 décembre 2021 (reprenant en substance le II de l'article 76 de l'arrêté du 19 mars 2012), la man  uvre des installations de sécurité simples peut être réalisée  par  des  agents  entreprises  ferroviaires  désignés  et  habilités.  Les  installations  de  sécurité simples  sont  désignées  comme  telles  dans  la  Consigne  Locale  d'Exploitation  de  l'établissement concerné.
 
 Dans certains cas particuliers, à la demande d'une entreprise ferroviaire, SNCF Réseau peut fournir la prestation de man  uvre d'une installation de sécurité simple, dans la mesure où la disponibilité de son personnel le permet. Cette prestation doit faire l'objet d'une demande au chargé de compte national dédié. SNCF Réseau répond à la demande dans un délai d'un mois. Une facturation est établie par la PSEF sur la base d'un devis préalablement accepté par l'entreprise ferroviaire. Ce devis est établi au regard des coûts relatifs au traitement administratif de la demande, et des coûts de l'agent ou des agents mobilisés pour l'intervention sur site.
 
-## 7.4.2.5 Man  uvre d'installations de sécurité simples suite à aléa de circulation en ligne prestation régulée
+## [section_header] 7.4.2.5 Man  uvre d'installations de sécurité simples suite à aléa de circulation en ligne prestation régulée
 
 Suite à un aléa de circulation (viabilité réseau, évènement extérieur, …) ou un aléa sur la circulation elle-même (avarie matériel, incident frein, chargement déplacé, …) impliquant un garage impromptu du convoi, SNCF Réseau - au titre de la gestion opérationnelle des circulations - peut être amenée à garer un convoi sur une voie de service pour dégager le réseau ferré national et ainsi permettre le rétablissement des circulations.
 
@@ -7060,14 +8221,14 @@ Si  ce  dégarage  implique  la  man  uvre  d'une  installation  de  sécurit�
 
 Dans ce dernier cas, la demande se fait via la PSEF pendant ses heures d'ouverture. À défaut, et en cas  d'urgence  seulement,  l'entreprise  ferroviaire  contacte  le  Centre  Opérationnel  de  Gestion  des Circulations (COGC) (voir chapitre 6). Si SNCF Réseau dispose des moyens disponibles, la prestation fait l'objet d'un devis établi par la PSEF (à défaut par le COGC) conformément aux principes décrits en annexe 7.8, et ne sera réalisée qu'après accord de l'entreprise ferroviaire sur le devis présenté.
 
-## CHAPITRE 7 - INSTALLATIONS DE SERVICE
+<!-- page: 231 -->
+
+## [section_header] CHAPITRE 7 - INSTALLATIONS DE SERVICE
 
 La prestation est facturée in fine seulement si la responsabilité de l'aléa est imputée à l'entreprise ferroviaire, la détermination de cette responsabilité pouvant parfois intervenir après l'intervention de dégarage qui nécessite en général une forte réactivité.
 
 Les principes d'établissement des devis applicables suite à aléa de circulation en ligne, sont identiques à ceux applicables dans les autres circonstances.
 
-## 7.4.2.6 Services  fournis  sur  d'autres  biens  dont  dispose  SNCF  Réseau  -  prestation  non régulée
+## [section_header] 7.4.2.6 Services  fournis  sur  d'autres  biens  dont  dispose  SNCF  Réseau  -  prestation  non régulée
 
 SNCF Réseau dispose de divers biens (terrains ou bâtiments) qui, dès lors qu'ils ne sont pas affectés à d'autres utilisations, peuvent être mis à disposition des candidats par SNCF Réseau, dans les conditions prévues par contrat particulier conclu entre les parties. Les candidats intéressés peuvent s'adresser au guichet unique de SNCF Réseau ou à la PSEF. L'instruction de la demande donne lieu à facturation, que la proposition finale soit acceptée ou non par l'EF.
-
-<!-- image -->

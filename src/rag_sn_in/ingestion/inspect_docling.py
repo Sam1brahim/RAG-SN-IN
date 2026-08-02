@@ -5,6 +5,10 @@ reading order, heading detection, header/footer bleed, and hyphenation issues.
 Now also captures tables per page (previously silently skipped, since
 TableItem doesn't expose plain `.text` like text-like items do).
 
+The full-document markdown now also embeds page markers
+(`<!-- page: N -->`) at every page transition, so downstream chunking
+code can recover page_start/page_end per chunk.
+
 Runs over ALL PDFs found in data/raw/, one output subfolder per document.
 """
 
@@ -30,12 +34,54 @@ TEXT_DIR = PROCESSED_DIR / "text"
 
 logging.basicConfig(level=logging.INFO)
 
+# ============================================================
+# Page marker format
+# ============================================================
+# This MUST match the PAGE_MARKER_PATTERN used by the chunking
+# script downstream. Keep these in sync.
+
+def page_marker(page_no: int) -> str:
+    return f"<!-- page: {page_no} -->"
+
+
 def get_device() -> AcceleratorDevice:
     if torch.cuda.is_available():
         print(f"CUDA available -> using GPU: {torch.cuda.get_device_name(0)}")
         return AcceleratorDevice.CUDA
     print("CUDA NOT available -> falling back to CPU")
     return AcceleratorDevice.CPU
+
+
+def get_item_page_no(item) -> int | None:
+    """
+    Extracts the page number from an item's provenance, if available.
+    """
+    prov = getattr(item, "prov", None)
+    if not prov:
+        return None
+    try:
+        return prov[0].page_no
+    except Exception:
+        return None
+
+
+def item_to_markdown(item, label: str, text: str) -> str:
+    """
+    Formats a single item as a markdown fragment, matching the style
+    used for the per-page files (headings get `##`, tables get a
+    `[TABLE]` marker, everything else is left as plain text).
+    """
+    if label == str(DocItemLabel.TABLE):
+        return f"### [TABLE]\n\n{text}"
+
+    if (
+        label == str(DocItemLabel.SECTION_HEADER)
+        or "heading" in label.lower()
+        or "title" in label.lower()
+    ):
+        return f"## [{label}] {text}"
+
+    return text
 
 
 def process_pdf(test_pdf: Path, converter: DocumentConverter) -> None:
@@ -53,27 +99,21 @@ def process_pdf(test_pdf: Path, converter: DocumentConverter) -> None:
     out_dir = TEXT_DIR / test_pdf.stem
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    # --- 1) Full document markdown (reading-order as Docling sees it) ---
-    full_md = doc.export_to_markdown()
-    full_md_filename = f"{test_pdf.stem}_full_document.md"
-    full_md_path = out_dir / full_md_filename
-    full_md_path.write_text(full_md, encoding="utf-8")
+    # --- 1) Per-page items AND full-document reconstruction, built
+    # together from the same iteration so page markers and per-page
+    # content stay perfectly consistent. ---
 
-    # --- 2) Per-page items, reconstructed from doc items + their provenance ---
     pages: dict[int, list[tuple[str, str]]] = {}
+    full_doc_blocks: list[str] = []
 
     n_tables_total = 0
+    current_page_no: int | None = None
+    first_item = True
 
     for item, _level in doc.iterate_items():
         # --- Handle tables explicitly, since they have no plain `.text` ---
         if isinstance(item, TableItem):
-            prov = getattr(item, "prov", None)
-            page_no = None
-            if prov:
-                try:
-                    page_no = prov[0].page_no
-                except Exception:
-                    pass
+            page_no = get_item_page_no(item)
             if page_no is None:
                 continue
 
@@ -85,6 +125,14 @@ def process_pdf(test_pdf: Path, converter: DocumentConverter) -> None:
             n_tables_total += 1
             label = str(DocItemLabel.TABLE)
             pages.setdefault(page_no, []).append((label, table_md))
+
+            if page_no != current_page_no:
+                if not first_item:
+                    full_doc_blocks.append(page_marker(page_no))
+                current_page_no = page_no
+            first_item = False
+
+            full_doc_blocks.append(item_to_markdown(item, label, table_md))
             continue
 
         # --- Handle everything else that has plain text ---
@@ -94,21 +142,39 @@ def process_pdf(test_pdf: Path, converter: DocumentConverter) -> None:
 
         label = str(getattr(item, "label", "text"))
 
-        page_no = None
-        prov = getattr(item, "prov", None)
-        if prov:
-            try:
-                page_no = prov[0].page_no
-            except Exception:
-                pass
-
+        page_no = get_item_page_no(item)
         if page_no is None:
             continue
 
         pages.setdefault(page_no, []).append((label, text))
 
+        if page_no != current_page_no:
+            if not first_item:
+                full_doc_blocks.append(page_marker(page_no))
+            current_page_no = page_no
+        first_item = False
+
+        full_doc_blocks.append(item_to_markdown(item, label, text))
+
     print(f"Pages with items: {len(pages)}")
     print(f"Tables captured: {n_tables_total}")
+
+    # --- 2) Full document markdown, with page markers inserted at
+    # every page transition. The very first page also gets a marker
+    # at the top so downstream code always has a page number for the
+    # start of the document. ---
+
+    if pages:
+        first_page_no = min(pages.keys())
+        full_md = "\n\n".join(
+            [page_marker(first_page_no)] + full_doc_blocks
+        )
+    else:
+        full_md = ""
+
+    full_md_filename = f"{test_pdf.stem}_full_document.md"
+    full_md_path = out_dir / full_md_filename
+    full_md_path.write_text(full_md, encoding="utf-8")
 
     # --- 3) Save each page as its own .md file, labels shown for inspection ---
     index_lines = ["# Text extraction index", ""]
@@ -144,7 +210,7 @@ def process_pdf(test_pdf: Path, converter: DocumentConverter) -> None:
     index_path.write_text("\n".join(index_lines), encoding="utf-8")
 
     print(f"Saved per-page text to: {out_dir}")
-    print(f"Full document markdown: {full_md_path}")
+    print(f"Full document markdown (with page markers): {full_md_path}")
     print(f"Index file: {index_path}")
 
     # quick console summary
@@ -166,8 +232,7 @@ def main():
 
     print(f"Found {len(pdf_files)} PDF(s) in {RAW_DIR}")
 
-    device =  "cpu" #get_device()
-
+    device = "cpu"  # get_device()
 
     pipeline_options = PdfPipelineOptions()
     pipeline_options.accelerator_options = AcceleratorOptions(
