@@ -40,4 +40,3 @@ htmlcov/
 .env
 .env.*
 !.env.example
-.path/to/db/
