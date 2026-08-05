@@ -2,7 +2,7 @@ from qdrant_client.models import VectorParams, Distance
 from rag_sn_in.database.client import get_client
 
 
-def ensure_collection(client, collection_name, vector_size, distance=Distance.COSINE):
+def ensure_ToCreate_collection(client, collection_name, vector_size, distance=Distance.COSINE):
     if client.collection_exists(collection_name):
         print(f"Collection '{collection_name}' already exists. Skipping creation.")
         return
@@ -14,9 +14,9 @@ def ensure_collection(client, collection_name, vector_size, distance=Distance.CO
             distance=distance
         )
     )
-    print(f"Collection '{collection_name}' created with vector size {vector_size} and distance {distance}.")
+    print(f"\n Collection '{collection_name}' created with vector size {vector_size} and distance {distance}. \n")
 
 
 if __name__ == "__main__":
     client = get_client()
-    ensure_collection(client, collection_name="knowledge_base", vector_size=768)
+    ensure_ToCreate_collection(client, collection_name="knowledge_base", vector_size=1024)
