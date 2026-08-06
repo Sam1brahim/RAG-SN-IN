@@ -1,7 +1,7 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import time
-
+from rag_sn_in.config import RERANKER_NAME
 _tokenizer = None
 _model = None
 _device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -11,8 +11,8 @@ def get_reranker():
     if _model is None:
         print("Loading reranker model: BAAI/bge-reranker-v2-m3 ...")
         t0 = time.time()
-        _tokenizer = AutoTokenizer.from_pretrained('BAAI/bge-reranker-v2-m3', use_fast=True)
-        _model = AutoModelForSequenceClassification.from_pretrained('BAAI/bge-reranker-v2-m3',dtype=torch.float16)
+        _tokenizer = AutoTokenizer.from_pretrained(RERANKER_NAME, use_fast=True)
+        _model = AutoModelForSequenceClassification.from_pretrained(RERANKER_NAME,dtype=torch.float16)
         _model.to(_device)
         _model.eval()
         print(f"Reranker loaded in {time.time() - t0:.1f}s on {_device}\n")

@@ -1,6 +1,0 @@
-| Corridor                                 | Nom du comité de gestion                                  | Contact et site internet                                                                       |
-|------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Corridor Mer du Nord Rhin - Méditerranée | RFC North Sea - Med                                       | Jean Quaeyhaegens C-OSS Capacity Manager jean.quaeyhaegens@infrabel.be www.rfc-northsea-med.eu |
-| Corridor Atlantique                      | EEIG Atlantic Corridor                                    | Félix Bartolome Alonso C-OSS Leader oss@atlantic-corridor.eu www.atlantic-corridor.eu          |
-| Corridor Méditerranée                    | EEIG for Mediterranean Corridor - Rail Freight Corridor 6 | Stéphane Dastot C-OSS Leader oss@railfreightcorridor6.eu https://www.medrfc.eu/                |
-| Corridor Rhin - Danube                   | RFC Rhin - Danube                                         | Bernd B Wetzel C-OSS Manager Bernd.B.Wetzel@deutschebahn.com www.rfc-rhine-danube.eu           |

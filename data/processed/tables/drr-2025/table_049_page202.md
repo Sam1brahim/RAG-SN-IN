@@ -1,3 +1,0 @@
-| SASU SE3M 9 chemin de la Rompure 54250 CHAMPIGNEULLES + 33 (0)3 83 36 27 14   | NANCY CHAMPIGNEULLES   | Infrastructures &#124; CCI Grand Nancy Métropole Meurthe-et-Moselle   |
-|-------------------------------------------------------------------------------|------------------------|-----------------------------------------------------------------------|
-| Rennes Terminal 21 avenue Chardonnet 35000 RENNES +33 (0)2 23 06 05 80        | RENNES                 | Donnée non communiquée                                                |

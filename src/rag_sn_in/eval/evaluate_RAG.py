@@ -4,9 +4,12 @@ from rag_sn_in.llm.reranker import rerank
 from rag_sn_in.database.db_setup import ensure_ToCreate_collection
 import json
 from rag_sn_in.llm.embedding import embed_queries_batch
+from rag_sn_in.cleanse.empty_db import collection_exists
 import time
 import os
 import glob
+from rag_sn_in.config import VECTOR_SIZE
+
 
 
 def load_eval_set(path):
@@ -153,7 +156,8 @@ def evaluate_answer(question, answer, reference_answer, chunks):
 if __name__ == "__main__":
     collection_name = "DRR_SNCF"
     client = get_client()
-    ensure_ToCreate_collection(client, collection_name, vector_size=1024)
+    #collection_exists(client, collection_name)
+    ensure_ToCreate_collection(client, collection_name, vector_size=VECTOR_SIZE)
 
     eval_set = load_eval_set(r"E:\Project RAG-SN-IN\data\eval")
 
