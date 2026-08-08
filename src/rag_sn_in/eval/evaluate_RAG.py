@@ -8,7 +8,7 @@ from rag_sn_in.cleanse.empty_db import collection_exists
 import time
 import os
 import glob
-from rag_sn_in.config import VECTOR_SIZE
+from rag_sn_in.config import VECTOR_SIZE, RERANKER_NAME,EMBEDDING_MODEL_NAME
 
 
 
@@ -142,7 +142,7 @@ def evaluate_retrieval(client, collection_name, eval_set, k_values=(1, 3, 5, 10)
             "mrr": v["mrr_total"] / n
         }
         for k, v in results_per_k.items()
-    }
+    }, use_reranker
 
 
 def generate_answer(question, chunks):
@@ -154,15 +154,20 @@ def evaluate_answer(question, answer, reference_answer, chunks):
 
 
 if __name__ == "__main__":
+    
     collection_name = "DRR_SNCF"
     client = get_client()
     #collection_exists(client, collection_name)
     ensure_ToCreate_collection(client, collection_name, vector_size=VECTOR_SIZE)
 
-    eval_set = load_eval_set(r"E:\Project RAG-SN-IN\data\eval")
+    eval_set = load_eval_set(r"E:\Project RAG-SN-IN\data\eval\eval chunks 512 max\realistic")
 
-    metrics = evaluate_retrieval(client, collection_name, eval_set, retrieve_k=30, use_reranker=True)
+    metrics,use_reranker = evaluate_retrieval(client, collection_name, eval_set, retrieve_k=30, use_reranker=True)
 
-    print("Final Metrics:")
+    
+    if use_reranker:
+        print(f"Final Metrics With Reranker \n {RERANKER_NAME}. \n Embedding model {EMBEDDING_MODEL_NAME}:")
+    else:
+        print(f"Final Metrics Without Reranker\n Embedding model {EMBEDDING_MODEL_NAME}:")
     for k, m in metrics.items():
         print(f"k={k}: hit_rate={m['hit_rate']:.3f}, mrr={m['mrr']:.3f}")

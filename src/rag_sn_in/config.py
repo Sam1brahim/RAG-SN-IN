@@ -13,17 +13,17 @@ ROOT = Path(__file__).resolve().parents[2]
 # Used BOTH for token counting (processing/chunking.py) and for embedding
 # (llm/embedding.py). Token counts are only meaningful in the units of the
 # model that will consume the chunks.
-EMBEDDING_MODEL_NAME = "google/embeddinggemma-300m"
+EMBEDDING_MODEL_NAME = "intfloat/multilingual-e5-large"
 
-VECTOR_SIZE = 768
+VECTOR_SIZE = 1024
 
-RERANKER_NAME= "BAAI/bge-reranker-v2-m3"
+RERANKER_NAME= "Qwen/Qwen3-Reranker-0.6B"
 
 
 ### Embedding Models:
 
     # "google/embeddinggemma-300m" 768 
-    # "BAAI/bge-m3" 1024 
+    # "BAAI/bge-m3" 1024
     # "nomic-ai/nomic-embed-text-v1.5" 768 
     # "intfloat/multilingual-e5-large" 1024
 
