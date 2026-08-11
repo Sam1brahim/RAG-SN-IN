@@ -14,12 +14,14 @@ src/rag_sn_in/eval/evaluate_RAG.py
 src/rag_sn_in/ingestion/indexing.py
 src/rag_sn_in/ingestion/inspect_docling.py
 src/rag_sn_in/ingestion/inspect_pdf.py
+src/rag_sn_in/llm/PRE-RAGAS.py
 src/rag_sn_in/llm/__init__.py
 src/rag_sn_in/llm/embedding.py
+src/rag_sn_in/llm/generator.py
 src/rag_sn_in/llm/local_models.py
 src/rag_sn_in/llm/reranker.py
-src/rag_sn_in/llm/reranking.py
 src/rag_sn_in/llm/retrieval.py
 src/rag_sn_in/llm/search.py
 src/rag_sn_in/processing/check_token_count.py
+src/rag_sn_in/processing/chunking.py
 src/rag_sn_in/processing/parsing.py

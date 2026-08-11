@@ -43,3 +43,9 @@ def embed_queries_batch(texts: list[str]):
         batch_size=32,
         prompt_name="query" # <--- Explicitly tell it this is a query
     )
+
+def unload_embedder():
+    """Module-level _model survives gc.collect(); null it before loading
+    another large model on the same GPU."""
+    global _model
+    _model = None

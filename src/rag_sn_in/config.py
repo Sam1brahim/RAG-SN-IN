@@ -10,15 +10,19 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 
-# Used BOTH for token counting (processing/chunking.py) and for embedding
-# (llm/embedding.py). Token counts are only meaningful in the units of the
-# model that will consume the chunks.
-EMBEDDING_MODEL_NAME = "intfloat/multilingual-e5-large"
+EMBEDDING_MODEL_NAME = "google/embeddinggemma-300m"
 
-VECTOR_SIZE = 1024
+VECTOR_SIZE = 768
 
-RERANKER_NAME= "Qwen/Qwen3-Reranker-0.6B"
+RERANKER_NAME= "BAAI/bge-reranker-v2-m3"
 
+LLM_NAME= "qwen"
+
+### LLMs to Try:
+    # "Qwen/Qwen2.5-7B-Instruct"
+    # "google/gemma-4-E4B-it"
+    # "google/gemma-4-E2B-it"
+    # "google/gemma-2-9b-it"
 
 ### Embedding Models:
 

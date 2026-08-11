@@ -1,0 +1,13 @@
+embedding_model,reranker,chunk_tokens,hit_rate_at_1,mrr_at_1,hit_rate_at_5,mrr_at_5,latency_ms_per_query,latency_note
+Gemma 300M,Pure,512,0.693,0.693,0.901,0.77,11,Provided
+Gemma 300M,BAAI Reranker,512,0.764,0.764,0.939,0.835,434,Provided
+Gemma 300M,Qwen Reranker,512,0.632,0.632,0.865,0.716,1325,Provided
+BAAI/bge-m3,Pure,512,0.651,0.651,0.881,0.737,10,Provided
+BAAI/bge-m3,BAAI Reranker,512,0.753,0.753,0.936,0.828,390,Provided
+BAAI/bge-m3,Qwen Reranker,512,0.628,0.628,0.861,0.713,1300,Assumed ~1300
+Nomic-embed-text-v1.5,Pure,512,0.504,0.504,0.721,0.58,7,Provided
+Nomic-embed-text-v1.5,BAAI Reranker,512,0.701,0.701,0.859,0.767,384,Provided
+Nomic-embed-text-v1.5,Qwen Reranker,512,0.588,0.588,0.807,0.67,1082,Provided
+Multilingual-e5-large,Pure,512,0.52,0.52,0.756,0.604,9,Provided
+Multilingual-e5-large,BAAI Reranker,512,0.729,0.729,0.905,0.801,349,Provided
+Multilingual-e5-large,Qwen Reranker,512,0.613,0.613,0.848,0.699,892,Provided

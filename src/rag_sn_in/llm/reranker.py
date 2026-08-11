@@ -85,6 +85,13 @@ def get_reranker():
         
     return _tokenizer, _model, RERANKER_NAME.lower()
 
+def unload_reranker():
+    """Module globals are invisible to gc.collect() while referenced —
+    call this before loading another large model on the same GPU."""
+    global _tokenizer, _model
+    _tokenizer = None
+    _model = None
+
 def rerank(query, candidates, top_k=10):
     _tokenizer, _model, reranker_name = get_reranker()
     
@@ -129,3 +136,4 @@ def rerank(query, candidates, top_k=10):
             scored.sort(key=lambda x: x[1], reverse=True)
 
             return [c for c, s in scored[:top_k]]
+    
