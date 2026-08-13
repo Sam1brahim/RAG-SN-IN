@@ -29,3 +29,5 @@ Requires-Dist: datasets>=5.0.1
 Requires-Dist: langchain-deepseek>=1.1.0
 Requires-Dist: langchain-google-vertexai>=3.2.4
 Requires-Dist: langfuse>=4.14.3
+Requires-Dist: fastapi>=0.141.1
+Requires-Dist: uvicorn[standard]>=0.52.1

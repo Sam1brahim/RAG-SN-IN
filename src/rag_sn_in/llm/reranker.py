@@ -2,6 +2,8 @@ import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoModelForCausalLM
 import time
 from rag_sn_in.config import RERANKER_NAME
+import gc
+import torch
 
 _tokenizer = None
 _model = None
@@ -86,12 +88,17 @@ def get_reranker():
     return _tokenizer, _model, RERANKER_NAME.lower()
 
 def unload_reranker():
-    """Module globals are invisible to gc.collect() while referenced —
-    call this before loading another large model on the same GPU."""
+    """Release the reranker and clear PyTorch's GPU cache."""
     global _tokenizer, _model
+
     _tokenizer = None
     _model = None
 
+    gc.collect()
+
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+        torch.cuda.ipc_collect()
 def rerank(query, candidates, top_k=10):
     _tokenizer, _model, reranker_name = get_reranker()
     
@@ -136,4 +143,7 @@ def rerank(query, candidates, top_k=10):
             scored.sort(key=lambda x: x[1], reverse=True)
 
             return [c for c, s in scored[:top_k]]
+    print("Unloading reranker...")
+    unload_reranker()
+    print("Unloaded!")    
     

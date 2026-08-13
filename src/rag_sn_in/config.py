@@ -33,8 +33,8 @@ LLM_NAME= "qwen"
 
 ### Rerankers:
 
-    # "Qwen/Qwen3-Reranker-0.6B"
     # "BAAI/bge-reranker-v2-m3"
+    # "Qwen/Qwen3-Reranker-0.6B"
 
 DATA_PROCESSED_TEXT_DIR = ROOT / "data" / "processed" / "text"
 DATA_CHUNKS_DIR = ROOT / "data" / "processed" / "chunks"

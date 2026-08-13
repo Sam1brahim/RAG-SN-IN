@@ -23,3 +23,5 @@ datasets>=5.0.1
 langchain-deepseek>=1.1.0
 langchain-google-vertexai>=3.2.4
 langfuse>=4.14.3
+fastapi>=0.141.1
+uvicorn[standard]>=0.52.1
