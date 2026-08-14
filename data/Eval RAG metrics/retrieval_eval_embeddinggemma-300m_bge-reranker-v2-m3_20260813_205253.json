@@ -1,0 +1,45 @@
+{
+  "timestamp": "20260813_205253",
+  "config": {
+    "embedding_model": "google/embeddinggemma-300m",
+    "reranker": "BAAI/bge-reranker-v2-m3",
+    "collection": "DRR_SNCF",
+    "vector_size": 768
+  },
+  "retrieval_metrics": {
+    "1": {
+      "hit_rate": 0.3883495145631068,
+      "mrr": 0.3883495145631068
+    },
+    "3": {
+      "hit_rate": 0.8786407766990292,
+      "mrr": 0.5922330097087375
+    },
+    "5": {
+      "hit_rate": 0.9174757281553398,
+      "mrr": 0.6009708737864075
+    },
+    "10": {
+      "hit_rate": 0.9757281553398058,
+      "mrr": 0.6096143473570655
+    },
+    "gold_recall": {
+      "mean_at_max_k": 0.9523116042533518,
+      "multi_chunk_count": 39,
+      "multi_chunk_mean": 0.8763125763125762
+    }
+  },
+  "retrieval_performance": {
+    "num_queries": 206,
+    "retrieve_k": 50,
+    "reranker_enabled": true,
+    "stage1_hit_rate": 0.995,
+    "batch_embed_time_s": 1.13,
+    "wall_time_s": 137.64,
+    "avg_dense_latency_ms": 12.2,
+    "avg_rerank_latency_ms": 655.7,
+    "avg_total_latency_ms": 667.9,
+    "throughput_queries_per_s": 1.5,
+    "miss_count": 5
+  }
+}

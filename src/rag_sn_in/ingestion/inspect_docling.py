@@ -12,10 +12,21 @@ code can recover page_start/page_end per chunk.
 Runs over ALL PDFs found in data/raw/, one output subfolder per document.
 """
 
+import logging
 import time
 from pathlib import Path
 
+# ============================================================
+# CRITICAL: disable torch.compile BEFORE importing docling.
+# Docling's layout engine calls torch.compile() on the model, which
+# requires a C++ compiler (cl.exe) on Windows. Without one it crashes
+# with "Compiler: cl is not found". Disabling forces eager mode,
+# which is functionally identical and barely slower on CPU.
+# ============================================================
 import torch
+
+torch._dynamo.config.disable = True
+
 from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.datamodel.pipeline_options import (
     PdfPipelineOptions,
@@ -24,11 +35,10 @@ from docling.datamodel.pipeline_options import (
 )
 from docling.datamodel.base_models import InputFormat
 from docling_core.types.doc import DocItemLabel, TableItem
-import logging
 
 # Anchor to project root regardless of current working directory
 PROJECT_ROOT = Path(__file__).resolve().parents[3]  # adjust depth as needed
-RAW_DIR = PROJECT_ROOT / "data" / "raw"
+RAW_DIR = PROJECT_ROOT / "data" / "raw" / "epsf"
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 TEXT_DIR = PROCESSED_DIR / "text"
 
@@ -43,14 +53,12 @@ logging.basicConfig(level=logging.INFO)
 def page_marker(page_no: int) -> str:
     return f"<!-- page: {page_no} -->"
 
-
 def get_device() -> AcceleratorDevice:
     if torch.cuda.is_available():
         print(f"CUDA available -> using GPU: {torch.cuda.get_device_name(0)}")
         return AcceleratorDevice.CUDA
     print("CUDA NOT available -> falling back to CPU")
     return AcceleratorDevice.CPU
-
 
 def get_item_page_no(item) -> int | None:
     """
@@ -63,7 +71,6 @@ def get_item_page_no(item) -> int | None:
         return prov[0].page_no
     except Exception:
         return None
-
 
 def item_to_markdown(item, label: str, text: str) -> str:
     """
@@ -82,7 +89,6 @@ def item_to_markdown(item, label: str, text: str) -> str:
         return f"## [{label}] {text}"
 
     return text
-
 
 def process_pdf(test_pdf: Path, converter: DocumentConverter) -> None:
     print(f"\n{'='*80}")
@@ -110,21 +116,44 @@ def process_pdf(test_pdf: Path, converter: DocumentConverter) -> None:
     current_page_no: int | None = None
     first_item = True
 
-    for item, _level in doc.iterate_items():
-        # --- Handle tables explicitly, since they have no plain `.text` ---
-        if isinstance(item, TableItem):
+    try:
+        for item, _level in doc.iterate_items():
+            # --- Handle tables explicitly (no plain `.text`) ---
+            if isinstance(item, TableItem):
+                page_no = get_item_page_no(item)
+                if page_no is None:
+                    continue
+
+                try:
+                    table_md = item.export_to_markdown(doc=doc)
+                except Exception as e:
+                    table_md = f"[TABLE EXPORT FAILED: {e}]"
+
+                n_tables_total += 1
+                label = str(DocItemLabel.TABLE)
+                pages.setdefault(page_no, []).append((label, table_md))
+
+                if page_no != current_page_no:
+                    if not first_item:
+                        full_doc_blocks.append(page_marker(page_no))
+                    current_page_no = page_no
+                first_item = False
+
+                full_doc_blocks.append(item_to_markdown(item, label, table_md))
+                continue
+
+            # --- Handle everything else that has plain text ---
+            text = getattr(item, "text", None)
+            if not text:
+                continue
+
+            label = str(getattr(item, "label", "text"))
+
             page_no = get_item_page_no(item)
             if page_no is None:
                 continue
 
-            try:
-                table_md = item.export_to_markdown(doc=doc)
-            except Exception as e:
-                table_md = f"[TABLE EXPORT FAILED: {e}]"
-
-            n_tables_total += 1
-            label = str(DocItemLabel.TABLE)
-            pages.setdefault(page_no, []).append((label, table_md))
+            pages.setdefault(page_no, []).append((label, text))
 
             if page_no != current_page_no:
                 if not first_item:
@@ -132,29 +161,12 @@ def process_pdf(test_pdf: Path, converter: DocumentConverter) -> None:
                 current_page_no = page_no
             first_item = False
 
-            full_doc_blocks.append(item_to_markdown(item, label, table_md))
-            continue
-
-        # --- Handle everything else that has plain text ---
-        text = getattr(item, "text", None)
-        if not text:
-            continue
-
-        label = str(getattr(item, "label", "text"))
-
-        page_no = get_item_page_no(item)
-        if page_no is None:
-            continue
-
-        pages.setdefault(page_no, []).append((label, text))
-
-        if page_no != current_page_no:
-            if not first_item:
-                full_doc_blocks.append(page_marker(page_no))
-            current_page_no = page_no
-        first_item = False
-
-        full_doc_blocks.append(item_to_markdown(item, label, text))
+            full_doc_blocks.append(item_to_markdown(item, label, text))
+    finally:
+        # Free the conversion result (page bitmaps etc.) promptly so
+        # memory doesn't pile up when processing many PDFs in a loop.
+        del result
+        del doc
 
     print(f"Pages with items: {len(pages)}")
     print(f"Tables captured: {n_tables_total}")
@@ -189,7 +201,11 @@ def process_pdf(test_pdf: Path, converter: DocumentConverter) -> None:
             if label == str(DocItemLabel.TABLE):
                 n_tables += 1
                 lines.append(f"### [TABLE]\n\n{text}")
-            elif label == str(DocItemLabel.SECTION_HEADER) or "heading" in label.lower() or "title" in label.lower():
+            elif (
+                label == str(DocItemLabel.SECTION_HEADER)
+                or "heading" in label.lower()
+                or "title" in label.lower()
+            ):
                 n_headings += 1
                 lines.append(f"## [{label}] {text}")
             else:
@@ -218,7 +234,6 @@ def process_pdf(test_pdf: Path, converter: DocumentConverter) -> None:
     for line in index_lines[2:22]:
         print(line)
 
-
 def main():
     seen = {}
     for p in RAW_DIR.iterdir():
@@ -232,9 +247,17 @@ def main():
 
     print(f"Found {len(pdf_files)} PDF(s) in {RAW_DIR}")
 
-    device = "cpu"  # get_device()
+    device = AcceleratorDevice.CPU  # was hardcoded to "cpu" string; now returns the enum
 
     pipeline_options = PdfPipelineOptions()
+
+    # images_scale=1.0 instead of the default 2.0.
+    # The default renders each page at 2x resolution, using 4x the
+    # memory per page bitmap — that's what triggered std::bad_alloc
+    # on large/2-up pages. Layout detection and OCR still work fine
+    # at 1x for standard-size pages.
+    pipeline_options.images_scale = 1.0
+
     pipeline_options.accelerator_options = AcceleratorOptions(
         num_threads=8,
         device=device,
@@ -269,7 +292,6 @@ def main():
     if failed_files:
         print(f"Failed files: {failed_files}")
     print(f"{'='*80}")
-
 
 if __name__ == "__main__":
     main()

@@ -11,9 +11,9 @@ Requires-Dist: pypdf
 Requires-Dist: python-dotenv
 Requires-Dist: pymupdf>=1.28.0
 Requires-Dist: docling>=2.115.0
-Requires-Dist: transformers>=5.8.1
+Requires-Dist: transformers<5,>=4.56.2
 Requires-Dist: sentencepiece>=0.2.2
-Requires-Dist: huggingface-hub>=1.24.0
+Requires-Dist: huggingface-hub<1,>=0.24
 Requires-Dist: tqdm>=4.69.1
 Requires-Dist: torch
 Requires-Dist: langchain-ollama

@@ -1,70 +1,70 @@
 ﻿  {
-    "Question": "What is the mission SNCF has devoted itself to ?",
+    "Question": "Quelles sont les missions principales assurées par SNCF Réseau ?",
     "Gold_chunk_id": "drr-2025_chunk_0000",
     "golden_answer": "1°) L'accès à l'infrastructure ferroviaire du réseau ferré national, comprenant la répartition des capacités et la tarification de cette infrastructure ;\n2°) La gestion opérationnelle des circulations sur le réseau ferré national ;\n3°) La maintenance, comprenant l'entretien et le renouvellement, de l'infrastructure du réseau ferré national ;\n4°) Le développement, l'aménagement, la cohérence et la mise en valeur du réseau ferré national ;\n5°) La gestion unifiée des gares de voyageurs, à travers une filiale dotée d'une autonomie organisationnelle, décisionnelle et financière ;\n6°) La gestion et la mise en valeur d'installations de service ;\n7°) Des missions transversales nécessaires au bon fonctionnement du système de transport ferroviaire national, au bénéfice de l'ensemble des acteurs de ce système, notamment en matière de gestion de crise et de coordination des acteurs pour la mise en accessibilité du système de transport ferroviaire national aux personnes handicapées ou à mobilité réduite ;\n8°) Des missions répondant aux besoins de la défense dans le cadre de la stratégie de sécurité nationale. »"
   },
   {
-    "Question": "What law ensures easy access to transport for handicapped people ?",
+    "Question": "Quels textes législatifs encadrent l'accessibilité du réseau ferroviaire aux personnes handicapées ou à mobilité réduite ?",
     "Gold_chunk_id": "drr-2025_chunk_0001",
     "golden_answer": "7° de l'article L.2111-9 du code des transports modifié par l'article 1er de la loi n° 2018-515 du 27 juin 2018 pour un nouveau pacte ferroviaire et conformément à l'article 8.1 du décret n° 97-444 en vigueur"
   },
   {
-    "Question": "How many times advisory councils actually meet per year ?",
+    "Question": "À quelle fréquence le Conseil Consultatif pour l'Accessibilité se réunit-il chaque année ?",
     "Gold_chunk_id": "drr-2025_chunk_0002",
     "golden_answer": "Le Conseil Consultatif Pour l'Accessibilité, réunissant 2 fois par an en assemblée plénière SNCF Réseau, SNCF Gares & Connexions, les Entreprises Ferroviaires de voyageurs clientes de SNCF Réseau et les associations nationales représentatives des personnes handicapées ou à mobilité réduite."
   },
   {
-    "Question": "What is the purpose of the DRR document ?",
+    "Question": "Quel est l'objectif du Document de Référence du Réseau (DRR) ?",
     "Gold_chunk_id": "drr-2025_chunk_0003",
     "golden_answer": "Le document de référence du réseau ferré national (DRR) contient les informations nécessaires aux entreprises ferroviaires et autres candidats qui souhaitent utiliser le réseau ferré national (RFN) pour y assurer des prestations de transport de voyageurs et de marchandises et plus généralement à toutes les parties intéressées par le transport ferroviaire."
   },
   {
-    "Question": "The DRR document is based on what laws ?",
+    "Question": "Sur quels textes législatifs et réglementaires le DRR repose-t-il ?",
     "Gold_chunk_id": "drr-2025_chunk_0004",
     "golden_answer": "Le DRR est notamment basé sur les textes législatifs et réglementaires suivants :\n-Règlement n° 913/2010 du 22 septembre 2010 relatif au réseau ferroviaire européen pour un fret compétitif ;\n-Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire ;\n-Directive (UE) 2016/797 du Parlement européen et du Conseil du 11 mai 2016 relative à l'interopérabilité du système ferroviaire au sein de l'Union européenne ;\n-Directive 2012/34/UE du 21 novembre 2012 établissant un espace ferroviaire unique européen, et directive 2016/2370/UE du 14 décembre 2016 la modifiant ;\n-Code des transports, partie législative ;\n-Loi n° 2014-872 du 4 août 2014 portant réforme ferroviaire ;\n-Décret n° 97-444 du 5 mai 1997 modifié relatif aux missions et aux statuts de SNCF Réseau ;\n-Décret n° 97-446 du 5 mai 1997 modifié relatif aux redevances d'utilisation du réseau ferré national perçues au profit de SNCF Réseau ;\n-Décret n° 2003-194 du 7 mars 2003 modifié relatif à l'utilisation du réseau ferré national ;\n-Décret n° 2019-525 du 27 mai 2019 modifié relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire ;\n-Décret n° 2012-70 du 20 janvier 2012 relatif aux gares de voyageurs et autres infrastructures de services du réseau ferroviaire ;\n-Arrêté du 9 décembre 2021 fixant les objectifs, les méthodes, les indicateurs de sécurité et la réglementation technique de sécurité et d'interopérabilité applicables sur le réseau ferré national ;\n-Spécifications techniques d'interopérabilité (STI)."
   },
   {
-    "Question": "Where can we find the most up to date DRR document ?",
+    "Question": "Où peut-on consulter la version la plus récente de la structure commune du DRR ?",
     "Gold_chunk_id": "drr-2025_chunk_0007",
     "golden_answer": "la version la plus récente étant accessible sur le site de RailNetEurope."
   },
   {
-    "Question": "What is the Structure of the DRR document ?",
+    "Question": "Comment est structuré le document de référence du réseau (DRR) ?",
     "Gold_chunk_id": "drr-2025_chunk_0007",
     "golden_answer": "Le DRR est structuré en 7 chapitres constituant le document principal."
   },
   {
-    "Question": "which chapter talks about “Capacity Allocations” ?",
+    "Question": "Quel chapitre du DRR traite de l'attribution des capacités ?",
     "Gold_chunk_id": "drr-2025_chunk_0007",
     "golden_answer": "Chapitre 4. Attribution de capacité fixe la procédure d'attribution des capacités ;"
   },
   {
-    "Question": "What parties are susceptible to receive the modifications of the DRR document ?",
+    "Question": "À quelles parties intéressées SNCF Réseau soumet-il les projets de modification du DRR ?",
     "Gold_chunk_id": "drr-2025_chunk_0009",
     "golden_answer": "SNCF Réseau soumet les projets de modification du présent document aux parties intéressées. Ces dernières sont l'ensemble des candidats, les organisations représentatives du secteur (UTP, AFRA, UPF, AUTF, GNTC, FNAUT), Régions de France qui représente les autorités organisatrices du transport ferroviaire, les services du ministère chargé des transports et l'EPSF."
   },
   {
-    "Question": "According to the document, What does this law dictates: L.2133-6 du Code des transports ?",
+    "Question": "Que stipule l'article L.2133-6 du Code des transports concernant la modification du DRR ?",
     "Gold_chunk_id": "drr-2025_chunk_0009",
     "golden_answer": "Conformément aux dispositions de l'article L.2133-6 du Code des transports, les modifications qui, au vu de cet avis, sont nécessaires pour rendre les dispositions conformes à la réglementation sont apportées sans nouvelle consultation des parties intéressées. Pour chaque procédure de consultation, les avis des parties intéressées sont réputés favorables s'ils ne sont pas rendus dans les délais prévus."
   },
   {
-    "Question": "In what languages the DRR document is published ?",
+    "Question": "Dans quelles langues le DRR est-il publié par SNCF Réseau ?",
     "Gold_chunk_id": "drr-2025_chunk_0011",
     "golden_answer": "Le DRR est établi en français et publié par SNCF Réseau en français et en anglais sur le site internet de SNCF Réseau"
   },
   {
-    "Question": "For candidates who want to start railway operations, and don't have a dedicated account manager, looking for information, which department to contact for such details?",
+    "Question": "Quel service un candidat sans chargé de compte attitré doit-il contacter pour obtenir des informations sur l'accès au réseau ?",
     "Gold_chunk_id": "drr-2025_chunk_0012",
     "golden_answer": "Les candidats ne disposant pas de chargé de compte attitré et qui souhaiteraient démarrer une activité ferroviaire en France et obtenir des précisions ou des informations complémentaires sur les modalités d'accès au réseau peuvent s'adresser à SNCF Réseau (Direction commerciale)"
   },
   {
-    "Question": "SNCF Reseau commercial department sends any received request to which entities?",
+    "Question": "Comment contacter le guichet unique de la direction commerciale de SNCF Réseau et comment traite-t-il les demandes ?",
     "Gold_chunk_id": "drr-2025_chunk_0012",
     "golden_answer": "(Direction commerciale) via le guichet unique qui transmettra au(x) service(s) concerné(s) de SNCF Réseau pour prise en charge de la demande :\n-Par courriel : guichetunique@reseau.sncf.fr\n-par téléphone : +33 (0) 9 80 98 03 29\n-par courrier à l'adresse postale :\nSNCF Réseau - Direction Générale Clients et Territoires Direction Commerciale - Guichet Unique 12, rue Jean-Philippe RAMEAU CS 80001\n93212 LA PLAINE SAINT DENIS Cedex"
   },
   {
-    "Question": "For individuals who see information for the access service facilities, whom should they contact?",
+    "Question": "Qui faut-il contacter pour obtenir des informations sur l'accès aux installations de service gérées par la PSEF ?",
     "Gold_chunk_id": "drr-2025_chunk_0013",
     "golden_answer": "Les clients souhaitant contractualiser ou souhaitant des informations sur l'accès aux installations de service (cours de marchandises et chantiers de transport combiné mentionnés au  Chapitre 7 Installations de service, services mentionnés au  Chapitre 7), gérées par la plateforme de services aux entreprises ferroviaires (PSEF) de SNCF Réseau, peuvent la contacter :\n-Par courriel :  services.psef@sncf.fr\n-par téléphone : +33 (0) 9 80 98 03 29\n-via le site internet :www.psef.sncf-reseau.fr\n-par courrier à l'adresse postale :\nSNCF Réseau - Direction Générale Clients et Territoires Plateforme de services aux entreprises ferroviaires 12, rue Jean-Philippe RAMEAU CS 80001 93212 LA PLAINE SAINT DENIS Cedex"
   }

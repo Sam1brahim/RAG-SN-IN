@@ -16,7 +16,7 @@ src/rag_sn_in/eval/evaluate_RAG.py
 src/rag_sn_in/ingestion/indexing.py
 src/rag_sn_in/ingestion/inspect_docling.py
 src/rag_sn_in/ingestion/inspect_pdf.py
-src/rag_sn_in/llm/PRE-RAGAS.py
+src/rag_sn_in/llm/PRE_RAGAS.py
 src/rag_sn_in/llm/__init__.py
 src/rag_sn_in/llm/embedding.py
 src/rag_sn_in/llm/generator.py

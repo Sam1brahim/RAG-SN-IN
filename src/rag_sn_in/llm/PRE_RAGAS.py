@@ -65,23 +65,23 @@ def main():
 
 
     # Enabling Langfuse
-    if _enabled:
-        print("Langfuse For Observability is Enabled. \n")
-        print("Starting Langfuse . . . \n")
-        langfuse = get_langfuse_client()
-        with langfuse.start_as_current_observation(
-            as_type="retriever ",
-            name="Call-Qdrant"
-        ) as retriever:
-            collection_name = ensure_ToCreate_collection(client, collection_name, vector_size=VECTOR_SIZE)
-            retriever.update(output=collection_name)
-        print("Launching RAGAS Pipeline: \n")
-        print("Performing Reranking ...\n")
+    #if _enabled:
+    #    print("Langfuse For Observability is Enabled. \n")
+    #    print("Starting Langfuse . . . \n")
+    #    langfuse = get_langfuse_client()
+     #   with langfuse.start_as_current_observation(
+     #       as_type="retriever ",
+    #        name="Call-Qdrant"
+    #    ) as retriever:
+    #        collection_name = ensure_ToCreate_collection(client, collection_name, vector_size=VECTOR_SIZE)
+      #      retriever.update(output=collection_name)
+    ##    print("Launching RAGAS Pipeline: \n")
+    #    print("Performing Reranking ...\n")
         
-        eval_set = load_eval_set(r"E:\Project RAG-SN-IN\data\eval\eval chunks 512 max\realistic")
-        _, _, ragas_data, retrieval_stats = evaluate_retrieval(client, collection_name, eval_set, retrieve_k=30, use_reranker=True)
-    else:
-        print("Langfuse Disabled \n")    
+    #    eval_set = load_eval_set(r"E:\Project RAG-SN-IN\data\eval\eval chunks 512 max\realistic")
+   #     _, _, ragas_data, retrieval_stats = evaluate_retrieval(client, collection_name, eval_set, retrieve_k=30, use_reranker=True)
+   # else:
+    #    print("Langfuse Disabled \n")    
     
     
     
@@ -110,8 +110,8 @@ def main():
     print("Launching RAGAS Pipeline: \n")
     print("Performing Reranking ...\n")
     ensure_ToCreate_collection(client, collection_name, vector_size=VECTOR_SIZE)
-    eval_set = load_eval_set(r"E:\Project RAG-SN-IN\data\eval\eval chunks 512 max\realistic")
-    _, _, ragas_data, retrieval_stats = evaluate_retrieval(client, collection_name, eval_set, retrieve_k=30, use_reranker=True) # top 5.
+    eval_set = load_eval_set(r"E:\Project RAG-SN-IN\data\eval\eval chunks 512 max")
+    retrieval_metrics, _, ragas_data, retrieval_stats = evaluate_retrieval(client, collection_name, eval_set, retrieve_k=30, use_reranker=True) # top 5.
     retrieval_stage_time = retrieval_stats["batch_embed_time_s"] + retrieval_stats["wall_time_s"]
     print("Finished Reranking ...\n")
 
@@ -364,6 +364,7 @@ def main():
             "peak_vram_gb": generation_stats.get("peak_vram_gb"),
             "gpu_name": generation_stats.get("gpu_name"),
         },
+        "retrieval_metrics": retrieval_metrics,
         "retrieval_performance": retrieval_stats,
         "generation_performance": generation_stats,
         "judge_token_usage": judge_token_stats,
