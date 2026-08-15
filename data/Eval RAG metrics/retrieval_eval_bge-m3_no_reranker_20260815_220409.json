@@ -1,0 +1,45 @@
+{
+  "timestamp": "20260815_220409",
+  "config": {
+    "embedding_model": "BAAI/bge-m3",
+    "reranker": null,
+    "collection": "railway",
+    "vector_size": 1024
+  },
+  "retrieval_metrics": {
+    "1": {
+      "hit_rate": 0.6684491978609626,
+      "mrr": 0.6684491978609626
+    },
+    "3": {
+      "hit_rate": 0.8502673796791443,
+      "mrr": 0.7504456327985739
+    },
+    "5": {
+      "hit_rate": 0.8716577540106952,
+      "mrr": 0.7552584670231728
+    },
+    "10": {
+      "hit_rate": 0.9090909090909091,
+      "mrr": 0.7603301926831338
+    },
+    "gold_recall": {
+      "mean_at_max_k": 0.8720906544435956,
+      "multi_chunk_count": 41,
+      "multi_chunk_mean": 0.7336817653890824
+    }
+  },
+  "retrieval_performance": {
+    "num_queries": 187,
+    "retrieve_k": 10,
+    "reranker_enabled": false,
+    "stage1_hit_rate": 0.909,
+    "batch_embed_time_s": 1.07,
+    "wall_time_s": 0.83,
+    "avg_dense_latency_ms": 4.4,
+    "avg_rerank_latency_ms": 0.0,
+    "avg_total_latency_ms": 4.4,
+    "throughput_queries_per_s": 225.51,
+    "miss_count": 17
+  }
+}

@@ -38,7 +38,7 @@ from docling_core.types.doc import DocItemLabel, TableItem
 
 # Anchor to project root regardless of current working directory
 PROJECT_ROOT = Path(__file__).resolve().parents[3]  # adjust depth as needed
-RAW_DIR = PROJECT_ROOT / "data" / "raw" / "epsf"
+RAW_DIR = PROJECT_ROOT / "data" / "raw" / "DRG"
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 TEXT_DIR = PROCESSED_DIR / "text"
 

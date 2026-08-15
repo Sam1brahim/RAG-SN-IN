@@ -14,7 +14,7 @@ def dense_search(client, query, collection_name, top_k=10):
 if __name__ == "__main__":
     client = get_client()
     collection_name = "DRR_SNCF"
-    query = "Selon le Document de référence du réseau 2025, quelles règles s'appliquent pour : Responsabilités particulières des demandeurs autres qu'entreprise ferroviaire ?"
+    query = "Selon le Document de référence du réseau 2027, quelles règles s'appliquent pour : Responsabilités particulières des demandeurs autres qu'entreprise ferroviaire ?"
     results = dense_search(client, query, collection_name, top_k=10)
     for r in results:
         print('\n',r,'\n')

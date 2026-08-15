@@ -1,0 +1,256 @@
+[
+  {
+    "Question": "Pourquoi l'EPSF publie-t-il chaque année un rapport sur la sécurité ferroviaire ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0000",
+    "golden_answer": "C'est une obligation imposée par l'article 2 du décret n° 2006-369 du 28 mars 2006, qui exige un rapport annuel sur la sécurité des circulations ferroviaires sur le réseau ferré national et les réseaux comparables."
+  },
+  {
+    "Question": "Sur quelles informations l'EPSF s'appuie-t-elle pour rédiger son rapport de sécurité ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0000",
+    "golden_answer": "Le rapport est rédigé à partir des rapports annuels de sécurité transmis par les entreprises ferroviaires et les gestionnaires d'infrastructure, ainsi que des statistiques issues de la notification des événements de sécurité à l'EPSF."
+  },
+  {
+    "Question": "À partir de quand les exploitants ferroviaires devront-ils remettre leur rapport annuel de sécurité à l'EPSF, et à quelle échéance ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0000",
+    "golden_answer": "Dès 2020, ils devront remettre leur rapport annuel de sécurité à l'EPSF avant le 31 mai de chaque année civile."
+  },
+  {
+    "Question": "À qui le rapport de sécurité de l'EPSF est-il transmis et où peut-on le consulter ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0001",
+    "golden_answer": "Il est transmis avant le 30 septembre au ministre chargé des Transports, au Bureau d'enquêtes sur les accidents de transport terrestre et à l'Agence de l'Union européenne pour les chemins de fer, et il est disponible sur le site de l'EPSF dans la rubrique « Les données chiffrées de la sécurité »."
+  },
+  {
+    "Question": "Quelles conséquences a eues l'accident de Millas sur la politique de sécurisation des passages à niveau ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0002",
+    "golden_answer": "Le BEA-TT a formulé des recommandations dans son rapport d'enquête, un rapport parlementaire remis en avril 2019 a proposé des pistes d'amélioration, et sur cette base la ministre des Transports a décidé de mettre en place un plan d'actions pour améliorer la sécurisation des passages à niveau."
+  },
+  {
+    "Question": "Comment le nombre d'accidents significatifs a-t-il évolué entre 2017 et 2018 ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0003",
+    "golden_answer": "Le nombre d'accidents significatifs est passé de 151 en 2017 à 119 en 2018, le total le plus faible de la décennie, avec un taux de 0,27 par million de train-km, en amélioration de plus de 10 % par rapport à 2016 et 2017 malgré une baisse de trafic de 9 %."
+  },
+  {
+    "Question": "Qu'est-ce qui explique principalement l'amélioration du taux d'accidents significatifs en 2018 ?",
+    "Gold_chunk_id": [
+      "rapport_securite_2018_epsf_split_chunk_0002",
+      "rapport_securite_2018_epsf_split_chunk_0003"
+    ],
+    "golden_answer": "Cette amélioration résulte majoritairement de la réduction du nombre d'accidents significatifs aux passages à niveau, dont le nombre et les conséquences humaines sont en baisse, ainsi que de la diminution des heurts de personnes par un train en mouvement hors suicide."
+  },
+  {
+    "Question": "Comment la mortalité ferroviaire a-t-elle évolué en 2018 et quelles catégories de victimes sont concernées ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0004",
+    "golden_answer": "Le nombre de tués est passé de 94 en 2017 à 58 en 2018, contre une moyenne décennale de 74. Les « intrus » représentent 64 % des tués, la part des usagers de passages à niveau est passée de 45 % à 28 %, et quatre personnels ont été tués, dont deux dans la collision d'un lorry entre Capvern et Tournay."
+  },
+  {
+    "Question": "Quelles démarches le secteur ferroviaire met-il en place pour anticiper les risques plutôt que simplement réagir aux accidents ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0005",
+    "golden_answer": "Le secteur assure la collecte, l'analyse et le partage au sein des réunions de retour d'expérience des incidents, développe des méthodes pour exploiter les données associées et pour comprendre les scénarios potentiels d'accidents et les barrières de sécurité à renforcer, s'approprie progressivement la méthode de sécurité commune relative à l'évaluation et à l'appréciation des risques, et mène des initiatives de culture de sécurité, notamment sa dimension « juste et équitable », pour favoriser la remontée des événements."
+  },
+  {
+    "Question": "Outre SNCF Réseau, qui d'autre s'occupe de l'entretien des lignes du réseau ferré national ?",
+    "Gold_chunk_id": [
+      "rapport_securite_2018_epsf_split_chunk_0007",
+      "rapport_securite_2018_epsf_split_chunk_0008"
+    ],
+    "golden_answer": "Outre les nouveaux gestionnaires titulaires d'un agrément de sécurité — Eiffage Rail Express (LGV Bretagne - Pays de la Loire, 214 km), LISEA (LGV Sud Europe Atlantique, 340 km), OC'VIA (contournement de Nîmes - Montpellier, 80 km) et RFI (section frontière France-Italie à partir de Modane, y compris le tunnel du Mont-Cenis) —, SNCF Réseau a confié par convention des missions d'entretien à des gestionnaires d'infrastructure conventionnés (GIC) : SFERIS (lignes du Morvan), SOCORAIL (région Grand Est), COLAS RAIL (lignes capillaires Gray - Chemin-Chatillonnais) et CFTA (lignes Guingamp - Paimpol et Guingamp - Carhaix)."
+  },
+  {
+    "Question": "Comment les voies du réseau ferré national sont-elles équipées en systèmes de signalisation et en électrification ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0008",
+    "golden_answer": "Fin 2018, 37 000 km sont équipés du KVB, 5 300 km du TVM et 2 100 km de l'ERTMS. 34 000 km sont électrifiés, accueillant 90 % du trafic voyageurs et 85 % du fret, tandis que 14 300 km ne sont pas électrifiés."
+  },
+  {
+    "Question": "Qu'est-ce que les réseaux comparables et quelle réglementation de sécurité s'y applique ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0009",
+    "golden_answer": "Ce sont des réseaux dont la liste est fixée par le décret n° 2017-674 du 28 avril 2017, présentant des caractéristiques d'exploitation comparables à celles du réseau ferré national. Hormis certaines adaptations prévues par l'arrêté du 13 avril 2015, la même réglementation de sécurité que sur le RFN s'y applique."
+  },
+  {
+    "Question": "Qui assure les missions de gestionnaire d'infrastructure sur les réseaux ferrés portuaires, et quelle est l'étendue totale des réseaux comparables ?",
+    "Gold_chunk_id": [
+      "rapport_securite_2018_epsf_split_chunk_0009",
+      "rapport_securite_2018_epsf_split_chunk_0010"
+    ],
+    "golden_answer": "Les réseaux comparables totalisent 858 km de voies ferrées, incluant des sections transfrontalières et des réseaux portuaires. Sur les réseaux ferrés portuaires, ce sont les autorités portuaires qui assurent les missions de gestionnaire d'infrastructure."
+  },
+  {
+    "Question": "Pourquoi le trafic ferroviaire a-t-il autant baissé en 2018 ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0011",
+    "golden_answer": "Le trafic a baissé de près de 9 % en 2018 avec 443 millions de train-km effectués. Cette baisse s'explique par une année 2018 particulièrement marquée par les mouvements sociaux du 2e trimestre, période durant laquelle le trafic a chuté d'environ 28 % par rapport au 2e trimestre de l'année précédente."
+  },
+  {
+    "Question": "Comment le trafic voyageurs a-t-il évolué en 2018 et qu'est-ce qui explique la différence avec 2017 ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0013",
+    "golden_answer": "Le trafic voyageurs a baissé de 1 % en 2018, avec environ 91 milliards de voyageur-km, bien que la tendance sur 10 ans reste haussière. La forte hausse de 2017 s'expliquait en partie par l'ouverture des lignes à grande vitesse Sud Europe Atlantique et Bretagne - Pays de la Loire, alors qu'en 2018 seules les lignes de Belfort - Delle et du contournement de Nîmes - Montpellier ont été ouvertes au trafic voyageurs."
+  },
+  {
+    "Question": "Comment s'est déroulé l'accident de lorry entre Capvern et Tournay et quel en a été le bilan humain ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0019",
+    "golden_answer": "Le 10 octobre, lors d'un chantier de nuit, un lorry automoteur avec cinq personnes à bord est parti à la dérive sans pouvoir freiner. Après avoir heurté un big bag, le conducteur a chuté et s'est gravement blessé. Le lorry a ensuite franchi un passage à niveau, barrières ouvertes, à une vitesse estimée de 80 à 100 km/h, puis a percuté très violemment une pelle rail-route. Parmi les quatre personnes restées à bord, deux agents sont décédés, un troisième a été grièvement blessé et le quatrième est physiquement indemne mais choqué. C'est l'accident le plus lourd en conséquences humaines de 2018."
+  },
+  {
+    "Question": "Comment les accidents de Capvern-Tournay et d'Écommoy se reflètent-ils dans les statistiques de mortalité 2018 ?",
+    "Gold_chunk_id": [
+      "rapport_securite_2018_epsf_split_chunk_0004",
+      "rapport_securite_2018_epsf_split_chunk_0017",
+      "rapport_securite_2018_epsf_split_chunk_0019"
+    ],
+    "golden_answer": "L'accident d'Écommoy a fait une victime mortelle : une personne traversant les voies a été heurtée mortellement par un train. L'accident de Capvern-Tournay a causé la mort de deux agents, soit deux des quatre personnels tués en 2018. Au total, 58 personnes ont été tuées en 2018 contre 94 en 2017."
+  },
+  {
+    "Question": "Que s'est-il passé dans l'accident mortel en gare d'Écommoy et quelle en est la cause retenue ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0017",
+    "golden_answer": "Le 22 février, trois personnes ont traversé les voies malgré les pictogrammes lumineux d'interdiction, et l'une a été mortellement heurtée par un train vide en acheminement. Le BEA-TT a retenu comme cause un manque d'attention de la victime, qui n'a pas observé la signalisation ni vérifié l'absence de train croiseur, la traversée simultanée de deux autres personnes indemnes ayant pu l'induire en erreur."
+  },
+  {
+    "Question": "Quelles mesures le BEA-TT a-t-il recommandées après l'accident d'Écommoy ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0017",
+    "golden_answer": "Le BEA-TT a émis cinq recommandations et une invitation portant sur le déploiement d'enregistreurs de la signalisation de traversée de voies, le choix de la position d'arrêt des trains en gare, l'amélioration de la signalétique de sécurité sur les quais, le renforcement de la communication au public sur les dangers ferroviaires et l'étude de barrières physiques pour les traversées."
+  },
+  {
+    "Question": "Que s'est-il passé lors du déraillement en gare de Marseille Saint-Charles et y a-t-il eu des victimes ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0018",
+    "golden_answer": "Le 24 août, un TGV de deux rames duplex entrant en gare à 27 km/h a déraillé suite à une rupture de rail : sept voitures et la motrice de la rame de queue ont déraillé. Aucun véhicule n'a basculé et il n'y a eu aucune conséquence humaine. Le BEA-TT a ouvert une enquête technique."
+  },
+  {
+    "Question": "Comment le nombre de déshuntages a-t-il évolué en 2018 et comment sont-ils généralement détectés ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0068",
+    "golden_answer": "En 2018, 46 déshuntages ont été recensés (37 de niveau 1, 8 de niveau 2 et 1 de niveau 3), contre 65 en 2017. Ils sont majoritairement détectés par les enregistrements et la télésurveillance (55 % des cas contre 50 % en 2017), et concernent surtout des déshuntages de niveau 1 contenus par des dispositions techniques."
+  },
+  {
+    "Question": "Quels types de matériels sont le plus souvent impliqués dans les déshuntages ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0068",
+    "golden_answer": "Comme les années précédentes, les X73500 et les AGC sont les principales catégories de matériels concernées, avec quelques cas impliquant des engins de travaux ou des locomotives."
+  },
+  {
+    "Question": "Qu'est-ce qui provoque le plus souvent les déshuntages et pourquoi ce phénomène est-il difficile à maîtriser ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0069",
+    "golden_answer": "Dans 75 % des cas, la cause est la pollution du rail par des végétaux, du sable et autres agglomérats électriquement isolants. La pollution des roues représente 10 % des cas. Les aspects aléatoires de la pollution automnale (chute des feuilles, météo) restent difficiles à traiter malgré les moyens de nettoyage planifiés."
+  },
+  {
+    "Question": "Pourquoi le nombre de déshuntages de niveau 1 semble-t-il augmenter alors que les niveaux 2 et 3 sont mieux maîtrisés ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0069",
+    "golden_answer": "La progression des déshuntages de niveau 1 s'explique au moins en partie par l'augmentation des mesures de surveillance réalisées par SNCF Réseau, comme le suivi des enregistrements dans les postes informatiques et la mise en place d'enregistreurs, qui permettent de détecter davantage de cas."
+  },
+  {
+    "Question": "Pourquoi le sablage des trains peut-il poser un problème de sécurité et qu'est-ce qui est fait pour y remédier ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0070",
+    "golden_answer": "L'excès de sable isole électriquement le contact roue/rail et provoque des déshuntages. Or le dosage du sable n'est ni asservi à l'adhérence ni à la vitesse, ce qui peut le rendre excessif. Des études ont été engagées en 2018 pour mettre en place des asservissements des dispositifs de sablage embarqués."
+  },
+  {
+    "Question": "Quelles solutions sont testées pour lutter contre l'encrassement des roues des trains ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0071",
+    "golden_answer": "Après des essais non concluants de « scrubber » sur les X73500 et des difficultés d'installation du « wheelbrush », un prototype de frotteur « stick » a été développé en 2018 et est expérimenté sur 44 rames en Auvergne, avec des premiers résultats encourageants."
+  },
+  {
+    "Question": "Comment le réseau se protège-t-il contre les risques de déshuntage aux passages à niveau ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0072",
+    "golden_answer": "Un déshuntage en zone d'approche d'un PN pourrait empêcher la fermeture des barrières. Depuis 2016, un programme installe des pédales d'aide au shuntage en redondance : après l'équipement des PN les plus exposés achevé en février 2017, une seconde phase vise environ 1 200 PN d'ici fin 2021, avec près de 400 déjà équipés fin 2018."
+  },
+  {
+    "Question": "Qu'est-ce que le « booster de shunt » déployé sur les LGV et comment fonctionne-t-il ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0073",
+    "golden_answer": "Sur la base d'un prototype proposé par l'UIC, un « booster de shunt » a été développé et mis en œuvre. Il n'a pas vocation à se substituer au circuit de voie, qui reste l'équipement de sécurité fondamental du shuntage. Deux modes d'usage sont possibles : le mode « enregistrement » avec alerte en cas d'anomalie détectée, et le mode « actif » qui permet la commande en position sécuritaire du relais de voie en cas de fluctuation du signal électrique. En 2018, LISEA a installé une dizaine de boosters dans le cadre d'un plan d'expérience sur la LGV SEA. ERE en a installé 23 sur la LGV BPL ; après une période de test en mode « enregistrement » et une analyse de sécurité, ils fonctionnent désormais en mode « actif » et constituent une mesure efficace de réduction des risques de déshuntage."
+  },
+  {
+    "Question": "Quel est l'objectif des études en cours sur l'aptitude au shuntage des matériels roulants ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0074",
+    "golden_answer": "Ces études menées par les industriels et SNCF Réseau visent à simplifier la reconnaissance de l'aptitude au shuntage sans dégrader la sécurité. En 2020, elles doivent préciser les caractéristiques de quatre dispositifs (essieu, BIAS, nettoyeur de roue, asservissement du sablage) afin que les matériels équipés puissent être dispensés des essais en circulation actuellement exigés."
+  },
+  {
+    "Question": "Quel rôle joue l'EPSF dans le suivi des recommandations du BEA-TT ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0076",
+    "golden_answer": "Conformément à l'article 2 du décret n° 2006-369, l'EPSF suit les actions décidées par les acteurs ferroviaires en réponse aux recommandations du BEA-TT qui leur sont adressées. Dans ce cadre, elle intègre dans son programme annuel de surveillance des points d'avancement réguliers avec ces acteurs et des contrôles ciblés pour vérifier l'effectivité des actions qu'ils se sont engagés à mettre en œuvre."
+  },
+  {
+    "Question": "Quels accidents ont fait l'objet d'une enquête du BEA-TT en 2018 ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0077",
+    "golden_answer": "Le BEA-TT a déclenché cinq enquêtes en 2018 : la collision entre un TER et un véhicule léger au PN n° 19 à Auxerre le 14 janvier ; la collision entre un véhicule léger et une locomotive circulant seule, survenue au droit du PN n° 82 à Coulogne le 3 avril ; le heurt d'un piéton par un train vide sur passage planchéié en gare d'Écommoy le 22 février ; le déraillement d'un TGV en gare de Marseille Saint-Charles le 24 août ; et le heurt d'un piéton en gare de Nouan-le-Fuzelier le 3 septembre."
+  },
+  {
+    "Question": "Quels rapports d'enquête le BEA-TT a-t-il publiés en 2018 et qu'en a-t-il conclu ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0078",
+    "golden_answer": "Deux rapports ont été publiés : celui d'Antibes (TER talonnant une aiguille après franchissement d'un signal fermé le 26 décembre 2016, sans victime) et celui de La Redonne-Ensuès (arrêt d'urgence d'un TER à 50 m d'un autre TER le 18 août 2017, sans dommage). Ils ont donné lieu à cinq recommandations portant sur la formation des personnels, le matériel roulant et la révision de consignes régionales."
+  },
+  {
+    "Question": "Dans quels cas une analyse de risques selon la méthode de sécurité commune est-elle obligatoire ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0092",
+    "golden_answer": "Depuis 2009, année de la publication du règlement (CE) n° 352/2009, remplacé depuis par le règlement (UE) n° 402/2013, tout changement du système ferroviaire d'un État membre, qu'il soit de nature organisationnelle (susceptible d'avoir une incidence sur les processus d'exploitation ou d'entretien) ou technique, doit faire l'objet d'une analyse préalable selon le processus décrit dans ce règlement."
+  },
+  {
+    "Question": "Quelles difficultés les entreprises rencontrent-elles dans l'application de la méthode de sécurité commune ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0092",
+    "golden_answer": "L'appropriation de la méthode est hétérogène selon les entreprises, leurs moyens et leur expérience. La plus-value de l'évaluateur indépendant au regard de son coût fait l'objet d'appréciations diverses, certains changements étant qualifiés de mineurs pour éviter ces coûts. Enfin, l'application de la MSC aux changements organisationnels est une difficulté largement partagée par les exploitants."
+  },
+  {
+    "Question": "Pourquoi la part d'écarts majeurs notifiés par l'EPSF a-t-elle augmenté en 2018 ?",
+    "Gold_chunk_id": [
+      "rapport_securite_2018_epsf_split_chunk_0093",
+      "rapport_securite_2018_epsf_split_chunk_0094"
+    ],
+    "golden_answer": "L'EPSF a dédié près de la moitié de ses ressources de surveillance à des contrôles sur des thématiques ciblées visant les activités les plus à risque. Cette adaptation de la stratégie de contrôle au niveau de risque explique l'augmentation des écarts majeurs notifiés, sans que cela témoigne d'une baisse du niveau de sécurité global."
+  },
+  {
+    "Question": "Quelles thématiques ont concentré les écarts majeurs et le point bloquant notifiés par l'EPSF en 2018 ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0095",
+    "golden_answer": "Le seul point bloquant de 2018 portait sur le suivi des compétences d'opérateurs habilités à des tâches de sécurité. La gestion des compétences a représenté un quart des écarts majeurs, la maintenance de l'infrastructure la moitié (notamment voies et signalisation électrique), et le pilotage de la sécurité et la surveillance des activités 7,5 %."
+  },
+  {
+    "Question": "Comment le suivi des actions correctives s'est-il amélioré en 2018 ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0096",
+    "golden_answer": "À la fin de l'année 2018, plus de 98 % des actions correctives en réponse aux écarts notifiés ont été mises en œuvre dans les délais. La part des actions en attente de bouclage dont le délai limite de mise en œuvre a été dépassé de plus de six mois est passée de près de 45 % en 2017 à 29 % en 2018. Cette diminution s'explique en partie par l'approche de l'EPSF et par le renforcement de son dispositif de suivi (accélération des réunions de bouclage et relances), et avant tout par l'effort des acteurs concernés. En cas de manquements importants avérés, l'EPSF peut adresser une sanction pécuniaire à l'entité responsable, conformément à l'article L 2221-11 du Code des transports."
+  },
+  {
+    "Question": "Quelles sont les catégories de personnes prises en compte dans les indicateurs de sécurité communs et comment le MBGP est-il calculé ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0099",
+    "golden_answer": "Les ISC répartissent les personnes tuées ou grièvement blessées en cinq catégories : voyageurs, personnels (personnel et contractants), usagers des passages à niveau, intrus dans les emprises ferroviaires et « autres ». Le MBGP (morts et blessés graves pondérés) est la somme du nombre de tués et de 0,1 fois le nombre de grièvement blessés."
+  },
+  {
+    "Question": "Que sont les objectifs de sécurité communs et les valeurs nationales de référence ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0100",
+    "golden_answer": "Les OSC sont des valeurs « objectifs » définies pour huit catégories de risques, calculées sur la base du MBGP relativisé par des volumes d'activité ou des indicateurs d'infrastructure, conformément à la décision 2009/460/CE. Les VNR sont les valeurs « objectifs » permettant de quantifier les performances actuelles de sécurité des systèmes ferroviaires de chaque État membre."
+  },
+  {
+    "Question": "Comment est évaluée la performance de sécurité au regard des VNR et OSC ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0101",
+    "golden_answer": "Selon les principes de la décision 2009/460/CE (annexe 2), un logigramme décisionnel permet d'évaluer pour chaque valeur objectif la performance en matière de sécurité selon trois niveaux : « Acceptable », « Détérioration possible » ou « Détérioration probable »."
+  },
+  {
+    "Question": "Où en était fin 2018 la mise en œuvre des recommandations du BEA-TT concernant le PN83 de Saint-Laurent-Blangy et les rails Double Champignon ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0104",
+    "golden_answer": "Pour le PN83 de Saint-Laurent-Blangy, l'étude relative à la faisabilité de la suppression du passage à niveau et de la création d'un pont-rail a été menée ; la contractualisation de la phase avant-projet est prévue pour la fin du premier trimestre 2019 (action en cours). Pour les rails Double Champignon, le remplacement des rails DC est réalisé progressivement dans le cadre de la régénération des lignes concernées ; ces travaux nécessitent un cofinancement entre l'autorité organisatrice des transports et l'État. Pour les lignes non encore traitées, des mesures d'exploitation sont prises en attendant afin d'éviter le risque de déraillement (action clôturée)."
+  },
+  {
+    "Question": "Où en était fin 2018 la mise en œuvre de la recommandation du BEA-TT sur la politique de maîtrise des heurts de personnes non autorisées ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0106",
+    "golden_answer": "À fin 2018, le document décrivant la politique de maîtrise des heurts de personnes non autorisées était en cours de mise à jour par SNCF, avec une validation prévue courant 2019. L'action restait donc en cours."
+  },
+  {
+    "Question": "Quelles mesures ont été prises suite à la recommandation du BEA-TT sur le franchissement des passages à niveau par les transports exceptionnels ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0108",
+    "golden_answer": "En plus des actions menées auprès des organismes de transporteurs routiers, l'arrêté du 4 mai 2006 relatif aux transports exceptionnels a été modifié, notamment son article 12, pour préciser les conditions de franchissement des voies ferrées et les interdictions conséquentes pour les transports exceptionnels d'emprunter certains passages à niveau. Cette action est clôturée."
+  },
+  {
+    "Question": "Quel est le calendrier prévu pour le déploiement des enregistreurs des communications d'exploitation ?",
+    "Gold_chunk_id": [
+      "rapport_securite_2018_epsf_split_chunk_0108",
+      "rapport_securite_2018_epsf_split_chunk_0113"
+    ],
+    "golden_answer": "Le déploiement des enregistreurs dans les postes, suite à la recommandation du BEA-TT d'assurer l'enregistrement de toutes les communications en lien avec l'exploitation effectuées depuis les téléphones de service des agents de circulation, est en cours et son achèvement est prévu en 2023."
+  },
+  {
+    "Question": "Comment est suivi le programme national de sécurisation des passages à niveau non gardés à croix de saint André ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0113",
+    "golden_answer": "Le programme national de sécurisation des passages à niveau non gardés à croix de saint André, décidé en 2014 à la suite d'une recommandation du BEA-TT adressée à la DGITM, fait l'objet d'un suivi à l'occasion de deux comités de suivi de la sécurité ferroviaire. L'action est en cours."
+  },
+  {
+    "Question": "Quelles mesures ont été prises concernant la résistance des vitrages frontaux des cabines de conduite ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0113",
+    "golden_answer": "Suite à la recommandation du BEA-TT de répertorier les caractéristiques des vitrages frontaux et chauffe-vitres et d'étudier l'amélioration de la protection contre la pénétration de projectiles par temps froid, les éléments de mise en œuvre des actions attendues ont été apportés par l'ensemble des 24 entreprises ferroviaires concernées. L'action est clôturée."
+  },
+  {
+    "Question": "Qu'a décidé le gestionnaire d'infrastructure concernant les dispositifs d'alerte en temps réel en cas de désordres affectant les ouvrages ?",
+    "Gold_chunk_id": "rapport_securite_2018_epsf_split_chunk_0113",
+    "golden_answer": "En réponse à la recommandation de mettre au point des dispositifs simples d'alerte en temps réel des circulations en cas de désordres dangereux affectant les ouvrages, l'analyse a montré que les solutions étudiées n'amélioraient pas le niveau de sécurité. La solution actuelle, consistant en une surveillance renforcée ou permanente lors d'un dérangement, a donc été maintenue."
+  }
+]

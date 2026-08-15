@@ -9,11 +9,21 @@ Generally it receives one prompt or text at a time, for conversion
 # Single source of truth: rag_sn_in.config.EMBEDDING_MODEL_NAME (the same
 # model whose tokenizer sizes the chunks in processing/chunking.py).
 MODEL_NAME = EMBEDDING_MODEL_NAME
-_model = SentenceTransformer(MODEL_NAME,local_files_only=True)
+_model = SentenceTransformer(MODEL_NAME, local_files_only=True)
 
-# Constants for explicit prompts (safer than relying on prompt_name mapping)
-QUERY_PROMPT = "task: search result | query: "
-DOC_PROMPT = "title: none | text: "
+# Automatically configure model-specific instruction prompts
+if "embeddinggemma" in MODEL_NAME.lower():
+    QUERY_PROMPT = "task: search result | query: "
+    DOC_PROMPT = "title: none | text: "
+elif "nomic" in MODEL_NAME.lower():
+    QUERY_PROMPT = "search_query: "
+    DOC_PROMPT = "search_document: "
+elif "e5" in MODEL_NAME.lower():
+    QUERY_PROMPT = "query: "
+    DOC_PROMPT = "passage: "
+else:
+    QUERY_PROMPT = ""
+    DOC_PROMPT = ""
 
 # embed_document(chunk["text"]) for stored chunks
 # 1. FOR DOCUMENTS: Do NOT use the query prefix.

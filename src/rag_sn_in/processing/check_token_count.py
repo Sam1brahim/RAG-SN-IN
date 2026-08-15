@@ -7,7 +7,7 @@ from tqdm import tqdm
 # Configuration
 # --------------------------------------------------
 
-DATA_DIR = Path(r"E:\Project RAG-SN-IN\data\processed\text\drr-2025")
+DATA_DIR = Path(r"E:\Project RAG-SN-IN\data\processed\text\drr-2027")
 MODEL_NAME = "google/embeddinggemma-300m"
 
 # EmbeddingGemma documented maximum input length

@@ -1,0 +1,45 @@
+{
+  "timestamp": "20260815_222630",
+  "config": {
+    "embedding_model": "nomic-ai/nomic-embed-text-v1.5",
+    "reranker": null,
+    "collection": "railway",
+    "vector_size": 768
+  },
+  "retrieval_metrics": {
+    "1": {
+      "hit_rate": 0.5401069518716578,
+      "mrr": 0.5401069518716578
+    },
+    "3": {
+      "hit_rate": 0.6631016042780749,
+      "mrr": 0.5962566844919786
+    },
+    "5": {
+      "hit_rate": 0.7272727272727273,
+      "mrr": 0.6109625668449197
+    },
+    "10": {
+      "hit_rate": 0.7914438502673797,
+      "mrr": 0.619198285374756
+    },
+    "gold_recall": {
+      "mean_at_max_k": 0.7500127323656737,
+      "multi_chunk_count": 41,
+      "multi_chunk_mean": 0.6646922183507551
+    }
+  },
+  "retrieval_performance": {
+    "num_queries": 187,
+    "retrieve_k": 10,
+    "reranker_enabled": false,
+    "stage1_hit_rate": 0.791,
+    "batch_embed_time_s": 0.79,
+    "wall_time_s": 0.74,
+    "avg_dense_latency_ms": 3.9,
+    "avg_rerank_latency_ms": 0.0,
+    "avg_total_latency_ms": 3.9,
+    "throughput_queries_per_s": 252.58,
+    "miss_count": 39
+  }
+}

@@ -362,13 +362,13 @@ def evaluate_retrieval(client, collection_name, eval_set, k_values=(1, 3, 5, 10)
 
 if __name__ == "__main__":
     
-    collection_name = "DRR_SNCF"
+    collection_name = "railway"
     client = get_client()
     ensure_ToCreate_collection(client, collection_name, vector_size=VECTOR_SIZE)
 
     eval_set = load_eval_set(r"E:\Project RAG-SN-IN\data\eval\eval chunks 512 max")
 
-    metrics, use_reranker, _, retrieval_stats = evaluate_retrieval(client, collection_name, eval_set, retrieve_k=50, use_reranker=True)
+    metrics, use_reranker, _, retrieval_stats = evaluate_retrieval(client, collection_name, eval_set, retrieve_k=30, use_reranker=False)
 
     if use_reranker:
         print(f"Final Metrics With Reranker \n {RERANKER_NAME}. \n Embedding model {EMBEDDING_MODEL_NAME}:")
@@ -380,7 +380,7 @@ if __name__ == "__main__":
     print("Retrieval stats:", retrieval_stats)
 
     # ---------------- Save Summary ----------------
-    out_dir = r"E:\Project RAG-SN-IN\data\Eval RAG metrics"
+    out_dir = r"E:\Project RAG-SN-IN\data\Eval RAG metrics/ragas"
     os.makedirs(out_dir, exist_ok=True)
     timestamp = time.strftime("%Y%m%d_%H%M%S")
     

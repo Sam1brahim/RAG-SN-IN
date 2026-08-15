@@ -1,0 +1,45 @@
+{
+  "timestamp": "20260815_221533",
+  "config": {
+    "embedding_model": "nomic-ai/nomic-embed-text-v1.5",
+    "reranker": "BAAI/bge-reranker-v2-m3",
+    "collection": "railway",
+    "vector_size": 768
+  },
+  "retrieval_metrics": {
+    "1": {
+      "hit_rate": 0.7647058823529411,
+      "mrr": 0.7647058823529411
+    },
+    "3": {
+      "hit_rate": 0.8502673796791443,
+      "mrr": 0.8039215686274509
+    },
+    "5": {
+      "hit_rate": 0.8609625668449198,
+      "mrr": 0.8063279857397503
+    },
+    "10": {
+      "hit_rate": 0.8663101604278075,
+      "mrr": 0.8069221628045158
+    },
+    "gold_recall": {
+      "mean_at_max_k": 0.8242169595110772,
+      "multi_chunk_count": 41,
+      "multi_chunk_mean": 0.7592334494773518
+    }
+  },
+  "retrieval_performance": {
+    "num_queries": 187,
+    "retrieve_k": 30,
+    "reranker_enabled": true,
+    "stage1_hit_rate": 0.866,
+    "batch_embed_time_s": 0.76,
+    "wall_time_s": 88.0,
+    "avg_dense_latency_ms": 6.7,
+    "avg_rerank_latency_ms": 463.8,
+    "avg_total_latency_ms": 470.5,
+    "throughput_queries_per_s": 2.13,
+    "miss_count": 25
+  }
+}

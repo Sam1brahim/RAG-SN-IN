@@ -63,7 +63,7 @@ def index_chunks(chunks_path, client, embed_document, collection_name, batch_siz
     return total_persisted
 
 if __name__ == '__main__':
-    collection_name = 'DRR_SNCF'
+    collection_name = 'railway'
     client = get_client()
     ensure_ToCreate_collection(client,collection_name=collection_name,vector_size=VECTOR_SIZE) # to auto check if it exists, if not, build it inside client
     index_chunks(r"E:\Project RAG-SN-IN\data\processed\chunks\max token 512", client,embed_document,collection_name)

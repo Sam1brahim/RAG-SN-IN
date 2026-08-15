@@ -1,0 +1,45 @@
+{
+  "timestamp": "20260815_232419",
+  "config": {
+    "embedding_model": "intfloat/multilingual-e5-large",
+    "reranker": null,
+    "collection": "railway",
+    "vector_size": 1024
+  },
+  "retrieval_metrics": {
+    "1": {
+      "hit_rate": 0.6684491978609626,
+      "mrr": 0.6684491978609626
+    },
+    "3": {
+      "hit_rate": 0.839572192513369,
+      "mrr": 0.7442067736185384
+    },
+    "5": {
+      "hit_rate": 0.8877005347593583,
+      "mrr": 0.7557040998217469
+    },
+    "10": {
+      "hit_rate": 0.9197860962566845,
+      "mrr": 0.760531788472965
+    },
+    "gold_recall": {
+      "mean_at_max_k": 0.878278584160937,
+      "multi_chunk_count": 41,
+      "multi_chunk_mean": 0.786295005807201
+    }
+  },
+  "retrieval_performance": {
+    "num_queries": 187,
+    "retrieve_k": 10,
+    "reranker_enabled": false,
+    "stage1_hit_rate": 0.92,
+    "batch_embed_time_s": 0.99,
+    "wall_time_s": 0.74,
+    "avg_dense_latency_ms": 3.9,
+    "avg_rerank_latency_ms": 0.0,
+    "avg_total_latency_ms": 3.9,
+    "throughput_queries_per_s": 251.43,
+    "miss_count": 15
+  }
+}

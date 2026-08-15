@@ -1,0 +1,377 @@
+[
+  {
+    "Question": "Qui est considéré comme un candidat pour l'accès aux gares ferroviaires ?",
+    "Gold_chunk_id": "drg-2027_chunk_0000",
+    "golden_answer": "Un candidat est une entreprise ferroviaire, un regroupement international d'entreprises ferroviaires ou toute personne ayant des raisons commerciales ou de service public d'acquérir des capacités d'infrastructure, comme un opérateur de transport combiné, un port, un chargeur, un transitaire ou une autorité organisatrice de transport ferroviaire."
+  },
+  {
+    "Question": "À quoi servent les consignes locales de gestion de plateforme ?",
+    "Gold_chunk_id": "drg-2027_chunk_0000",
+    "golden_answer": "Elles précisent les prestations fournies aux candidats et les modes opératoires associés (processus, acteurs, outils) et sont rédigées par gare ou par groupe de gare."
+  },
+  {
+    "Question": "Qui gère les gares de voyageurs sur le réseau ferré national français ?",
+    "Gold_chunk_id": "drg-2027_chunk_0001",
+    "golden_answer": "SNCF Gares & Connexions (G&C) est le gestionnaire des gares de voyageurs sur le réseau ferré national."
+  },
+  {
+    "Question": "Qui contacter pour les questions liées à la commercialisation des services en gare ?",
+    "Gold_chunk_id": "drg-2027_chunk_0001",
+    "golden_answer": "La Direction Clients Transporteurs (DCT) au sein de SNCF Gares & Connexions, joignable via guichet.gares@sncf.fr, qui s'occupe de la commercialisation des services en gare aux candidats et de l'intégration des transporteurs."
+  },
+  {
+    "Question": "Comment savoir exactement quand un horaire de service entre en vigueur ?",
+    "Gold_chunk_id": [
+      "drg-2027_chunk_0001",
+      "drg-2027_chunk_0010"
+    ],
+    "golden_answer": "L'horaire de service est établi une fois par année civile et prend effet à minuit le second samedi de décembre de l'année précédente. Pour 2027, le DRG s'applique du 13 décembre 2026 à 00:00 au 11 décembre 2027 à 23:59."
+  },
+  {
+    "Question": "Quelles sont les grandes missions de service public confiées à SNCF Gares & Connexions ?",
+    "Gold_chunk_id": "drg-2027_chunk_0004",
+    "golden_answer": "Trois missions : fournir aux entreprises ferroviaires des services en gare de manière transparente et non discriminatoire, favoriser l'intermodalité entre modes de transport, et contribuer au développement équilibré des territoires."
+  },
+  {
+    "Question": "Pourquoi le DRG a-t-il été créé ?",
+    "Gold_chunk_id": "drg-2027_chunk_0004",
+    "golden_answer": "Pour garantir la transparence et la non-discrimination, indispensables au développement du transport ferroviaire, en décrivant les principes et procédures relatifs à l'utilisation des gares du réseau ferré national, comme le prévoient les textes légaux et réglementaires."
+  },
+  {
+    "Question": "Un prestataire travaillant pour le compte d'un candidat peut-il aussi être concerné par le DRG ?",
+    "Gold_chunk_id": "drg-2027_chunk_0005",
+    "golden_answer": "Oui, le DRG concerne par extension les opérateurs agissant par délégation ou comme prestataires d'un candidat, par exemple pour la location d'espaces régulés, la gestion de distributeurs automatiques de titres ou la vente de billets en gare pour le compte d'un candidat."
+  },
+  {
+    "Question": "Comment le DRG garantit-il l'équité entre les différents clients du réseau ?",
+    "Gold_chunk_id": [
+      "drg-2027_chunk_0004",
+      "drg-2027_chunk_0005"
+    ],
+    "golden_answer": "Le DRG fixe un cadre strictement réglementé et contrôlé, fondé sur les principes de transparence et de non-discrimination, qui précise toutes les conditions pratiques, techniques, administratives et tarifaires d'usage des gares, garantissant un traitement équitable de l'ensemble des clients."
+  },
+  {
+    "Question": "Comment se déroule la consultation des parties prenantes avant la publication du DRG ?",
+    "Gold_chunk_id": "drg-2027_chunk_0007",
+    "golden_answer": "Le gestionnaire de gares met en ligne le DRG de consultation durant l'année précédant l'horaire de service. Les parties prenantes ont deux mois pour envoyer leurs observations, puis l'ART est saisie pour avis."
+  },
+  {
+    "Question": "Quel est le rôle de l'ART dans l'approbation du DRG ?",
+    "Gold_chunk_id": "drg-2027_chunk_0007",
+    "golden_answer": "Après la consultation, l'ART a quatre mois pour rendre un avis conforme sur les tarifs du DRG, sans lequel ils ne deviennent pas exécutoires. Elle rend un avis simple sur le reste du document."
+  },
+  {
+    "Question": "Que peut faire un candidat qui s'estime victime d'une discrimination dans l'accès aux gares ?",
+    "Gold_chunk_id": "drg-2027_chunk_0008",
+    "golden_answer": "Il peut déposer un recours devant l'Autorité de régulation des transports (ART) s'il s'estime victime d'un traitement inéquitable, d'une discrimination ou d'un autre préjudice lié à l'accès au réseau ferroviaire. Le DRG peut aussi faire l'objet d'un recours pour excès de pouvoir devant le juge administratif dans les deux mois suivant sa publication."
+  },
+  {
+    "Question": "Comment le DRG est-il organisé et quand devient-il applicable ?",
+    "Gold_chunk_id": [
+      "drg-2027_chunk_0009",
+      "drg-2027_chunk_0007"
+    ],
+    "golden_answer": "Le DRG comporte 4 chapitres : informations générales, gares et services, modalités d'accès aux gares, et tarification, complétés par des annexes. Il devient exécutoire à compter de sa publication, qui fait suite à l'avis du régulateur (avis conforme de l'ART sur les tarifs)."
+  },
+  {
+    "Question": "Qu'est-ce que le plan de transport de référence et pourquoi est-il important ?",
+    "Gold_chunk_id": "drg-2027_chunk_0003",
+    "golden_answer": "C'est un plan spécifique à chaque candidat qui recense le nombre de départs-trains par périmètre de gestion pour l'horaire de service concerné, et il sert de base au calcul des tarifs."
+  },
+  {
+    "Question": "Où peut-on consulter et télécharger le DRG ?",
+    "Gold_chunk_id": "drg-2027_chunk_0011",
+    "golden_answer": "Le DRG est publié en français par le Gestionnaire de gares sur son site internet https://www.garesetconnexions.sncf/fr, d'où il est téléchargeable gratuitement."
+  },
+  {
+    "Question": "Vers qui se tourner pour demander l'accès aux prestations du DRG ?",
+    "Gold_chunk_id": "drg-2027_chunk_0012",
+    "golden_answer": "La Direction Clients Transporteurs (guichet.gares@sncf.fr) est le point de contact unique chargé de recevoir et traiter les demandes d'accès et de fournitures des prestations du DRG. Le premier contact doit se faire par écrit (lettre ou courriel)."
+  },
+  {
+    "Question": "Qu'est-ce qu'un chef de projet et à quoi sert-il pour un candidat ?",
+    "Gold_chunk_id": "drg-2027_chunk_0012",
+    "golden_answer": "Le Gestionnaire de gares a mis en place un réseau de chefs de projets pour dédier un interlocuteur privilégié à chaque candidat, l'accompagner sur ses projets de développement, proposer des réponses personnalisées et assurer le suivi des prestations réalisées."
+  },
+  {
+    "Question": "Où se situe physiquement la Direction Clients Transporteurs et comment la joindre ?",
+    "Gold_chunk_id": [
+      "drg-2027_chunk_0013",
+      "drg-2027_chunk_0014"
+    ],
+    "golden_answer": "La Direction Clients et Transporteurs (DCT) de SNCF Gares & Connexions est située au 16 avenue d'Ivry, 75013 Paris, et joignable par mail à guichet.gares@sncf.fr. Tous les échanges, écrits ou oraux, se font en français."
+  },
+  {
+    "Question": "Comment connaître la liste des gares ouvertes où une desserte est possible ?",
+    "Gold_chunk_id": "drg-2027_chunk_0015",
+    "golden_answer": "La liste figure en Annexe 1.1 du DRG et est à jour à la date de publication. Elle peut évoluer avec les ouvertures ou fermetures de gares ; les mises à jour sont disponibles sur demande auprès de la Direction Clients Transporteurs (guichet.gares@sncf.fr) ou sur www.gares-sncf.com."
+  },
+  {
+    "Question": "Comment les gares sont-elles classées en catégories A, B et C ?",
+    "Gold_chunk_id": "drg-2027_chunk_0016",
+    "golden_answer": "Les gares de catégorie A (intérêt national) ont au moins 250 000 voyageurs de services nationaux/internationaux par an ou 100% de voyageurs de ce type. Les gares de catégorie B (intérêt régional) ne sont pas en A mais comptent au moins 100 000 voyageurs par an. Toutes les autres gares sont en catégorie C (intérêt local)."
+  },
+  {
+    "Question": "Combien de temps la segmentation des gares reste-t-elle valable et sur quelles données repose-t-elle ?",
+    "Gold_chunk_id": "drg-2027_chunk_0016",
+    "golden_answer": "La segmentation A, B, C est valable 3 ans. Pour la période 2026-2028, elle repose sur les dernières données de fréquentation connues lors de l'élaboration du DRG, soit celles des années 2022 et 2023."
+  },
+  {
+    "Question": "Quelle obligation ont les candidats concernant les données de fréquentation des gares ?",
+    "Gold_chunk_id": "drg-2027_chunk_0016",
+    "golden_answer": "Tous les candidats doivent communiquer à SNCF Gares & Connexions les dernières données de fréquentation annuelles par gare au plus tard en juillet de l'année N+1, afin d'établir la segmentation."
+  },
+  {
+    "Question": "À quelles heures les gares sont-elles ouvertes au public ?",
+    "Gold_chunk_id": "drg-2027_chunk_0017",
+    "golden_answer": "Les gares ouvrent une demi-heure avant le premier train de la journée et ferment une demi-heure après le dernier train. Dans les gares régionales, des adaptations peuvent être discutées avec l'autorité organisatrice régionale des transports."
+  },
+  {
+    "Question": "Comment demander l'ouverture prolongée d'une gare pour un événement ponctuel comme un festival ?",
+    "Gold_chunk_id": "drg-2027_chunk_0018",
+    "golden_answer": "La demande doit être faite au moins trois mois avant la période concernée auprès de la Direction Clients Transporteurs (guichet.gares@sncf.fr). Elle est étudiée avec les équipes de la gare et, si l'ouverture est possible, un devis est établi : le candidat paie le coût de l'augmentation de l'amplitude d'ouverture."
+  },
+  {
+    "Question": "Quelle est la différence de démarche entre une ouverture supplémentaire temporaire et permanente d'une gare ?",
+    "Gold_chunk_id": [
+      "drg-2027_chunk_0018",
+      "drg-2027_chunk_0019"
+    ],
+    "golden_answer": "Pour une ouverture temporaire (ex. événement festif), la demande doit être faite au moins 3 mois à l'avance et le candidat paie le coût engendré via un devis. Pour une ouverture permanente sur tout l'horaire de service, la demande doit être notifiée au moins 6 mois à l'avance, fait l'objet d'une étude de faisabilité, et les charges sont intégrées dans l'assiette globale des charges de la gare."
+  },
+  {
+    "Question": "Que faut-il prévoir pour rouvrir une gare fermée depuis quelques années ?",
+    "Gold_chunk_id": "drg-2027_chunk_0020",
+    "golden_answer": "Pour desservir une gare ou halte fermée depuis moins de cinq ans, le candidat doit solliciter le Gestionnaire de gares au moins un an avant la réouverture souhaitée, afin de lui laisser le temps d'adapter ses prestations et de réaliser d'éventuels travaux."
+  },
+  {
+    "Question": "Qu'est-ce qui se passe si des travaux perturbent le fonctionnement d'une gare ?",
+    "Gold_chunk_id": "drg-2027_chunk_0021",
+    "golden_answer": "Les prestations peuvent être temporairement interrompues pour des travaux de construction, d'aménagement ou de maintenance. Si les travaux perturbent significativement la gare, le Gestionnaire de gares prévient le candidat avant leur démarrage, indique leurs durées prévisionnelles et recherche avec les candidats des solutions pour minimiser les impacts."
+  },
+  {
+    "Question": "Quels sont les délais à respecter selon le type de demande d'ouverture ou de réouverture d'une gare ?",
+    "Gold_chunk_id": [
+      "drg-2027_chunk_0018",
+      "drg-2027_chunk_0019",
+      "drg-2027_chunk_0020"
+    ],
+    "golden_answer": "Trois mois minimum pour une ouverture supplémentaire temporaire (événements), six mois minimum pour une ouverture supplémentaire permanente sur l'horaire de service, et un an minimum pour la réouverture d'une gare fermée depuis moins de cinq ans."
+  },
+  {
+    "Question": "Que se passe-t-il si un équipement comme un ascenseur tombe en panne en gare ?",
+    "Gold_chunk_id": "drg-2027_chunk_0022",
+    "golden_answer": "En cas de défaillance d'une installation empêchant son utilisation normale (escaliers mécaniques, ascenseurs, accès, etc.), le Gestionnaire de gares peut la fermer au public sans préavis pendant le temps nécessaire à sa remise en état, et s'engage à informer sur les délais de remise en service."
+  },
+  {
+    "Question": "Dans quelles situations une gare peut-elle être fermée partiellement ou totalement ?",
+    "Gold_chunk_id": "drg-2027_chunk_0023",
+    "golden_answer": "Dans des circonstances exceptionnelles, notamment à la demande des services de police ou en cas de danger avéré pour la sécurité des passagers, une partie ou la totalité de la gare peut être fermée."
+  },
+  {
+    "Question": "Quelle est la différence entre une fermeture pour panne et une fermeture exceptionnelle de gare ?",
+    "Gold_chunk_id": [
+      "drg-2027_chunk_0022",
+      "drg-2027_chunk_0023"
+    ],
+    "golden_answer": "La fermeture pour panne concerne une installation défaillante (ascenseur, escalier mécanique, accès) et peut intervenir sans préavis le temps de la remise en état, avec information sur les délais. La fermeture exceptionnelle peut toucher une partie ou la totalité de la gare, à la demande des services de police ou en cas de danger avéré pour la sécurité des passagers."
+  },
+  {
+    "Question": "Quels types de prestations le Gestionnaire de gares propose-t-il aux candidats ?",
+    "Gold_chunk_id": [
+      "drg-2027_chunk_0025",
+      "drg-2027_chunk_0026",
+      "drg-2027_chunk_0027",
+      "drg-2027_chunk_0028",
+      "drg-2027_chunk_0029"
+    ],
+    "golden_answer": "Le Gestionnaire de gares propose : la prestation de base ; des prestations particulières obligatoires, à savoir la plateforme unique d’information et de réservation PSH/PMR Assist’enGare et la prestation transmanche ; des prestations particulières facultatives, comme l’assistance PSH/PMR, la mise à disposition des portes d’embarquement et des espaces de vente de titres de transport ; ainsi que des prestations facultatives sur devis, notamment des locaux ou espaces directement liés à l’exploitation ferroviaire, des services à la demande relevant des services de base, et des prestations complémentaires telles que le préchauffage des rames. Les prestations commerciales ne relèvent pas du DRG et figurent dans le catalogue de service de SNCF Gares & Connexions."
+  },
+  {
+    "Question": "Quelles sont les prestations obligatoires que le Gestionnaire de gares doit fournir ?",
+    "Gold_chunk_id": "drg-2027_chunk_0026",
+    "golden_answer": "Il s'agit de la prestation de services d'information et réservation pour les PSH/PMR (Assist'enGare, dite Plateforme Unique) et de la prestation transmanche."
+  },
+  {
+    "Question": "Quelles prestations facultatives un candidat peut-il demander en gare ?",
+    "Gold_chunk_id": [
+      "drg-2027_chunk_0027",
+      "drg-2027_chunk_0028"
+    ],
+    "golden_answer": "Le candidat peut demander l’assistance aux PSH/PMR, la mise à disposition des portes d’embarquement et la mise à disposition d’espaces en gare destinés à la vente de titres de transport. Il peut également demander des prestations facultatives sur devis : mise à disposition d’espaces ou de locaux directement liés à l’exploitation ferroviaire, comme les locaux de coupure du personnel roulant, l’avitaillement, le nettoyage des trains ou la location de bureaux, ainsi que des services à la demande relevant des services de base et des prestations complémentaires de l’annexe II de la directive 2012/34/UE, comme le préchauffage des rames lorsqu’il existe."
+  },
+  {
+    "Question": "Comment obtenir un local technique ou un bureau en gare pour son activité ferroviaire ?",
+    "Gold_chunk_id": "drg-2027_chunk_0028",
+    "golden_answer": "Il faut adresser une demande ad hoc auprès de SNCF Gares & Connexions, qui établira alors un devis. Toute personne intéressée peut s’adresser à la Direction Clients Transporteurs (guichet.gares@sncf.fr). Cela concerne par exemple les locaux de coupure du personnel roulant, les locaux d’avitaillement, de nettoyage des trains ou la location de bureaux."
+  },
+  {
+    "Question": "Est-il possible d'obtenir le préchauffage des rames en gare ?",
+    "Gold_chunk_id": "drg-2027_chunk_0028",
+    "golden_answer": "Oui, la mise à disposition d'installations de préchauffage des rames, lorsqu'elles existent, fait partie des prestations complémentaires (annexe II de la directive 2012/34/UE) établies sur devis."
+  },
+  {
+    "Question": "SNCF Réseau peut-il fournir des prestations en gare et où trouver leur tarification ?",
+    "Gold_chunk_id": "drg-2027_chunk_0028",
+    "golden_answer": "Oui, SNCF Réseau peut réaliser certaines prestations pour son compte dans le périmètre de certaines gares. Ces prestations et leur tarification sont décrites dans le Document de Référence du Réseau (DRR), à l'article 5.1.7.6."
+  },
+  {
+    "Question": "Où trouver les prestations commerciales de SNCF Gares & Connexions ?",
+    "Gold_chunk_id": "drg-2027_chunk_0029",
+    "golden_answer": "Les prestations commerciales ne font pas partie du DRG ; leur détail est disponible dans le catalogue de service sur le site internet de SNCF Gares & Connexions."
+  },
+  {
+    "Question": "Un candidat peut-il choisir uniquement certains éléments de la prestation de base ?",
+    "Gold_chunk_id": "drg-2027_chunk_0030",
+    "golden_answer": "Non, la prestation de base est globale et indivisible : elle comprend un socle de services indissociables fournis à tout candidat présent en gare dans le cadre d'un contrat particulier, et elle est due pendant les heures d'ouverture de la gare au public."
+  },
+  {
+    "Question": "Pourquoi la prestation de base n'est-elle pas identique d'une gare à l'autre ?",
+    "Gold_chunk_id": "drg-2027_chunk_0030",
+    "golden_answer": "Son contenu dépend de la configuration des bâtiments et du niveau des équipements et moyens mis en œuvre dans la gare, eux-mêmes liés à l'offre de transport présente en volume et en diversité."
+  },
+  {
+    "Question": "Comment obtenir le détail des services de base pour une gare précise ?",
+    "Gold_chunk_id": "drg-2027_chunk_0030",
+    "golden_answer": "Un descriptif synthétique pour les gares fréquentées par plusieurs transporteurs figure en annexe 1.3. Pour les autres gares, la consistance des services est disponible sur demande auprès de la Direction Clients Transporteurs dans les 40 jours, pour les gares où le candidat envisage une desserte ou une réponse à un appel d'offres."
+  },
+  {
+    "Question": "Quelles données de trafic les candidats doivent-ils transmettre à SNCF Gares & Connexions ?",
+    "Gold_chunk_id": "drg-2027_chunk_0031",
+    "golden_answer": "Trois types de données : au plus tard le 30 juin, le trafic voyageurs annuel de l'année N-1 par gare, réparti par motif (domicile-travail/occasionnel) ; avant la fin de chaque mois, le trafic quotidien du mois précédent par gare ; et avant la fin de chaque mois, le trafic horaire du jour le plus chargé du mois précédent pour chaque gare A d'intérêt national."
+  },
+  {
+    "Question": "Pourquoi les candidats doivent-ils fournir des données de trafic voyageurs ?",
+    "Gold_chunk_id": "drg-2027_chunk_0031",
+    "golden_answer": "Ces données permettent à SNCF Gares & Connexions de dimensionner de manière efficiente les infrastructures et les équipements des gares au cours de l'horaire de service concerné."
+  },
+  {
+    "Question": "Quels équipements sont mis à disposition des voyageurs dans le cadre de la prestation de base ?",
+    "Gold_chunk_id": "drg-2027_chunk_0031",
+    "golden_answer": "Les surfaces communes de circulation, espaces et salles d'attente, quais, le mobilier (bancs, sièges, poubelles), et les équipements de circulation des flux (passerelles, souterrains, escaliers et escaliers mécaniques, ascenseurs, portes automatiques, trottoirs roulants), y compris les équipements d'accessibilité pour les personnes à mobilité réduite."
+  },
+  {
+    "Question": "Quels types d'informations sont diffusés aux voyageurs en gare ?",
+    "Gold_chunk_id": "drg-2027_chunk_0032",
+    "golden_answer": "Les informations concernent la sécurité du public sur les quais, les annonces de prudence, la circulation des trains en situation normale et perturbée, la sûreté, les annonces spécifiques au site et les informations multimodales pour orienter les voyageurs vers les autres modes de transport."
+  },
+  {
+    "Question": "Pourquoi l'information voyageurs diffère-t-elle selon les gares ?",
+    "Gold_chunk_id": "drg-2027_chunk_0032",
+    "golden_answer": "Elle est adaptée aux caractéristiques de chaque gare, qui diffèrent en volume annuel de trafic, type de clientèle (affaires, occasionnels, pendulaires) et type de trafic (international, national, régional/local). Elle peut ainsi être statique, dynamique, sonore, accessible en gare ou à distance."
+  },
+  {
+    "Question": "Comment l'équité entre candidats est-elle garantie pour la signalétique en gare ?",
+    "Gold_chunk_id": "drg-2027_chunk_0032",
+    "golden_answer": "Lorsque la configuration de la gare nécessite un traitement spécifique de la signalétique, le Gestionnaire de gares s'engage à veiller à l'équité de traitement des candidats présents dans la gare. Les règles d'affichage et de signalétique sont disponibles sur demande."
+  },
+  {
+    "Question": "Un opérateur de transport combiné peut-il demander l'accès aux gares de voyageurs ?",
+    "Gold_chunk_id": "drg-2027_chunk_0064",
+    "golden_answer": "Oui, au sens de l'article L.2122-11 du Code des transports, un candidat inclut toute personne ayant des raisons commerciales ou de service public d'acquérir des capacités d'infrastructure, comme un opérateur de transport combiné, un port, un chargeur, un transitaire ou une autorité organisatrice. Tout candidat peut présenter une demande d'accès aux gares et prétendre aux prestations du DRG."
+  },
+  {
+    "Question": "Quels contrats un candidat doit-il signer avec le Gestionnaire de gares ?",
+    "Gold_chunk_id": "drg-2027_chunk_0065",
+    "golden_answer": "La relation contractuelle s'articule autour de plusieurs contrats : le contrat particulier relatif à l'accès aux gares de voyageurs, le contrat d'occupation du domaine public pour la location d'espaces, le contrat d'interface des systèmes d'information pour l'information des voyageurs, et le cas échéant le contrat pour les portes d'embarquement, le contrat pour la prestation transmanche et tout contrat de prestations particulières ou à la demande."
+  },
+  {
+    "Question": "Le contrat particulier d'accès aux gares doit-il être renouvelé chaque année ?",
+    "Gold_chunk_id": "drg-2027_chunk_0065",
+    "golden_answer": "Non, le contrat particulier est conclu pour une durée indéterminée, mais il fait l'objet d'un avenant à chaque nouvel horaire de service."
+  },
+  {
+    "Question": "Quelles pièces composent le contrat particulier d'accès aux gares ?",
+    "Gold_chunk_id": "drg-2027_chunk_0065",
+    "golden_answer": "Le contrat particulier comprend le Document de Référence des Gares et ses annexes, ainsi que des annexes spécifiques liées aux gares desservies, notamment les Consignes Locales et les Règlements Intérieurs des gares desservies."
+  },
+  {
+    "Question": "À quelles conditions le contrat particulier prend-il effet ?",
+    "Gold_chunk_id": "drg-2027_chunk_0066",
+    "golden_answer": "Il prend effet à compter du début de l'horaire de service concerné ou de la première circulation effective si postérieure, à la condition expresse que le candidat ait communiqué une garantie financière et une attestation d'assurance conformes aux conditions générales d'accès gare."
+  },
+  {
+    "Question": "La location d'un espace de vente de billets en gare est-elle couverte par le contrat particulier ?",
+    "Gold_chunk_id": "drg-2027_chunk_0066",
+    "golden_answer": "Non, la mise à disposition d'espaces en gare destinés à la vente de titres de transport ferroviaire fait l'objet d'un contrat distinct par emplacement, en application de l'Annexe 3.2 du DRG."
+  },
+  {
+    "Question": "Quels sont les délais à respecter pour commander l'accès aux gares pour un nouvel horaire de service ?",
+    "Gold_chunk_id": "drg-2027_chunk_0068",
+    "golden_answer": "Le candidat doit d'abord adresser la liste indicative des gares souhaitées au plus tard le 2ème lundi d'avril de l'année précédente (8 mois avant le changement de service), puis la commande ferme au plus tard le 2ème lundi d'octobre, sous réserve d'obtention des sillons correspondants."
+  },
+  {
+    "Question": "Pourquoi la liste indicative des gares doit-elle être transmise dès avril ?",
+    "Gold_chunk_id": "drg-2027_chunk_0068",
+    "golden_answer": "Cette procédure permet au Gestionnaire de gares d'anticiper les services et aménagements nécessaires pour que les prestations soient effectivement réalisées dans les délais et prêtes au début du service."
+  },
+  {
+    "Question": "Que se passe-t-il si un candidat dépasse les délais de commande ?",
+    "Gold_chunk_id": "drg-2027_chunk_0068",
+    "golden_answer": "Des demandes tardives sont possibles (après le 2ème lundi d'avril pour la liste indicative, après le 2ème lundi d'octobre pour la commande ferme), mais elles ne peuvent viser que la prestation de base. Le délai de réponse du Gestionnaire de gares est alors de 30 jours calendaires à compter d'une demande jugée complète."
+  },
+  {
+    "Question": "Peut-on commander la prestation de base pour un besoin ponctuel ?",
+    "Gold_chunk_id": [
+      "drg-2027_chunk_0068",
+      "drg-2027_chunk_0069"
+    ],
+    "golden_answer": "Oui, les demandes ad hoc correspondant à des besoins ponctuels pour la prestation de base peuvent être établies à partir du 15 octobre de l'année précédant le nouvel horaire de service, avec un délai de réponse de 5 jours calendaires à compter d'une demande complète."
+  },
+  {
+    "Question": "Quelles informations doivent figurer dans une commande de prestation en gare ?",
+    "Gold_chunk_id": "drg-2027_chunk_0070",
+    "golden_answer": "La demande écrite doit préciser le nom des gares desservies, les dates de début et fin et la périodicité. Pour chaque sillon et chaque gare : l'horaire des trains, les données d'information clientèle (composition, accessibilité, orientation), la capacité du train, les particularités d'exploitation (avitaillement, groupes de malades), les services impactant l'exploitation en gare, et les coordonnées des interlocuteurs de référence."
+  },
+  {
+    "Question": "Que se passe-t-il si un dossier de commande est incomplet ?",
+    "Gold_chunk_id": "drg-2027_chunk_0070",
+    "golden_answer": "Les données manquantes doivent être fournies dans un délai de cinq jours ouvrables à compter de la demande du Gestionnaire de gares. Le délai de traitement ne commence que lorsque le dossier est complet et signifié comme tel au candidat."
+  },
+  {
+    "Question": "Un candidat peut-il visiter une gare avant de demander un nouvel accès ?",
+    "Gold_chunk_id": "drg-2027_chunk_0070",
+    "golden_answer": "Oui, dans le cadre de l'instruction d'une demande de nouvel accès, le candidat peut solliciter auprès de la Direction Clients Transporteurs (guichet.gares@sncf.fr) une visite de prise de connaissance des gares concernées."
+  },
+  {
+    "Question": "Comment est facturé un arrêt imprévu dans une gare non prévue au contrat ?",
+    "Gold_chunk_id": "drg-2027_chunk_0071",
+    "golden_answer": "En cas de situation exceptionnelle conduisant à un arrêt dans une gare non reprise au contrat particulier, ce départ commercial est facturé selon la tarification du départ-train publiée au DRG de l'horaire de service en vigueur, sur la base des relevés de l'outil HOUAT."
+  },
+  {
+    "Question": "Quelle est la différence entre une demande d'occupation d'espace simple et complexe ?",
+    "Gold_chunk_id": "drg-2027_chunk_0072",
+    "golden_answer": "Une demande complexe peut nécessiter des travaux et des délogements d'occupants suivis de relogement, tandis qu'une demande simple n'en nécessite pas. Le Gestionnaire de gares répond en 30 jours calendaires pour une demande simple et en 3 mois pour une demande complexe."
+  },
+  {
+    "Question": "Comment demander l'ajout d'une nouvelle gare pour la prestation transmanche ?",
+    "Gold_chunk_id": "drg-2027_chunk_0073",
+    "golden_answer": "Le candidat doit en informer par écrit le Gestionnaire de gares via la Direction Clients Transporteurs (guichet.gares@sncf.fr), en amont de sa commande de sillon. Après étude, une proposition est transmise dans un délai de six mois, avec le cas échéant le calendrier prévisionnel et les impacts tarifaires si des aménagements spécifiques sont nécessaires."
+  },
+  {
+    "Question": "Qui paie les études spécifiques pour un projet transmanche nécessitant des aménagements ?",
+    "Gold_chunk_id": "drg-2027_chunk_0073",
+    "golden_answer": "Le Gestionnaire de gares et le candidat fixent dans un accord particulier les conditions de financement des études spécifiques, qui sont prises en charge par le candidat."
+  },
+  {
+    "Question": "Qu'est-ce que la prestation portes d'embarquement et qui la paie ?",
+    "Gold_chunk_id": "drg-2027_chunk_0074",
+    "golden_answer": "Il s'agit d'un contrôle automatisé des titres de transport en gare. C'est une prestation régulée facultative, facturée uniquement aux candidats utilisateurs de cette prestation."
+  },
+  {
+    "Question": "Comment un candidat peut-il accéder à la prestation portes d'embarquement ?",
+    "Gold_chunk_id": "drg-2027_chunk_0074",
+    "golden_answer": "Il contacte la Direction Clients Transporteurs (guichet.gares@sncf.fr). Si la gare est déjà équipée, il s'inscrit comme candidat utilisateur ; sinon, il transmet une demande officielle de déploiement. Une proposition est transmise sous 30 jours calendaires, délai porté à 3 mois si une étude technique de faisabilité est nécessaire."
+  },
+  {
+    "Question": "Quels sont les délais de réponse du Gestionnaire de gares selon le type de demande ?",
+    "Gold_chunk_id": [
+      "drg-2027_chunk_0068",
+      "drg-2027_chunk_0069",
+      "drg-2027_chunk_0072",
+      "drg-2027_chunk_0073",
+      "drg-2027_chunk_0074"
+    ],
+    "golden_answer": "30 jours calendaires pour une demande d'accès standard ou tardive, une occupation d'espace simple ou une demande de portes d'embarquement ; 5 jours calendaires pour une demande ad hoc ponctuelle ; 3 mois pour une occupation complexe ou des portes d'embarquement nécessitant une étude de faisabilité ; 6 mois pour une nouvelle gare transmanche."
+  }
+]

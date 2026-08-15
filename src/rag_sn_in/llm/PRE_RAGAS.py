@@ -104,7 +104,7 @@ def main():
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print("Device USED:", device)
-    collection_name = "DRR_SNCF"
+    collection_name = "railway"
     client = get_qdrant_client()
     pre_ragas_data = []
     print("Launching RAGAS Pipeline: \n")

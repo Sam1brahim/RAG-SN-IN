@@ -1,0 +1,449 @@
+[
+  {
+    "Question": "Qui décide de la tarification de l'usage du réseau ferré national et quel est le rôle de l'ART ?",
+    "Gold_chunk_id": "drr-2027_chunk_0330",
+    "golden_answer": "La tarification de l'usage du RFN est décidée par SNCF Réseau, dans le cadre mis en place par l'État, et soumise, pour les prestations minimales, à l'avis conforme de l'Autorité de régulation des transports (ART). L'ART émet son avis conforme en tenant compte : des principes et règles de tarification prévus à l'article L.2111-25 du Code des transports ; de la soutenabilité de l'évolution de la tarification pour le marché du transport ferroviaire et de sa position concurrentielle ; et des dispositions du contrat conclu entre l'État et SNCF Réseau (article L.2111-10). La tarification doit respecter la directive 2012/34/UE, le Code des transports, les décrets n°2003-194 et n°97-446 modifiés et le contrat État-SNCF Réseau."
+  },
+  {
+    "Question": "Quels sont les quatre principaux objectifs de la tarification de l'infrastructure fixés par la directive 2012/34/UE ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0331",
+      "drr-2027_chunk_0332"
+    ],
+    "golden_answer": "La directive 2012/34/UE fixe quatre objectifs : inciter le gestionnaire d'infrastructure à optimiser l'utilisation de son infrastructure ; assurer aux différentes entreprises ferroviaires un accès équitable et non discriminatoire au réseau ; assurer l'équilibre des comptes du gestionnaire d'infrastructure sur une période raisonnable (ne dépassant pas cinq ans), compte tenu des concours publics ; et émettre des signaux clairs et cohérents pour que les entreprises ferroviaires prennent des décisions rationnelles en termes d'usage du réseau."
+  },
+  {
+    "Question": "Quels principes tarifaires la directive 2012/34/UE établit-elle concernant les redevances et majorations ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0332",
+      "drr-2027_chunk_0333"
+    ],
+    "golden_answer": "Selon l'article 31.3, la rémunération minimale du gestionnaire d'infrastructure est le coût directement imputable, correspondant au coût marginal d'utilisation de l'infrastructure (règlement d'exécution 2015/909) ; une majoration peut être appliquée selon l'article 32.1 « si le marché s'y prête » ; et la tarification liée à la rareté des capacités est possible. La tarification est donc constituée de redevances faisant payer à l'utilisateur le coût direct supporté par SNCF Réseau (coût marginal, pouvant intégrer les coûts externes comme la rareté) et de majorations perçues uniquement si le marché s'y prête, visant à recouvrir les coûts fixes et devant être soutenables par les entreprises ferroviaires du segment concerné."
+  },
+  {
+    "Question": "Que précise le cadre réglementaire français en matière de tarification ferroviaire ?",
+    "Gold_chunk_id": "drr-2027_chunk_0334",
+    "golden_answer": "Les décrets n°97-446 et n°2003-194 modifiés précisent : le principe de tarification au « coût directement imputable » et les redevances assujetties (redevance de circulation, redevance de circulation électrique, redevance destinée à couvrir les pertes des systèmes électriques) ; la possibilité de percevoir des majorations pour le recouvrement total des coûts à condition que le marché s'y prête ; la possibilité de tarifer la rareté des capacités ; la possibilité de mettre en œuvre des redevances particulières liées à des projets d'investissements spécifiques ; ainsi que des modulations potentielles de la tarification."
+  },
+  {
+    "Question": "Comment les services fournis par SNCF Réseau aux candidats sont-ils répartis ?",
+    "Gold_chunk_id": "drr-2027_chunk_0335",
+    "golden_answer": "Les services sont répartis en : prestations minimales sur voies principales (point 5.1.5) ; et autres prestations, regroupant les prestations complémentaires (point 5.1.6), les prestations connexes sur voies principales (point 5.1.7) et les prestations diverses (point 5.1.8)."
+  },
+  {
+    "Question": "En quoi consistent les prestations minimales assurées par SNCF Réseau sur les voies principales ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0336",
+      "drr-2027_chunk_0337",
+      "drr-2027_chunk_0338",
+      "drr-2027_chunk_0339",
+      "drr-2027_chunk_0340"
+    ],
+    "golden_answer": "Conformément à la réglementation, SNCF Réseau assure aux candidats l'ensemble des prestations minimales : le traitement des demandes de capacités d'infrastructure ; le droit d'utilisation des sillons attribués ; les prestations relatives à la circulation (commande des aiguilles et branchements, signalisation, régulation, gestion des circulations, coordination de la gestion des situations de crise, informations relatives à la circulation, télécommunications obligatoires comme la radio sol-train, ERTMS/SAEIV, systèmes GSM-GFU ARES, SOPRANO et BIC, et utilisation du système d'alimentation électrique pour le courant de traction) ; ainsi que la couverture des pertes des systèmes électriques depuis les sous-stations jusqu'aux points de captage des trains."
+  },
+  {
+    "Question": "Quelles sont les conditions d'utilisation effective des sillons attribués par l'entreprise ferroviaire ?",
+    "Gold_chunk_id": "drr-2027_chunk_0338",
+    "golden_answer": "Les sillons attribués sont mis à la disposition de l'entreprise ferroviaire, directement par SNCF Réseau ou par le candidat non-entreprise ferroviaire ayant obtenu des sillons. Dès lors qu'elle remplit toutes les autres conditions requises (notamment au titre de la sécurité des circulations et de l'exploitation du réseau) et sous réserve des pouvoirs conférés à SNCF Réseau par la réglementation, l'entreprise ferroviaire décide seule de leur utilisation effective, en respectant les obligations d'information préalables à la circulation prévues au Chapitre 6 - Exploitation ferroviaire."
+  },
+  {
+    "Question": "Que recouvrent les prestations relatives à la circulation parmi les prestations minimales ?",
+    "Gold_chunk_id": "drr-2027_chunk_0339",
+    "golden_answer": "Elles comprennent la commande des aiguilles et branchements du réseau, la signalisation, la régulation, la gestion des circul Gruyèreations, la coordination de la gestion des situations de crise, la communication et la fourniture des informations relatives à la circulation (incluant les services de télécommunication rendus obligatoires par SNCF Réseau tels que la radio sol-train, la transmission de signaux ou la signalisation de cabine via ERTMS ou SAEIV sur les lignes équipées, ainsi que les systèmes GSM-GFU ARES, SOPRANO et BIC), ainsi que l'utilisation du système d'alimentation électrique pour le courant de traction."
+  },
+  {
+    "Question": "Que comprend la prestation de couverture des pertes des systèmes électriques ?",
+    "Gold_chunk_id": "drr-2027_chunk_0340",
+    "golden_answer": "SNCF Réseau fournit la couverture des pertes des systèmes électriques depuis les sous-stations jusqu'aux points de captage des trains."
+  },
+  {
+    "Question": "Quels sont les services SI minimaux et dans quelles conditions sont-ils fournis ?",
+    "Gold_chunk_id": "drr-2027_chunk_0341",
+    "golden_answer": "SNCF Réseau met à disposition des candidats demandeurs de capacité (ayant effectivement procédé à des expressions de besoins 24h ou des commandes de sillons-jours) les services SI minimaux, qui délivrent des informations strictement nécessaires à leur activité. La fourniture inclut des prestations de base : un nombre suffisant d'habilitations/abonnements d'accès, une formation initiale pour un nombre déterminé de personnes/sessions, une documentation d'utilisation et l'accès à la cellule support dédiée. Les conditions d'accès et d'utilisation sont fixées dans le contrat d'utilisation des SI, les conditions de la prestation de base étant précisées pour chaque service en annexe 5.3, et le catalogue des services SI est disponible sur l'Espace clients."
+  },
+  {
+    "Question": "SNCF Réseau offre-t-il l'accès aux installations de service dans le cadre des prestations minimales ?",
+    "Gold_chunk_id": "drr-2027_chunk_0342",
+    "golden_answer": "Oui, SNCF Réseau offre, dans le cadre des prestations minimales, l'accès par le réseau aux installations de service accessibles depuis le RFN."
+  },
+  {
+    "Question": "Quelles sont les prestations complémentaires de services SI proposées par SNCF Réseau ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0343",
+      "drr-2027_chunk_0344"
+    ],
+    "golden_answer": "Les prestations complémentaires sont fournies par SNCF Réseau à tout candidat qui en fait la demande. SNCF Réseau met à disposition des candidats demandeurs et non demandeurs de capacités des prestations complémentaires de services SI, décrites dans le catalogue des services SI disponible sur l'Espace clients. Leurs conditions de tarification figurent en annexe 5.3, leurs conditions d'accès et d'utilisation sont fixées dans les contrats d'utilisation des SI, et des formations sont proposées pour certains services. Leur utilisation suppose la conclusion d'un contrat d'utilisation des SI."
+  },
+  {
+    "Question": "Comment demander des ouvertures supplémentaires de lignes, gares et postes non ouverts en permanence ?",
+    "Gold_chunk_id": "drr-2027_chunk_0345",
+    "golden_answer": "Des demandes d'ouvertures supplémentaires par rapport à la notification définitive de décembre A-2 peuvent être effectuées en DTS et DSA. Elles peuvent recevoir une réponse favorable de SNCF Réseau dans les conditions prévues aux points 4.2.2.3 et 4.2.2.4. Les demandes doivent être adressées au chargé de compte dédié, selon les modalités du « Manuel du demandeur de capacité commerciale en construction et adaptation du service annuel », disponible sur la page « Documents Techniques cités dans le DRR » du site de SNCF Réseau."
+  },
+  {
+    "Question": "Quelles exigences s'appliquent aux systèmes embarqués de mesure d'énergie électrique des matériels roulants ?",
+    "Gold_chunk_id": "drr-2027_chunk_0346",
+    "golden_answer": "Depuis l'entrée en vigueur de la STI « matériel roulant » (RE 1302/2014), les matériels roulants neufs, renouvelés, réaménagés ou dont le domaine d'étude est étendu doivent être équipés d'un « système embarqué de mesure d'énergie » (exigence essentielle, §4.2.8.2 de la STI), mesurant l'énergie électrique absorbée depuis ou renvoyée vers la ligne de contact (freinage par récupération). Ces systèmes doivent être conformes à la norme EN 50463-2017 (Mesures d'énergie à bord des trains) et télé-relevables par un système de collecte au sol (DCS : Data Collecting System) conformément à la STI."
+  },
+  {
+    "Question": "Comment fonctionne le décompte ferroviaire de l'énergie électrique via la plateforme DECOFER ?",
+    "Gold_chunk_id": "drr-2027_chunk_0347",
+    "golden_answer": "Le décompte ferroviaire, opération consistant à déterminer les consommations de chaque entreprise ferroviaire, est opéré par RTE à partir des données de chaque compteur transmises à sa plateforme de télérelève DCS DECOFER. Cette plateforme est mise à la disposition de toutes les entreprises ferroviaires pour la collecte des données de consommation de leurs engins équipés, quel que soit le réseau emprunté ; les données sont agrégées par entreprise ferroviaire pour la facturation par leurs fournisseurs respectifs. Pour la flotte télérelevée par DECOFER, la consommation des engins hors des frontières du RFN est transmise aux gestionnaires d'infrastructure concernés selon les règles du référentiel IRS 90930. Les engins transfrontaliers peu circulant sur le RFN peuvent transmettre leurs données à un autre GI européen (localisation GPS obligatoire), qui échangera avec DECOFER conformément à IRS 90930."
+  },
+  {
+    "Question": "Quelles sont les obligations des entreprises ferroviaires en matière de comptage de l'énergie électrique ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0349",
+      "drr-2027_chunk_0350"
+    ],
+    "golden_answer": "Chaque entreprise ferroviaire dont les compteurs sont télérelevés par DECOFER doit contractualiser avec RTE un contrat de prestation pour le décompte « au réel » (télérelève, calcul des décomptes, publication des consommations au fournisseur). Elle doit déclarer dans DECOFER chaque engin électrique circulant en France, informer RTE de l'évolution de l'équipement en compteurs de son parc et fournir les plannings d'équipement. Elle doit gérer et surveiller son parc de compteurs de manière transparente et informer SNCF Réseau et RTE des compteurs défaillants via le portail DECOFER ; en cas de défaillance, déclarer la non-disponibilité au plus tard le lundi suivant le parcours. Pour les engins loués, elle informe RTE des dates de début et fin de location, et celles en cours de déploiement partagent leur planning d'équipement avec SNCF Réseau et RTE."
+  },
+  {
+    "Question": "Comment les entreprises ferroviaires achètent-elles leur courant de traction et que prévoit l'achat auprès de SNCF Réseau ?",
+    "Gold_chunk_id": "drr-2027_chunk_0351",
+    "golden_answer": "Les entreprises ferroviaires achètent leur courant de traction au fournisseur de leur choix. Si elles contractent avec un fournisseur autre que SNCF Réseau, elles indiquent dans les conditions particulières du contrat d'utilisation de l'infrastructure le nom du responsable d'équilibre, la date de signature du contrat de décompte avec RTE et le GI chargé de télé-relever le comptage si ce n'est pas RTE. Toute entreprise ferroviaire peut demander à SNCF Réseau la fourniture du courant de traction pour l'ensemble de son parc électrique (pas de fourniture partielle), en fournissant une courbe de charge annuelle en MWh et son volume annuel de consommation ; elle est alors redevable de la redevance de fourniture d'énergie électrique (points 5.4.3 et 5.9.2). Pour toute information, l'entreprise s'adresse à son chargé de compte ou au guichet unique (point 1.6.1)."
+  },
+  {
+    "Question": "Quels outils et protocoles encadrent la télérelève des compteurs d'énergie par DECOFER ?",
+    "Gold_chunk_id": "drr-2027_chunk_0348",
+    "golden_answer": "Les compteurs transmettent les données selon le protocole de la norme EN 50463 partie 4-2017 au DCS DECOFER mis à disposition par RTE pour le compte des GI, tel qu'imposé par la STI 1301/2014 (complétée par le règlement d'exécution 2018/868). Une plateforme d'essais permet aux entreprises ferroviaires de tester les compteurs avec DECOFER. Les compteurs déployés avec les anciens protocoles (boîtiers au protocole RFF) restent télérelevés par DECOFER jusqu'à leur changement. SNCF Réseau a développé l'outil ORES (rapprochement des données de circulation et de consommations mesurées, couplé à des modèles d'estimation) pour les engins non équipés et la complétude des données, avec une documentation disponible sur la page « Documents techniques cités dans le DRR ». Chaque entreprise ferroviaire reste libre de choisir son fournisseur d'énergie."
+  },
+  {
+    "Question": "Quelles sont les cinq prestations optionnelles de coordination de la gestion des situations de crise proposées par SNCF Réseau ?",
+    "Gold_chunk_id": "drr-2027_chunk_0352",
+    "golden_answer": "Sur demande des clients (EF, GI et gestionnaires de gares), SNCF Réseau fournit cinq types de prestations optionnelles : des exercices et formations au dispositif de gestion opérationnelle des crises ; la mise à disposition de salles spécifiques pouvant accueillir et renseigner les familles et proches des victimes en cas d'accident ferroviaire grave ; le prolongement du dispositif urgence accident au-delà de 24h ; des accès à des postes de travail dans les locaux SNCF Réseau circulation, dans la limite des possibilités ; et des accès supplémentaires en salle de crise opérationnelle, dans la limite des possibilités."
+  },
+  {
+    "Question": "Quel est le régime juridique des prestations connexes sur voies principales ?",
+    "Gold_chunk_id": "drr-2027_chunk_0353",
+    "golden_answer": "Les prestations connexes ne sont pas dues, de droit, aux candidats : leur fourniture relève d'un choix de SNCF Réseau. Si elles sont fournies, elles le sont à tout candidat qui en fait la demande."
+  },
+  {
+    "Question": "Quelles études SNCF Réseau peut-il réaliser dans le cadre des prestations connexes ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0354",
+      "drr-2027_chunk_0355"
+    ],
+    "golden_answer": "SNCF Réseau peut réaliser des études de faisabilité internationale (définies au point 4.2.5.1), facturées selon les conditions du point 5.9.3.1, ainsi que des études préalables à la demande d'avis de transport exceptionnel (définies au point 4.7.1), facturées selon les conditions du point 5.9.3.2."
+  },
+  {
+    "Question": "Comment une entreprise ferroviaire doit-elle formuler une demande de services de communications ferroviaires auprès de SNCF Réseau ?",
+    "Gold_chunk_id": "drr-2027_chunk_0356",
+    "golden_answer": "Les entreprises ferroviaires peuvent obtenir, sous condition d'éligibilité et de faisabilité, des services de télécommunication complémentaires s'appuyant sur les systèmes GSM-R et GSM-GFU ARES, au-delà des prestations minimales. Toute demande doit être adressée à leur chargé de compte à la Direction commerciale ou, à défaut, au guichet unique SNCF Réseau (guichetunique@reseau.sncf.fr), qui transmet aux services concernés. Après validation de la légitimité de la demande, les guichets et interlocuteurs télécom en responsabilité cadrent le besoin fonctionnel, proposent la solution la plus appropriée et accompagnent le déploiement et la mise en exploitation."
+  },
+  {
+    "Question": "Que couvrent les services de communications ferroviaires sur réseau GSM-R privé ?",
+    "Gold_chunk_id": "drr-2027_chunk_0357",
+    "golden_answer": "Ces services portent sur : les communications ferroviaires sur capacité résiduelle Priorité 4 (GSM-R P4) sur pupitres, passerelles et portatifs ; et la fourniture et mise en service de portatifs durcis aux interférences, homologués pour un usage sur le réseau GSM-R du RFN, paramétrés et dotés de cartes SIM GSM-R préintégrées et configurées. Ils sont disponibles sur les lignes couvertes en GSM-R (les pupitres pouvant dans certains cas être déportés hors couverture GSM-R), et tout déploiement est soumis à des prérequis d'éligibilité et de faisabilité par SNCF Réseau."
+  },
+  {
+    "Question": "Que recouvrent les services de communications ferroviaires de commodité sur le système GSM-GFU ARES ?",
+    "Gold_chunk_id": "drr-2027_chunk_0358",
+    "golden_answer": "Il s'agit de prestations complémentaires pour l'usage du service ARES pour des besoins de commodité, de service, de management, de formation (et non uniquement pour les appels d'urgence ARES). Ces services sont disponibles sur toutes les lignes inscrites ARES, et toute souscription est soumise à des prérequis d'éligibilité et de faisabilité par SNCF Réseau."
+  },
+  {
+    "Question": "Qu'est-ce que le service de communications ferroviaires dites « de veille » ?",
+    "Gold_chunk_id": "drr-2027_chunk_0359",
+    "golden_answer": "Le service « de veille » permet aux équipes d'exploitation (agents de manœuvre, aiguilleurs, etc.) de communiquer directement entre elles. Il s'agit d'un canal radio partagé, disponible sur certaines zones ferroviaires, utilisé pour coordonner les opérations de manœuvres en toute sécurité. Ce service peut être mutualisé entre plusieurs entreprises ferroviaires présentes sur un même site, selon les modalités définies dans les consignes locales d'exploitation (CLE)."
+  },
+  {
+    "Question": "Comment une entreprise ferroviaire peut-elle accéder au canal de veille et comment ce service est-il tarifé ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0360",
+      "drr-2027_chunk_0361"
+    ],
+    "golden_answer": "Deux cas se présentent. Cas n°1 : si l'entreprise dispose de ses propres terminaux radio, elle soumet une demande de qualification/homologation du modèle de terminal puis une demande d'accès au canal de veille, auprès du Guichet Unique Radio (Guichet.Unique.Radio@sncf.fr), qui vérifie l'existence d'un canal de veille dans la zone et en assure la création le cas échéant. Cas n°2 : si elle ne dispose pas de terminaux, elle peut contractualiser l'offre RLE (Radio Locale Entreprise) opérée par SNCF Réseau (Offre.rle@sncf.fr), incluant des terminaux homologués et l'accès au canal de veille en prestation forfaitaire. Dans les deux cas, elle peut programmer les terminaux en autonomie ou commander une prestation de programmation. L'accès au canal de veille, la mise à disposition de terminaux et les prestations associées sont tarifés selon le point 5.5.1.4."
+  },
+  {
+    "Question": "Comment une entreprise ferroviaire doit-elle déclarer ses fréquences radioélectriques de manœuvre et obtenir l'attestation de compatibilité ?",
+    "Gold_chunk_id": "drr-2027_chunk_0362",
+    "golden_answer": "En application du document « Liaisons radio de manœuvre » (RFN-IG-IF 06 A-14 n°002), toute entreprise ferroviaire titulaire de fréquences radio attribuées par l'ARCEP doit les déclarer au Guichet Unique Radio (GUR) de SNCF Réseau (Guichet.Unique.Radio@sncf.fr) et obtenir au préalable une attestation de compatibilité pour les exploiter sur le RFN. Le GUR vérifie la compatibilité des nouvelles fréquences avec celles déjà utilisées sur le RFN, en réalisant une étude de compatibilité tarifée selon le point 5.5.1.5. L'attestation est délivrée sous un mois calendaire à compter de la réception de la demande. En cas d'incompatibilité, l'entreprise devra formuler une nouvelle demande de fréquences auprès de l'ARCEP ; il est donc recommandé de contacter le GUR avant toute demande de licence auprès de l'ARCEP."
+  },
+  {
+    "Question": "Que garantit SNCF Réseau au titre des prestations diverses d'acheminement de l'énergie électrique ?",
+    "Gold_chunk_id": "drr-2027_chunk_0363",
+    "golden_answer": "SNCF Réseau garantit l'acheminement de l'énergie électrique sur les réseaux d'électricité jusqu'aux bornes d'entrée haute tension des sous-stations de SNCF Réseau (RCTE - composante B)."
+  },
+  {
+    "Question": "Quelles sont les six gammes d'offres de services du catalogue de SNCF Réseau ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0364",
+      "drr-2027_chunk_0365",
+      "drr-2027_chunk_0366",
+      "drr-2027_chunk_0367",
+      "drr-2027_chunk_0368",
+      "drr-2027_chunk_0369",
+      "drr-2027_chunk_0370"
+    ],
+    "golden_answer": "Le catalogue d'offres de services de SNCF Réseau (incluant prestations minimales et prestations diverses) regroupe six gammes : Études et Conseils (analyses et avis techniques sur les projets de circulation) ; Data et SI (mise à disposition de données et systèmes d'information accessibles tout au long du parcours client) ; Compatibilité du matériel roulant (aide à vérifier la compatibilité des matériels avec l'infrastructure et identification de solutions) ; Sillons (aide à concrétiser les plans de transport avec une offre de sillons adaptés, standardisés et robustes) ; Installations de services (réponse aux besoins en stationnement, maintenance ou énergie, de la gare de départ à la gare d'arrivée) ; et Circulation (prestations visant à améliorer la fluidité des circulations). SNCF Réseau peut aussi fournir d'autres prestations à la demande des clients."
+  },
+  {
+    "Question": "Sur quelle base juridique les redevances d'utilisation du RFN sont-elles perçues et comment sont-elles calculées ?",
+    "Gold_chunk_id": "drr-2027_chunk_0371",
+    "golden_answer": "En application du Code des transports, SNCF Réseau perçoit des redevances dont les modalités de calcul et de perception sont déterminées par le décret modifié n°2003-194 du 7 mars 2003 et le décret n°97-446 du 5 mai 1997. La plupart des redevances se calculent à partir d'unités d'œuvre issues des systèmes d'information de SNCF Réseau (ou de celles qu'il accepte de prendre en compte), valorisées par application des barèmes en vigueur présentés dans les annexes 5.2 à 5.4, ce qui détermine le montant à facturer."
+  },
+  {
+    "Question": "Quels trains sont exonérés de redevances d'utilisation de l'infrastructure et quelle est la règle pour les trains de chantier ?",
+    "Gold_chunk_id": "drr-2027_chunk_0371",
+    "golden_answer": "Sont exonérés de redevances d'utilisation de l'infrastructure : les trains dédiés uniquement à la réalisation de mesures, les convois techniques de maintenance (surveillance, déneigement, désherbage…) du RFN, ainsi que les trains à vide effectuant la reconnaissance des LGV. En revanche, les trains d'approvisionnement de chantiers et d'acheminement de matériel sont redevables des redevances prévues en annexe 5.2 en dehors des zones de chantiers, c'est-à-dire des sections de voie du RFN pour lesquelles il n'est pas offert de capacités commerciales pour cause de travaux."
+  },
+  {
+    "Question": "Quels principes la tarification de SNCF Réseau doit-elle respecter ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0371",
+      "drr-2027_chunk_0372"
+    ],
+    "golden_answer": "La tarification, adoptée en accord avec le cadre défini par l'État et la réglementation, est cohérente avec l'analyse économique et respecte la capacité contributive des entreprises ferroviaires. Elle doit : s'adapter aux logiques d'organisation de marché existantes en proposant la structure la plus appropriée afin d'envoyer les bons signaux économiques aux parties prenantes (État, AOM et transporteur) ; permettre à SNCF Réseau de recouvrer son coût marginal (le CDI) ; inciter à la bonne utilisation du réseau ; et contribuer à couvrir tout ou partie des coûts fixes de SNCF Réseau (au-delà du CDI)."
+  },
+  {
+    "Question": "Quelles sont les différentes redevances d'utilisation du RFN et quelles typologies de coûts recouvrent-elles ?",
+    "Gold_chunk_id": "drr-2027_chunk_0373",
+    "golden_answer": "Le tableau de synthèse présente sept redevances : la Redevance de circulation (RC), prix unitaire fonction du service de transport et de l'utilisation réelle du réseau, recouvrant le CDI (coût marginal d'entretien, d'exploitation et de renouvellement du réseau hors installations électriques) ; la Redevance de circulation électrique (RCE), prix unitaire fonction de l'utilisation réelle des installations électriques, recouvrant le CDI des installations électriques ; la RCTE composante A, prix unitaire fonction de la consommation réelle, recouvrant le coût marginal de la fourniture d'énergie électrique au titre des pertes des systèmes électriques depuis les sous-stations jusqu'aux points de captage ; la Redevance de marché (RM), prix unitaire ou forfait fonction des segments de marché avec modulation éventuelle, couvrant tout ou partie du coût fixe ; la Redevance d'accès (RA), forfait, couvrant tout ou partie du coût fixe ; la Redevance particulière (RP), prix unitaire fonction de la circulation sur des sections définies, couvrant tout ou partie des coûts d'investissement ou des déficits de projets spécifiques ; et la Redevance de saturation (RS), prix unitaire fonction de la circulation sur sections saturées, constituant une incitation financière à la bonne utilisation du réseau."
+  },
+  {
+    "Question": "Quelles catégories d'activités et segments de marché SNCF Réseau distingue-t-il pour la tarification, et quelle règle s'applique aux trams-trains ?",
+    "Gold_chunk_id": "drr-2027_chunk_0374",
+    "golden_answer": "Deux logiques d'organisation des marchés coexistent : les activités conventionnées par une AOM et les activités non conventionnées (TAGV, fret). SNCF Réseau distingue trois grandes catégories d'activités : Voyageurs non conventionné, Voyageurs conventionné et Fret (détaillées au point 5.3.4). Les applications de la tarification par marché figurent en annexe 5.1.1 (prestations minimales) et 5.1.2 (redevances liées à la traction électrique). Pour les trams-trains, à défaut d'une convention spécifique signée avec SNCF Réseau avant avril A-1 et applicable pour l'HDS A, les dispositions tarifaires générales du DRR s'appliquent."
+  },
+  {
+    "Question": "Quelles redevances sont perçues au titre des prestations minimales et sur quelle durée sont-elles fixées ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0375",
+      "drr-2027_chunk_0376"
+    ],
+    "golden_answer": "Les prestations minimales sont fixées pour un cycle tarifaire de 3 ans (HDS 2027 à HDS 2029). Les redevances d'infrastructure sont d'un montant au moins égal au coût directement imputable (CDI). Il existe trois redevances fondées sur le CDI : la RC (recouvrant les coûts marginaux d'entretien, d'exploitation et de renouvellement des voies hors installations électriques, applicable à tous les convois sur voies principales), la RCE (coûts marginaux d'entretien et de renouvellement des installations électriques, applicable aux convois à traction électrique) et la RCTE composante A (couverture des pertes des systèmes électriques). Pour le recouvrement total des coûts, SNCF Réseau peut percevoir deux majorations : la RM (segments de marché, applicable aux réservations de capacités) et la RA (forfait d'accès au réseau pour les activités conventionnées). S'y ajoutent les redevances particulières (RP) liées à des aménagements réalisés à la demande de tiers, et la redevance de saturation (RS) perçue durant les périodes de saturation sur les sections déclarées saturées. Les règles de facturation sont décrites au point 5.9 ; le barème HDS 2027 figure en annexe 5.2 et l'évolution des redevances 2028-2029 pour les activités non conventionnées et fret est définie en annexe 5.1.1."
+  },
+  {
+    "Question": "Comment est calculée la redevance de circulation (RC) pour les trains de voyageurs et pour les trains de fret ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0377",
+      "drr-2027_chunk_0378",
+      "drr-2027_chunk_0379"
+    ],
+    "golden_answer": "Pour les trains de voyageurs (barème en annexes 5.2.1 et 5.2.2) : RC = (Prix unitaire à la tonne-kilomètre × tonnage circulé × distance) + (Prix unitaire au train-kilomètre × distance), avec le prix à la tonne-kilomètre exprimé en € HT par kTBC-km (tonnage en tonnes brutes complètes divisé par 1000) et le prix au train-km en € HT par train-km. Le barème varie selon les catégories de trafic (voyageurs sur ligne classique, voyageurs sur LGV, auto-trains avec barème distinct). Les trains à vide (hors reconnaissance LGV) et haut-le-pied se voient appliquer le barème de leur catégorie de rattachement. Pour les trains de fret (barème RC nette en annexe 5.2.3, déduction faite de la compensation de l'État) : RC = Prix kilométrique de circulation (PKC) × distance, le PKC variant selon la classe de tonnage. Pour les voyageurs sur ligne classique et le fret, les lignes dont le renouvellement est à la charge de SNCF Réseau sont classées en UIC tarifaire 2 à 6, et celles dont le renouvellement n'est pas à sa charge (hors caténaires et EALE) en UIC tarifaire 7 à 9, selon la liste des sections de ligne publiée en annexe 5.6."
+  },
+  {
+    "Question": "Comment est calculée la redevance de circulation électrique (RCE) ?",
+    "Gold_chunk_id": "drr-2027_chunk_0380",
+    "golden_answer": "Pour chaque circulation électrique empruntant le RFN, la RCE est égale au produit de la distance (précisée à l'hectomètre) parcourue sur les voies principales du RFN par le prix unitaire (en euros HT par kilomètre électrique et par convoi) indiqué en annexe 5.2."
+  },
+  {
+    "Question": "Que couvre la composante A de la RCTE et comment son tarif est-il fixé ?",
+    "Gold_chunk_id": "drr-2027_chunk_0381",
+    "golden_answer": "La composante A de la RCTE couvre les charges de fourniture de l'énergie électrique au titre de la compensation des pertes des systèmes électriques depuis les sous-stations jusqu'aux points de captage des trains. Le prix unitaire est fixé en € par kWh, la méthode d'élaboration du barème étant détaillée en annexe 5.1.2. Les composantes A et B sont distinguées au sein de la même redevance RCTE (la B étant décrite au point 5.5.2.1). Pour l'année civile 2027, le tarif de la composante A sera indiqué en annexe 5.2 dans une prochaine version du DRR 2027 ; il pourra être revu et les montants régularisés conformément à l'annexe 5.1.2. Les modalités de facturation sont définies au point 5.9.1.3. Sur la période du 13 au 31 décembre 2026, les dispositifs de l'horaire de service 2026 restent en vigueur."
+  },
+  {
+    "Question": "Comment la redevance de marché (RM) s'applique-t-elle selon les activités et les types de sillons ?",
+    "Gold_chunk_id": "drr-2027_chunk_0382",
+    "golden_answer": "La RM est due par tout client attributaire de capacité selon le segment de marché de son sillon. Un sillon non commercial (ou technique : circulations à vide, mouvements techniques, hauts-le-pied) est distingué du sillon commercial (à charge, incluant aussi trains d'essais et de travaux). Pour les voyageurs non conventionnés : un sillon commercial est soumis à la RM, un sillon non commercial en est exonéré ; le calcul s'appuie sur la liste des sections élémentaires de ligne (SEL) fixée en annexe 5.5 (catégorie, longueur, origine/fin, points de mesure), toute SEL partiellement réservée étant facturée en totalité dès lors que le sillon passe par son ou ses points de mesure. Pour les voyageurs conventionnés, la RM est un forfait propre à chaque AOM. La RM s'applique aux activités voyageurs ; aucune RM n'est appliquée au fret."
+  },
+  {
+    "Question": "Comment est calculée la RM pour les voyageurs non conventionnés et comment les sillons TAGV sont-ils segmentés ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0383",
+      "drr-2027_chunk_0384"
+    ],
+    "golden_answer": "La RM repose sur le PKM (prix kilométrique de marché en € HT par sillon-kilomètre) modulé par trois coefficients : C1 (modulation horaire, TAGV sur LGV), C2 (qualité de l'offre de services aux voyageurs, TAGV sur LGV) et C3 (aménagement du territoire, TAGV radiales sur LGV selon les arrêts commerciaux dans certaines gares). Les barèmes sont en annexe 5.2.2. Les sillons commerciaux TAGV sont rattachés à un segment de marché (domestique A, B, C/D, E, F ou international) selon leur origine/destination, type de convoi trafic et numéro de circulation. Un sillon est « radial » si son origine ou destination est une gare parisienne listée (Paris-Austerlitz, Bercy, Est, Gare-de-Lyon, Montparnasse, Nord, Vaugirard) ou s'il fait partie d'un train radial bi-tranche ; il est « intersecteur » sinon. Les intersecteurs internationaux comprennent notamment le type 2, empruntant une infrastructure récente de type tunnel vers la Grande-Bretagne et l'Espagne."
+  },
+  {
+    "Question": "Comment sont classés les intersecteurs internationaux et comment est tarifée la RM LGV pour un trajet multi-segments ou un train international avec arrêt domestique ?",
+    "Gold_chunk_id": "drr-2027_chunk_0385",
+    "golden_answer": "Les intersecteurs internationaux sont de deux types : le type 2 emprunte une infrastructure récente de type tunnel vers la Grande-Bretagne et l'Espagne ; le type 1 regroupe, par exclusion, tous les autres intersecteurs internationaux. Si un train effectue un trajet passant par plusieurs segments de marché (ex. Paris-Lyon Part Dieu-Marseille), la tarification RM LGV appliquée est la moyenne pondérée aux sillon-km LGV des sillons unitaires des marchés desservis (exemples en annexe 5.1.1). De même, si un train international effectue un arrêt domestique (à charge) sur le RFN, le barème « train international avec arrêt domestique » s'applique au sillon-jour, la RM LGV étant la moyenne pondérée aux sillon-km LGV des sillons unitaires desservis. Le document technique sur l'affectation des numéros de sillons aux axes de marché précise les modalités d'affectation pour les sillons commerciaux TAGV."
+  },
+  {
+    "Question": "En quoi consiste la modulation C1 de la redevance de marché LGV selon l'horaire ?",
+    "Gold_chunk_id": "drr-2027_chunk_0386",
+    "golden_answer": "La RM LGV dépend du type de jour et de l'heure de départ théorique du sillon, selon quatre groupes : heures creuses (HC), heures normales (HN), heures pleines (HP) et heures d'hyperpointe (HH). Par rapport au tarif HN : les départs en HP sont majorés de +15%, les départs en HH de +25%, et les départs en HC minorés de -44%. Cette modulation s'applique à tous les axes TAGV. Pour les trains internationaux à l'import, la modulation applicable correspond au jour et à l'heure de prise en charge du sillon dans les systèmes d'information de SNCF Réseau."
+  },
+  {
+    "Question": "Comment la modulation horaire C1 est-elle répartie selon les tranches horaires et les jours ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0387",
+      "drr-2027_chunk_0388"
+    ],
+    "golden_answer": "La modulation varie selon les tranches horaires et le type de jour (lundi-vendredi, samedi, dimanche). Du lundi au vendredi : HC de 00h à 05h et de 20h à 00h ; HH de 06h à 07h et de 17h à 18h ; HP de 07h à 09h et de 15h à 17h et 18h à 19h ; HN sur les autres tranches diurnes (05h-06h, 09h-10h, 11h-15h, 19h-20h). Le samedi : HC de 00h à 06h et dès 20h ; HH de 07h à 08h ; HP sur la majeure partie de la journée (06h-07h, 08h-10h, 12h-14h, 16h-18h) ; HN (11h-12h, 15h-16h, 18h-20h). Le dimanche : HC de 00h à 08h et de 22h à 00h ; HH de 17h à 19h ; HP (14h-17h, 19h-20h) ; HN (08h-14h, 20h-22h)."
+  },
+  {
+    "Question": "Comment est calculée la modulation C2 de la redevance de marché LGV liée à la qualité de l'offre de services ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0389",
+      "drr-2027_chunk_0390"
+    ],
+    "golden_answer": "Pour tous les segments TAGV, la RM est modulée selon la qualité de l'offre. La formule est : C2 = coefficient premium (selon densité totale) × nombre de sièges premium/nombre total de sièges + coefficient standard (selon densité totale) × nombre de sièges standard/nombre total de sièges. La gamme premium correspond aux premières classes et assimilées, la gamme standard aux secondes classes et assimilées. Par défaut, tout matériel est considéré avoir une densité ≤ 1,35 siège par m² ; l'entreprise ferroviaire doit fournir les preuves pour être classée en densité élevée et bénéficier de la tarification correspondante. Les coefficients et densités des principaux matériels figurent en annexe 5.2.2."
+  },
+  {
+    "Question": "Qu'est-ce que la modulation C3 et quelles réductions entraîne-t-elle pour les sillons radiaux TAGV ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0390",
+      "drr-2027_chunk_0391"
+    ],
+    "golden_answer": "Pour tous les segments TAGV radiaux, un coefficient C3 est appliqué selon le nombre d'arrêts commerciaux dans 27 gares dites d'aménagement du territoire (ex. Angoulême, Arras, Dijon, Le Mans, Poitiers, Valence, gares TGV de province, etc.). Les réductions (non cumulables d'un HDS à l'autre) du prix unitaire de RM LGV sont : HDS 2027 : -1% avec 2 arrêts, -2% avec 3 arrêts ou plus ; HDS 2028 : -2% avec 2 arrêts, -4% avec 3 arrêts ou plus ; HDS 2029 : -1% avec 1 arrêt, -2% avec 2 arrêts, -4% avec 3 arrêts ou plus."
+  },
+  {
+    "Question": "Quelles règles de segmentation s'appliquent aux « autres trains non conventionnés » pour la RM ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0392",
+      "drr-2027_chunk_0393"
+    ],
+    "golden_answer": "Conformément à la loi pour un nouveau pacte ferroviaire, le PKM est nul pour les TAGV domestiques à charge empruntant les SEL sur lignes classiques éligibles à l'« aménagement du territoire » (annexe 5.5). Les autres sillons non conventionnés sont segmentés selon la nature du trafic : trains de jour non TAGV (par défaut, tout train non conventionné et non TAGV ne remplissant pas les conditions des autres catégories, circulant en journée sur ligne classique) ; trains de nuit non TAGV (composition incluant couchettes ou sièges inclinables, circulation commerciale de plus de 5h30 la nuit, a minima entre 23h30 et 5h) ; auto-trains (transport des véhicules des voyageurs, généralement de nuit, entre deux gares) ; trains historiques et touristiques (sections dédiées, convention avec SNCF Réseau, matériel historique, vitesse max 50 km/h, finalité patrimoniale et non service régulier) ; et trains d'essais (tests techniques avant homologation)."
+  },
+  {
+    "Question": "Comment la redevance de marché est-elle fixée pour les activités voyageurs conventionnées et dans quel cas peut-elle être ajustée ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0394",
+      "drr-2027_chunk_0395"
+    ],
+    "golden_answer": "La RM est fixée de manière forfaitaire par autorité organisatrice de la mobilité (AOM) ; le barème figure en annexe 5.2.1. Un ajustement est possible : en application du DRR 2026, en cas d'écart entre les trafics réalisés au cours de l'HDS 2026 et ceux retenus pour la valorisation du forfait supérieur à plus de 8% à la baisse, SNCF Réseau procède à une régularisation a posteriori du forfait RM HDS 2026 de l'AOM concernée. Si cette baisse présente un caractère durable (se prolongeant au-delà de la fin de l'HDS 2027), SNCF Réseau ajuste également le calcul du forfait de RM pour les HDS 2027, 2028 et 2029 selon la méthodologie du point 3.3.3.1.2 de l'annexe 5.1.1."
+  },
+  {
+    "Question": "Quelles redevances s'appliquent aux services de communications ferroviaires (GSM-GFU ARES, veille radio, étude de compatibilité des fréquences) ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0412",
+      "drr-2027_chunk_0413",
+      "drr-2027_chunk_0414"
+    ],
+    "golden_answer": "L'usage du service GSM-GFU ARES pour des besoins de commodité, de service, de management, de formation, ainsi que la mise à disposition de portatifs homologués pour un usage sur ce système, font l'objet de redevances présentées en annexe 5.4. La mise à disposition d'une liaison de veille radio (point 5.1.7.4) fait également l'objet de redevances (annexe 5.4). Enfin, la demande d'utilisation par une entreprise ferroviaire de ses propres fréquences radio sur le RFN se traduit par la facturation d'une étude de compatibilité et de l'attestation de compatibilité des fréquences, dans les conditions définies en annexe 5.4."
+  },
+  {
+    "Question": "Que couvre la composante B de la RCTE et comment est-elle tarifée ?",
+    "Gold_chunk_id": "drr-2027_chunk_0415",
+    "golden_answer": "La composante B de la RCTE couvre l'acheminement de l'énergie électrique sur les réseaux d'électricité et les frais associés. Elle est acquittée pour tous les engins circulant en mode électrique sur le RFN, indépendamment du choix du fournisseur d'électricité. Le prix unitaire est fixé en € par kWh, la méthode d'élaboration du barème étant en annexe 5.1.2. Pour l'année civile 2027, le tarif sera indiqué en annexe 5.4 dans une version modifiée du DRR 2027 ; il pourra être revu et les montants régularisés. Les modalités de facturation sont au point 5.9.1.3. Sur la période du 13 au 31 décembre 2026, les tarifs de l'HDS 2026 restent en vigueur."
+  },
+  {
+    "Question": "Comment sont tarifées les autres prestations diverses de SNCF Réseau ?",
+    "Gold_chunk_id": "drr-2027_chunk_0416",
+    "golden_answer": "Les prix des autres prestations sont établis sur devis. La prestation se fait dans les conditions prévues par le contrat conclu avec le demandeur. Toute demande formulée par des clients autres que les demandeurs de capacité est traitée au cas par cas."
+  },
+  {
+    "Question": "Quels sont les sept dispositifs incitatifs prévus par le DRR et quel est leur objectif ?",
+    "Gold_chunk_id": "drr-2027_chunk_0417",
+    "golden_answer": "Les sept dispositifs incitatifs sont : les accords-cadres (base pluriannuelle, point 3.3.1) ; le dispositif incitatif réciproque (annexe 5.8) ; la pénalité de renonciation tardive ; la pénalité de non-circulation ; la pénalité pour non-utilisation des capacités travaux ; la pénalité pour retard de traitement des DTS, DSA et DSDM ; et la pénalité incitative à l'amélioration de la qualité de service rendu. Chacun suit une temporalité propre. L'ensemble vise à garantir la stabilité des demandes côté clients et la stabilité et la qualité de la réponse de SNCF Réseau, avec un objectif d'optimisation de l'allocation des capacités."
+  },
+  {
+    "Question": "Quels dispositifs pénalisent la modification des sillons par le candidat ou par SNCF Réseau ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0418",
+      "drr-2027_chunk_0419"
+    ],
+    "golden_answer": "Pour les modifications par le candidat : dans le cadre des accords-cadres, le candidat s'engage à commander le nombre de sillons-jours correspondant aux caractéristiques de la capacité dans les tolérances et diminué de la franchise, et à maintenir sa commande jusqu'à la certification en novembre A-1, sous peine de pénalité ; dans le dispositif incitatif réciproque, les demandes de modification ayant entraîné une modification effective du plan de transport sont pénalisées (annexe 5.8). Pour les modifications par SNCF Réseau : dans les accords-cadres, SNCF Réseau s'engage à attribuer la capacité conformément au contrat, sous peine de verser une pénalité au client ; dans le dispositif incitatif réciproque, les demandes de modification importante par SNCF Réseau sont pénalisées (annexe 5.8)."
+  },
+  {
+    "Question": "Quelle est la pénalité de non-circulation et dans quels cas le candidat en est-il exonéré ?",
+    "Gold_chunk_id": "drr-2027_chunk_0420",
+    "golden_answer": "En cas de non-utilisation du sillon attribué, une pénalité de non-circulation est appliquée à l'attributaire du sillon-jour : 1,08 € le tkm pour les activités fret et 3,6 € le tkm pour les activités voyageurs. Cette pénalité est cumulable avec les redevances liées à la réservation (comme la redevance de marché) ; les redevances assises sur la circulation (comme la RC) ne sont pas dues. Le candidat est exonéré en cas de force majeure, telle que définie à l'article 21 des conditions générales du contrat d'utilisation de l'infrastructure et du contrat d'attribution de sillons (annexe 3.1 du DRR)."
+  },
+  {
+    "Question": "Quelles pénalités s'appliquent en cas d'annulation de sillon par le candidat ou par SNCF Réseau ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0421",
+      "drr-2027_chunk_0422"
+    ],
+    "golden_answer": "Pour l'annulation par le candidat, trois dispositifs s'appliquent : les accords-cadres (engagement de commande et de maintien jusqu'à la certification, sous peine de pénalité) ; le dispositif incitatif réciproque (annexe 5.8) ; et la pénalité de renonciation tardive, appliquée en cas de renonciation à partir de J-1 17h à un sillon-jour attribué : 1 € le skm pour le fret et 3,3 € le skm pour les voyageurs. Les redevances assises sur la réservation comme sur la circulation ne sont alors pas dues, et le candidat est exonéré en cas de force majeure (article 21 des conditions générales, annexe 3.1). Pour l'annulation par SNCF Réseau : les règles de l'accord-cadre s'appliquent (SNCF Réseau pouvant verser une pénalité au client) ainsi que celles du dispositif incitatif réciproque (annexe 5.8)."
+  },
+  {
+    "Question": "Quels sont les principaux systèmes d'information « circulation » mis à disposition des entreprises ferroviaires par SNCF Réseau ?",
+    "Gold_chunk_id": "drr-2027_chunk_0509",
+    "golden_answer": "Les principaux SI « circulation » sont : ARTIC (avis de restriction temporaire d'information aux conducteurs pour les incidents de circulation) ; le CŒUR INCIDENT FERROVIAIRE regroupant DURANDAL 2 (gestion des incidents de circulation et de crise), SPID (partage de l'information en direct), @BOR (cartographie des capacités de circulation en période de mouvement social), ISITRAC (suivi des trains en temps réel), DBC (cartographie des détecteurs de boîtes chaudes) et SYNTHESE (consultation en temps réel du parcours réel, des retards et motifs, et des incidents avec les circulations impactées) ; DECLIC (dépôt des contestations et complétude des incidents, demandes de redressement des minutes perdues) ; DINAMIC (interface entre acteurs matérialisant les informations de circulation) ; DOCEXPLORE (documentation d'exploitation) ; VisionSillons, anciennement E-HOUAT (consultation du plan de transport) ; ORE (observatoire de la régularité) ; SEE-TRAINS (graphiques espace-temps théoriques et réels) ; et EIDA EQUILIBRE (gestion des demandes de modification d'équilibre, communiquant avec un outil de gestion des Graphiques d'Occupation des Voies permettant au Chef Circulation de valider ou refuser les demandes)."
+  },
+  {
+    "Question": "Dans quelles gares l'outil EIDA Equilibre est-il déployé et quelle est son évolution prévue ?",
+    "Gold_chunk_id": "drr-2027_chunk_0510",
+    "golden_answer": "EIDA Equilibre est déployé dans les gares suivantes : Amiens, Bordeaux-St-Jean, Chambéry, Creil, Dijon-ville, Europe-Flandres, Grenoble, Marseille-St-Charles, Metz, Montpellier Saint-Roch, Mulhouse, Nancy, Nantes, Nîmes, Paris Lyon-Paris Bercy, Paris Montparnasse, Paris St-Lazare, Paris-Austerlitz, Paris-Est, Persan-Beaumont, Paris-Nord / Paris-Nord Banlieue, Pontoise, Rennes, Strasbourg et Toulouse. Il n'est pas prévu de déployer la version actuelle dans d'autres gares : des travaux sont menés pour intégrer EIDA Equilibre comme fonctionnalité d'un outil de gestion des GOV, avec une fin de développement prévue début 2027. Une étude des conditions de mise à disposition de la version actuelle reste possible pour toute nouvelle demande dans les gares déjà équipées."
+  },
+  {
+    "Question": "Quelles sont les deux phases de la gestion opérationnelle des circulations décrites au chapitre 6 ?",
+    "Gold_chunk_id": "drr-2027_chunk_0511",
+    "golden_answer": "La gestion opérationnelle des circulations comporte deux phases successives : une phase opérationnelle, de J-1 17 heures jusqu'à J 23h59, comprenant les dispositions liées à la circulation effective du train sur le RFN (point 6.3) ; et une phase post-opérationnelle, à partir de J+1, intégrant les dispositions liées à l'analyse des résultats opérationnels et au retour d'expérience (point 6.8). L'application de ces règles est opposable à SNCF Réseau (désigné « SGC », service chargé de la gestion des circulations) et aux exploitants ferroviaires (entreprises ferroviaires, gestionnaire des gares « Gares & Connexions » et autres GI)."
+  },
+  {
+    "Question": "Quels principes le SGC applique-t-il dans ses relations avec les entreprises ferroviaires, notamment en cas de dysfonctionnements ?",
+    "Gold_chunk_id": "drr-2027_chunk_0512",
+    "golden_answer": "La gestion opérationnelle des circulations vise à assurer la circulation des trains et mouvements de manœuvre conformément au graphique de circulation validé et aux conditions générales du contrat d'utilisation de l'infrastructure (annexe 3.1). En toute circonstance, y compris en cas de dysfonctionnements liés à l'infrastructure (réductions de capacité, incidents), aux EF (retards, suppressions) ou à des causes externes (intempéries, actions de tiers), le SGC applique les principes suivants : les processus de décision ne peuvent être mis en œuvre que par du personnel du SGC, connu des EF, construisant ses choix selon des règles objectives et publiques ; et les informations relatives à la circulation théorique, prévisionnelle et réelle des trains sont accessibles à tous les utilisateurs du réseau, de même que celles du service d'information des EF sur la circulation de leurs trains."
+  },
+  {
+    "Question": "Quelles sont les obligations du SGC en matière de gestion des circulations et d'informations à disposition ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0513",
+      "drr-2027_chunk_0514"
+    ],
+    "golden_answer": "Le SGC gère les circulations en application des réglementations en vigueur, via un système de production spécifique dénommé « système de production de la circulation », permettant d'exploiter l'ensemble des infrastructures conformément au graphique de circulation et de manière non discriminatoire vis-à-vis des EF et autres exploitants. Le SGC dispose de la liste actuelle des EF en possession d'un certificat de sécurité valide (lignes, services de transport, matériels roulants exploités), y compris les EF disposant d'un certificat de sécurité unique d'un État limitrophe avec extension jusqu'à une gare frontière française. Il a également connaissance des dispositions particulières des conditions particulières du contrat d'utilisation de l'infrastructure ayant un impact sur la gestion opérationnelle des circulations."
+  },
+  {
+    "Question": "Comment les informations nécessaires à la circulation sont-elles mises à disposition des EF ?",
+    "Gold_chunk_id": "drr-2027_chunk_0515",
+    "golden_answer": "Le graphique de circulation (« sillons » et « capacités travaux ») est réputé connu des EF via SEE-TRAINS ; l'application VisionSillons (anciennement e-HOUAT) précise les informations « composition » et « horaires » de chaque sillon. En complément de la documentation publiée sur DocExplore et sur la page « Documents techniques cités dans le DRR », le SGC fournit en temps utile : par courriel, la liste, les coordonnées, les conditions d'appel et les missions des correspondants du SGC joignables par l'EF pendant les phases « avant circulation » (guichet capacité) et opérationnelle (diffusées au moins deux fois par an ou en cas d'actualisation) ; et via le SI ARTIC (abonnement obligatoire pour les EF circulant sur le RFN), les restrictions, notamment limitations de vitesse, liées aux modifications de l'infrastructure (voie, traction électrique...), permanentes ou temporaires."
+  },
+  {
+    "Question": "Quelles obligations incombent aux EF concernant la désignation d'un correspondant opérationnel et la documentation à fournir ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0516",
+      "drr-2027_chunk_0517"
+    ],
+    "golden_answer": "Chaque EF doit désigner un interlocuteur unique à SNCF Réseau (éventuellement différent par niveau du système de production de la circulation) et tenir à jour la liste de ses correspondants opérationnels en avisant le SGC de toute évolution via correspondants-operationnelsef@reseau.sncf.fr. Côté documentation : préalablement à l'utilisation d'un matériel roulant de voyageurs, chaque EF notifie aux centres de secours de la sécurité civile des départements traversés les documents techniques d'intervention (DTI) ; et lors de la mise en circulation de nouveaux matériels sur le RFN ou de leur modification, les EF fournissent au département cœur opérations réseau (DGCE / Département Opérations Performance Système) la documentation (et ses mises à jour) relative au relevage du matériel en cas de déraillement ou équivalent, à transmettre à relevage.dcf@sncf.fr."
+  },
+  {
+    "Question": "Quelles informations relatives au suivi des trains le SGC fournit-il aux EF ?",
+    "Gold_chunk_id": "drr-2027_chunk_0518",
+    "golden_answer": "Dans le cadre de la gestion opérationnelle des circulations, le SGC assure le suivi des trains et fournit aux EF les informations utiles sur les conditions de circulation de leurs trains (accidents, incidents, limitations inopinées de vitesse…). Un service de partage de l'information en direct (outil SPID) est déployé pour permettre aux acteurs opérationnels d'anticiper, réduire les conséquences sur le plan de transport et mieux informer les clients. Les EF peuvent contacter le personnel désigné du SGC (point 6.1.2) pour toute information complémentaire ou pour fournir une information au SGC. Le contenu et les modalités de transmission figurent dans le document RFN-IG-TR 04 C-01-n°001 (« Règles de la GOC »). SNCF Réseau met aussi à disposition l'information des dispositifs de détection d'anomalies (détecteurs de boîtes chaudes, stations de détection de défauts des roues)."
+  },
+  {
+    "Question": "Quels sont les principes des échanges opérationnels entre le personnel des EF et les agents du SGC, et quand une traçabilité est-elle requise ?",
+    "Gold_chunk_id": "drr-2027_chunk_0519",
+    "golden_answer": "Les échanges entre le personnel désigné de l'EF et les agents du SGC sont permanents, notamment entre le personnel opérationnel de l'EF et les agents des postes d'aiguillage ou de régulation/coordination, ainsi qu'avec les agents chargés de l'exploitation des installations de traction électrique au sein des centraux sous-stations (CSS). Ces échanges ne font normalement pas l'objet de traçabilité, mais celle-ci peut être requise lors des échanges entre les représentants désignés de l'EF et de SNCF Réseau, lorsqu'ils résultent d'obligations d'information ou valent notification de la documentation d'exploitation ou d'utilisation du réseau (point 6.1.3.2) — par exemple les propositions de détournement, les annonces de trains transportant des matières radioactives ou les annonces de trains longs."
+  },
+  {
+    "Question": "Comment sont enregistrées les communications avec le SGC et les centraux sous-stations et quelles sont les finalités de ce traitement ?",
+    "Gold_chunk_id": "drr-2027_chunk_0520",
+    "golden_answer": "Les acteurs opérationnels de SNCF Réseau (CNOC, COGC, agents des postes d'aiguillage…) et les centraux sous-stations enregistrent toutes les communications liées à l'exploitation effectuées via téléphones de service, radio sol-train ou radio locale d'entreprise. Ces enregistrements constituent un traitement de données à caractère personnel fondé sur l'intérêt légitime de SNCF Réseau (RGPD) : maintien et amélioration de la performance et du niveau de sécurité de l'exploitation, et mission de dirigeant d'enquête. Les finalités sont : la conduite d'enquêtes relatives à des faits sécurité ferroviaire et SST par SNCF Réseau ou toute autorité légitime (OPJ, EPSF, BEA-TT, inspection du travail…) ; le retour d'expérience (REX) après incident/accident par l'EF ou le prestataire concerné ; la veille et le contrôle de la qualité de l'application des procédures, le management et l'animation sécurité et régularité."
+  },
+  {
+    "Question": "Quelles sont les durées de conservation et les règles d'accès aux enregistrements des communications d'exploitation ?",
+    "Gold_chunk_id": "drr-2027_chunk_0521",
+    "golden_answer": "La durée de conservation est de 2 mois à partir de l'enregistrement sur l'enregistreur (archivage glissant : les données à échéance sont écrasées automatiquement). À partir de l'export, elle peut être prolongée : de 2 mois pour les REX sécurité ou formations des agents SNCF Réseau ; de 1 an pour les enquêtes sur faits sécurité ferroviaire et SST ; et en cas d'accident grave (avec pertes humaines par exemple), pendant toute la durée du contentieux sans excéder 10 ans à compter de l'extraction. L'écoute est strictement limitée aux personnes autorisées de SNCF Réseau et, dans le cadre de REX sécurité, aux représentants autorisés des EF impliquées ou des prestataires de SNCF Réseau, ainsi qu'à toute autorité légitime (police et judiciaires, BEA-TT, EPSF, inspection du travail). SNCF Réseau rend compte à l'EPSF, en toute transparence, des autorisations d'accès accordées aux EF."
+  },
+  {
+    "Question": "Quels droits les personnes enregistrées peuvent-elles exercer et quelle obligation incombe aux EF en matière d'information de leurs salariés ?",
+    "Gold_chunk_id": "drr-2027_chunk_0522",
+    "golden_answer": "Conformément à la loi n°78-17 du 6 janvier 1978 et au règlement 2016/679 (RGPD), les personnes concernées disposent des droits d'accès, de rectification, d'effacement, de limitation du traitement, d'opposition (pour motif légitime), de définition de directives post-mortem et de portabilité, exerçables auprès de dpo@reseau.sncf.fr. Elles peuvent aussi introduire une réclamation auprès de la CNIL ou d'une autorité de contrôle équivalente. Chaque EF, en qualité de responsable du personnel concerné, doit informer ses salariés de l'existence, des modalités et des finalités du traitement relatif à l'enregistrement et à l'écoute des communications avec les agents de SNCF Réseau ; elle peut renvoyer vers le présent article du DRR pour compléter son propre dispositif d'information RGPD. Les conditions d'accès des EF sont précisées dans les « Règles de la GOC »."
+  },
+  {
+    "Question": "Quelles sont les principales missions de gestion opérationnelle des circulations de SNCF Réseau ?",
+    "Gold_chunk_id": "drr-2027_chunk_0523",
+    "golden_answer": "Les principales missions sont : le tracé d'itinéraires (hormis la manœuvre d'installations de sécurité considérées comme simples) ; le suivi et l'ordonnancement des circulations, réalisés pour l'essentiel dans les centres opérationnels de gestion des circulations (COGC, CNOC) ; la veille opérationnelle de sécurité, la prise de mesures conservatoires en cas d'incidents ou de risque potentiel pour la sécurité, ainsi que l'information des autorités externes ; et la coordination de la gestion des situations de crise (document technique « Coordination de la gestion des situations de crise »). Les règles détaillées figurent dans le document d'utilisation du réseau « Règles de la GOC », dont la prise de connaissance est indispensable en complément du chapitre 6."
+  },
+  {
+    "Question": "Quelles sont les exigences linguistiques pour la gestion opérationnelle des circulations et pour les conducteurs ?",
+    "Gold_chunk_id": "drr-2027_chunk_0524",
+    "golden_answer": "La langue utilisée dans le cadre de la gestion opérationnelle des circulations est le français, sauf sur certaines sections frontières où une autre langue peut être prévue (les consignes locales d'exploitation le précisent). Le conducteur devant communiquer avec le gestionnaire d'infrastructure sur des questions déterminantes pour la sécurité doit posséder des connaissances linguistiques dans la langue indiquée par le gestionnaire concerné, lui permettant de communiquer activement et efficacement en situations de routine, problématiques et d'urgence. Il doit notamment être capable d'utiliser les messages et la méthode de communication spécifiés dans les STI « Exploitation »."
+  },
+  {
+    "Question": "Comment les EF doivent-elles déclarer la composition réelle de leurs convois ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0525",
+      "drr-2027_chunk_0526"
+    ],
+    "golden_answer": "Les EF doivent obligatoirement mettre à disposition des opérateurs de la circulation la composition réelle des trains circulant chaque jour dans les sillons attribués (tonnage réel, transports exceptionnels, marchandises dangereuses… selon les STI-TAF et STI-TAP). La déclaration doit être faite avant le départ et à chaque remaniement, suffisamment à temps pour un départ dans de bonnes conditions, via un flux informatique normé STI ou via l'interface du SI DINAMIC (alimenté par les données HOUAT). Les déclarations non conformes en format ou contenu sont réputées non effectuées. Les versions minimales sont les messages français TCO 2.1.6 (fret) et PTC 2.1.6 (voyageurs) ; tout changement de version est notifié avec un préavis minimum de 6 mois. Les circulations à marche indéterminée et certaines circulations SNCF Réseau d'acheminement/approche chantier ne sont pas soumises à déclaration. En cas de modification imprévue en cours de route, l'EF doit en informer les opérateurs avant le départ du lieu de remaniement et corriger la déclaration. Si SNCF Réseau constate une non-conformité, l'EF est considérée comme n'ayant pas rempli son obligation ; un dispositif de possible retenue de train avant départ est prévu au point 5.6.7.4."
+  },
+  {
+    "Question": "Qu'est-ce que la demande d'acceptation de non-conformité (DANC) et comment fonctionne-t-elle ?",
+    "Gold_chunk_id": "drr-2027_chunk_0527",
+    "golden_answer": "Dès lors que l'EF détecte avant départ une possible dégradation de la performance du sillon ou une modification liée à un arrêt, elle doit demander au SGC l'acceptation de la circulation de son train via le processus DANC. La demande est réalisée via le SI DINAMIC ou le flux DANC avant le départ du point origine, en précisant le type de non-conformité et les conséquences estimées pour la circulation du train. Elle doit être transmise dans un délai suffisant pour l'étude et la mise en œuvre des mesures utiles par le SGC. Le SGC peut refuser la DANC, en particulier si les conséquences en termes de circulation ne sont pas acceptables. Ce processus est décrit dans les « Règles de la GOC »."
+  },
+  {
+    "Question": "Quelles sont les modifications possibles du régime et des horaires d'un sillon demandées par l'EF ?",
+    "Gold_chunk_id": "drr-2027_chunk_0528",
+    "golden_answer": "Par principe, le train circule conformément aux particularités du sillon alloué. En cas de divergence entre le régime, l'itinéraire ou les horaires du sillon et la circulation effective, l'EF demande à SNCF Réseau la modification selon quatre cas : la régularisation (totale ou partielle) : train inscrit dans un sillon facultatif circulant effectivement sur tout ou partie du parcours ; la dérégularisation (totale ou partielle) : train régulier ne circulant pas sur tout ou partie du parcours, le sillon sur le parcours non utilisé restant réservé et devenant facultatif le jour considéré ; la suppression (totale ou partielle) : sillon régulier ou facultatif supprimé sur tout ou partie du parcours pour un jour donné, la capacité n'étant alors plus maintenue à disposition de l'EF ; et la substitution : sillon à substituer pour le tracé d'un nouveau sillon demandé, à condition que les caractéristiques du train soient identiques, le demandeur précisant les caractéristiques obligatoires, notamment l'origine et le terminus du sillon à créer."
+  },
+  {
+    "Question": "Comment sont gérées les opérations non prévues au sillon (manœuvres, trains longs, modifications du GOV) ?",
+    "Gold_chunk_id": "drr-2027_chunk_0529",
+    "golden_answer": "La préparation du train au point origine et les opérations lors des arrêts en route et à l'arrivée peuvent nécessiter des services de manœuvre (y compris la manœuvre des installations de sécurité) exécutés par l'EF avec ses propres moyens. Si ces précisions n'ont pu figurer dans la demande de sillon, l'EF communique au niveau local du SGC ses besoins en mouvements de manœuvre guidé et non guidé et en stationnement de matériel. Toute modification du plan de transport impactant le graphique d'occupation des voies (GOV) — train plus long que prévu, augmentation du temps de stationnement en gare origine/terminus… — doit être concertée avec le SGC local, qui peut la refuser ; le processus « Trains Longs » est détaillé dans les « Règles de la GOC ». Les informations doivent être transmises dans un délai suffisant. Dans certaines gares, des normes de service figurent dans les consignes locales d'exploitation : leur dépassement peut être accordé sur demande motivée. Certains sites disposent en outre d'un recueil d'exploitation décrivant les installations et les règles d'exploitation, établies en concertation avec les EF et s'imposant à tous les utilisateurs."
+  },
+  {
+    "Question": "Comment la gestion opérationnelle des circulations est-elle organisée en niveaux de responsabilité et quelles missions leur incombent ?",
+    "Gold_chunk_id": [
+      "drr-2027_chunk_0530",
+      "drr-2027_chunk_0531"
+    ],
+    "golden_answer": "Le SGC organise la gestion opérationnelle des circulations selon trois niveaux : un niveau local (postes de commande/contrôle des installations d'aiguillage et de signalisation, secteurs circulation) ; un niveau territorial (COGC) ; et un niveau national (CNOC). Les niveaux local et territorial peuvent être regroupés physiquement en commande centralisée du réseau (CCR) ou équivalent, avec des dénominations adaptées. La répartition des missions (acteur décideur) est la suivante : la commande des installations est exercée par l'agent circulation (responsable unique) ; le suivi actif de la circulation et le reporting sont assurés systématiquement à tous les niveaux (agent circulation, chef circulation, coordinateur COGC, coordinateur national) et de manière déléguée par le régulateur et le coordinateur d'axe ; la coordination locale relève du chef circulation ; la régulation est assurée systématiquement par le chef circulation, le régulateur et le coordinateur national ; la coordination d'axe relève du coordinateur d'axe."
+  }
+]
