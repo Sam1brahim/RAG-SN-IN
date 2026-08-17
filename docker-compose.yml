@@ -1,0 +1,41 @@
+version: "3.8"
+
+services:
+  # ── RAG-SN-IN API ────────────────────────────────────────────────────
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      # Persist Qdrant data, eval results, and RAGAS artifacts
+      - ./data:/app/data
+      # Mount .env for API keys (DeepSeek, Langfuse)
+      - ./.env:/app/.env:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+    # GPU support (uncomment if running with NVIDIA Container Toolkit)
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
+    command: uvicorn rag_sn_in.api.main:app --host 0.0.0.0 --port 8000
+
+  # ── Open WebUI (chat frontend) ───────────────────────────────────────
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    ports:
+      - "3000:8080"
+    environment:
+      # Point Open WebUI at our OpenAI-compatible API
+      - OPENAI_API_BASE_URL=http://api:8000/v1
+      - OPENAI_API_KEY=not-needed
+    volumes:
+      - open-webui-data:/app/backend/data
+    depends_on:
+      - api
+
+volumes:
+  open-webui-data:

@@ -68,13 +68,15 @@ def preflight_pdf(pdf_path: str, workdir: str) -> str:
 
 
 def main() -> None:
+    from rag_sn_in.config import DATA_RAW_DIR
+
     parser = argparse.ArgumentParser(
         description="Preflight PDF for Docling: detect and split 2-up pages."
     )
     parser.add_argument("pdf", help="Path to the source PDF")
     parser.add_argument(
         "--workdir",
-        default=r"E:\Project RAG-SN-IN\data\raw"
+        default=str(DATA_RAW_DIR),
     )
     args = parser.parse_args()
 

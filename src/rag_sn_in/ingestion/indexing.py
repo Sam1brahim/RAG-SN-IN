@@ -5,7 +5,7 @@ from pathlib import Path
 from rag_sn_in.database.client import get_client
 from rag_sn_in.llm.embedding import embed_document
 from rag_sn_in.database.db_setup import ensure_ToCreate_collection
-from rag_sn_in.config import VECTOR_SIZE
+from rag_sn_in.config import VECTOR_SIZE, DATA_CHUNKS_512_DIR
 
 """
 Never gets called for a query, this is only for storing Chunks inside the VECTOR DB: Qdrant in my case.
@@ -66,4 +66,4 @@ if __name__ == '__main__':
     collection_name = 'railway'
     client = get_client()
     ensure_ToCreate_collection(client,collection_name=collection_name,vector_size=VECTOR_SIZE) # to auto check if it exists, if not, build it inside client
-    index_chunks(r"E:\Project RAG-SN-IN\data\processed\chunks\max token 512", client,embed_document,collection_name)
+    index_chunks(str(DATA_CHUNKS_512_DIR), client, embed_document, collection_name)

@@ -5,7 +5,10 @@ from rag_sn_in.database.client import get_client as get_qdrant_client
 from rag_sn_in.database.db_setup import ensure_ToCreate_collection
 from langchain_deepseek import ChatDeepSeek
 from rag_sn_in.llm.generator import load_generation_llm, clear_vram, verify_llm_name, OLLAMA_MODELS
-from rag_sn_in.config import LLM_NAME, VECTOR_SIZE, EMBEDDING_MODEL_NAME, RERANKER_NAME, EVALUATOR
+from rag_sn_in.config import (
+    LLM_NAME, VECTOR_SIZE, EMBEDDING_MODEL_NAME, RERANKER_NAME, EVALUATOR,
+    DATA_EVAL_DIR, DATA_RAGAS_DIR,
+)
 from rag_sn_in.eval.evaluate_RAG import evaluate_retrieval, load_eval_set
 import gc
 import torch
@@ -75,7 +78,7 @@ def main():
     gen_model_tag = LLM_NAME.split("/")[-1].replace("-it", "").replace("-Instruct", "").lower()
     judge_model_tag = EVALUATOR.split("/")[-1].replace("-chat", "").lower()
     run_tag = f"{gen_model_tag}_vs_{judge_model_tag}"
-    out_dir = r"E:\Project RAG-SN-IN\data\ragas"
+    out_dir = str(DATA_RAGAS_DIR)
     os.makedirs(out_dir, exist_ok=True)
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -109,7 +112,7 @@ def main():
             metadata={"reranker": RERANKER_NAME, "embedding_model": EMBEDDING_MODEL_NAME},
         ) as retriever:
             ensure_ToCreate_collection(client, collection_name, vector_size=VECTOR_SIZE)
-            eval_set = load_eval_set(r"E:\Project RAG-SN-IN\data\eval\eval chunks 512 max")
+            eval_set = load_eval_set(str(DATA_EVAL_DIR))
             retrieval_metrics, _, ragas_data, retrieval_stats = evaluate_retrieval(
                 client, collection_name, eval_set, retrieve_k=30, use_reranker=True
             )

@@ -2,11 +2,14 @@ from rag_sn_in.database.client import get_client
 from rag_sn_in.llm.reranker import rerank
 from rag_sn_in.database.db_setup import ensure_ToCreate_collection
 import json
-from rag_sn_in.llm.embedding import embed_queries_batch,embed_query
+from rag_sn_in.llm.embedding import embed_queries_batch, embed_query
 import time
 import os
 import glob
-from rag_sn_in.config import VECTOR_SIZE, RERANKER_NAME,EMBEDDING_MODEL_NAME
+from rag_sn_in.config import (
+    VECTOR_SIZE, RERANKER_NAME, EMBEDDING_MODEL_NAME,
+    DATA_EVAL_DIR, DATA_EVAL_METRICS_DIR,
+)
 import random
 from qdrant_client.models import FieldCondition, Filter, MatchValue
 
@@ -363,14 +366,15 @@ def evaluate_retrieval(client, collection_name, eval_set, k_values=(1, 3, 5, 10)
 
 
 if __name__ == "__main__":
-    
     collection_name = "railway"
     client = get_client()
     ensure_ToCreate_collection(client, collection_name, vector_size=VECTOR_SIZE)
 
-    eval_set = load_eval_set(r"E:\Project RAG-SN-IN\data\eval\eval chunks 512 max")
+    eval_set = load_eval_set(str(DATA_EVAL_DIR))
 
-    metrics, use_reranker, _, retrieval_stats = evaluate_retrieval(client, collection_name, eval_set, retrieve_k=30, use_reranker=False)
+    metrics, use_reranker, _, retrieval_stats = evaluate_retrieval(
+        client, collection_name, eval_set, retrieve_k=30, use_reranker=False
+    )
 
     if use_reranker:
         print(f"Final Metrics With Reranker \n {RERANKER_NAME}. \n Embedding model {EMBEDDING_MODEL_NAME}:")
@@ -382,8 +386,8 @@ if __name__ == "__main__":
     print("Retrieval stats:", retrieval_stats)
 
     # ---------------- Save Summary ----------------
-    out_dir = r"E:\Project RAG-SN-IN\data\Eval RAG metrics/ragas"
-    os.makedirs(out_dir, exist_ok=True)
+    DATA_EVAL_METRICS_DIR.mkdir(parents=True, exist_ok=True)
+    out_dir = str(DATA_EVAL_METRICS_DIR)
     timestamp = time.strftime("%Y%m%d_%H%M%S")
     
     # Clean model names for filename

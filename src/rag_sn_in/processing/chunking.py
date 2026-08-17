@@ -13,13 +13,10 @@ from transformers import AutoTokenizer
 # Configuration
 # ============================================================
 
-DATA_DIR = Path(
-    r"E:\Project RAG-SN-IN\data\processed\text"
-)
+from rag_sn_in.config import DATA_PROCESSED_TEXT_DIR, DATA_CHUNKS_DIR
 
-CHUNKS_DIR = Path(
-    r"E:\Project RAG-SN-IN\data\processed\chunks"
-)
+DATA_DIR = DATA_PROCESSED_TEXT_DIR
+CHUNKS_DIR = DATA_CHUNKS_DIR
 
 FULL_DOCUMENT_SUBSTRING = "_full_document"
 
