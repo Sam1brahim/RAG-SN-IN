@@ -1,0 +1,311 @@
+SAMPLES OF DEEPSEEK REASONING (LIMIT 40 CALLS)
+============================================================
+
+--- CALL 1 ---
+{
+    "question": "Quelle est la mission de la Direction Clients Transporteurs?",
+    "noncommittal": 0
+}
+
+--- CALL 2 ---
+{
+    "reason": "The context explicitly states that SNCF Gares & Connexions (G&C) is the manager of passenger stations on the national rail network, which directly answers the question.",
+    "verdict": 1
+}
+
+--- CALL 3 ---
+{
+    "reason": "The context explicitly identifies the Direction Clients Transporteurs (DCT) as the entity responsible for the commercialization of station services and provides the contact email guichet.gares@sncf.fr, which directly supports the answer.",
+    "verdict": 1
+}
+
+--- CALL 4 ---
+{
+    "question": "Que sont les consignes locales de gestion de plateforme (CLGP) et par qui sont-elles écrites ?",
+    "noncommittal": 0
+}
+
+--- CALL 5 ---
+```json
+{
+    "statements": [
+        "SNCF Gares & Connexions (G&C) est le gestionnaire des gares de voyageurs sur le réseau ferré national français (RFN)."
+    ]
+}
+```
+
+--- CALL 6 ---
+{
+    "reason": "The context explains that local documents, including the Consigne Locale de Gestion de Plateforme, define more precisely the local particularities of the basic service provision for each station, which aligns with the answer that they specify the services provided to candidates and associated operating procedures. Thus, the context was useful.",
+    "verdict": 1
+}
+
+--- CALL 7 ---
+{
+    "question": "Qui est le gestionnaire des gares de voyageurs sur le RFN ?",
+    "noncommittal": 0
+}
+
+--- CALL 8 ---
+{
+    "question": "Qui est le gestionnaire des gares de voyageurs sur le RFN ?",
+    "noncommittal": 0
+}
+
+--- CALL 9 ---
+{
+    "statements": [
+        "La Direction Clients Transporteurs est chargée de la commercialisation des services en gare du RFN aux candidats.",
+        "La Direction Clients Transporteurs est chargée de la stratégie de pilotage de l'arrivée des transporteurs.",
+        "La Direction Clients Transporteurs est chargée de réaliser les intégrations des transporteurs."
+    ]
+}
+
+--- CALL 10 ---
+```json
+{
+  "classifications": [
+    {
+      "statement": "Elles précisent les prestations fournies aux candidats et les modes opératoires associés (processus, acteurs, outils) et sont rédigées par gare ou par groupe de gare.",
+      "reason": "The context defines CLGP as 'Interfaces opérationnelles qui précisent les prestations fournies aux candidats ainsi que les modes opératoires associés (processus, acteurs, outils…). Elles sont écrites par gare ou par groupe de gare.' This matches the statement exactly.",
+      "attributed": 1
+    }
+  ]
+}
+```
+
+--- CALL 11 ---
+{
+    "question": "Qui est le gestionnaire des gares de voyageurs sur le RFN ?",
+    "noncommittal": 0
+}
+
+--- CALL 12 ---
+{
+  "classifications": [
+    {
+      "statement": "SNCF Gares & Connexions (G&C) est le gestionnaire des gares de voyageurs sur le réseau ferré national.",
+      "reason": "The context explicitly states that 'SNCF Gares & Connexions (G&C) est le gestionnaire des gares de voyageurs sur le RFN.'",
+      "attributed": 1
+    }
+  ]
+}
+
+--- CALL 13 ---
+{
+    "question": "Quelle est la mission de la Direction Clients Transporteurs?",
+    "noncommittal": 0
+}
+
+--- CALL 14 ---
+{
+    "question": "Qu'est-ce qu'un « Candidat » selon l'article L.2122-11 du Code des transports ?",
+    "noncommittal": 0
+}
+
+--- CALL 15 ---
+{
+    "question": "Qu'est-ce qu'un « Candidat » selon l'article L.2122-11 du Code des transports ?",
+    "noncommittal": 0
+}
+
+--- CALL 16 ---
+{
+    "statements": [
+        "Les consignes locales de gestion de plateforme (CLGP) sont des interfaces opérationnelles.",
+        "Les consignes locales de gestion de plateforme (CLGP) précisent les prestations fournies aux candidats.",
+        "Les consignes locales de gestion de plateforme (CLGP) précisent les modes opératoires associés, tels que les processus, les acteurs et les outils.",
+        "Les consignes locales de gestion de plateforme (CLGP) sont écrites par gare.",
+        "Les consignes locales de gestion de plateforme (CLGP) sont écrites par groupe de gare."
+    ]
+}
+
+--- CALL 17 ---
+{
+    "question": "Quelle est la mission de la Direction Clients Transporteurs?",
+    "noncommittal": 0
+}
+
+--- CALL 18 ---
+{
+    "question": "Que sont les consignes locales de gestion de plateforme (CLGP) et par qui sont-elles écrites ?",
+    "noncommittal": 0
+}
+
+--- CALL 19 ---
+{
+    "reason": "The context directly defines who is considered a candidate for access to railway stations, and the answer is a direct quote from the context.",
+    "verdict": 1
+}
+
+--- CALL 20 ---
+{
+    "question": "Qu'est-ce qu'un « Candidat » selon l'article L.2122-11 du Code des transports ?",
+    "noncommittal": 0
+}
+
+--- CALL 21 ---
+{
+    "question": "Que sont les consignes locales de gestion de plateforme (CLGP) et par qui sont-elles écrites ?",
+    "noncommittal": 0
+}
+
+--- CALL 22 ---
+{
+    "reason": "The context explicitly states that for non-regulated activities, candidates should contact the Direction Clients Transporteurs via guichet.gares@sncf.fr, which matches the answer's reference to the DCT and the email address. Thus, the context was useful in arriving at the answer.",
+    "verdict": 1
+}
+
+--- CALL 23 ---
+{
+    "reason": "The context discusses the management of station capacity and attributes it to SNCF Réseau, but it does not mention SNCF Gares & Connexions as the manager of passenger stations. Therefore, the context is not useful in arriving at the given answer.",
+    "verdict": 0
+}
+
+--- CALL 24 ---
+{
+    "statements": [
+        "L'horaire de service 2027 débute le 13 décembre 2026.",
+        "L'horaire de service 2027 débute à 00h00."
+    ]
+}
+
+--- CALL 25 ---
+{
+    "statements": [
+        "Un candidat est défini par l'article L.2122-11 du Code des transports.",
+        "Un candidat peut être une entreprise ferroviaire.",
+        "Un candidat peut être un regroupement international d'entreprises ferroviaires.",
+        "Un candidat peut être toute autre personne ayant des raisons commerciales ou de service public d'acquérir des capacités de l'infrastructure.",
+        "Un exemple de candidat est un opérateur de transport combiné.",
+        "Un exemple de candidat est un port.",
+        "Un exemple de candidat est un chargeur.",
+        "Un exemple de candidat est un transitaire.",
+        "Un exemple de candidat est une autorité organisatrice de transport ferroviaire."
+    ]
+}
+
+--- CALL 26 ---
+```json
+{
+  "statements": [
+    {
+      "statement": "SNCF Gares & Connexions (G&C) est le gestionnaire des gares de voyageurs sur le réseau ferré national français (RFN).",
+      "reason": "The context explicitly states: 'SNCF Gares & Connexions (G&C) est le gestionnaire des gares de voyageurs sur le RFN.' This directly supports the statement.",
+      "verdict": 1
+    }
+  ]
+}
+```
+
+--- CALL 27 ---
+{
+    "reason": "The context discusses the use of language and communication requirements for local platform management instructions, but it does not mention the specific purpose of these instructions as described in the answer, which is about specifying services provided to candidates and associated operating procedures. Therefore, the context is not useful for arriving at the given answer.",
+    "verdict": 0
+}
+
+--- CALL 28 ---
+{
+    "question": "Quand débute l'horaire de service 2027?",
+    "noncommittal": 0
+}
+
+--- CALL 29 ---
+{
+    "question": "Quand débute l'horaire de service 2027?",
+    "noncommittal": 0
+}
+
+--- CALL 30 ---
+```json
+{
+  "classifications": [
+    {
+      "statement": "La Direction Clients Transporteurs (DCT) au sein de SNCF Gares & Connexions, joignable via guichet.gares@sncf.fr, qui s'occupe de la commercialisation des services en gare aux candidats et de l'intégration des transporteurs.",
+      "reason": "The context explicitly states that the Direction Clients Transporteurs (DCT) is the entity responsible for the commercialization of station services to candidates and for the integration of transport operators, with the contact email guichet.gares@sncf.fr.",
+      "attributed": 1
+    }
+  ]
+}
+```
+
+--- CALL 31 ---
+{
+    "question": "Quand débute l'horaire de service 2027 ?",
+    "noncommittal": 0
+}
+
+--- CALL 32 ---
+{
+  "classifications": [
+    {
+      "statement": "Un candidat est une entreprise ferroviaire, un regroupement international d'entreprises ferroviaires ou toute personne ayant des raisons commerciales ou de service public d'acquérir des capacités d'infrastructure, comme un opérateur de transport combiné, un port, un chargeur, un transitaire ou une autorité organisatrice de transport ferroviaire.",
+      "reason": "The definition of 'candidat' is explicitly provided in the context, matching the answer's content.",
+      "attributed": 1
+    }
+  ]
+}
+
+--- CALL 33 ---
+{
+    "question": "Quelles sont les trois missions principales de service public confiées à la Gestionnaire de Gares (SNCF Gares & Connexions) ?",
+    "noncommittal": 0
+}
+
+--- CALL 34 ---
+{
+    "question": "Quelles sont les trois missions principales de service public confiées à la Gestionnaire de Gares (SNCF Gares & Connexions) ?",
+    "noncommittal": 0
+}
+
+--- CALL 35 ---
+{
+    "question": "Quelles sont les trois missions principales de service public confiées à la Gestionnaire de Gares (SNCF Gares & Connexions) ?",
+    "noncommittal": 0
+}
+
+--- CALL 36 ---
+{
+  "statements": [
+    {
+      "statement": "La Direction Clients Transporteurs est chargée de la commercialisation des services en gare du RFN aux candidats.",
+      "reason": "The context explicitly states: 'Direction chargée, au sein de SNCF Gares & Connexions, de la commercialisation des services en gare du RFN aux candidats et de la stratégie de pilotage de l'arrivée des transporteurs et de réaliser leurs intégrations.'",
+      "verdict": 1
+    },
+    {
+      "statement": "La Direction Clients Transporteurs est chargée de la stratégie de pilotage de l'arrivée des transporteurs.",
+      "reason": "The context explicitly states: 'Direction chargée, au sein de SNCF Gares & Connexions, de la commercialisation des services en gare du RFN aux candidats et de la stratégie de pilotage de l'arrivée des transporteurs et de réaliser leurs intégrations.'",
+      "verdict": 1
+    },
+    {
+      "statement": "La Direction Clients Transporteurs est chargée de réaliser les intégrations des transporteurs.",
+      "reason": "The context explicitly states: 'Direction chargée, au sein de SNCF Gares & Connexions, de la commercialisation des services en gare du RFN aux candidats et de la stratégie de pilotage de l'arrivée des transporteurs et de réaliser leurs intégrations.'",
+      "verdict": 1
+    }
+  ]
+}
+
+--- CALL 37 ---
+{
+    "reason": "The context provides the exact definition of \"candidat\" as per the article L2122-11 of the code des transports, which matches the answer given. Therefore, the context was useful in arriving at the answer.",
+    "verdict": 1
+}
+
+--- CALL 38 ---
+{
+    "reason": "The context provides specific dates for the 2027 service timetable, which directly supports the answer's claim about the DRR applying from December 13, 2026 to December 11, 2027. However, the answer also includes a general rule about the second Saturday of December, which is not explicitly stated in the context. Despite this, the context is useful in confirming the specific dates mentioned in the answer.",
+    "verdict": 1
+}
+
+--- CALL 39 ---
+{
+    "reason": "The context explicitly lists the three main public service missions assigned to SNCF Gares & Connexions, which directly match the answer provided.",
+    "verdict": 1
+}
+
+--- CALL 40 ---
+{
+    "reason": "The context describes the roles of various actors in station operations, including the Gestionnaire de gares (GG) who is responsible for services in stations, but it does not mention the Direction Clients Transporteurs (DCT) or the contact email guichet.gares@sncf.fr. Therefore, the context was not useful in arriving at the given answer.",
+    "verdict": 0
+}
+

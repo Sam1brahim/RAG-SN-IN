@@ -1,0 +1,118 @@
+{
+  "timestamp": "20260817_191142",
+  "run_id": "gemma4-e2b_vs_deepseek",
+  "num_items": 20,
+  "config": {
+    "generator_llm": "gemma4-e2b",
+    "judge_llm": "deepseek-chat",
+    "judge_embeddings": "google/embeddinggemma-300m",
+    "retrieval_embedding_model": "google/embeddinggemma-300m",
+    "reranker": "BAAI/bge-reranker-v2-m3",
+    "collection": "railway"
+  },
+  "aggregate_scores": {
+    "faithfulness": 0.9760093167701864,
+    "answer_relevancy": 0.7917271338356751,
+    "context_precision": 0.9252777777031849,
+    "context_recall": 1.0
+  },
+  "runtime": {
+    "total_pipeline_s": 333.1,
+    "stages": {
+      "retrieval_rerank_s": 89.4,
+      "local_generation_s": 198.3,
+      "llm_judge_s": 29.2
+    }
+  },
+  "resource_usage": {
+    "peak_vram_gb": 0.01,
+    "gpu_name": "NVIDIA GeForce RTX 4070 Laptop GPU"
+  },
+  "retrieval_metrics": {
+    "1": {
+      "hit_rate": 0.8235294117647058,
+      "mrr": 0.8235294117647058
+    },
+    "3": {
+      "hit_rate": 0.9411764705882353,
+      "mrr": 0.8743315508021391
+    },
+    "5": {
+      "hit_rate": 0.9518716577540107,
+      "mrr": 0.8767379679144386
+    },
+    "10": {
+      "hit_rate": 0.9625668449197861,
+      "mrr": 0.8782976827094474
+    },
+    "gold_recall": {
+      "mean_at_max_k": 0.9330786860198625,
+      "multi_chunk_count": 41,
+      "multi_chunk_mean": 0.8167247386759582
+    }
+  },
+  "retrieval_performance": {
+    "num_queries": 187,
+    "retrieve_k": 30,
+    "reranker_enabled": true,
+    "stage1_hit_rate": 0.968,
+    "batch_embed_time_s": 1.12,
+    "wall_time_s": 88.26,
+    "avg_dense_latency_ms": 7.3,
+    "avg_rerank_latency_ms": 464.5,
+    "avg_total_latency_ms": 471.8,
+    "throughput_queries_per_s": 2.12,
+    "miss_count": 7
+  },
+  "generation_performance": {
+    "num_items": 20,
+    "wall_time_s": 198.3,
+    "mean_latency_s": 9.91,
+    "min_latency_s": 4.15,
+    "max_latency_s": 23.89,
+    "total_generated_tokens": 12695,
+    "avg_tokens_per_answer": 634.8,
+    "tokens_per_sec": 64.0,
+    "items_per_hour": 363.2,
+    "gpu_name": "NVIDIA GeForce RTX 4070 Laptop GPU",
+    "peak_vram_gb": 0.01
+  },
+  "judge_token_usage": {
+    "wall_time_s": 29.2,
+    "judge_calls_approx": 80,
+    "calls_per_sec": 2.74,
+    "input_tokens": 292126,
+    "output_tokens": 33933,
+    "total_tokens": 326059
+  },
+  "per_metric_stats": {
+    "faithfulness": {
+      "mean": 0.9760093167701864,
+      "std": 0.06446481794526567,
+      "min": 0.75,
+      "max": 1.0,
+      "pct_below_0.5": 0.0
+    },
+    "answer_relevancy": {
+      "mean": 0.7917271338356751,
+      "std": 0.12294961849054255,
+      "min": 0.5143070510188947,
+      "max": 0.9410299518713301,
+      "pct_below_0.5": 0.0
+    },
+    "context_precision": {
+      "mean": 0.9252777777031849,
+      "std": 0.12378683545255793,
+      "min": 0.49999999995,
+      "max": 0.9999999999,
+      "pct_below_0.5": 0.05
+    },
+    "context_recall": {
+      "mean": 1.0,
+      "std": 0.0,
+      "min": 1.0,
+      "max": 1.0,
+      "pct_below_0.5": 0.0
+    }
+  }
+}

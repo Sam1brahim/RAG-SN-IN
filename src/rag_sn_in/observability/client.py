@@ -1,15 +1,27 @@
-from langfuse import get_client
+from langfuse import Langfuse
+import os
 
-langfuse = get_client()
+from dotenv import load_dotenv
+load_dotenv()
 
-_enabled = None
-from langfuse import get_client
+_client = None
 
-langfuse = get_client()
+def get_client():
+    """Lazy initialization of Langfuse client to ensure .env is loaded first."""
+    global _client
+    if _client is None:
+        _client = Langfuse()
+        try:
+            if not _client.auth_check():
+                print("Langfuse authentication failed. Check credentials/host.")
+        except Exception as e:
+            print(f"Langfuse auth check error: {e}")
+    return _client
 
-# Verify connection
-if langfuse.auth_check():
-    print("Langfuse client is authenticated and ready!")
-    _enabled = True
-else:
-    print("Authentication failed. Please check your credentials and host.")
+def is_enabled():
+    """Checks if Langfuse is configured and reachable."""
+    client = get_client()
+    try:
+        return client.auth_check()
+    except:
+        return False

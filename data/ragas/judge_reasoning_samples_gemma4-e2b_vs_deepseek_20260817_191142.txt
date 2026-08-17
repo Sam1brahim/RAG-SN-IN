@@ -1,0 +1,325 @@
+SAMPLES OF DEEPSEEK REASONING (LIMIT 40 CALLS)
+============================================================
+
+--- CALL 1 ---
+{
+    "question": "Comment expliquez-vous la progression du nombre de déshuntages de niveau 1 ?",
+    "noncommittal": 0
+}
+
+--- CALL 2 ---
+{
+    "reason": "The context explicitly states that the DRG was established to ensure transparency and non-discrimination, which are essential for the development of rail transport, and to describe the principles and procedures for using stations as required by legal texts. This directly supports the answer.",
+    "verdict": 1
+}
+
+--- CALL 3 ---
+{
+    "question": "Qu'est-ce que le Document de Référence des Gares (DRG) et quel est son objectif ?",
+    "noncommittal": 0
+}
+
+--- CALL 4 ---
+{
+    "question": "Quel est le but du Document de Référence des Gares (DRG) et que contient-il ?",
+    "noncommittal": 0
+}
+
+--- CALL 5 ---
+{
+    "question": "Qui est responsable de l'entretien et de la maintenance des équipements fixes dans les zones accessibles au public, et que se passe-t-il en cas de défaillance d'une installation ?",
+    "noncommittal": 0
+}
+
+--- CALL 6 ---
+{
+    "question": "Quel est le but du Document de Référence des Gares (DRG) et que contient-il ?",
+    "noncommittal": 0
+}
+
+--- CALL 7 ---
+{
+    "statements": [
+        "Le Document de Référence des Gares (DRG) a été établi pour décrire les principes et procédures relatifs à l'utilisation des gares du Réseau ferré national (RFN).",
+        "Le DRG contient les informations nécessaires aux candidats souhaitant utiliser les gares de voyageurs du RFN.",
+        "Le DRG contient les informations nécessaires aux candidats pour y assurer des prestations de transport de voyageurs.",
+        "Le DRG fixe un cadre strictement réglementé et contrôlé.",
+        "Le cadre fixé par le DRG garantit le traitement équitable de l'ensemble des clients du réseau."
+    ]
+}
+
+--- CALL 8 ---
+{
+    "question": "Comment expliquez-vous la progression du nombre de déshuntages de niveau 1 ?",
+    "noncommittal": 0
+}
+
+--- CALL 9 ---
+{
+    "question": "Quel est le cadre réglementaire français en matière de tarification ferroviaire et quels sont les principes et règles applicables?",
+    "noncommittal": 0
+}
+
+--- CALL 10 ---
+{
+    "question": "Comment expliquez-vous la progression du nombre de déshuntages de niveau 1 ?",
+    "noncommittal": 0
+}
+
+--- CALL 11 ---
+{
+    "question": "Quel est le cadre réglementaire français en matière de tarification ferroviaire et quels sont les principes et règles applicables?",
+    "noncommittal": 0
+}
+
+--- CALL 12 ---
+{
+    "reason": "The context directly addresses the scenario of equipment failure such as an elevator in a station, explaining that the station manager may close it without notice for repairs and will inform about restoration times, which matches the answer.",
+    "verdict": 1
+}
+
+--- CALL 13 ---
+{
+    "question": "Qui est responsable de l'entretien et de la maintenance des équipements fixes dans les zones accessibles au public, et que se passe-t-il en cas de défaillance d'une installation ?",
+    "noncommittal": 0
+}
+
+--- CALL 14 ---
+{
+  "classifications": [
+    {
+      "statement": "En cas de défaillance d'une installation empêchant son utilisation normale (escaliers mécaniques, ascenseurs, accès, etc.), le Gestionnaire de gares peut la fermer au public sans préavis pendant le temps nécessaire à sa remise en état, et s'engage à informer sur les délais de remise en service.",
+      "reason": "The sentence directly paraphrases the context's statement about the Gestionnaire de gares closing installations without notice and informing about repair times.",
+      "attributed": 1
+    }
+  ]
+}
+
+--- CALL 15 ---
+{
+    "reason": "The context explicitly states that the increase in level 1 shunt failures is explained by the increase in monitoring measures by SNCF Réseau, which matches the answer.",
+    "verdict": 1
+}
+
+--- CALL 16 ---
+{
+  "classifications": [
+    {
+      "statement": "La progression des déshuntages de niveau 1 s'explique au moins en partie par l'augmentation des mesures de surveillance réalisées par SNCF Réseau, comme le suivi des enregistrements dans les postes informatiques et la mise en place d'enregistreurs, qui permettent de détecter davantage de cas.",
+      "reason": "The context explicitly states that the increase in level 1 shunting failures is partly explained by the increase in surveillance measures by SNCF Réseau, including monitoring of recordings and installation of recorders.",
+      "attributed": 1
+    }
+  ]
+}
+
+--- CALL 17 ---
+{
+    "question": "Quel est le cadre réglementaire français en matière de tarification ferroviaire et quels sont les principes et règles applicables?",
+    "noncommittal": 0
+}
+
+--- CALL 18 ---
+{
+    "reason": "The context provides the legal framework for railway pricing in France, mentioning the decrees n°2003-194 and n°97-446, which are directly referenced in the answer. The answer elaborates on the specific principles and charges outlined in these decrees, which are derived from the context. Therefore, the context was useful in arriving at the answer.",
+    "verdict": 1
+}
+
+--- CALL 19 ---
+{
+    "question": "Qui est responsable de l'entretien et de la maintenance des équipements fixes dans les zones accessibles au public, et que se passe-t-il en cas de défaillance d'une installation ?",
+    "noncommittal": 0
+}
+
+--- CALL 20 ---
+{
+    "statements": [
+        "La progression du nombre de déshuntages de niveau 1 s'explique par l'augmentation du nombre de mesures de surveillance réalisées par SNCF Réseau.",
+        "L'augmentation du nombre de mesures de surveillance est au moins en partie responsable de la progression du nombre de déshuntages de niveau 1.",
+        "Les mesures de surveillance réalisées par SNCF Réseau incluent le suivi des enregistrements dans les postes informatiques.",
+        "Les mesures de surveillance réalisées par SNCF Réseau incluent la mise en place d'enregistreurs."
+    ]
+}
+
+--- CALL 21 ---
+{
+  "classifications": [
+    {
+      "statement": "Pour garantir la transparence et la non-discrimination, indispensables au développement du transport ferroviaire, en décrivant les principes et procédures relatifs à l'utilisation des gares du réseau ferré national, comme le prévoient les textes légaux et réglementaires.",
+      "reason": "The context states that the DRG was established to ensure transparency and non-discrimination, which are indispensable for the development of rail transport, and describes the principles and procedures for using stations as provided by legal and regulatory texts.",
+      "attributed": 1
+    }
+  ]
+}
+
+--- CALL 22 ---
+{
+  "classifications": [
+    {
+      "statement": "Les décrets n°97-446 et n°2003-194 modifiés précisent : le principe de tarification au « coût directement imputable » et les redevances assujetties (redevance de circulation, redevance de circulation électrique, redevance destinée à couvrir les pertes des systèmes électriques) ; la possibilité de percevoir des majorations pour le recouvrement total des coûts à condition que le marché s'y prête ; la possibilité de tarifer la rareté des capacités ; la possibilité de mettre en œuvre des redevances particulières liées à des projets d'investissements spécifiques ; ainsi que des modulations potentielles de la tarification.",
+      "reason": "The statement directly summarizes the content from the context section 'LE CADRE RÉGLEMENTAIRE FRANÇAIS', which lists these exact principles and possibilities as specified by the decrees.",
+      "attributed": 1
+    }
+  ]
+}
+
+--- CALL 23 ---
+{
+    "statements": [
+        "En cas de défaillance d'une installation empêchant son utilisation dans des conditions normales de fonctionnement, le Gestionnaire de gares peut être contraint de fermer cette installation au public.",
+        "La fermeture de l'installation au public peut concerner des escaliers mécaniques, des ascenseurs, des accès, etc.",
+        "La fermeture de l'installation au public dure le temps nécessaire à sa remise en état.",
+        "Le Gestionnaire de gares s'engage à informer sur les délais de remise en service des installations.",
+        "Concernant l'entretien et la maintenance des équipements fixes situés dans les zones accessibles au public, les dépenses d'entretien sont à la charge du Gestionnaire de gares.",
+        "Les équipements fixes concernés incluent les portes automatiques, les ascenseurs et les escaliers mécaniques.",
+        "Les dépenses de contrôle réglementaire sont également à la charge du Gestionnaire de gares.",
+        "Les opérations particulières sont également à la charge du Gestionnaire de gares."
+    ]
+}
+
+--- CALL 24 ---
+{
+    "reason": "The context describes the DRG as specifying conditions for the use of stations and ensuring equitable treatment of all clients, which aligns with the answer's mention of transparency and non-discrimination. However, the context does not explicitly state the reason for the DRG's creation as described in the answer, such as the development of rail transport or legal texts. Therefore, the context is not directly useful in arriving at the given answer.",
+    "verdict": 0
+}
+
+--- CALL 25 ---
+```json
+{
+    "statements": [
+        "Le cadre réglementaire français en matière de tarification ferroviaire se fonde sur le droit européen et français.",
+        "Le cadre réglementaire français inclut la directive européenne 2012/34/UE.",
+        "Le cadre réglementaire français inclut le Code des transports.",
+        "Le cadre réglementaire français inclut le décret n° 2003-194 modifié.",
+        "Le cadre réglementaire français inclut le décret n° 97-446 modifié.",
+        "Le principe de tarification au coût directement imputable est mentionné comme un principe clé dans la tarification des redevances.",
+        "L'Autorité de régulation des transports (ART) émet un avis conforme sur la fixation des redevances d'infrastructure.",
+        "L'avis conforme de l'ART tient compte des principes de tarification.",
+        "L'avis conforme de l'ART tient compte de la soutenabilité de l'évolution tarifaire.",
+        "L'avis conforme de l'ART tient compte de la position concurrentielle du transport ferroviaire.",
+        "Les redevances sont généralement calculées à partir d'unités d'œuvre issues des systèmes d'information de SNCF Réseau.",
+        "Les redevances sont généralement calculées à partir d'unités d'œuvre que SNCF Réseau demande.",
+        "Les unités d'œuvre sont valorisées par l'application des barèmes en vigueur.",
+        "Il existe la possibilité de tarifer la rareté des capacités.",
+        "Il existe la possibilité de mettre en œuvre des redevances particulières liées à des projets d'investissements spécifiques.",
+        "Les trains dédiés uniquement à des mesures sont exonérés des redevances d'utilisation de l'infrastructure.",
+        "Les convois techniques de maintenance (surveillance, déneigement, désherbage) sont exonérés des redevances d'utilisation de l'infrastructure.",
+        "Les trains à vide effectuant la reconnaissance des LGV sont exonérés des redevances d'utilisation de l'infrastructure.",
+        "La tarification adoptée doit être cohérente avec l'analyse économique.",
+        "La tarification adoptée doit respecter la capacité contributive des entreprises ferroviaires.",
+        "La tarification adoptée doit proposer la structure la plus appropriée pour envoyer les bons signaux économiques aux différentes parties prenantes.",
+        "Les parties prenantes incluent l'État.",
+        "Les parties prenantes incluent les AOM (Autorités Organisatrices de Mobilité).",
+        "Les parties prenantes incluent le transporteur."
+    ]
+}
+```
+
+--- CALL 26 ---
+{
+    "question": "Quelles sont les informations que le Candidat doit fournir au Gestionnaire de gares pour chaque sillon et pour chaque gare desservie lors de sa commande?",
+    "noncommittal": 0
+}
+
+--- CALL 27 ---
+{
+    "reason": "The context discusses maintenance and regulatory control of equipment like elevators, but it does not mention what happens if such equipment breaks down in a station, nor does it mention closure without notice or informing about repair times. Therefore, the context was not useful in arriving at the given answer.",
+    "verdict": 0
+}
+
+--- CALL 28 ---
+{
+    "question": "Comment un Candidat peut-il ajouter une nouvelle gare à la liste des gares desservies et proposer une prestation transmanche?",
+    "noncommittal": 0
+}
+
+--- CALL 29 ---
+{
+    "question": "Comment un Candidat peut-il ajouter une nouvelle gare à la liste des gares desservies et proposer une prestation transmanche?",
+    "noncommittal": 0
+}
+
+--- CALL 30 ---
+{
+    "reason": "The context provides data on the number of déshuntages by level over the years and mentions that déshuntages are mostly detected by recordings and remote monitoring, which aligns with the answer's explanation that increased surveillance leads to more detected level 1 cases. Thus, the context was useful.",
+    "verdict": 1
+}
+
+--- CALL 31 ---
+{
+    "question": "Comment un Candidat peut-il ajouter une nouvelle gare à la liste des gares desservies et proposer une prestation transmanche?",
+    "noncommittal": 0
+}
+
+--- CALL 32 ---
+{
+    "question": "Quelles sont les informations que le Candidat doit fournir au Gestionnaire de gares pour chaque sillon et pour chaque gare desservie lors de sa commande?",
+    "noncommittal": 0
+}
+
+--- CALL 33 ---
+{
+    "reason": "The context directly lists the required information for a station service order, which matches the details provided in the answer.",
+    "verdict": 1
+}
+
+--- CALL 34 ---
+{
+    "reason": "The context directly provides the details about the French regulatory framework for railway pricing, including the decrees and specific pricing principles, which are accurately reflected in the answer.",
+    "verdict": 1
+}
+
+--- CALL 35 ---
+{
+    "question": "Quelles sont les informations que le Candidat doit fournir au Gestionnaire de gares pour chaque sillon et pour chaque gare desservie lors de sa commande?",
+    "noncommittal": 0
+}
+
+--- CALL 36 ---
+{
+    "statements": [
+        "Le Candidat peut souhaiter ajouter une nouvelle gare à la liste des gares desservies.",
+        "Le Candidat peut souhaiter proposer une prestation transmanche.",
+        "Le Candidat doit faire connaître par écrit au Gestionnaire de gares la demande d'ajout d'une nouvelle gare.",
+        "Le Candidat doit faire connaître par écrit au Gestionnaire de gares la demande de proposition d'une prestation transmanche.",
+        "La communication écrite doit être adressée via la Direction Clients Transporteurs.",
+        "L'adresse électronique de la Direction Clients Transporteurs est guichet.gares@sncf.fr.",
+        "La demande doit être faite en amont de la commande de sillon du Candidat."
+    ]
+}
+
+--- CALL 37 ---
+{
+    "reason": "The context directly provides the procedure for requesting the addition of a new station for the Transmanche service, including the need to inform the Gare Manager in writing via the Direction Clients Transporteurs, the study process, and the six-month timeline. The answer accurately reflects this information.",
+    "verdict": 1
+}
+
+--- CALL 38 ---
+{
+    "reason": "The context provides the legal framework and references for the DRG, but it does not explicitly state the reason for its creation. The answer mentions transparency and non-discrimination, which are not directly mentioned in the context. Therefore, the context is not useful in arriving at the given answer.",
+    "verdict": 0
+}
+
+--- CALL 39 ---
+```json
+{
+  "classifications": [
+    {
+      "statement": "Le candidat doit en informer par écrit le Gestionnaire de gares via la Direction Clients Transporteurs (guichet.gares@sncf.fr), en amont de sa commande de sillon.",
+      "reason": "The context states that if the candidate wishes to add a new station, they must inform the Gestionnaire de gares in writing via the Direction Clients Transporteurs, before their train path request.",
+      "attributed": 1
+    },
+    {
+      "statement": "Après étude, une proposition est transmise dans un délai de six mois, avec le cas échéant le calendrier prévisionnel et les impacts tarifaires si des aménagements spécifiques sont nécessaires.",
+      "reason": "The context mentions that after the request is complete, a study is conducted and a proposal is transmitted within six months, and if specific developments are needed, the calendar and tariff impacts are indicated.",
+      "attributed": 1
+    }
+  ]
+}
+```
+
+--- CALL 40 ---
+{
+    "reason": "The context explains the concept of shunting failures and their classification, but it does not provide information about the increase in level 1 shunting failures or the surveillance measures by SNCF Reseau. Therefore, the context was not useful in arriving at the given answer.",
+    "verdict": 0
+}
+

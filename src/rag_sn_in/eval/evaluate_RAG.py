@@ -7,7 +7,6 @@ import time
 import os
 import glob
 from rag_sn_in.config import VECTOR_SIZE, RERANKER_NAME,EMBEDDING_MODEL_NAME
-from collections import Counter
 import random
 from qdrant_client.models import FieldCondition, Filter, MatchValue
 
@@ -122,6 +121,9 @@ def pure_retrieval(client, collection_name, query, k_values=(1, 3, 5, 10),
             )
     
     retrieved = retrieved.points
+    if not retrieved:
+        return []
+
     # ---- Stage 2: reranking ----
     if use_reranker:    
         retrieved = rerank(query, retrieved, top_k=10)

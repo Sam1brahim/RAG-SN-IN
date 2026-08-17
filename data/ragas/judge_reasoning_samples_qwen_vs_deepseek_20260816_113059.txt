@@ -1,0 +1,315 @@
+SAMPLES OF DEEPSEEK REASONING (LIMIT 40 CALLS)
+============================================================
+
+--- CALL 1 ---
+{
+    "statements": [
+        "SNCF Gares & Connexions est le Gestionnaire de gares (GG).",
+        "SNCF Gares & Connexions gère les gares de voyageurs sur le réseau ferré national (RFN)."
+    ]
+}
+
+--- CALL 2 ---
+{
+    "question": "Qui contacter pour les questions liées à la commercialisation des services en gare?",
+    "noncommittal": 0
+}
+
+--- CALL 3 ---
+{
+    "question": "Quel est le gestionnaire de gares qui gère les gares de voyageurs sur le réseau ferré national (RFN)?",
+    "noncommittal": 0
+}
+
+--- CALL 4 ---
+{
+    "question": "Que précisent les consignes locales de gestion de plateforme (CLGP) ?",
+    "noncommittal": 0
+}
+
+--- CALL 5 ---
+{
+    "question": "Qui contacter pour les questions liées à la commercialisation des services en gare?",
+    "noncommittal": 0
+}
+
+--- CALL 6 ---
+{
+    "question": "Qu'est-ce qu'un candidat pour l'accès aux gares ferroviaires?",
+    "noncommittal": 0
+}
+
+--- CALL 7 ---
+{
+    "question": "Quel est le gestionnaire de gares qui gère les gares de voyageurs sur le réseau ferré national (RFN) ?",
+    "noncommittal": 0
+}
+
+--- CALL 8 ---
+{
+    "reason": "The context explicitly states that SNCF Gares & Connexions (G&C) is the manager of passenger stations on the national rail network, which directly answers the question.",
+    "verdict": 1
+}
+
+--- CALL 9 ---
+{
+    "question": "Que précisent les consignes locales de gestion de plateforme (CLGP) ?",
+    "noncommittal": 0
+}
+
+--- CALL 10 ---
+{
+    "question": "Que précisent les consignes locales de gestion de plateforme (CLGP) ?",
+    "noncommittal": 0
+}
+
+--- CALL 11 ---
+{
+    "question": "Qui est considéré comme un candidat pour l'accès aux gares ferroviaires?",
+    "noncommittal": 0
+}
+
+--- CALL 12 ---
+{
+    "reason": "The context directly defines who is considered a candidate for access to railway stations, which matches the answer provided.",
+    "verdict": 1
+}
+
+--- CALL 13 ---
+{
+    "question": "Qui contacter pour les questions liées à la commercialisation des services en gare?",
+    "noncommittal": 0
+}
+
+--- CALL 14 ---
+{
+    "question": "Qui est le gestionnaire des gares de voyageurs sur le réseau ferré national en France?",
+    "noncommittal": 0
+}
+
+--- CALL 15 ---
+{
+    "statements": [
+        "Pour les questions liées à la commercialisation des services en gare, contacter la Direction Clients Transporteurs.",
+        "La Direction Clients Transporteurs doit être contactée en envoyant un email à guichet.gares@sncf.fr."
+    ]
+}
+
+--- CALL 16 ---
+{
+  "classifications": [
+    {
+      "statement": "SNCF Gares & Connexions (G&C) est le gestionnaire des gares de voyageurs sur le réseau ferré national.",
+      "reason": "The context explicitly states that 'SNCF Gares & Connexions (G&C) est le gestionnaire des gares de voyageurs sur le RFN.'",
+      "attributed": 1
+    }
+  ]
+}
+
+--- CALL 17 ---
+{
+    "reason": "The context explains that local documents, including the Consigne Locale de Gestion de Plateforme, define more precisely the local particularities of the basic service provision for each station, which aligns with the answer that they specify the services provided to candidates and the associated operating procedures.",
+    "verdict": 1
+}
+
+--- CALL 18 ---
+{
+    "reason": "The context explicitly identifies the Direction Clients Transporteurs (DCT) as the entity responsible for the commercialisation of station services and provides the contact email guichet.gares@sncf.fr, which directly supports the answer.",
+    "verdict": 1
+}
+
+--- CALL 19 ---
+{
+    "question": "Qui peut être candidat pour l'accès aux gares ferroviaires?",
+    "noncommittal": 0
+}
+
+--- CALL 20 ---
+{
+  "classifications": [
+    {
+      "statement": "Un candidat est une entreprise ferroviaire, un regroupement international d'entreprises ferroviaires ou toute personne ayant des raisons commerciales ou de service public d'acquérir des capacités d'infrastructure, comme un opérateur de transport combiné, un port, un chargeur, un transitaire ou une autorité organisatrice de transport ferroviaire.",
+      "reason": "The definition of 'candidat' is explicitly provided in the context, matching the statement.",
+      "attributed": 1
+    }
+  ]
+}
+
+--- CALL 21 ---
+```json
+{
+  "classifications": [
+    {
+      "statement": "La Direction Clients Transporteurs (DCT) au sein de SNCF Gares & Connexions, joignable via guichet.gares@sncf.fr, qui s'occupe de la commercialisation des services en gare aux candidats et de l'intégration des transporteurs.",
+      "reason": "The context explicitly states that the Direction Clients Transporteurs (DCT) is the entity responsible for the commercialization of station services to candidates and for the integration of transport operators, with the contact email guichet.gares@sncf.fr.",
+      "attributed": 1
+    }
+  ]
+}
+```
+
+--- CALL 22 ---
+```json
+{
+  "classifications": [
+    {
+      "statement": "Elles précisent les prestations fournies aux candidats et les modes opératoires associés (processus, acteurs, outils) et sont rédigées par gare ou par groupe de gare.",
+      "reason": "The context defines CLGP as 'Interfaces opérationnelles qui précisent les prestations fournies aux candidats ainsi que les modes opératoires associés (processus, acteurs, outils…). Elles sont écrites par gare ou par groupe de gare.' This matches the statement exactly.",
+      "attributed": 1
+    }
+  ]
+}
+```
+
+--- CALL 23 ---
+{
+    "statements": [
+        "Les consignes locales de gestion de plateforme (CLGP) précisent les prestations fournies aux candidats.",
+        "Les consignes locales de gestion de plateforme (CLGP) précisent les modes opératoires associés aux prestations fournies aux candidats.",
+        "Les consignes locales de gestion de plateforme (CLGP) détaillent les processus liés à ces prestations dans chaque gare ou groupe de gares.",
+        "Les consignes locales de gestion de plateforme (CLGP) détaillent les acteurs liés à ces prestations dans chaque gare ou groupe de gares.",
+        "Les consignes locales de gestion de plateforme (CLGP) détaillent les outils liés à ces prestations dans chaque gare ou groupe de gares."
+    ]
+}
+
+--- CALL 24 ---
+{
+    "reason": "The context discusses the management of station capacity and attributes it to SNCF Réseau, but it does not mention SNCF Gares & Connexions as the manager of passenger stations. Therefore, the context is not useful in arriving at the given answer.",
+    "verdict": 0
+}
+
+--- CALL 25 ---
+{
+    "statements": [
+        "Un candidat pour l'accès aux gares ferroviaires est une entreprise ferroviaire.",
+        "Un candidat pour l'accès aux gares ferroviaires est un regroupement international d'entreprises ferroviaires.",
+        "Un candidat pour l'accès aux gares ferroviaires est toute autre personne ayant des raisons commerciales ou de service public d'acquérir des capacités de l'infrastructure.",
+        "Un exemple de candidat pour l'accès aux gares ferroviaires est un opérateur de transport combiné.",
+        "Un exemple de candidat pour l'accès aux gares ferroviaires est un port.",
+        "Un exemple de candidat pour l'accès aux gares ferroviaires est un chargeur.",
+        "Un exemple de candidat pour l'accès aux gares ferroviaires est un transitaire.",
+        "Un exemple de candidat pour l'accès aux gares ferroviaires est une autorité organisatrice de transport ferroviaire."
+    ]
+}
+
+--- CALL 26 ---
+{
+    "statements": [
+        "Un horaire de service entre en vigueur le 13 décembre 2026 à 00h00.",
+        "La période de validité est mentionnée pour l'horaire de service."
+    ]
+}
+
+--- CALL 27 ---
+{
+    "question": "Quand l'horaire de service entre-t-il en vigueur?",
+    "noncommittal": 0
+}
+
+--- CALL 28 ---
+{
+    "question": "Quand l'horaire de service entre-t-il en vigueur?",
+    "noncommittal": 0
+}
+
+--- CALL 29 ---
+{
+    "question": "Quand l'horaire de service entre-t-il en vigueur?",
+    "noncommittal": 0
+}
+
+--- CALL 30 ---
+{
+    "question": "Quelles sont les missions principales de service public de SNCF Gares & Connexions ?",
+    "noncommittal": 0
+}
+
+--- CALL 31 ---
+{
+    "question": "Quelles sont les missions principales de service public de SNCF Gares & Connexions ?",
+    "noncommittal": 0
+}
+
+--- CALL 32 ---
+{
+    "reason": "The context provides the exact definition of \"candidat\" as per the article L2122-11 of the code des transports, which matches the answer given. Therefore, the context was useful in arriving at the answer.",
+    "verdict": 1
+}
+
+--- CALL 33 ---
+{
+    "reason": "The context explicitly lists the three main public service missions assigned to SNCF Gares & Connexions, which directly match the answer provided.",
+    "verdict": 1
+}
+
+--- CALL 34 ---
+{
+  "statements": [
+    {
+      "statement": "SNCF Gares & Connexions est le Gestionnaire de gares (GG).",
+      "reason": "The context states that 'SNCF Gares & Connexions (G&C) est le gestionnaire des gares de voyageurs sur le RFN' and later refers to 'SNCF Gares & Connexions' as 'Gestionnaire de Gares' in the section on objectives. Therefore, it can be directly inferred that SNCF Gares & Connexions is the Gestionnaire de gares.",
+      "verdict": 1
+    },
+    {
+      "statement": "SNCF Gares & Connexions gère les gares de voyageurs sur le réseau ferré national (RFN).",
+      "reason": "The context explicitly states that 'SNCF Gares & Connexions (G&C) est le gestionnaire des gares de voyageurs sur le RFN', which directly supports the statement.",
+      "verdict": 1
+    }
+  ]
+}
+
+--- CALL 35 ---
+{
+    "question": "Quelles sont les missions principales de service public de SNCF Gares & Connexions ?",
+    "noncommittal": 0
+}
+
+--- CALL 36 ---
+{
+    "reason": "The context explicitly states that for non-regulated activities, candidates should contact the Direction Clients Transporteurs via guichet.gares@sncf.fr, which matches the answer's reference to this department and contact for commercializing station services.",
+    "verdict": 1
+}
+
+--- CALL 37 ---
+{
+    "reason": "The context discusses the use of language and communication requirements for local platform management instructions, but it does not mention the specific purpose of these instructions as described in the answer, which is about specifying services provided to candidates and associated operating procedures. Therefore, the context is not useful for arriving at the given answer.",
+    "verdict": 0
+}
+
+--- CALL 38 ---
+{
+    "reason": "The context provides specific dates for the 2027 service schedule, which directly supports the answer's claim about the schedule starting on December 13, 2026, and ending on December 11, 2027. However, the answer also mentions a general rule about the second Saturday of December, which is not explicitly stated in the context. Despite this, the context is useful in confirming the specific dates mentioned in the answer.",
+    "verdict": 1
+}
+
+--- CALL 39 ---
+```json
+{
+  "classifications": [
+    {
+      "statement": "Trois missions : fournir aux entreprises ferroviaires des services en gare de manière transparente et non discriminatoire, favoriser l'intermodalité entre modes de transport, et contribuer au développement équilibré des territoires.",
+      "reason": "The context explicitly lists these three missions as the main public service missions assigned to SNCF Gares & Connexions by law.",
+      "attributed": 1
+    }
+  ]
+}
+```
+
+--- CALL 40 ---
+```json
+{
+    "statements": [
+        {
+            "statement": "Pour les questions liées à la commercialisation des services en gare, contacter la Direction Clients Transporteurs.",
+            "reason": "The context states that the Direction Clients Transporteurs (DCT) is responsible for the commercialization of station services to candidates, implying it should be contacted for such matters.",
+            "verdict": 1
+        },
+        {
+            "statement": "La Direction Clients Transporteurs doit être contactée en envoyant un email à guichet.gares@sncf.fr.",
+            "reason": "The context explicitly provides the email address guichet.gares@sncf.fr for the Direction Clients Transporteurs, indicating this is the contact method.",
+            "verdict": 1
+        }
+    ]
+}
+```
+

@@ -100,6 +100,9 @@ def unload_reranker():
         torch.cuda.empty_cache()
         torch.cuda.ipc_collect()
 def rerank(query, candidates, top_k=10):
+    if not candidates:
+        return []
+        
     _tokenizer, _model, reranker_name = get_reranker()
     
     if 'qwen' in reranker_name:

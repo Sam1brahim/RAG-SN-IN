@@ -16,8 +16,8 @@ VECTOR_SIZE = 768
 
 RERANKER_NAME= "BAAI/bge-reranker-v2-m3"
 
-LLM_NAME= "qwen"
-
+LLM_NAME = "gemma4-e2b"
+EVALUATOR = "deepseek-chat"
 ### LLMs to Try:
     # "Qwen/Qwen2.5-7B-Instruct"
     # "google/gemma-4-E4B-it"

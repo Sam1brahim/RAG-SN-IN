@@ -1,0 +1,45 @@
+{
+  "timestamp": "20260817_191045",
+  "config": {
+    "embedding_model": "google/embeddinggemma-300m",
+    "reranker": null,
+    "collection": "railway",
+    "vector_size": 768
+  },
+  "retrieval_metrics": {
+    "1": {
+      "hit_rate": 0.7486631016042781,
+      "mrr": 0.7486631016042781
+    },
+    "3": {
+      "hit_rate": 0.8716577540106952,
+      "mrr": 0.8030303030303031
+    },
+    "5": {
+      "hit_rate": 0.8983957219251337,
+      "mrr": 0.8086452762923352
+    },
+    "10": {
+      "hit_rate": 0.9251336898395722,
+      "mrr": 0.8123631270690095
+    },
+    "gold_recall": {
+      "mean_at_max_k": 0.8904252610134963,
+      "multi_chunk_count": 41,
+      "multi_chunk_mean": 0.7929152148664345
+    }
+  },
+  "retrieval_performance": {
+    "num_queries": 187,
+    "retrieve_k": 10,
+    "reranker_enabled": false,
+    "stage1_hit_rate": 0.925,
+    "batch_embed_time_s": 1.13,
+    "wall_time_s": 0.69,
+    "avg_dense_latency_ms": 3.7,
+    "avg_rerank_latency_ms": 0.0,
+    "avg_total_latency_ms": 3.7,
+    "throughput_queries_per_s": 269.34,
+    "miss_count": 14
+  }
+}
