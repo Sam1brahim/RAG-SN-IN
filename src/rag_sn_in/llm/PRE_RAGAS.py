@@ -268,10 +268,15 @@ def main():
 
             # ---- Generation stage stats (runtime monitoring + resource usage) ----
             gen_wall_time = time.time() - gen_start
-            peak_vram_gb = (
-                round(torch.cuda.max_memory_allocated() / 1024**3, 2)
-                if torch.cuda.is_available() else None
-            )
+            # Ollama inference runs in a separate process. torch.cuda peak
+            # only tracks this Python process and reports a misleading ~0 GB.
+            if is_ollama:
+                peak_vram_gb = None
+            else:
+                peak_vram_gb = (
+                    round(torch.cuda.max_memory_allocated() / 1024**3, 2)
+                    if torch.cuda.is_available() else None
+                )
             total_new_tokens = sum(gen_tokens)
             generation_stats = {
                 "num_items": total_items,

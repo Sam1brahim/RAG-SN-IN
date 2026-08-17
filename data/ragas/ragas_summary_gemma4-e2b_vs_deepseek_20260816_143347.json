@@ -25,7 +25,7 @@
     }
   },
   "resource_usage": {
-    "peak_vram_gb": 0.01,
+    "peak_vram_gb": null,
     "gpu_name": "NVIDIA GeForce RTX 4070 Laptop GPU"
   },
   "retrieval_metrics": {
@@ -75,7 +75,7 @@
     "tokens_per_sec": 11.5,
     "items_per_hour": 412.5,
     "gpu_name": "NVIDIA GeForce RTX 4070 Laptop GPU",
-    "peak_vram_gb": 0.01
+    "peak_vram_gb": null
   },
   "judge_token_usage": {
     "wall_time_s": 269.3,

@@ -14,7 +14,7 @@
 
 A production-oriented Retrieval-Augmented Generation (RAG) system built to answer questions about **French railway regulations** — SNCF Réseau's DRR (Document de Référence du Réseau), SNCF Gares & Connexions' DRG (Document de Référence Gare), and EPSF/BEA-TT safety documents.
 
-The system goes beyond "chat with your PDF." It implements **empirical model selection** through a 12-configuration ablation study, **two-stage retrieval** with cross-encoder reranking, **RAGAS-based end-to-end evaluation** with an independent LLM judge, and **Langfuse observability** — all running on a single RTX 4070 Laptop GPU (8 GB VRAM).
+The system implements **empirical model selection** through a 12-configuration ablation study, **two-stage retrieval** with cross-encoder reranking, **RAGAS-based end-to-end evaluation** with an independent LLM judge, and **Langfuse observability** — all running on a single RTX 4070 Laptop GPU (8 GB VRAM).
 
 ---
 
@@ -84,7 +84,7 @@ The system goes beyond "chat with your PDF." It implements **empirical model sel
 | **DRG 2027** | SNCF Gares & Connexions | ~150 | 146 | Document de Référence Gare — station access, service tiers, fee structures |
 | **EPSF 2018** | EPSF / BEA-TT | ~100 | 157 | Railway safety investigation reports and regulatory guidance |
 
-**Total corpus:** 1,012 chunks, ~500 pages of French regulatory text, sourced from [DILA Légifrance](https://www.legifrance.gouv.fr/) and SNCF official publications.
+**Total corpus:** 1,012 chunks, ~500 pages of French regulatory text.
 
 ### Why This Corpus?
 
@@ -102,7 +102,7 @@ Raw PDFs are processed through [Docling](https://github.com/docling-project/docl
 
 Three document-specific chunkers implement **section-header-aware splitting**:
 
-- **Generic chunker** (`chunking.py`) — detects chapter/section headings via regex, preserves section hierarchy in `section_path` metadata
+- **DRR chunker** (`chunking.py`) — detects chapter/section headings via regex, preserves section hierarchy in `section_path` metadata
 - **DRG chunker** (`drg_chunking.py`) — adds table-aware splitting to keep tariff grids intact
 - **EPSF chunker** (`epsf_chunking.py`) — handles safety report structure
 
@@ -183,7 +183,7 @@ The system exposes an OpenAI-compatible `/v1/chat/completions` endpoint with:
 
 - **Langfuse** lazy client with auth check — traces all query embeddings, dense retrieval, reranker scores, and generation completions
 - All intermediate artifacts persisted: per-item JSON/CSV metric tables, DeepSeek judge reasoning samples, timestamped audit logs
-- **Judge cost tracking:** $0.0059/query (187 questions for $1.11, projected $4.43 for 750)
+- **Judge cost tracking:** 187 questions produced **~748 DeepSeek judge calls** and **3.09M tokens** (~16.5k tokens/question). The **$1.11** figure is a cache-miss *ceiling* at historical `deepseek-chat` rates, not the billed invoice — shared RAGAS prefixes usually cache, so dashboard spend is typically much lower.
 
 ---
 
@@ -194,8 +194,8 @@ The system exposes an OpenAI-compatible `/v1/chat/completions` endpoint with:
 | **Vector DB** | Qdrant (embedded, local) | Lightweight, fast, GPU-accelerated cosine search |
 | **Dense Embedder** | `google/embeddinggemma-300m` | Best accuracy/efficiency tradeoff (768-dim, 40% faster) |
 | **Reranker** | `BAAI/bge-reranker-v2-m3` | +7-22pp HR@1 improvement at ~450ms/query |
-| **Generation LLM** | `gemma4-e2b` via Ollama | 0.967 faithfulness, ~0 GB local VRAM |
-| **Eval Judge** | DeepSeek-Chat via RAGAS | Cost-effective at $0.006/query |
+| **Generation LLM** | `gemma4-e2b` via Ollama | 0.967 faithfulness; peak VRAM **N/A** (Ollama process not measured by PyTorch) |
+| **Eval Judge** | DeepSeek-Chat via RAGAS | Token-logged; billed cost usually below the cache-miss ceiling |
 | **Observability** | Langfuse | Full LLM tracing, open-source |
 | **API** | FastAPI + Uvicorn | OpenAI-compatible contract, SSE streaming |
 | **PDF Parsing** | Docling + PyMuPDF | Structure-aware extraction with page markers |

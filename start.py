@@ -57,7 +57,7 @@ RERANKERS = {
 }
 
 GENERATION_LLMS = {
-    1: {"name": "gemma4-e2b",                         "label": "Gemma4-E2B via Ollama  — Recommended (0 VRAM)"},
+    1: {"name": "gemma4-e2b",                         "label": "Gemma4-E2B via Ollama  — Recommended"},
     2: {"name": "qwen",                               "label": "Qwen2.5-7B-Instruct 4-bit (local HF)"},
     3: {"name": "gemma",                              "label": "Gemma-2-9B-it 4-bit      (local HF)"},
 }

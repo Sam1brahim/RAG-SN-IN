@@ -19,10 +19,10 @@ This report delivers the comprehensive evaluation verdict of the **RAG-SN-IN** r
 ### Key Takeaways
 
 * **Champion Retrieval Configuration:** `google/embeddinggemma-300m` (768-dim) + `BAAI/bge-reranker-v2-m3` achieves **96.3% Hit Rate @10**, **82.4% Hit Rate @1**, **93.3% Gold Recall**, with only **7/187 misses** and an average total query latency of **461 ms**.
-* **Champion Generation Model (Groundedness):** `Gemma4-E2B` (via Ollama) achieved an outstanding **0.967 Faithfulness** score (86.6% of answers scored a perfect 1.0) with **~0.01 GB local VRAM** usage and **8.73 s average latency**, outperforming local 7B models in hallucination suppression.
-* **Trade-Off Profile:** `Qwen2.5-7B` offers higher answer fluency and relevancy (**0.890** vs **0.770**), but requires **7.67 GB VRAM** (near GPU saturation) and yields a lower faithfulness score (**0.916**).
+* **Champion Generation Model (Groundedness):** `Gemma4-E2B` (via Ollama) achieved an outstanding **0.967 Faithfulness** score (86.6% of answers scored a perfect 1.0) with **8.73 s average latency**, outperforming local 7B models in hallucination suppression. Peak VRAM for this run is **N/A** — Ollama serves the model in a separate process, so `torch.cuda.max_memory_allocated()` in the Python eval script does not measure it.
+* **Trade-Off Profile:** `Qwen2.5-7B` offers higher answer fluency and relevancy (**0.890** vs **0.770**), but requires **7.67 GB VRAM** (near GPU saturation, measured in-process via PyTorch) and yields a lower faithfulness score (**0.916**).
 * **Failure Mode Transparency:** All 7 misses stem from table fragmentation across chunk boundaries in raw administrative PDFs, demonstrating diagnostic integrity over artificial 100% benchmark claims.
-* **Judge Economic Feasibility:** DeepSeek-as-a-judge evaluated 187 complex French questions across 4 RAGAS metrics for **$1.11 total** (~$0.0059 per question), projecting to **$4.43 for a full 750-item suite**.
+* **Judge Economic Feasibility:** RAGAS issued **~748 DeepSeek judge calls** for 187 questions (4 metrics per item). Measured token volume was **2.77M input + 0.33M output = 3.09M tokens** (~16.5k tokens/question). The **$1.11** figure is a cache-miss ceiling at historical `deepseek-chat` rates ($0.27/M input, $1.10/M output), not the billed invoice. Shared RAGAS prompt prefixes usually cache, so the dashboard charge is typically much lower.
 
 ---
 
@@ -44,7 +44,7 @@ Both generation models were evaluated on the exact same retrieved context (retri
                │                                               │
 ┌──────────────▼──────────────┐                ┌───────────────▼──────────────┐
 │  Gemma4-E2B-it (via Ollama) │                │  Qwen2.5-7B-Instruct (4-bit) │
-│  VRAM: ~0.01 GB | 8.7s/item │                │  VRAM: 7.67 GB | 13.2s/item  │
+│  VRAM: N/A | 8.7s/item      │                │  VRAM: 7.67 GB | 13.2s/item  │
 └──────────────┬──────────────┘                └───────────────┬──────────────┘
                │                                               │
                └───────────────────────┬───────────────────────┘
@@ -80,7 +80,7 @@ DeepSeek's `answer_relevancy` metric penalizes conservative refusals (*"Je ne sa
 | Metric / Dimension | Gemma4-E2B (Ollama) | Qwen2.5-7B (HF Transformers 4-bit) | Practical Impact |
 | :--- | :---: | :---: | :--- |
 | **Execution Mode** | Ollama Local API | Local PyTorch BitsAndBytes | Ollama offloads backend orchestration |
-| **Peak Local VRAM** | **0.01 GB** | **7.67 GB** | Gemma leaves full GPU headroom for apps/FastAPI |
+| **Peak Local VRAM** | **N/A** | **7.67 GB** | Gemma runs in Ollama; PyTorch peak VRAM does not include that process |
 | **Mean Latency per Answer** | **8.73 s** | **13.24 s** | Gemma is **~1.5x faster** |
 | **Generation Throughput** | **412.5 items/hr** | **271.9 items/hr** | +51.7% throughput improvement |
 | **Token Generation Speed** | **11.5 tokens/s** | **10.1 tokens/s** | Consistent generation pace |
@@ -148,12 +148,16 @@ Out of 187 realistic questions, exactly **7 queries resulted in zero gold chunks
 
 | Metric | Measured Run (187 Questions) | Projected Scale (750 Questions) |
 | :--- | :---: | :---: |
+| **Judge calls (approx.)** | 748 (4 RAGAS metrics × 187) | ~3,000 |
 | **Total Prompt Input Tokens** | 2,767,762 tokens | ~11.1M tokens |
 | **Total Generated Output Tokens**| 325,238 tokens | ~1.3M tokens |
 | **Total Token Volume** | 3,093,000 tokens | ~12.4M tokens |
-| **Total Measured Cost** | **$1.1051** | **$4.43** |
-| **Cost Per Evaluated Question** | **$0.0059** | **$0.0059** |
+| **Tokens per question** | ~16,540 | ~16,540 |
+| **Cache-miss cost ceiling** | **$1.11** | **$4.43** |
+| **Likely billed cost** | **Lower** (DeepSeek prefix cache hits) | **Lower** |
 | **Judge Call Latency** | 269.3 s (2.78 calls/sec) | ~18 minutes |
+
+The token counts come from RAGAS's OpenAI-format usage parser on the Gemma vs DeepSeek run (`data/ragas/ragas_summary_gemma4-e2b_vs_deepseek_20260816_143347.json`). The $1.11 / $0.0059-per-question numbers assume **100% cache-miss** at the historical `deepseek-chat` rates used when that JSON was written ($0.27/M input, $1.10/M output). They are **not** the DeepSeek invoice. RAGAS judge prompts share long prefixes, so most input tokens are typically billed as cache hits and the dashboard spend is much smaller than the ceiling.
 
 ### Observability Integration
 * **Langfuse Lazy Client:** Configured to trace all query embeddings, dense retrieval stages, reranker scores, generated completions, and judge evaluations.
@@ -175,9 +179,9 @@ Based on empirical data across all 14 benchmark runs, the recommended stack for 
 │ 2. Dense Embedder        │ `google/embeddinggemma-300m` (Fast, 768-d)  │
 │ 3. Stage-1 Retrieval     │ Dense search with K=30 candidates           │
 │ 4. Cross-Encoder Rerank  │ `BAAI/bge-reranker-v2-m3` (Top-5 selected)  │
-│ 5. Generation LLM        │ `gemma4-e2b` via Ollama (0 VRAM, 0.967 F1)  │
+│ 5. Generation LLM        │ `gemma4-e2b` via Ollama (VRAM N/A)          │
 │ 6. Observability         │ Langfuse (Traces + Latency monitoring)      │
-│ 7. Offline Evaluation    │ DeepSeek-Chat via RAGAS ($0.006 / query)    │
+│ 7. Offline Evaluation    │ DeepSeek-Chat via RAGAS (token-logged)      │
 └──────────────────────────┴─────────────────────────────────────────────┘
 ```
 
