@@ -256,6 +256,8 @@ def run_retrieval_eval(embedding: dict, reranker: dict | None):
     with open(summary_path, "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
     print(f"\n  ✔  Results saved to: {summary_path}")
+    from rag_sn_in.database.client import close_client
+    close_client()
 
 
 def run_ragas_eval(embedding: dict, reranker: dict | None, llm: dict):
@@ -284,6 +286,8 @@ def run_ragas_eval(embedding: dict, reranker: dict | None, llm: dict):
     from rag_sn_in.llm import PRE_RAGAS
     importlib.reload(PRE_RAGAS)
     PRE_RAGAS.main()
+    from rag_sn_in.database.client import close_client
+    close_client()
 
 
 def run_api_server(embedding: dict, reranker: dict | None, llm: dict):

@@ -5,9 +5,7 @@ Summary: Railway Regulatory Intelligence Platform
 Requires-Python: >=3.10
 Description-Content-Type: text/markdown
 Requires-Dist: langchain-core
-Requires-Dist: langchain-openai
 Requires-Dist: qdrant-client
-Requires-Dist: pypdf
 Requires-Dist: python-dotenv
 Requires-Dist: pymupdf>=1.28.0
 Requires-Dist: docling>=2.115.0
@@ -18,16 +16,336 @@ Requires-Dist: tqdm>=4.69.1
 Requires-Dist: torch
 Requires-Dist: langchain-ollama
 Requires-Dist: langchain>=1.3.14
-Requires-Dist: langchain-community>=0.4.2
 Requires-Dist: langchain-huggingface>=1.2.2
-Requires-Dist: langchain-chroma>=1.1.0
 Requires-Dist: onnxruntime<1.24,>=1.19
 Requires-Dist: sentence-transformers>=5.6.1
 Requires-Dist: ragas<0.4
 Requires-Dist: pandas>=2.3.3
 Requires-Dist: datasets>=5.0.1
 Requires-Dist: langchain-deepseek>=1.1.0
-Requires-Dist: langchain-google-vertexai>=3.2.4
 Requires-Dist: langfuse>=4.14.3
 Requires-Dist: fastapi>=0.141.1
 Requires-Dist: uvicorn[standard]>=0.52.1
+Requires-Dist: ollama
+Requires-Dist: bitsandbytes
+
+# RAG-SN-IN: Railway Regulatory Intelligence Platform
+
+> **Part 1 of 4** — Retrieval Engineering & Evaluation (Weeks 1–2)  
+> French Railway Regulation RAG with Empirical Model Selection
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.141%2B-green)](https://fastapi.tiangolo.com/)
+[![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-red)](https://qdrant.tech/)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
+---
+
+## What This Is
+
+A production-oriented Retrieval-Augmented Generation (RAG) system built to answer questions about **French railway regulations** — SNCF Réseau's DRR (Document de Référence du Réseau), SNCF Gares & Connexions' DRG (Document de Référence Gare), and EPSF/BEA-TT safety documents.
+
+The system implements **empirical model selection** through a 12-configuration ablation study, **two-stage retrieval** with cross-encoder reranking, **RAGAS-based end-to-end evaluation** with an independent LLM judge, and **Langfuse observability** — all running on a single RTX 4070 Laptop GPU (8 GB VRAM).
+
+---
+
+## Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                        INGESTION PIPELINE                           │
+│                                                                     │
+│  PDFs (SNCF/EPSF)                                                   │
+│    │                                                                │
+│    ▼                                                                │
+│  ┌──────────────┐    ┌──────────────┐    ┌──────────────────────┐   │
+│  │ PDF Preflight │───▶│    Docling   │───▶│ Structure-Aware      │   │
+│  │ (2-up split)  │    │  (MD+pages)  │    │ Chunker (≤512 tok)   │   │
+│  └──────────────┘    └──────────────┘    └──────────┬───────────┘   │
+│                                                      │              │
+│                                                      ▼              │
+│                                            ┌──────────────────┐     │
+│                                            │  Embedding Model  │     │
+│                                            │  (SentenceTransf) │     │
+│                                            └────────┬─────────┘     │
+│                                                     │               │
+│                                                     ▼               │
+│                                            ┌──────────────────┐     │
+│                                            │  Qdrant (768-d)   │     │
+│                                            │  1,012 chunks     │     │
+│                                            └──────────────────┘     │
+├─────────────────────────────────────────────────────────────────────┤
+│                        QUERY PIPELINE                               │
+│                                                                     │
+│  User Question                                                      │
+│    │                                                                │
+│    ▼                                                                │
+│  ┌──────────────────┐    ┌──────────────────┐    ┌───────────────┐  │
+│  │ Dense Retrieval   │───▶│ Cross-Encoder    │───▶│  LLM Generation│  │
+│  │ (Top-30, Qdrant) │    │ Rerank (Top-10)  │    │  (Ollama/HF)   │  │
+│  └──────────────────┘    └──────────────────┘    └───────┬───────┘  │
+│                                                         │          │
+│                                                         ▼          │
+│                                                  ┌──────────────┐   │
+│                                                  │ Cited Answer  │   │
+│                                                  │ (Page refs)   │   │
+│                                                  └──────────────┘   │
+├─────────────────────────────────────────────────────────────────────┤
+│                      EVALUATION PIPELINE                            │
+│                                                                     │
+│  187 Gold Questions                                                 │
+│    │                                                                │
+│    ├──▶ Retrieval Metrics (Hit@K, MRR, Gold Recall)                 │
+│    │                                                                │
+│    ├──▶ LLM Generation (local model)                                │
+│    │                                                                │
+│    └──▶ RAGAS Judge (DeepSeek-Chat)                                 │
+│           Faithfulness · Answer Relevancy                           │
+│           Context Precision · Context Recall                        │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Data
+
+| Document | Source | Pages | Chunks | Description |
+|----------|--------|-------|--------|-------------|
+| **DRR 2027** | SNCF Réseau | ~300 | 709 | Document de Référence du Réseau — network access rules, capacity allocation, pricing |
+| **DRG 2027** | SNCF Gares & Connexions | ~150 | 146 | Document de Référence Gare — station access, service tiers, fee structures |
+| **EPSF 2018** | EPSF / BEA-TT | ~100 | 157 | Railway safety investigation reports and regulatory guidance |
+
+**Total corpus:** 1,012 chunks, ~500 pages of French regulatory text.
+
+### Why This Corpus?
+
+French railway regulation is dense, continuously evolving, and highly structured — an ideal stress test for RAG systems. Tables with tariff scales, multi-section legal references, and domain-specific vocabulary push chunking and retrieval strategies beyond what generic English benchmarks measure.
+
+---
+
+## Week 1: Data Ingestion & Retrieval Engineering
+
+### PDF Parsing (Docling)
+
+Raw PDFs are processed through [Docling](https://github.com/docling-project/docling) to produce structured markdown with embedded page markers (`<!-- page: N -->`). A preflight step handles 2-up landscape PDFs (common in regulatory documents) by splitting them into single-page format using PyMuPDF.
+
+### Chunking Strategy: Structure-Aware
+
+Three document-specific chunkers implement **section-header-aware splitting**:
+
+- **DRR chunker** (`chunking.py`) — detects chapter/section headings via regex, preserves section hierarchy in `section_path` metadata
+- **DRG chunker** (`drg_chunking.py`) — adds table-aware splitting to keep tariff grids intact
+- **EPSF chunker** (`epsf_chunking.py`) — handles safety report structure
+
+Each chunk carries rich metadata:
+```
+chunk_id, document_id, text, token_count, section_path[], page_start, page_end
+```
+
+Max 512 tokens per chunk, tokenizer-aligned with the embedding model to prevent mid-word splits.
+
+### Two-Stage Retrieval
+
+```
+Query → Embed (SentenceTransformer) → Qdrant Dense Search (Top-30)
+      → Cross-Encoder Rerank (Top-10) → Select Top-5 for Generation
+```
+
+The system supports both **cross-encoder** (BGE-Reranker-v2-m3) and **causal LLM** (Qwen3-Reranker-0.6B) reranking, switchable via configuration.
+
+---
+
+## Week 2: Evaluation, Observability & API
+
+### Retrieval Ablation Study (12 Configurations)
+
+All 12 configurations were evaluated on the same 187-question gold benchmark. Stage 1 retrieves K=30 candidates (or K=10 when no reranker is present).
+
+| Rank | Embedding Model | Reranker | Dims | HR@1 | HR@10 | Gold Recall | Misses | Latency |
+|:----:|-----------------|----------|:----:|:----:|:-----:|:-----------:|:------:|:-------:|
+| **1** | **EmbeddingGemma-300m** | **BGE-Reranker-v2-m3** | **768** | **82.4%** | **96.3%** | **93.3%** | **7** | **461 ms** |
+| 2 | Multilingual-E5-Large | BGE-Reranker-v2-m3 | 1024 | 82.4% | 96.3% | 93.3% | 7 | 508 ms |
+| 3 | EmbeddingGemma-300m | Qwen3-Reranker-0.6B | 768 | 74.3% | 96.3% | 92.8% | 7 | 1,439 ms |
+| 4 | Multilingual-E5-Large | Qwen3-Reranker-0.6B | 1024 | 73.3% | 96.3% | 92.8% | 7 | 1,595 ms |
+| 5 | BGE-M3 | BGE-Reranker-v2-m3 | 1024 | 79.7% | 93.6% | 90.7% | 12 | 403 ms |
+| 6 | EmbeddingGemma-300m | *(none)* | 768 | 74.9% | 92.5% | 89.0% | 14 | **5 ms** |
+| 7 | BGE-M3 | Qwen3-Reranker-0.6B | 1024 | 72.2% | 93.1% | 89.8% | 13 | 1,351 ms |
+| 8 | Multilingual-E5-Large | *(none)* | 1024 | 66.8% | 92.0% | 87.8% | 15 | **4 ms** |
+| 9 | BGE-M3 | *(none)* | 1024 | 66.8% | 90.9% | 87.2% | 17 | **4 ms** |
+| 10 | Nomic-Embed-v1.5 | BGE-Reranker-v2-m3 | 768 | 76.5% | 86.6% | 82.4% | 25 | 471 ms |
+| 11 | Nomic-Embed-v1.5 | Qwen3-Reranker-0.6B | 768 | 65.8% | 86.1% | 81.6% | 26 | 1,505 ms |
+| 12 | Nomic-Embed-v1.5 | *(none)* | 768 | 54.0% | 79.1% | 75.0% | 39 | **4 ms** |
+
+**Key findings:**
+
+- **EmbeddingGemma-300m wins on efficiency:** matches E5-Large on accuracy with 25% smaller vectors and ~40% faster embedding
+- **Reranker is non-negotiable:** BGE-Reranker boosts HR@1 by +7.5pp (Gemma), +15.5pp (E5), +22.5pp (Nomic)
+- **Qwen3-Reranker is inefficient:** 3x slower than BGE with lower accuracy across all embedders
+- **Nomic is unsuitable for French legal text:** 39 misses without reranker, worst-in-class HR@10
+
+### End-to-End RAGAS Evaluation
+
+Two generation models were compared using DeepSeek-Chat as an independent LLM judge on the same 187 questions and retrieved context:
+
+| Metric | Gemma4-E2B (Ollama) | Qwen2.5-7B (4-bit) | Winner |
+|--------|:-------------------:|:------------------:|:------:|
+| **Faithfulness** | **0.967** | 0.916 | Gemma (+0.051) |
+| **Answer Relevancy** | 0.770 | **0.890** | Qwen (+0.120) |
+| **Context Precision** | **0.848** | 0.836 | Gemma (+0.012) |
+| **Context Recall** | **0.913** | 0.911 | Tie (+0.002) |
+
+**Why Gemma wins on faithfulness but loses on relevancy:** Gemma4-E2B strictly follows the system prompt's refusal constraint (*"Si la réponse n'est pas dans le contexte, indique que tu ne sais pas"*), generating conservative refusals when context is sparse. DeepSeek's relevancy metric penalizes these refusals even though they are factually correct behavior — a known limitation of LLM-as-a-judge evaluation.
+
+### Failure Mode Analysis
+
+All **7 remaining misses** (3.74% of 187 questions) were root-caused to **table fragmentation**: ASCII/Markdown tables split across chunk boundaries, separating headers from row values. This validates the evaluation methodology against real-world dirty data rather than synthetic benchmarks.
+
+### API: OpenAI-Compatible FastAPI
+
+The system exposes an OpenAI-compatible `/v1/chat/completions` endpoint with:
+
+- SSE streaming support
+- Page-level citations (`[page 30]`, `[pages 12-14]`)
+- Multilingual system prompt (French context, user-language response)
+- VRAM-aware model management (unloads retrieval models before loading local HF LLM on 8GB GPUs)
+- Langfuse tracing for all retrieval and generation calls
+
+### Observability
+
+- **Langfuse** lazy client with auth check — traces all query embeddings, dense retrieval, reranker scores, and generation completions
+- All intermediate artifacts persisted: per-item JSON/CSV metric tables, DeepSeek judge reasoning samples, timestamped audit logs
+- **Judge cost tracking:** 187 questions produced **~748 DeepSeek judge calls** and **3.09M tokens** (~16.5k tokens/question). The **$1.11** figure is a cache-miss *ceiling* at historical `deepseek-chat` rates, not the billed invoice — shared RAGAS prefixes usually cache, so dashboard spend is typically much lower.
+
+---
+
+## Tech Stack
+
+| Component | Selection | Rationale |
+|-----------|-----------|-----------|
+| **Vector DB** | Qdrant (embedded, local) | Lightweight, fast, GPU-accelerated cosine search |
+| **Dense Embedder** | `google/embeddinggemma-300m` | Best accuracy/efficiency tradeoff (768-dim, 40% faster) |
+| **Reranker** | `BAAI/bge-reranker-v2-m3` | +7-22pp HR@1 improvement at ~450ms/query |
+| **Generation LLM** | `gemma4-e2b` via Ollama | 0.967 faithfulness; peak VRAM **N/A** (Ollama process not measured by PyTorch) |
+| **Eval Judge** | DeepSeek-Chat via RAGAS | Token-logged; billed cost usually below the cache-miss ceiling |
+| **Observability** | Langfuse | Full LLM tracing, open-source |
+| **API** | FastAPI + Uvicorn | OpenAI-compatible contract, SSE streaming |
+| **PDF Parsing** | Docling + PyMuPDF | Structure-aware extraction with page markers |
+| **Packaging** | uv + pyproject.toml | Deterministic builds, CUDA 12.4 wheels |
+
+---
+
+## Quick Start
+
+### Prerequisites
+
+- Python 3.10+
+- [uv](https://docs.astral.sh/uv/) package manager
+- [Ollama](https://ollama.com/) (for local LLM inference)
+- NVIDIA GPU with 8+ GB VRAM (optional but recommended)
+
+### Installation
+
+```bash
+git clone https://github.com/Sam1brahim/RAG-SN-IN.git
+cd RAG-SN-IN
+
+# Create virtual environment and install dependencies
+python -m venv .venv
+uv sync
+```
+
+### Run the Interactive CLI
+
+```bash
+# Windows
+.venv\Scripts\python start.py
+
+# Linux / macOS
+.venv/bin/python start.py
+```
+
+If you run `python start.py` without activating the venv, the script will automatically detect this and relaunch itself using the project's virtual environment.
+
+The CLI walks you through:
+
+1. **Choose your pipeline** — Retrieval evaluation, full RAGAS evaluation, or launch the API server
+2. **Select models** — Pick embedding model, reranker, and generation LLM from the pre-configured options
+3. **Automatic indexing** — If the vector database is empty, chunks are automatically embedded and indexed with the correct vector dimensions for your chosen model
+4. **View results** — All metrics, per-item scores, and summary statistics saved to `data/`
+
+### Environment Setup (for RAGAS evaluation only)
+
+Create a `.env` file in the project root:
+
+```env
+DEEPSEEK_API_KEY=your_deepseek_api_key_here
+LANGFUSE_PUBLIC_KEY=your_langfuse_public_key    # optional
+LANGFUSE_SECRET_KEY=your_langfuse_secret_key    # optional
+LANGFUSE_HOST=http://localhost:3000              # optional
+```
+
+### Run the API Server
+
+```bash
+uvicorn rag_sn_in.api.main:app --host 0.0.0.0 --port 8000
+```
+
+Connect [Open WebUI](https://github.com/open-webui/open-webui) to `http://localhost:8000/v1` for a production-grade chat interface with native citation rendering.
+
+---
+
+## Project Roadmap
+
+### Week 3 — Enterprise Agentic Workflow (LangGraph)
+**COMING SOON** — Stateful graph orchestration with conditional routing, memory persistence, failure recovery loops, and human-in-the-loop approval gates.
+
+### Week 4 — MCP Security & Automation
+**COMING SOON** — Secure MCP server for live SNCF API access, n8n workflow automation for report routing, and agent trajectory evaluation with DeepEval.
+
+---
+
+## Project Structure
+
+```
+├── start.py                    # Interactive CLI entry point
+├── Dockerfile                  # Container image definition
+├── docker-compose.yml          # Multi-service orchestration (API + Open WebUI)
+├── pyproject.toml              # Project config & dependencies (uv)
+├── .env.example                # Template for API keys
+├── .env                        # API keys (gitignored)
+├── data/
+│   ├── raw/                    # Source PDFs (DRR, DRG, EPSF)
+│   ├── processed/
+│   │   ├── text/               # Docling markdown output
+│   │   └── chunks/             # JSONL chunks (≤512 tokens)
+│   ├── eval/                   # 187 gold Q&A benchmark
+│   ├── Eval RAG metrics/       # Retrieval ablation results
+│   ├── ragas/                  # RAGAS evaluation artifacts
+│   └── vector_db/qdrant/       # Qdrant embedded storage
+├── src/rag_sn_in/
+│   ├── config.py               # Shared model/path constants
+│   ├── api/main.py             # OpenAI-compatible FastAPI server
+│   ├── database/               # Qdrant client & collection setup
+│   ├── ingestion/              # Docling PDF → markdown pipeline
+│   ├── processing/             # Structure-aware chunking
+│   ├── llm/                    # Embedding, reranker, retrieval, generation
+│   ├── eval/                   # Retrieval evaluation (Hit@K, MRR, Recall)
+│   ├── observability/          # Langfuse client
+│   └── cleanse/                # DB cleanup utilities
+├── RAG_FINAL_VERDICT.md        # Full evaluation report
+└── IDEAs.tex                   # Project design document
+```
+
+---
+
+## Full Evaluation Report
+
+For the complete 12-configuration ablation study, per-metric statistical breakdowns, judge reasoning samples, failure mode diagnostics, and production architecture recommendations, see:
+
+**[RAG_FINAL_VERDICT.md](RAG_FINAL_VERDICT.md)**
+
+---
+
+## License
+
+MIT

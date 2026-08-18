@@ -22,8 +22,6 @@ One-time setup (run in a terminal, outside Python):
 
   # Python deps (from project root, with your env active)
   uv add langchain-ollama langchain-core
-  # langchain-openai is already in pyproject; keep it if you
-  # later compare against OpenAI, but local RAG does not need it.
 
 ---------------------------------------------------------------
 Sanity checks:

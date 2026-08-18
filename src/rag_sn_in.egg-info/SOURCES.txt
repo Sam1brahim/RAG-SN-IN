@@ -1,3 +1,4 @@
+README.md
 pyproject.toml
 src/rag_sn_in/__init__.py
 src/rag_sn_in/config.py
@@ -8,14 +9,16 @@ src/rag_sn_in.egg-info/requires.txt
 src/rag_sn_in.egg-info/top_level.txt
 src/rag_sn_in/api/__init__.py
 src/rag_sn_in/api/main.py
+src/rag_sn_in/cleanse/__init__.py
 src/rag_sn_in/cleanse/empty_db.py
+src/rag_sn_in/database/__init__.py
 src/rag_sn_in/database/client.py
 src/rag_sn_in/database/db_setup.py
 src/rag_sn_in/eval/__init__.py
 src/rag_sn_in/eval/evaluate_RAG.py
+src/rag_sn_in/ingestion/__init__.py
 src/rag_sn_in/ingestion/indexing.py
 src/rag_sn_in/ingestion/inspect_docling.py
-src/rag_sn_in/ingestion/inspect_pdf.py
 src/rag_sn_in/llm/PRE_RAGAS.py
 src/rag_sn_in/llm/__init__.py
 src/rag_sn_in/llm/embedding.py
@@ -24,8 +27,12 @@ src/rag_sn_in/llm/local_models.py
 src/rag_sn_in/llm/reranker.py
 src/rag_sn_in/llm/retrieval.py
 src/rag_sn_in/llm/search.py
+src/rag_sn_in/observability/__init__.py
 src/rag_sn_in/observability/client.py
+src/rag_sn_in/processing/__init__.py
 src/rag_sn_in/processing/animate.py
 src/rag_sn_in/processing/check_token_count.py
 src/rag_sn_in/processing/chunking.py
-src/rag_sn_in/processing/parsing.py
+src/rag_sn_in/processing/drg_chunking.py
+src/rag_sn_in/processing/epsf_chunking.py
+src/rag_sn_in/processing/pdf_preflight.py
